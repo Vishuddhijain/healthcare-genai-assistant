@@ -1,0 +1,62 @@
+TOPIC: Nursing and midwifery
+CATEGORY: Health Workforce
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/nursing-and-midwifery
+LAST UPDATED: 17 July 2025
+
+--- OVERVIEW ---
+Nurses and midwives are central to Primary Health Care and are often the first and sometimes the only health professional that people see and the quality of their initial assessment, care and treatment is vital. They are also part of their local community – sharing its culture, strengths and vulnerabilities – and can shape and deliver effective interventions to meet the needs of patients, families and communities.
+
+WHO’s work relating to nursing and midwifery is currently directed by World Health Assembly resolution WHA74.15 (2021) which calls on WHO Member States and WHO to strengthen nursing and midwifery through the Global Strategic Directions for Nursing and Midwifery (SDNM) 2021–2025 . The SDNM is an interrelated set of policy priorities that can help countries to ensure that midwives and nurses optimally contribute to achieving universal health coverage (UHC) and other population health goals .
+
+The SDNM comprises four policy focus areas: education, jobs, leadership, and service delivery Each area has a “strategic direction” articulating a goal for the five-year period, and includes between two and four policy priorities If enacted and sustained, these policy priorities can support advancement along the four strategic directions: 1) educating enough midwives and nurses with competencies to meet population health needs; 2) creating jobs, managing migration, and recruiting and retaining midwives and nurses where they are most needed; 3) strengthening nursing and midwifery leadership throughout health and academic systems; and 4) ensuring midwives and nurses are supported, respected, protected, motivated and equipped to safely and optimally contribute in their service delivery settings.
+
+--- KEY FACTS ---
+- There are an estimated 29 million nurses worldwide and 2.2 million midwives. WHO estimates a shortage of 4.5 million nurses and 0.31 million midwives by the year 2030.
+- That will bring the a global shortage of health workers estimated for 2030 to 4.8 million nurses and midwives, with the greatest gaps found in countries in Africa, South-East Asia and the WHO Eastern Mediterranean Region, as well as some parts of Latin America.
+- Nurses and midwives play a pivotal role in improving health and contributing to the wider economy. Investing in them is imperative to achieve efficient, effective, resilient and sustainable health systems. They not only provide essential care but also play a critical role in shaping health policies and driving primary health care. Nurses and midwives deliver care in emergency settings and safeguard the sustainability of health systems globally.
+- Globally, 67% of the health and social workforce are women compared to 41% in all employment sectors. Nursing and midwifery occupations represent a significant share of the female workforce.
+- More than 80% of the world’s nurses work in countries that are home to half of the world’s population. And one in every eight nurses practices in a country other than the one where they were born or trained.
+- Higher levels of female nurses are positively correlated with health service coverage, and life expectancy and negatively correlated with infant mortality.
+
+--- TYPES ---
+- Information disclosure
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- Nurses and midwives play a pivotal role in improving health and contributing to the wider economy. Investing in them is imperative to achieve efficient, effective, resilient and sustainable health systems. They not only provide essential care but also play a critical role in shaping health policies and driving primary health care. Nurses and midwives deliver care in emergency settings and safeguard the sustainability of health systems globally.
+- Preventing sexual exploitation
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- That will bring the a global shortage of health workers estimated for 2030 to 4.8 million nurses and midwives, with the greatest gaps found in countries in Africa, South-East Asia and the WHO Eastern Mediterranean Region, as well as some parts of Latin America.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- That will bring the a global shortage of health workers estimated for 2030 to 4.8 million nurses and midwives, with the greatest gaps found in countries in Africa, South-East Asia and the WHO Eastern Mediterranean Region, as well as some parts of Latin America.
+- Nurses and midwives play a pivotal role in improving health and contributing to the wider economy. Investing in them is imperative to achieve efficient, effective, resilient and sustainable health systems. They not only provide essential care but also play a critical role in shaping health policies and driving primary health care. Nurses and midwives deliver care in emergency settings and safeguard the sustainability of health systems globally.
+- Nurses and midwives are central to Primary Health Care and are often the first and sometimes the only health professional that people see and the quality of their initial assessment, care and treatment is vital. They are also part of their local community – sharing its culture, strengths and vulnerabilities – and can shape and deliver effective interventions to meet the needs of patients, families and communities.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

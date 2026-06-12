@@ -1,0 +1,96 @@
+TOPIC: Typhoid Fever
+CATEGORY: Communicable Disease (Enteric / Waterborne)
+SOURCE: WHO Fact Sheet + NHP India - https://www.who.int/news-room/fact-sheets/detail/typhoid | https://nhp.gov.in/disease/communicable-disease/typhoid
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Typhoid fever is a life-threatening bacterial infection caused by Salmonella typhi. It spreads through contaminated food and water, primarily due to poor sanitation and unsafe drinking water. India bears one of the highest typhoid burdens globally, with an estimated 4.5–5 million cases annually. It is particularly prevalent in densely populated areas, low-income communities, and during and after monsoon when water contamination is common. Paratyphoid fever, caused by Salmonella paratyphi A, B, or C, is a related and clinically similar illness.
+
+--- SYMPTOMS ---
+Symptoms typically develop 6–30 days after exposure and progress in stages:
+
+Week 1:
+- Gradually increasing fever (step-ladder pattern, up to 39–40°C)
+- Fatigue and weakness
+- Headache
+- Dry cough
+- Abdominal pain and loss of appetite
+
+Week 2:
+- High sustained fever
+- Abdominal distension and discomfort
+- Diarrhoea or constipation
+- Rose spots (faint pink spots on chest/abdomen) — seen in some cases
+- Spleen and liver may enlarge (hepatosplenomegaly)
+
+Week 3 (severe/untreated cases):
+- Intestinal bleeding or perforation (medical emergency)
+- Delirium or altered consciousness ("typhoid state")
+- Life-threatening complications
+
+--- RISK FACTORS ---
+- Drinking untreated or contaminated water
+- Eating street food or raw/undercooked food from unsanitary sources
+- Poor hand hygiene (especially before eating and after using toilet)
+- Living in or travelling to endemic areas
+- Household contact with a typhoid carrier
+- Young children and immunocompromised individuals are at higher risk
+
+--- PREVENTION ---
+Safe water and food practices:
+- Drink only boiled or properly treated (filtered/chlorinated) water
+- Avoid ice made from untreated water
+- Eat freshly cooked, hot food; avoid raw vegetables and salads in high-risk areas
+- Avoid street food from unhygienic vendors
+- Wash hands thoroughly with soap before eating and after using the toilet
+
+Vaccination:
+- Typhoid conjugate vaccine (TCV) — recommended, especially for children and travellers to endemic areas
+- Vi polysaccharide vaccine (ViPS) — available for those 2 years and above
+- Consult a doctor for vaccination schedule and eligibility
+- Vaccination reduces risk but does not provide 100% protection — hygiene practices remain essential
+
+--- DIAGNOSIS ---
+- Widal test: Common in India but has limitations (false positives possible); should be interpreted in clinical context
+- Blood culture (Salmonella typhi isolation): Gold standard, especially in first 1–2 weeks
+- Typhidot / Typhi IgM/IgG rapid test: Quick but variable sensitivity
+- Stool and urine cultures: Useful in later stages
+
+--- TREATMENT (Awareness Only) ---
+- Typhoid requires antibiotic treatment — prescribed and supervised by a doctor
+- Antibiotic resistance (including multidrug-resistant and extensively drug-resistant typhoid) is an increasing concern in India
+- Adequate rest and fluid intake (oral rehydration or IV in severe cases)
+- Do not self-medicate with antibiotics — correct antibiotic and duration matter critically
+- Complete the full course of antibiotics as prescribed
+- Typhoid carriers (those who recover but still shed bacteria) may need extended treatment — doctor will advise
+
+--- WHEN TO SEE A DOCTOR ---
+- Persistent fever lasting more than 3 days, especially with headache and abdominal pain
+- Fever following travel to or living in a high-risk area
+- Any signs of intestinal bleeding (black or tarry stools, blood in stool)
+- Altered consciousness or severe abdominal rigidity — emergency
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Typhoid is under surveillance through IDSP (Integrated Disease Surveillance Programme)
+- Endemic in most states; highest burden in UP, Bihar, Jharkhand, Odisha, Rajasthan, and urban slum areas
+- Typhoid Conjugate Vaccine (TCV) being introduced in India's Universal Immunisation Programme (UIP) in a phased manner
+- Government hospitals provide free blood culture testing in many states
+- FSSAI (fssai.gov.in) provides food safety guidelines to reduce enteric disease transmission
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Typhoid requires medical diagnosis and antibiotic treatment. Do not self-medicate. If you have prolonged fever, consult a qualified healthcare provider immediately.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

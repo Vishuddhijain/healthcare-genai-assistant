@@ -1,0 +1,67 @@
+TOPIC: Sand and dust storms
+CATEGORY: Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/sand-and-dust-storms
+LAST UPDATED: 23 April 2025
+
+--- OVERVIEW ---
+Sand and dust storms (SDS) are common meteorological hazards in arid and semi-arid regions that generate large amounts of airborne mineral dust particles.
+
+Sand and dust storms present a formidable, widespread threat to health and hinder the achievement of sustainable development in its economic, social and environmental dimensions. Originating from the land, these particles of various size and composition get lifted in the air, creating storms. This is especially the case in dry regions, where vegetation is sparse or absent, such as deserts and agricultural land impacted by drought. Their wide impact goes beyond human health and air quality, as it also impacts agriculture, environment, industry, transport and water quality.
+
+There is a wealth of scientific evidence on associations between desert dust and sand storms and adverse short term health effects, yet there is a need for more research on the health impacts of SDS, including harmonized protocol to assess exposure, more studies in dust-emitting areas as well as long term health effects.
+
+--- KEY FACTS ---
+- Sand and dust storm episodes contribute directly to air pollution by increasing particulate matter concentrations. In some regions dust is a main source of air pollution from particulate matter.
+- An estimated 25% of dust emissions originates from human activities, including deforestation, land degradation, unsustainable land management, climate change and water mismanagement.
+- Globally, 330 million people are exposed daily to particles transported by wind, sometimes for thousands of kilometres from source areas.
+- Climate change contributes to desertification, which in turn may increase the frequency and spread of sand and dust storms. Recently, the WHO Eastern Mediterranean Region and other areas have observed a surge in frequency, duration and intensity of sand and dust storms.
+
+--- TYPES ---
+- Currently, the response from governments is based on the knowledge of short terms health effects, limited early warning systems and the provision of information to vulnerable groups in real time, as well as the impact of emergency visits.
+- WHO plays a crucial role in developing normative guidance and recommendations to address the health impacts of sand and dust storms. WHO recognizes that exposure to aeolian mineral dust can have detrimental effects on human health and aims to provide evidence-based guidelines for protecting populations from these hazards. Sand and dust storms’ effects on health have been discussed in the 2021 WHO air quality guideline , and elements of guidance is provided in the form of a good practice statement.
+- WHO is responding by building the capacity of the health sector to effectively engage in health, working across sectors to support cities, regions and countries to produce contextual, meaningful and actionable information on the health, economic and climate impacts of urban and rural environments.
+- The Coalition aims, among other goals, to promote and coordinate a collaborative UN-system response to SDS on local, regional and global scales, ensuring unified and coherent actions are taken. This coalition formed in 2018 and was an important milestone in international collaboration and acknowledgement of the need for better coordination among international, multilaterals and intergovernmental entities.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- There is a wealth of scientific evidence on associations between desert dust and sand storms and adverse short term health effects, yet there is a need for more research on the health impacts of SDS, including harmonized protocol to assess exposure, more studies in dust-emitting areas as well as long term health effects.
+- WHO plays a crucial role in developing normative guidance and recommendations to address the health impacts of sand and dust storms. WHO recognizes that exposure to aeolian mineral dust can have detrimental effects on human health and aims to provide evidence-based guidelines for protecting populations from these hazards. Sand and dust storms’ effects on health have been discussed in the 2021 WHO air quality guideline , and elements of guidance is provided in the form of a good practice statement.
+
+--- PREVENTION ---
+- WHO plays a crucial role in developing normative guidance and recommendations to address the health impacts of sand and dust storms. WHO recognizes that exposure to aeolian mineral dust can have detrimental effects on human health and aims to provide evidence-based guidelines for protecting populations from these hazards. Sand and dust storms’ effects on health have been discussed in the 2021 WHO air quality guideline , and elements of guidance is provided in the form of a good practice statement.
+- Preventing sexual exploitation
+
+--- ENVIRONMENTAL CONTROL ---
+- Sand and dust storm episodes contribute directly to air pollution by increasing particulate matter concentrations. In some regions dust is a main source of air pollution from particulate matter.
+- An estimated 25% of dust emissions originates from human activities, including deforestation, land degradation, unsustainable land management, climate change and water mismanagement.
+- There is a wealth of scientific evidence on associations between desert dust and sand storms and adverse short term health effects, yet there is a need for more research on the health impacts of SDS, including harmonized protocol to assess exposure, more studies in dust-emitting areas as well as long term health effects.
+- Sand and dust storms episodes contribute directly to air pollution by increasing particulate matter concentrations. In some regions dust is a main source of air pollution from particulate matter. These dust episodes constitute a growing environmental and public health concern, mainly for respiratory and cardiovascular diseases. They impact many areas of the world, whether nearby or thousands of kilometres from deserts or dust emission sources, due to their effect on air quality.
+- WHO plays a crucial role in developing normative guidance and recommendations to address the health impacts of sand and dust storms. WHO recognizes that exposure to aeolian mineral dust can have detrimental effects on human health and aims to provide evidence-based guidelines for protecting populations from these hazards. Sand and dust storms’ effects on health have been discussed in the 2021 WHO air quality guideline , and elements of guidance is provided in the form of a good practice statement.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- An estimated 25% of dust emissions originates from human activities, including deforestation, land degradation, unsustainable land management, climate change and water mismanagement.
+- UN Coalition to Combat Sand and Dust Storms – UN Environment Management Group
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

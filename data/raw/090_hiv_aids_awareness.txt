@@ -1,0 +1,164 @@
+TOPIC: HIV/AIDS Awareness
+CATEGORY: Communicable Disease (Blood-Borne / Sexually Transmitted)
+SOURCE: WHO Fact Sheet + NACO India - https://www.who.int/news-room/fact-sheets/detail/hiv-aids | naco.gov.in
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, specifically CD4+ T cells (helper T cells), weakening the body's ability to fight infections and disease. AIDS (Acquired Immunodeficiency Syndrome) is the advanced stage of HIV infection, when the immune system is severely damaged and the person develops AIDS-defining illnesses (opportunistic infections). India has approximately 2.4 million people living with HIV (PLHIV) — the third highest globally — though prevalence has fallen significantly due to national programmes. With treatment, HIV is manageable and people can live long, healthy lives.
+
+--- HOW HIV IS TRANSMITTED ---
+HIV is transmitted through contact with specific body fluids from a person with HIV who has a detectable viral load:
+- Blood (including blood transfusion, sharing needles/syringes)
+- Semen and pre-seminal fluid
+- Vaginal and rectal fluids
+- Breast milk
+
+Primary modes of transmission in India:
+1. Unprotected sexual intercourse (heterosexual and homosexual) — the most common route
+2. Sharing needles, syringes, or drug injection equipment
+3. Mother-to-child transmission (during pregnancy, childbirth, or breastfeeding) — called vertical transmission
+4. Blood transfusion (now rare in India due to mandatory blood screening)
+5. Needlestick injuries (healthcare workers)
+
+--- HOW HIV IS NOT TRANSMITTED ---
+HIV CANNOT be spread through:
+- Casual contact (hugging, handshakes, sharing food/utensils)
+- Saliva, tears, or sweat
+- Mosquitoes or other insects
+- Air or water
+- Sharing toilets or bathrooms
+- Coughing or sneezing
+
+Stigma and discrimination against PLHIV are unjustified and harmful.
+
+--- STAGES OF HIV INFECTION ---
+1. Acute HIV Infection (2–4 weeks after exposure):
+   - Many people experience flu-like symptoms: fever, swollen glands, sore throat, rash, muscle and joint aches, headache, night sweats, mouth ulcers
+   - This is when viral load is very high and transmission risk is greatest
+   - May be missed or mistaken for other illnesses
+
+2. Chronic HIV Infection (Clinical Latency Stage):
+   - HIV continues to multiply at low levels
+   - May be asymptomatic for years (average 10 years without treatment)
+   - Person can still transmit HIV
+   - With ART (antiretroviral therapy), this stage can last for decades
+
+3. AIDS (Advanced HIV Disease):
+   - CD4 count falls below 200 cells/mm³ (normal >500)
+   - Vulnerable to opportunistic infections: TB (most common in India), Pneumocystis pneumonia (PCP), cryptococcal meningitis, toxoplasmosis, CMV retinitis
+   - AIDS-defining cancers: Kaposi sarcoma, invasive cervical cancer, non-Hodgkin lymphoma
+   - Without treatment, survival is typically 3 years after AIDS diagnosis
+
+--- SYMPTOMS ---
+Early HIV / acute phase:
+- Flu-like illness (fever, fatigue, swollen lymph nodes, rash, sore throat, night sweats)
+
+Later stages (without treatment):
+- Persistent swollen lymph nodes
+- Weight loss
+- Chronic diarrhoea
+- Prolonged fever
+- Night sweats
+- Oral thrush (white patches in mouth) or oral hairy leukoplakia
+- Shingles (herpes zoster)
+- Recurrent pneumonia or TB
+- Cognitive changes (HIV-associated dementia in advanced disease)
+
+Note: Many people with HIV have no symptoms for years. Testing is the only way to know your status.
+
+--- RISK FACTORS ---
+- Unprotected sex (without condom) — especially with multiple partners or high-risk partners
+- Injecting drug use with shared equipment
+- Having another sexually transmitted infection (STI) — increases HIV transmission risk
+- Being born to a mother with HIV
+- Receiving unscreened blood or blood products
+- Healthcare workers (needlestick/sharps exposure)
+
+High-risk groups in India (key populations):
+- Female sex workers (FSW)
+- Men who have sex with men (MSM)
+- Transgender persons (hijra/kinnar)
+- People who inject drugs (PWID)
+- Long-distance truck drivers and migrant workers
+
+--- PREVENTION ---
+ABC approach:
+A — Abstinence (delay sexual debut or abstain)
+B — Be faithful (reduce number of partners; mutual monogamy)
+C — Condom use (correct and consistent use of male or female condoms)
+
+Additional prevention strategies:
+- Voluntary HIV testing and counselling (VCTC/ICTC)
+- Pre-Exposure Prophylaxis (PrEP): HIV-negative high-risk individuals can take a daily pill (tenofovir/emtricitabine) to prevent HIV — available at NACO ICTC centres
+- Post-Exposure Prophylaxis (PEP): Antiretroviral drugs taken within 72 hours of potential exposure (needlestick, unprotected sex) — reduces infection risk significantly; available at government hospitals
+- Prevention of Mother-to-Child Transmission (PMTCT): All HIV-positive pregnant women start ART to protect baby; delivery care; replacement feeding counselling
+- Harm reduction for PWID: Needle/syringe programme (NSP); Opioid Substitution Therapy (OST)
+- Blood safety: Mandatory HIV screening of all donated blood
+- Safe sex education and condom distribution
+
+UNDETECTABLE = UNTRANSMITTABLE (U=U):
+People living with HIV who are on effective ART and have an undetectable viral load CANNOT sexually transmit HIV to their partners. This is a proven, internationally endorsed scientific fact.
+
+--- DIAGNOSIS ---
+- HIV Rapid Antibody Test: Point-of-care test; results in 20–30 minutes; free at government ICTCs
+- ELISA test: Standard blood test for HIV antibodies
+- Western Blot: Confirmatory test
+- HIV RNA/PCR: Detects virus directly; used for early infant diagnosis and viral load monitoring
+- Window period: 23–90 days after exposure for antibody tests — test again after window period if exposed recently
+- Diagnosis requires TWO reactive tests — NACO HIV testing algorithm
+
+--- TREATMENT (Awareness Only) ---
+- Antiretroviral Therapy (ART): Combination of antiretroviral drugs taken daily — suppresses viral replication, preserves immune function, prevents transmission, and enables normal life expectancy
+- ART is not a cure but is a lifelong treatment
+- In India, ART is provided FREE at government ART centres (over 700 centres nationally) under NACP
+- Current Indian first-line regimen: TLD (Tenofovir + Lamivudine + Dolutegravir) — highly effective, once-daily, well-tolerated
+- Treatment is started for ALL HIV-positive individuals regardless of CD4 count (Test and Treat policy)
+- Adherence to ART is critical — missing doses can lead to drug resistance
+- OI prophylaxis: Cotrimoxazole preventive therapy (CPT) for eligible PLHIV
+
+--- STIGMA AND DISCRIMINATION ---
+- HIV/AIDS-related stigma is a major barrier to testing and treatment in India
+- HIV is NOT spread through casual contact
+- People living with HIV have the same rights to employment, education, and healthcare
+- HIV Positive People Network of India (INP+): Support organisation for PLHIV
+- Legal protection: PLHIV are protected under HIV and AIDS (Prevention and Control) Act, 2017
+
+--- GOVERNMENT PROGRAMMES ---
+- National AIDS Control Programme (NACP): NACO — national authority for HIV response (naco.gov.in)
+- Integrated Counselling and Testing Centres (ICTCs): Free, confidential HIV testing at government hospitals
+- ART Centres: Free antiretroviral therapy — 700+ centres nationally
+- Link ART Centres (LACs): Extended access points for ART drug pick-up
+- Targeted Interventions (TI): Outreach to high-risk and key populations
+- State AIDS Control Societies (SACS): State-level HIV programme implementation
+
+Helplines:
+- National AIDS Helpline: 1097 (toll-free, 24x7, multilingual)
+- NACO: naco.gov.in
+
+--- WHEN TO SEE A DOCTOR ---
+- If you have had unprotected sex or shared needles — get tested
+- If you have symptoms of acute HIV (flu-like illness after potential exposure)
+- If you have had a needlestick or other potential exposure — seek PEP within 72 hours
+- If you are pregnant and HIV-positive — enrol in PMTCT programme immediately
+- Regular CD4 and viral load monitoring if on ART
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. HIV testing is free and confidential at government ICTCs. Early testing and treatment are life-saving. If you think you may have been exposed to HIV, please seek medical advice promptly. All information shared with healthcare providers regarding HIV is confidential and protected by law in India.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

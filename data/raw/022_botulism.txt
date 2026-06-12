@@ -1,0 +1,78 @@
+TOPIC: Botulism
+CATEGORY: Infectious Disease Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/botulism
+LAST UPDATED: 25 September 2023
+
+--- OVERVIEW ---
+Foodborne botulism is a serious, potentially fatal disease. However, it is relatively rare. It is an intoxication usually caused by ingestion of potent neurotoxins, the botulinum toxins, formed in contaminated foods. Person to person transmission of botulism does not occur.
+
+Spores produced by the bacteria Clostridium botulinum are heat-resistant and exist widely in the environment, and in the absence of oxygen they germinate, grow and then excrete toxins. There are 7 distinct forms of botulinum toxin, types A–G. Four of these (types A, B, E and rarely F) cause human botulism. Types C, D and E cause illness in other mammals, birds and fish.
+
+Botulinum toxins are ingested through improperly processed food in which the bacteria or the spores survive, then grow and produce the toxins. Though mainly a foodborne intoxication, human botulism can also be caused by intestinal infection with C. botulinum in infants, wound infections, and by inhalation.
+
+--- KEY FACTS ---
+- Clostridium botulinum is a bacterium that produces dangerous toxins (botulinum toxins) under low-oxygen conditions.
+- Botulinum toxins are one of the most lethal substances known.
+- Botulinum toxins block nerve functions and can lead to respiratory and muscular paralysis.
+- Human botulism may refer to foodborne botulism, infant botulism, wound botulism, and inhalation botulism or other types of intoxication.
+- Foodborne botulism, caused by consumption of improperly processed food, is a rare but potentially fatal disease if not diagnosed rapidly and treated with antitoxin.
+- Homemade canned, preserved or fermented foodstuffs are a common source of foodborne botulism and their preparation requires extra caution.
+
+--- TYPES ---
+- Waterborne botulism could theoretically result from the ingestion of the pre-formed toxin. However, as common water treatment processes (such as boiling, disinfection with 0.1% hypochlorite bleach solution) destroy the toxin, the risk is considered low.
+- Botulism of undetermined origin usually involves adult cases where no food or wound source can be identified. These cases are comparable to infant botulism and may occur when the normal gut flora has been altered as a result of surgical procedures or antibiotic therapy.
+- Adverse effects of the pure toxin have been reported as a result of its medical and/or cosmetic use in patients, see more on 'Botox' below.
+
+--- SYMPTOMS ---
+- Botulinum toxins are neurotoxic and therefore affect the nervous system. Foodborne botulism is characterized by descending, flaccid paralysis that can cause respiratory failure. Early symptoms include marked fatigue, weakness and vertigo, usually followed by blurred vision, dry mouth and difficulty in swallowing and speaking. Vomiting, diarrhoea, constipation and abdominal swelling may also occur. The disease can progress to weakness in the neck and arms, after which the respiratory muscles and muscles of the lower body are affected. There is no fever and no loss of consciousness.
+- The symptoms are not caused by the bacterium itself, but by the toxin produced by the bacterium. Symptoms usually appear within 12 to 36 hours (within a minimum and maximum range of 4 hours to 8 days) after exposure. Incidence of botulism is low, but the mortality rate is high if prompt diagnosis and appropriate, immediate treatment (early administration of antitoxin and intensive respiratory care) are not given. The disease can be fatal in 5 to 10% of cases.
+
+--- WARNING SIGNS ---
+- Antitoxin should be administered as soon as possible after a clinical diagnosis. Early administration is effective in reducing mortality rates. Severe botulism cases require supportive treatment, especially mechanical ventilation, which may be required for weeks or even months. Antibiotics are not required (except in the case of wound botulism). A vaccine against botulism exists but it is rarely used as its effectiveness has not been fully evaluated and it has demonstrated negative side effects.
+
+--- RISK FACTORS ---
+- Foodborne botulism, caused by consumption of improperly processed food, is a rare but potentially fatal disease if not diagnosed rapidly and treated with antitoxin.
+- Foodborne botulism is a serious, potentially fatal disease. However, it is relatively rare. It is an intoxication usually caused by ingestion of potent neurotoxins, the botulinum toxins, formed in contaminated foods. Person to person transmission of botulism does not occur.
+- Botulinum toxins are ingested through improperly processed food in which the bacteria or the spores survive, then grow and produce the toxins. Though mainly a foodborne intoxication, human botulism can also be caused by intestinal infection with C. botulinum in infants, wound infections, and by inhalation.
+- The symptoms are not caused by the bacterium itself, but by the toxin produced by the bacterium. Symptoms usually appear within 12 to 36 hours (within a minimum and maximum range of 4 hours to 8 days) after exposure. Incidence of botulism is low, but the mortality rate is high if prompt diagnosis and appropriate, immediate treatment (early administration of antitoxin and intensive respiratory care) are not given. The disease can be fatal in 5 to 10% of cases.
+- Infant botulism occurs mostly in infants under 6 months of age. Different from foodborne botulism caused by ingestion of pre-formed toxins in food, it occurs when infants ingest C. botulinum spores, which germinate into bacteria that colonize in the gut and release toxins. In most adults and children older than about 6 months, this would not happen because natural defences in intestines that develop over time prevent germination and growth of the bacterium.
+- C. botulinum in infants include constipation, loss of appetite, weakness, an altered cry and a striking loss of head control. Although there are several possible sources of infection for infant botulism, spore-contaminated honey has been associated with a number of cases. Parents and caregivers are therefore warned not to feed honey to the infants before the age of 1 year.
+
+--- PREVENTION ---
+- Prevention of foodborne botulism is based on good practice in food preparation particularly during heating/sterilization and hygiene. Foodborne botulism may be prevented by the inactivation of the bacterium and its spores in heat-sterilized (for example, retorted) or canned products or by inhibiting bacterial growth and toxin production in other products. The vegetative forms of bacteria can be destroyed by boiling but the spores can remain viable after boiling even for several hours. However, the spores can be killed by very high temperature treatments such as commercial canning.
+- Commercial heat pasteurization (including vacuum packed pasteurized products and hot smoked products) may not be sufficient to kill all spores and therefore the safety of these products must be based on preventing bacterial growth and toxin production. Refrigeration temperatures combined with salt content and/or acidic conditions will prevent the growth of the bacteria and formation of toxin.
+- The WHO Five Keys to Safer Food serve as the basis for educational programmes to train food handlers and educate the consumers. They are especially important in preventing food poisoning.
+- separate raw and cooked
+- keep food at safe temperatures
+- use safe water and raw materials.
+
+--- ENVIRONMENTAL CONTROL ---
+- Foodborne botulism is a serious, potentially fatal disease. However, it is relatively rare. It is an intoxication usually caused by ingestion of potent neurotoxins, the botulinum toxins, formed in contaminated foods. Person to person transmission of botulism does not occur.
+- Spores produced by the bacteria Clostridium botulinum are heat-resistant and exist widely in the environment, and in the absence of oxygen they germinate, grow and then excrete toxins. There are 7 distinct forms of botulinum toxin, types A–G. Four of these (types A, B, E and rarely F) cause human botulism. Types C, D and E cause illness in other mammals, birds and fish.
+- The symptoms are not caused by the bacterium itself, but by the toxin produced by the bacterium. Symptoms usually appear within 12 to 36 hours (within a minimum and maximum range of 4 hours to 8 days) after exposure. Incidence of botulism is low, but the mortality rate is high if prompt diagnosis and appropriate, immediate treatment (early administration of antitoxin and intensive respiratory care) are not given. The disease can be fatal in 5 to 10% of cases.
+- C. botulinum is an anaerobic bacterium, meaning it can only grow in the absence of oxygen. Foodborne botulism occurs when C. botulinum grows and produces toxins in food prior to consumption. C. botulinum produces spores and they exist widely in the environment including soil, river and sea water.
+- C. botulinum in infants include constipation, loss of appetite, weakness, an altered cry and a striking loss of head control. Although there are several possible sources of infection for infant botulism, spore-contaminated honey has been associated with a number of cases. Parents and caregivers are therefore warned not to feed honey to the infants before the age of 1 year.
+
+--- VACCINATION ---
+- Antitoxin should be administered as soon as possible after a clinical diagnosis. Early administration is effective in reducing mortality rates. Severe botulism cases require supportive treatment, especially mechanical ventilation, which may be required for weeks or even months. Antibiotics are not required (except in the case of wound botulism). A vaccine against botulism exists but it is rarely used as its effectiveness has not been fully evaluated and it has demonstrated negative side effects.
+
+--- DIAGNOSIS ---
+- Diagnosis is usually based on clinical history and clinical examination followed by laboratory confirmation including demonstrating the presence of botulinum toxin in serum, stool or food, or a culture of C. botulinum from stool, wound or food. Misdiagnosis of botulism sometimes occurs as it is often confused with stroke, Guillain-Barré syndrome, or myasthenia gravis.
+- Antitoxin should be administered as soon as possible after a clinical diagnosis. Early administration is effective in reducing mortality rates. Severe botulism cases require supportive treatment, especially mechanical ventilation, which may be required for weeks or even months. Antibiotics are not required (except in the case of wound botulism). A vaccine against botulism exists but it is rarely used as its effectiveness has not been fully evaluated and it has demonstrated negative side effects.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Diagnosis is usually based on clinical history and clinical examination followed by laboratory confirmation including demonstrating the presence of botulinum toxin in serum, stool or food, or a culture of C. botulinum from stool, wound or food. Misdiagnosis of botulism sometimes occurs as it is often confused with stroke, Guillain-Barré syndrome, or myasthenia gravis.
+- Antitoxin should be administered as soon as possible after a clinical diagnosis. Early administration is effective in reducing mortality rates. Severe botulism cases require supportive treatment, especially mechanical ventilation, which may be required for weeks or even months. Antibiotics are not required (except in the case of wound botulism). A vaccine against botulism exists but it is rarely used as its effectiveness has not been fully evaluated and it has demonstrated negative side effects.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

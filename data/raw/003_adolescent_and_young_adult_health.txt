@@ -1,0 +1,126 @@
+TOPIC: Adolescent and Young Adult Health
+CATEGORY: Public Health / Preventive Care
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Adolescence (ages 10–19) and young adulthood (ages 15–24) are critical periods of physical, emotional, and social development. Health behaviours and habits formed during these years shape health outcomes for life. In India, adolescents represent approximately 21% of the total population — over 253 million people. Investing in adolescent health is essential for India's future.
+
+--- KEY HEALTH RISKS FOR ADOLESCENTS ---
+1. Mental Health: Depression, anxiety, and self-harm are leading causes of illness and disability in adolescents. Suicide is the 2nd leading cause of death in 15–29 year olds globally.
+2. Injuries: Road traffic injuries are the leading cause of death among 15–19 year olds globally. Drowning and burns are also major causes.
+3. Substance use: Tobacco, alcohol, and drug use often begin during adolescence. Early initiation increases lifelong addiction risk.
+4. Nutrition: Anaemia and micronutrient deficiencies (especially iron, Vitamin D, B12) are widespread in Indian adolescents. Obesity is also rising.
+5. Sexual and reproductive health: Adolescent pregnancy, STIs including HIV, and lack of education lead to significant health risks.
+6. Violence: Physical, sexual, and emotional abuse — including cyberbullying — disproportionately affect adolescents.
+
+--- PHYSICAL CHANGES DURING PUBERTY ---
+Boys (typically 9–14 years onset):
+- Enlargement of testes and penis
+- Growth of pubic, underarm, and facial hair
+- Voice deepening
+- Rapid height increase
+- Acne
+
+Girls (typically 8–13 years onset):
+- Breast development
+- Growth of pubic and underarm hair
+- Onset of menstruation (menarche)
+- Widening of hips
+- Rapid height increase
+These changes are normal. Any unusual pain, irregular bleeding, or extreme distress should be discussed with a doctor.
+
+--- MENTAL HEALTH IN ADOLESCENTS ---
+(See also: 05_mental_health.txt)
+- 1 in 7 adolescents globally has a mental health condition.
+- Depression and anxiety are the most common.
+- Warning signs: persistent sadness, withdrawal from friends, loss of interest, changes in sleep or appetite, declining school performance, self-harm.
+- In India, academic pressure, family expectations, and social media are key stressors.
+- Resources: iCall helpline (TISS): 9152987821; Tele MANAS: 14416
+
+--- NUTRITION FOR ADOLESCENTS ---
+- Iron needs: Girls need extra iron due to menstruation. Boys have high iron needs due to growth. Eat dark green vegetables, dal, jaggery, meat.
+- Calcium: Critical for bone development. Drink milk, eat curd, paneer, ragi.
+- Free IFA (Iron-Folic Acid) tablets provided to adolescents 10–19 years under Anemia Mukt Bharat at schools and Anganwadi centres.
+- Avoid junk food, sugary drinks, and excessive salt.
+- Maintain healthy weight — obesity in adolescence leads to adult NCDs.
+
+--- SUBSTANCE USE PREVENTION ---
+- Do not start smoking, tobacco (gutka, khaini), or alcohol — ever.
+- Tobacco use started in adolescence leads to lifelong addiction.
+- Say no to peer pressure. It is okay to refuse.
+- If you or someone you know needs help quitting tobacco: 1800-11-2356 (free helpline)
+- Alcohol: No safe level of alcohol exists for adolescents. It harms the developing brain.
+- Do not experiment with drugs.
+
+--- SEXUAL AND REPRODUCTIVE HEALTH ---
+- RKSK (Rashtriya Kishor Swasthya Karyakram): Government programme for adolescent health including sexual health education, available at government health centres.
+- Adolescent girls should be aware of menstrual hygiene (see also 10_womens_maternal_health.txt).
+- HPV vaccine: Recommended for girls 9–14 years at government health centres — prevents cervical cancer.
+- Peer pressure for early sexual activity: It is normal and healthy to say no. Consent is essential.
+- If sexually active: Use condoms to prevent STIs and unintended pregnancy.
+
+--- ROAD SAFETY ---
+Road traffic injuries are a leading cause of adolescent death:
+- Always wear a helmet when riding a two-wheeler.
+- Always wear a seatbelt in a car.
+- Never use a mobile phone while driving.
+- Never drink and drive.
+- Follow traffic rules.
+
+--- SCREEN TIME AND DIGITAL HEALTH ---
+- Limit recreational screen time to 2 hours/day.
+- Avoid screens 1 hour before bedtime — blue light disrupts sleep.
+- Cyberbullying: Report, block, and tell a trusted adult. It is not your fault.
+- Social media comparison can worsen anxiety and body image — be mindful.
+
+--- INDIA-SPECIFIC PROGRAMME ---
+RKSK (Rashtriya Kishor Swasthya Karyakram): Free adolescent health services at government PHCs, including nutrition, mental health, reproductive health, and substance use counselling.
+Saathiya centres: Adolescent-friendly health clinics at government PHCs.
+Peer Educator Programme: Trained adolescent health educators in schools and communities.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is acne during puberty normal?
+A: Yes, acne is very common during puberty due to hormonal changes. Wash face twice daily with mild soap. For severe acne, consult a doctor — do not use over-the-counter medications without advice.
+
+Q: Is it normal to feel very emotional or moody as a teenager?
+A: Hormonal changes during puberty cause emotional ups and downs. However, persistent sadness, anxiety, or hopelessness lasting more than 2 weeks may indicate a mental health condition. Speak to a trusted adult or counsellor.
+
+Q: At what age should girls get the HPV vaccine?
+A: Ideally between 9–14 years, before becoming sexually active. It is available at government health centres. Consult a doctor.
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for adolescent health awareness. For physical or mental health concerns, consult a qualified doctor or counsellor. In a crisis, call 14416 (Tele MANAS) or 112.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

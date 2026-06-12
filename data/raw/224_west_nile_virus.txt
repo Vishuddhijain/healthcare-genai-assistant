@@ -1,0 +1,82 @@
+TOPIC: West Nile virus
+CATEGORY: Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/west-nile-virus
+LAST UPDATED: 3 October 2017
+
+--- OVERVIEW ---
+West Nile Virus (WNV) was first isolated in a woman in the West Nile district of Uganda in 1937. It was identified in birds (crows and columbiformes) in Nile delta region in 1953. Before 1997 WNV was not considered pathogenic for birds, but at that time in Israel a more virulent strain caused the death of different bird species presenting signs of encephalitis and paralysis. Human infections attributable to WNV have been reported in many countries in the World for over 50 years.
+
+In 1999 a WNV circulating in Israel and Tunisia was imported in New York producing a large and dramatic outbreak that spread throughout the continental United States of America (USA) in the following years. The WNV outbreak in USA (1999-2010) highlighted that importation and establishment of vector-borne pathogens outside their current habitat represent a serious danger to the world.
+
+The largest outbreaks occurred in Greece, Israel, Romania, Russia and USA. Outbreak sites are on major birds migratory routes. In its original range, WNV was prevalent throughout Africa, parts of Europe, Middle East, West Asia, and Australia. Since its introduction in 1999 into USA, the virus has spread and is now widely established from Canada to Venezuela.
+
+--- KEY FACTS ---
+- West Nile virus can cause a fatal neurological disease in humans.
+- However, approximately 80% of people who are infected will not show any symptoms.
+- West Nile virus is mainly transmitted to people through the bites of infected mosquitoes.
+- The virus can cause severe disease and death in horses.
+- Vaccines are available for use in horses but not yet available for people.
+- Birds are the natural hosts of West Nile virus.
+
+--- TYPES ---
+- West Nile Virus (WNV) was first isolated in a woman in the West Nile district of Uganda in 1937. It was identified in birds (crows and columbiformes) in Nile delta region in 1953. Before 1997 WNV was not considered pathogenic for birds, but at that time in Israel a more virulent strain caused the death of different bird species presenting signs of encephalitis and paralysis. Human infections attributable to WNV have been reported in many countries in the World for over 50 years.
+
+--- SYMPTOMS ---
+- Infection with WNV is either asymptomatic (no symptoms) in around 80% of infected people, or can lead to West Nile fever or severe West Nile disease.
+- About 20% of people who become infected with WNV will develop West Nile fever. Symptoms include fever, headache, tiredness, and body aches, nausea, vomiting, occasionally with a skin rash (on the trunk of the body) and swollen lymph glands.
+- The symptoms of severe disease (also called neuroinvasive disease, such as West Nile encephalitis or meningitis or West Nile poliomyelitis) include headache, high fever, neck stiffness, stupor, disorientation, coma, tremors, convulsions, muscle weakness, and paralysis. It is estimated that approximately 1 in 150 persons infected with the West Nile virus will develop a more severe form of disease. Serious illness can occur in people of any age, however people over the age of 50 and some immunocompromised persons (for example, transplant patients) are at the highest risk for getting severely ill when infected with WNV.
+- The incubation period is usually 3 to 14 days.
+
+--- WARNING SIGNS ---
+- The virus can cause severe disease and death in horses.
+- West Nile Virus (WNV) was first isolated in a woman in the West Nile district of Uganda in 1937. It was identified in birds (crows and columbiformes) in Nile delta region in 1953. Before 1997 WNV was not considered pathogenic for birds, but at that time in Israel a more virulent strain caused the death of different bird species presenting signs of encephalitis and paralysis. Human infections attributable to WNV have been reported in many countries in the World for over 50 years.
+- Infection with WNV is either asymptomatic (no symptoms) in around 80% of infected people, or can lead to West Nile fever or severe West Nile disease.
+
+--- RISK FACTORS ---
+- Human infection is most often the result of bites from infected mosquitoes. Mosquitoes become infected when they feed on infected birds, which circulate the virus in their blood for a few days. The virus eventually gets into the mosquito's salivary glands. During later blood meals (when mosquitoes bite), the virus may be injected into humans and animals, where it can multiply and possibly cause illness.
+- The virus may also be transmitted through contact with other infected animals, their blood, or other tissues.
+- A very small proportion of human infections have occurred through organ transplant, blood transfusions and breast milk. There is one reported case of transplacental (mother-to-child) WNV transmission.
+- To date, no human-to-human transmission of WNV through casual contact has been documented, and no transmission of WNV to health care workers has been reported when standard infection control precautions have been put in place.
+- Transmission of WNV to laboratory workers has been reported.
+- Since WNV outbreaks in animals precede human cases, the establishment of an active animal health surveillance system to detect new cases in birds and horses is essential in providing early warning for veterinary and human public health authorities. In the Americas, it is important to help the community by reporting dead birds to local authorities.
+- Vaccines have been developed for horses. Treatment is supportive and consistent with standard veterinary practices for animals infected with a viral agent.
+- In the absence of a vaccine, the only way to reduce infection in people is by raising awareness of the risk factors and educating people about the measures they can take to reduce exposure to the virus.
+
+--- PREVENTION ---
+- In the absence of a vaccine, the only way to reduce infection in people is by raising awareness of the risk factors and educating people about the measures they can take to reduce exposure to the virus.
+- Public health educational messages should focus on the following:
+- Reducing the risk of mosquito transmission. Efforts to prevent transmission should first focus on personal and community protection against mosquito bites through the use of mosquito nets, personal insect repellent, by wearing light coloured clothing (long-sleeved shirts and trousers) and by avoiding outdoor activity at peak biting times. In addition community programmes should encourage communities to destroy mosquito breeding sites in residential areas.
+- Reducing the risk of animal-to-human transmission. Gloves and other protective clothing should be worn while handling sick animals or their tissues, and during slaughtering and culling procedures.
+- Reducing the risk of transmission through blood transfusion and organ transplant. Blood and organ donation restrictions and laboratory testing should be considered at the time of the outbreak in the affected areas after assessing the local/regional epidemiological situation.
+- Effective prevention of human WNV infections depends on the development of comprehensive, integrated mosquito surveillance and control programmes in areas where the virus occurs. Studies should identify local mosquito species that play a role in WNV transmission, including those that might serve as a “bridge” from birds to human beings. Emphasis should be on integrated control measures including source reduction (with community participation), water management, chemicals, and biological control methods.
+
+--- ENVIRONMENTAL CONTROL ---
+- Effective prevention of human WNV infections depends on the development of comprehensive, integrated mosquito surveillance and control programmes in areas where the virus occurs. Studies should identify local mosquito species that play a role in WNV transmission, including those that might serve as a “bridge” from birds to human beings. Emphasis should be on integrated control measures including source reduction (with community participation), water management, chemicals, and biological control methods.
+
+--- VACCINATION ---
+- Treatment is supportive for patients with neuro-invasive West Nile virus, often involving hospitalization, intravenous fluids, respiratory support, and prevention of secondary infections. No vaccine is available for humans.
+
+--- DIAGNOSIS ---
+- West Nile virus can be diagnosed by a number of different tests:
+- IgG antibody sero-conversion (or significant increase in antibody titers) in two serial specimen collected at a one week interval by enzyme-linked immunosorbent assay (ELISA);
+- IgM antibody capture enzyme-linked immunosorbent assay (ELISA);
+- neutralisation assays;
+- viral detection by reverse transcription polymerase chain reaction (RT-PCR) assay, and
+- virus isolation by cell culture.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment is supportive for patients with neuro-invasive West Nile virus, often involving hospitalization, intravenous fluids, respiratory support, and prevention of secondary infections. No vaccine is available for humans.
+- Health-care workers caring for patients with suspected or confirmed WNV infection, or handling specimens from them, should implement standard infection control precautions. Samples taken from people and animals with suspected WNV infection should be handled by trained staff working in suitably equipped laboratories.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

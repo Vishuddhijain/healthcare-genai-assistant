@@ -1,0 +1,75 @@
+TOPIC: Parkinson disease
+CATEGORY: Neurological Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/parkinson-disease
+LAST UPDATED: 9 August 2023
+
+--- OVERVIEW ---
+Parkinson disease (PD) is a brain condition that causes problems with movement, mental health, sleep, pain and other health issues.
+
+PD gets worse over time. There is no cure, but therapies and medicines can reduce symptoms. Common symptoms include tremors, painful muscle contractions and difficulty speaking.
+
+Parkinson disease results in high rates of disability and the need for care. Many people with PD also develop dementia.
+
+--- KEY FACTS ---
+- Globally, disability and death due to PD are rapidly increasing.
+- Clinical diagnosis of PD by trained non-specialized healthcare workers and simplified treatment guidelines offer better management in primary care settings.
+- Levodopa/carbidopa, the most effective medicine for improving symptoms, functioning and quality of life is not accessible, available or affordable everywhere, particularly in low- and middle-income countries.
+- Rehabilitation can help improve functioning and quality of life for people with PD.
+
+--- TYPES ---
+- Informal carers (i.e. most commonly family members and friends) spend many hours daily providing care for people living with PD. This can be overwhelming. Physical, emotional and financial pressures can cause great stress to families and carers, and support is required from the health, social, financial and legal systems. Useful support resources from other conditions can be drawn upon, such as WHO’s iSupport programme for dementia .
+
+--- SYMPTOMS ---
+- Symptoms of Parkinson disease get worse over time. They can greatly reduce well-being and quality of life.
+- PD causes motors symptoms including:
+- involuntary movement
+- Non-motor symptoms:
+- cognitive impairment
+- mental health disorders
+- sensory disturbances.
+- Involuntary movements (dyskinesias) and painful muscle contractions (dystonias) can cause problems speaking and moving. These symptoms lead to high rates of disability and the need for care. Many people with PD also develop dementia during the course of their disease.
+
+--- WARNING SIGNS ---
+- Globally, disability and death due to PD are rapidly increasing.
+- The prevalence of PD has doubled in the past 25 years. Global estimates in 2019 showed over 8.5 million individuals with PD. Current estimates suggest that, in 2019, PD resulted in 5.8 million disability adjusted life years (DALYs), an increase of 81% since 2000, and caused 329 000 deaths, an increase of over 100% since 2000.
+
+--- RISK FACTORS ---
+- The cause of PD is unknown but people with a family history of the disease have a higher risk. Exposure to air pollution, pesticides and solvents may increase risk.
+- The prevalence of PD has doubled in the past 25 years. Global estimates in 2019 showed over 8.5 million individuals with PD. Current estimates suggest that, in 2019, PD resulted in 5.8 million disability adjusted life years (DALYs), an increase of 81% since 2000, and caused 329 000 deaths, an increase of over 100% since 2000.
+
+--- PREVENTION ---
+- People with PD require accessible health services for general healthcare needs like the rest of the population, including medicine access, promotive and preventive services and prompt diagnosis, treatment and care. A common barrier is created by healthcare providers’ inadequate knowledge and understanding of PD and myths that PD is a contagious illness or a normal part of aging.
+
+--- ENVIRONMENTAL CONTROL ---
+- The cause of PD is unknown but people with a family history of the disease have a higher risk. Exposure to air pollution, pesticides and solvents may increase risk.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Clinical diagnosis of PD by trained non-specialized healthcare workers and simplified treatment guidelines offer better management in primary care settings.
+- While PD is the most common movement disorder, other movement disorders exist such as multiple system atrophy, progressive supranuclear palsy, chorea, ataxia and dystonia. Some movement disorders have similar symptoms to PD such as tremor, slow movement and rigidity. All movement disorders share the same challenges as PD regarding diagnostic and treatment gaps and access to medication, particularly in low- and middle-income countries (LMIC).
+- PD is a clinical diagnosis that not only can be made by neurologists but also by trained non-specialist healthcare workers. Assessment and management of PD by trained non-specialized healthcare workers in primary care is particularly important in areas where specialist neurological services are unavailable, such as in some LMIC.
+- People with PD require accessible health services for general healthcare needs like the rest of the population, including medicine access, promotive and preventive services and prompt diagnosis, treatment and care. A common barrier is created by healthcare providers’ inadequate knowledge and understanding of PD and myths that PD is a contagious illness or a normal part of aging.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- There is no cure for Parkinson disease, but therapies including medicines, surgery and rehabilitation can reduce symptoms.
+- Levodopa/carbidopa, a combination medicine that increases the amount of dopamine in the brain, is the most common medication for PD (1) . Doctors may use other medicines such as anticholinergics to reduce involuntary muscle movement.
+- Deep brain stimulation and other therapies can help the tremors and reduce the need for medicines.
+- Rehabilitation including physiotherapy can offer relief for Parkinson disease and other degenerative neurologic disorders. Therapies include:
+- gait and balance training
+- These therapies can help improve functioning and quality of life for people with PD. This can also reduce the strain on carers.
+- Many medications and surgical resources are not accessible, available or affordable everywhere, particularly low- and middle-income countries.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

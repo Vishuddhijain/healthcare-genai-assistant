@@ -1,0 +1,125 @@
+TOPIC: Heart Disease and Cardiovascular Health
+CATEGORY: Non-Communicable Disease (Cardiovascular)
+SOURCE: WHO Fact Sheet + NHP India + ICMR - https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) | https://nhp.gov.in/disease/non-communicable-disease/cardiovascular-disease
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Cardiovascular diseases (CVDs) are a group of disorders affecting the heart and blood vessels. They are the leading cause of death globally and in India. India accounts for approximately one-fifth of global CVD deaths, and Indians tend to develop heart disease a decade earlier than Western populations. CVD deaths in India are estimated at around 2.8–4 million annually. The most common CVDs are coronary artery disease (CAD/ischaemic heart disease), stroke, heart failure, and peripheral arterial disease.
+
+--- TYPES ---
+1. Coronary Artery Disease (CAD): Narrowing or blockage of coronary arteries due to plaque build-up (atherosclerosis). Leads to angina or heart attack (myocardial infarction).
+2. Stroke: Occurs when blood supply to the brain is cut off (ischaemic stroke) or a blood vessel bursts (haemorrhagic stroke). Causes sudden neurological deficits.
+3. Heart Failure: Heart is unable to pump blood efficiently. Can result from CAD, hypertension, or cardiomyopathy.
+4. Hypertensive Heart Disease: Damage to the heart from chronic high blood pressure.
+5. Rheumatic Heart Disease: Damage to heart valves from rheumatic fever (complication of streptococcal throat infection) — still significant in India.
+6. Peripheral Arterial Disease (PAD): Narrowing of arteries supplying blood to limbs.
+7. Congenital Heart Disease: Heart defects present at birth.
+8. Cardiomyopathy: Disease of the heart muscle affecting its pumping function.
+
+--- SYMPTOMS ---
+Heart Attack — Warning Signs (Act within Golden Hour — first 60 minutes):
+- Chest pain or discomfort (pressure, squeezing, fullness, or pain in centre/left side of chest)
+- Pain radiating to the left arm, shoulder, neck, jaw, or back
+- Shortness of breath (with or without chest pain)
+- Cold sweat, nausea, or vomiting
+- Lightheadedness or sudden dizziness
+- NOTE: Women may have atypical symptoms — jaw pain, back pain, extreme fatigue without chest pain
+
+Stroke — FAST mnemonic:
+F — Face drooping (one side of face droops, numbness)
+A — Arm weakness (one arm weak or numb)
+S — Speech difficulty (slurred, strange, or unable to speak)
+T — Time to call emergency services immediately (112 in India)
+
+Other CVD symptoms:
+- Palpitations (irregular, fast, or pounding heartbeat)
+- Swelling in feet, ankles, or legs (heart failure)
+- Fatigue and weakness on minimal exertion
+- Persistent cough (sometimes with pink or white mucus — heart failure)
+- Chest pain on exertion (angina) that resolves with rest
+
+--- RISK FACTORS ---
+Modifiable:
+- Hypertension (high blood pressure) — single biggest risk factor
+- Tobacco use (smoking, smokeless tobacco)
+- High blood cholesterol (dyslipidaemia)
+- Diabetes and insulin resistance
+- Obesity and overweight
+- Physical inactivity
+- Unhealthy diet (high in salt, saturated fats, trans fats, sugar; low in fruits and vegetables)
+- Excessive alcohol consumption
+- Stress and poor mental health
+- Air pollution (indoor and outdoor)
+
+Non-modifiable:
+- Age (risk increases after 45 in men, after menopause in women)
+- Family history of CVD
+- South Asian ethnicity (Indians have genetically higher CVD risk)
+- Previous heart attack or stroke
+
+--- PREVENTION ---
+Lifestyle changes (most impactful):
+- Quit tobacco (smoking and smokeless) — reduces CVD risk substantially within a year
+- Eat a heart-healthy diet: Reduce salt (less than 5 g/day), saturated and trans fats, added sugars; increase fruits, vegetables, whole grains, legumes, nuts, fish
+- Reduce refined oil usage; prefer healthier oils (mustard, groundnut, sunflower — in moderation)
+- Be physically active: At least 150 minutes of moderate-intensity aerobic activity per week
+- Maintain healthy weight (BMI 18.5–22.9 kg/m² for Indians; Indian cut-offs are lower than global)
+- Control blood pressure, blood sugar, and cholesterol with regular monitoring and medical management
+- Limit alcohol intake
+- Manage stress through yoga, meditation, social support
+- Regular check-ups after age 30 (or earlier with risk factors): Blood pressure, fasting blood sugar, lipid profile
+
+--- KEY NUMBERS TO KNOW ---
+- Blood Pressure: Target <130/80 mmHg (ideal <120/80 mmHg)
+- Fasting Blood Sugar: <100 mg/dL (normal); 100–125 (pre-diabetes); >126 (diabetes)
+- LDL Cholesterol: <100 mg/dL for general population; <70 mg/dL for high-risk individuals
+- BMI (India): <23 kg/m² ideal; >25 overweight; >30 obese
+- Waist circumference (India): Men <90 cm; Women <80 cm (central obesity cut-offs)
+
+--- FIRST AID (Basic Awareness) ---
+If someone is having a heart attack:
+1. Call 108 (national ambulance) immediately
+2. Have the person sit or lie down in a comfortable position
+3. Loosen tight clothing
+4. If the person is conscious and not allergic, give aspirin 325 mg (chew, not swallow) if available and trained to do so
+5. Do NOT leave them alone
+
+CPR (Cardiopulmonary Resuscitation):
+- If the person is unresponsive and not breathing normally: Begin chest compressions (30 compressions at 100–120/min, 5–6 cm deep) and rescue breaths (if trained)
+- If untrained: Hands-only CPR (continuous hard and fast chest compressions) until emergency services arrive
+
+--- GOVERNMENT PROGRAMMES ---
+- National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke (NPCDCS): Free screening at government health centres
+- Ayushman Bharat PM-JAY: Covers cardiac surgery and procedures for eligible beneficiaries
+- HWCs (Health and Wellness Centres): Community-level CVD risk screening
+- Emergency: 112 (national emergency), 108 (ambulance in most states)
+
+--- WHEN TO SEE A DOCTOR ---
+- Any chest pain or discomfort — even if mild or transient
+- Palpitations or feeling of irregular heartbeat
+- Unexplained breathlessness
+- Swollen ankles
+- Dizziness or fainting
+- If you have hypertension, diabetes, or high cholesterol — regular follow-up is essential
+- Screening at age 30+ (or earlier with risk factors) for BP, blood sugar, cholesterol
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. A heart attack and stroke are medical emergencies — call 108/112 immediately. Do not drive yourself to the hospital during a suspected heart attack. Always follow your doctor's prescribed treatment for any cardiovascular condition. Do not self-medicate.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

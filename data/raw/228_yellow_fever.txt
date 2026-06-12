@@ -1,0 +1,191 @@
+TOPIC: Yellow Fever
+CATEGORY: Communicable Disease / Vaccine-Preventable Disease / Travel Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/yellow-fever | NHP India | MoHFW India Travel Advisory
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Yellow fever is an acute viral haemorrhagic disease transmitted by infected mosquitoes. It is caused by the yellow fever virus, an arbovirus of the Flavivirus genus. The disease is called "yellow fever" because some patients develop jaundice (yellowing of skin and eyes). Yellow fever is endemic in tropical areas of Africa and Central/South America. India is NOT an endemic country but is at risk from imported cases. India requires travellers arriving from yellow fever-endemic countries to present proof of yellow fever vaccination. Yellow fever vaccine is the primary prevention tool and is highly effective.
+
+--- KEY FACTS ---
+- Yellow fever is endemic in 47 countries in Africa and Central/South America (as of 2024).
+- Africa accounts for 90% of yellow fever cases globally.
+- Approximately 200,000 cases occur globally each year, causing about 30,000 deaths.
+- Yellow fever is vaccine-preventable: A single dose of vaccine provides lifetime immunity in 95%+ of recipients.
+- India is NOT endemic for yellow fever, but receives travellers from endemic areas.
+- India mandates yellow fever vaccination certificate for travellers arriving from endemic countries (India requires YF vaccination within 10 days of entry for travellers from endemic countries).
+- Without vaccination, travellers to endemic regions are at significant risk.
+
+--- TYPES / PHASES ---
+Yellow fever progresses in phases:
+
+Phase 1 — ACUTE (infection phase, first 3–4 days):
+- Fever (sudden onset)
+- Headache
+- Muscle aches, back pain
+- Nausea, vomiting
+- Fatigue
+- Loss of appetite
+- Most people recover fully at this stage
+
+Phase 2 — REMISSION (brief, 24 hours):
+- Symptoms may temporarily improve
+- Temperature falls
+
+Phase 3 — TOXIC PHASE (severe disease — ~15% of patients):
+- High fever returns
+- Jaundice (yellowing of skin and eyes) — gives disease its name
+- Abdominal pain and vomiting
+- Bleeding: From mouth, nose, eyes, stomach ("black vomit" — digested blood)
+- Kidney dysfunction (decreased urination, dark urine)
+- Heart rhythm irregularities
+- Liver failure
+- Encephalitis (brain inflammation) — confusion, seizures
+- Mortality rate in toxic phase: 20–50%
+
+--- SYMPTOMS ---
+Incubation period: 3–6 days after mosquito bite
+
+Early (acute) symptoms:
+- Sudden onset high fever
+- Severe headache
+- Muscle pain, particularly back and knee pain
+- Nausea, vomiting
+- Loss of appetite, malaise
+- Sensitive to light (photophobia)
+
+Severe (toxic phase) symptoms (if disease progresses):
+- Jaundice (yellowing of skin and whites of eyes)
+- Abdominal pain
+- Bleeding from body orifices (gums, nose, stomach)
+- Black vomit (blood mixed with stomach contents)
+- Dark urine, reduced urine output
+- Confusion, seizures (brain involvement)
+
+--- WARNING SIGNS (SEEK EMERGENCY CARE) ---
+Any person who has been in yellow fever-endemic area and develops:
+- Jaundice (yellow skin/eyes) — URGENT
+- Bleeding from any site
+- Black vomit
+- Reduced or no urine output
+- Confusion or altered consciousness
+- Severe abdominal pain
+After returning from Africa or South America with fever = seek medical care immediately and mention travel history
+
+--- RISK FACTORS ---
+- Unvaccinated travellers to endemic regions (Sub-Saharan Africa, tropical South America)
+- Living in or travelling to forested, rural, or jungle areas of endemic countries
+- Outdoor activities (hiking, camping) in endemic areas
+- Outdoor workers (agricultural, construction) in endemic areas
+- Children under 9 months (vaccine not given below 9 months due to risk)
+- Immunocompromised individuals (vaccine is live virus — may be contraindicated)
+
+--- TRANSMISSION ---
+- Vector: Primarily Aedes aegypti mosquito (same as dengue and Zika)
+- Aedes africanus and other Aedes/Haemogogus species also transmit in jungle settings
+- Transmission cycles:
+  1. Sylvatic (jungle) cycle: Between monkeys and forest mosquitoes; humans occasionally infected when entering forests
+  2. Intermediate (savannah) cycle: Between monkeys/humans and forest-fringe mosquitoes
+  3. Urban cycle: Between infected humans and urban Aedes aegypti mosquitoes — can cause large epidemics
+- NOT spread person to person
+
+--- PREVENTION ---
+1. VACCINATION (primary and most effective prevention):
+   - Single dose provides lifetime immunity in ≥95% of recipients
+   - Required at least 10 days before travel to endemic areas
+   - Who should get vaccinated:
+     - Anyone aged 9 months+ travelling to yellow fever-endemic countries
+     - Laboratory workers handling yellow fever virus
+
+2. Mosquito bite prevention:
+   - Use DEET-based insect repellent on exposed skin
+   - Wear long-sleeved shirts and long pants, especially during peak mosquito activity (dawn and dusk)
+   - Sleep under insecticide-treated bed nets
+   - Stay in accommodation with air conditioning and screened windows
+
+3. Urban vector control:
+   - Eliminate mosquito breeding sites (stagnant water in containers)
+   - Indoor residual spraying in endemic areas
+
+--- VACCINATION (DETAILED) ---
+- Vaccine: Live attenuated yellow fever vaccine (17D strain)
+- Brands: STAMARIL (Sanofi Pasteur), YF-VAX
+- Schedule: Single dose, given subcutaneously (under skin)
+- Age: 9 months and above
+- Efficacy: 95%+ protection within 10 days; lasts lifetime (one dose for most people)
+- Booster: WHO updated guidance — a single dose confers lifelong protection; booster no longer routinely recommended
+- International Certificate of Vaccination or Prophylaxis (ICVP) / Yellow Card: Issued after vaccination; required for travel to some countries
+
+International requirements:
+- India requires proof of yellow fever vaccination from travellers arriving from endemic countries (valid after 10 days of vaccination, lifelong)
+- Many African and South American countries require proof of vaccination on entry
+
+Contraindications:
+- Infants under 9 months (absolute contraindication)
+- Infants 6–9 months: May be vaccinated during outbreaks if benefit > risk (country-specific policy)
+- Pregnant women: Generally avoided unless travel unavoidable (discuss with doctor)
+- Immunocompromised individuals: Avoid (live vaccine)
+- Severe egg allergy
+- Those who have had severe reactions to previous yellow fever vaccine
+
+Available in India at:
+- International Vaccination Centres (IVCs): Maintained by MoHFW at airports and major cities
+- AIIMS, Safdarjung Hospital, RML Hospital (Delhi), Other designated government hospitals
+- Private travel clinics (available for fee)
+
+--- DIAGNOSIS ---
+- Blood tests: RT-PCR for yellow fever virus (within first 5 days of illness)
+- Serology (IgM/IgG antibody tests): After 7+ days of illness
+- Liver function tests (elevated in toxic phase)
+- All suspected cases should be reported to state and national authorities (NCDC) — notifiable disease
+- Available at designated referral laboratories and NCDC Delhi
+
+--- TREATMENT (AWARENESS ONLY) ---
+- No specific antiviral treatment exists for yellow fever
+- Supportive care: Rest, fluids, treatment of fever and pain (avoid aspirin/ibuprofen — increase bleeding risk)
+- In severe (toxic phase): ICU care, blood transfusions, kidney dialysis as needed
+- Early hospitalisation improves outcomes
+
+--- WHEN TO SEE A DOCTOR ---
+- If you have returned from Africa or South America with fever within 14 days of travel — tell the doctor immediately about your travel history
+- If you develop jaundice, bleeding, or severe vomiting during or after travel to endemic regions
+- For yellow fever vaccination certificate before travel to endemic countries
+- If you are immunocompromised or pregnant and planning to travel to an endemic region — consult a travel medicine doctor
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India is NOT yellow fever endemic — no domestic transmission (Aedes aegypti mosquitoes are present but the virus is not circulating in India)
+- Airport health authorities screen travellers from endemic countries — yellow card (ICVP) checked
+- Designated Yellow Fever Vaccination Centres in India: AIIMS, RML Hospital (Delhi), BJ Medical College (Ahmedabad), Government Medical College (Mumbai), etc.
+- NCDC Delhi: National reference for yellow fever testing and epidemiological surveillance
+- Risk in India: Only from imported cases (travellers returning from Africa/South America)
+- Travel medicine clinics: Available in major cities for pre-travel consultation
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is yellow fever present in India?
+A: No. Yellow fever is not endemic in India. However, cases can be imported by travellers returning from Africa or South America. India requires proof of vaccination from travellers arriving from endemic countries.
+
+Q: How long does yellow fever vaccine protection last?
+A: WHO now considers a single dose to provide lifelong protection for most people. A booster is not routinely required for international travel.
+
+Q: Do I need yellow fever vaccine to travel to Africa?
+A: It depends on which country. Many Sub-Saharan African countries require vaccination. Even where not mandatory, vaccination is strongly recommended for travel to endemic areas. Consult a travel medicine doctor before travel.
+
+Q: What if I am allergic to eggs?
+A: The yellow fever vaccine is grown in embryonated eggs. People with severe egg allergies may be at risk of allergic reaction. Consult a doctor — mild egg allergy may not be a contraindication; severe egg allergy may require skin testing before vaccination.
+
+Q: Where can I get the yellow fever vaccine in India?
+A: At designated International Vaccination Centres — AIIMS, Safdarjung, and other government hospitals. Private travel clinics also offer it. Call ahead to confirm availability and make an appointment.
+
+--- IMPORTANT SAFETY NOTE ---
+Yellow fever is a potentially fatal disease for which vaccination provides excellent protection. If you are travelling to an endemic region, vaccinate at least 10 days before departure and carry your yellow card. If you return from a yellow fever region with fever, jaundice, or severe illness — seek emergency medical care immediately and inform the doctor of your travel history. No specific treatment exists; prevention through vaccination is critical.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.

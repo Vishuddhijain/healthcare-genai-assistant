@@ -1,0 +1,178 @@
+TOPIC: Road Traffic Injuries
+CATEGORY: Emergency Awareness / Injury Prevention / Public Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries | MoRTH India | NHP India
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Road traffic injuries are a major global public health and development issue, causing significant death and disability. They are the leading cause of death for children and young adults (5-29 years) worldwide. India has one of the highest numbers of road traffic deaths globally, with a complex mix of pedestrians, two-wheeler riders, cyclists, and vehicle occupants sharing crowded roads. Most road traffic injuries and deaths are preventable through a combination of safer roads, vehicles, behaviours, and prompt post-crash emergency care.
+
+--- KEY FACTS ---
+- Approximately 1.19 million people die each year as a result of road traffic crashes globally (WHO 2023 estimate).
+- Road traffic injuries are the leading cause of death for children and young people aged 5-29 years worldwide.
+- India records over 1.5 lakh (150,000+) road traffic deaths annually — among the highest in the world (MoRTH data).
+- More than half of all road traffic deaths globally involve pedestrians, cyclists, and motorcyclists ("vulnerable road users") — particularly relevant in India where two-wheelers form a large share of vehicles.
+- Helmet use can reduce the risk of death in motorcycle crashes by almost 40% and the risk of severe injury by over 70%.
+- Seatbelt use reduces the risk of death for drivers and front-seat passengers by 45-50%.
+- Speeding, drunk driving, and not using helmets/seatbelts are major contributing factors in India.
+- The "Golden Hour" — the first hour after a severe injury — is critical; timely emergency care dramatically improves survival.
+
+--- TYPES OF ROAD TRAFFIC INJURIES ---
+By road user type:
+1. Pedestrian injuries: Highest risk in urban areas with inadequate footpaths/crossings
+2. Two-wheeler (motorcycle/scooter) injuries: Very high burden in India — head injuries are common without helmet use
+3. Cyclist injuries
+4. Vehicle occupant injuries (cars, buses, trucks)
+5. Multi-vehicle collisions
+
+By injury type:
+1. Traumatic brain injury (TBI): Often from head trauma in two-wheeler crashes without helmets — leading cause of death and long-term disability
+2. Spinal cord injuries: Can cause permanent paralysis
+3. Fractures: Limb fractures, pelvic fractures
+4. Internal organ injuries: Abdominal/chest trauma from blunt force
+5. Soft tissue injuries: Lacerations, abrasions, contusions
+
+--- SYMPTOMS / SIGNS OF SERIOUS INJURY ---
+After a road traffic crash, signs that indicate serious injury requiring immediate care:
+- Loss of consciousness, even briefly
+- Confusion, drowsiness, or difficulty waking
+- Severe bleeding
+- Visible deformity of limbs (suspected fracture)
+- Inability to move a body part (possible spinal injury)
+- Severe abdominal pain or swelling
+- Difficulty breathing
+- Vomiting after head injury
+- Unequal pupil size (possible brain injury)
+- Pain in neck or back, especially with numbness/tingling in limbs
+
+--- WARNING SIGNS — MEDICAL EMERGENCY ---
+At the scene of a crash, call for emergency help (108/112) IMMEDIATELY if any victim shows:
+- Unconsciousness or altered consciousness
+- Not breathing or difficulty breathing
+- Severe bleeding that doesn't stop with direct pressure
+- Suspected spinal injury (DO NOT move the person unless absolutely necessary for safety — e.g., fire risk)
+- Signs of shock: pale, cold, clammy skin, rapid weak pulse, confusion
+
+--- FIRST AID AT THE SCENE OF A ROAD ACCIDENT ---
+DO:
+1. Ensure your own safety first — move to a safe area if possible (away from oncoming traffic), use hazard lights/warning signals
+2. Call 112 or 108 for ambulance immediately
+3. Check responsiveness: Gently tap and shout — is the person conscious?
+4. If unconscious but breathing: Do NOT move them unless there is immediate danger (fire, oncoming traffic) — moving may worsen spinal injuries
+5. Control severe bleeding: Apply firm, direct pressure with a clean cloth
+6. Keep the person warm and calm
+7. If trained, check airway, breathing, circulation (ABC)
+8. Note details for emergency responders: time of crash, mechanism of injury, vehicles involved
+
+DO NOT:
+- Do NOT remove a motorcycle helmet unless the person is not breathing and you need to perform CPR (removing helmets incorrectly can worsen neck injuries — if must be removed, two people should stabilise the head/neck)
+- Do NOT give the injured person food or water
+- Do NOT move someone with suspected spinal injury unless absolutely necessary
+- Do NOT attempt to set fractures or push protruding bones back
+- Do NOT leave the injured person alone
+
+GOOD SAMARITAN LAW (INDIA):
+- India's Good Samaritan Law protects bystanders who help accident victims from legal/procedural harassment — you cannot be forced to reveal your identity, and you will not be held liable for any harm if you act in good faith to help
+
+--- RISK FACTORS ---
+- Speeding: Major contributor to crash severity globally and in India
+- Drunk driving / driving under influence of alcohol or drugs
+- Not wearing helmets (two-wheeler riders/pillion riders)
+- Not wearing seatbelts
+- Distracted driving (mobile phone use while driving)
+- Driving without a valid license / unsafe vehicle condition
+- Poor road infrastructure: Lack of footpaths, poorly marked crossings, inadequate lighting, potholes
+- Mixed traffic conditions: Pedestrians, animals, cyclists, two-wheelers, and heavy vehicles sharing the same road space — common in India
+- Fatigue, especially among long-distance commercial drivers
+- Children travelling unrestrained or on two-wheelers without helmets
+
+--- PREVENTION ---
+For individuals:
+1. Always wear a helmet (correctly fastened) on two-wheelers — for both rider and pillion
+2. Always wear a seatbelt, including for rear-seat passengers
+3. Never drive after consuming alcohol or drugs
+4. Follow speed limits
+5. Avoid using mobile phones while driving
+6. Ensure children are in appropriate car seats/restraints; do not let children ride two-wheelers as riders
+7. Maintain vehicles properly (brakes, lights, tyres)
+8. Cross roads at designated crossings; use footbridges/subways where available
+9. Be visible at night — wear reflective clothing if walking/cycling on roads without streetlights
+10. Avoid driving while fatigued — take breaks on long journeys
+
+Population-level prevention (policy/infrastructure):
+- Enforcement of helmet, seatbelt, and drunk-driving laws
+- Safer road design: footpaths, pedestrian crossings, speed bumps in residential/school zones, better lighting
+- Vehicle safety standards
+- Public awareness campaigns
+
+--- ENVIRONMENTAL CONTROL ---
+- Improved street lighting, especially on highways and rural roads
+- Clear road signage and lane markings
+- Speed-calming measures near schools, hospitals, and residential areas
+- Separation of pedestrian/cyclist paths from vehicular traffic where feasible
+- Regular road maintenance to address potholes and hazards
+
+--- VACCINATION ---
+- Tetanus vaccination/booster: Important for anyone with open wounds from a road traffic injury — tetanus prophylaxis is part of standard trauma care at hospitals
+- Not otherwise directly applicable to road traffic injury prevention
+
+--- DIAGNOSIS (FOR INJURIES) ---
+- Primary survey (ABCDE approach) by emergency medical personnel: Airway, Breathing, Circulation, Disability (neurological), Exposure
+- Imaging: X-rays for fractures, CT scans for head/spinal/internal injuries, ultrasound (FAST scan) for internal bleeding
+- Trauma centres and District Hospitals in India are increasingly equipped for trauma care under the National Trauma Care Programme
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Immediate stabilisation: Airway management, bleeding control, fracture immobilisation
+- Surgical intervention: For internal injuries, fractures requiring fixation, or life-threatening bleeding
+- Rehabilitation: Physiotherapy for fracture recovery, spinal cord injury rehabilitation
+- Trauma Care Centres along National Highways (under National Highway Accident Relief Service Scheme) provide emergency care
+- Cashless treatment: Under the Motor Vehicles Act amendment (2019), victims of road accidents are entitled to cashless treatment for the first 1-2 days/up to a specified amount at notified hospitals, regardless of fault
+
+--- WHEN TO SEE A DOCTOR / SEEK EMERGENCY CARE ---
+- ANY road traffic crash involving loss of consciousness, even brief — must be medically evaluated, even if the person seems "fine" afterward (head injuries can have delayed effects)
+- Any of the warning signs listed above
+- Persistent headache, vomiting, confusion, or drowsiness in the hours/days after a head injury — seek care even if initial evaluation was normal
+- Any deformity, inability to bear weight, or severe pain in a limb after a crash
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Ministry of Road Transport and Highways (MoRTH): Publishes annual "Road Accidents in India" report; leads road safety policy
+- National Highway Accident Relief Service Scheme: Provides cranes and ambulances along highways for crash response
+- 108/102 Ambulance Services: Free emergency ambulance services in most states for crash victims
+- Good Samaritan Law: Protects bystanders who help accident victims (Supreme Court guidelines, 2016; notified by MoRTH)
+- Cashless treatment scheme (Motor Vehicles Act, 2019 amendment): Provides for cashless treatment of road accident victims during the golden hour at notified hospitals
+- Helmet and seatbelt laws: Mandatory under the Motor Vehicles Act, with penalties for non-compliance — but enforcement varies by state
+- High-risk groups in India: Two-wheeler riders/pillion riders without helmets, pedestrians on highways without footpaths, and young male drivers (18-35 age group) account for a large share of fatalities
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is it safe to help someone at an accident site, or could I get in legal trouble?
+A: India's Good Samaritan Law protects bystanders who help accident victims in good faith — you cannot be compelled to disclose your identity, detained for questioning beyond what's necessary, or held civilly/criminally liable for assisting. Helping can save lives during the "golden hour."
+
+Q: Should I remove an injured motorcyclist's helmet?
+A: Generally, do NOT remove a helmet unless the person is not breathing and needs CPR, or there's a reason it must come off for safety. If removal is necessary, it should be done carefully by two people to support the head and neck, as improper removal can worsen neck/spinal injuries.
+
+Q: Is it true that road accident victims can get free treatment even without money?
+A: Under the cashless treatment scheme (Motor Vehicles Act, 2019 amendment), road accident victims are entitled to cashless treatment for a specified period/amount at notified hospitals during the critical early period after a crash, regardless of who is at fault or ability to pay.
+
+Q: Do helmets really make a difference?
+A: Yes, significantly. Wearing a properly fastened helmet reduces the risk of death in a motorcycle crash by almost 40% and severe head injury by over 70%. This applies to both riders and pillion passengers.
+
+Q: What is the "Golden Hour"?
+A: The "Golden Hour" refers to the critical first hour after a severe injury, during which prompt medical treatment significantly improves the chances of survival. This is why immediate first aid, calling for emergency help, and rapid transport to a hospital are so important.
+
+--- IMPORTANT SAFETY NOTE ---
+Road traffic injuries are largely preventable through safe behaviours: always wear a helmet/seatbelt, never drink and drive, and follow speed limits. If you witness a road accident, call 112/108 immediately and provide first aid within your training — the Good Samaritan Law protects you when helping in good faith. Any loss of consciousness after a crash, however brief, requires medical evaluation. Free emergency ambulance services (108/102) and cashless treatment during the golden hour are available across India.
+
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.

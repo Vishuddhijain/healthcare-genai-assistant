@@ -1,0 +1,102 @@
+TOPIC: Malaria
+CATEGORY: Communicable / Infectious Disease / Vector-Borne
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/malaria
+LAST UPDATED: December 2025
+
+--- OVERVIEW ---
+Malaria is a life-threatening disease caused by Plasmodium parasites and spread to humans through the bites of infected female Anopheles mosquitoes. It is preventable and curable. Malaria does NOT spread person to person — it requires a mosquito as a carrier. It is most common in tropical and subtropical countries including parts of India.
+
+--- KEY FACTS ---
+- Globally, there were an estimated 282 million malaria cases in 2024.
+- 610,000 deaths occurred due to malaria in 2024 worldwide.
+- Children under 5 years account for about 75% of all malaria deaths.
+- India has made significant progress in reducing malaria cases but still reports a substantial burden.
+- The WHO African Region bears 95% of the global malaria burden.
+
+--- HOW IT SPREADS ---
+- Bite of an infected female Anopheles mosquito (primary route)
+- Blood transfusion with infected blood (rare)
+- Sharing contaminated needles
+
+Malaria DOES NOT spread through:
+- Casual contact, coughing, or sneezing
+- Air or water
+
+--- SYMPTOMS ---
+Mild symptoms (appear 7-30 days after mosquito bite):
+- Fever and chills
+- Headache
+- Muscle aches
+- Nausea and vomiting
+- Fatigue
+
+Severe symptoms (require emergency care):
+- High fever with confusion or altered consciousness
+- Seizures
+- Difficulty breathing
+- Severe anemia
+- Yellowing of skin/eyes (jaundice)
+- Abnormal bleeding
+
+NOTE: P. falciparum malaria (most dangerous type) can progress to severe illness and death within 24 hours if left untreated.
+
+--- WHO IS AT HIGHER RISK ---
+- Children under 5 years
+- Pregnant women (can cause anemia, low birth weight, premature birth)
+- People with HIV/AIDS
+- Travelers visiting malaria-endemic regions without taking preventive medication
+- People living in areas with poor mosquito control
+
+--- PREVENTION ---
+Personal protection:
+- Sleep under insecticide-treated bed nets (ITNs)
+- Use mosquito repellent (containing DEET) on exposed skin
+- Wear long-sleeved clothes and full trousers in the evenings and early mornings
+- Use mosquito coils or indoor sprays
+- Ensure windows and doors have mesh screens
+
+Environmental control:
+- Eliminate standing water (in pots, tyres, coolers, flower pots) — breeding sites for mosquitoes
+- Keep surroundings clean and dry
+- Support community fogging and drainage efforts
+
+For travelers: Anti-malarial medications may be recommended before visiting endemic areas — consult a doctor.
+
+--- DIAGNOSIS ---
+Malaria is diagnosed by blood tests — either a Rapid Diagnostic Test (RDT) or microscopy (blood smear). Early diagnosis and prompt treatment prevent complications and death. Free testing is available at government health centres.
+
+--- TREATMENT ---
+Malaria is treatable. Treatment depends on the type of malaria parasite and severity. Artemisinin-based combination therapies (ACTs) are the most effective treatment for P. falciparum malaria. Complete the full treatment course even if you feel better.
+
+--- INDIA-SPECIFIC PROGRAMME ---
+The National Vector Borne Disease Control Programme (NVBDCP) under the Ministry of Health manages malaria control in India. Free diagnosis and treatment are available at government facilities. Annual Mass Drug Administration (MDA) is conducted in high-burden areas.
+
+--- WHEN TO SEE A DOCTOR ---
+See a doctor immediately if:
+- You have fever, chills, and headache after being in a malaria-endemic area
+- Any child under 5 has high fever
+- Symptoms include confusion, difficulty breathing, or seizures (emergency — call 112)
+
+--- IMPORTANT SAFETY NOTE ---
+This is awareness information only. Malaria treatment must be prescribed by a qualified doctor. Do not self-medicate with anti-malarials.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

@@ -1,0 +1,84 @@
+TOPIC: Electronic waste (e-waste)
+CATEGORY: Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/electronic-waste-(e-waste)
+LAST UPDATED: 15 March 2021
+
+--- OVERVIEW ---
+Every year millions of electrical and electronic devices are discarded as products break or become obsolete and are thrown away. These discarded devices are considered e-waste and can become a threat to health and the environment if they are not disposed of and recycled appropriately.
+
+Common items in e-waste streams include computers, mobile phones, large household appliances, and medical equipment. Millions of tonnes of e-waste are recycled using unsound activities, as well as being stored in homes and warehouses, dumped, and illegally exported. When e-waste is recycling using unsound activities, it can release up to 1000 different chemical substances into the environment, including known neurotoxicants such as lead (3) . Pregnant women and children are particularly vulnerable due to their pathways of exposure and developmental status. The International Labour Organization (ILO) estimates that 16.5 million children were working in the industrial sector in 2020, of which waste processing is a subsector.
+
+--- KEY FACTS ---
+- E-waste is one of the fastest growing solid waste streams in the world.
+- In 2022, an estimated 62 million tonnes of e-waste were produced globally. Only 22.3% was documented as formally collected and recycled.
+- Lead is a common substance released into the environment when e-waste is recycled, stored or dumped using informal activities, including open burning,.
+- Informal e-waste recycling activities may have several adverse health effects. Children and pregnant women are particularly vulnerable.
+- ILO and WHO estimate that millions of women and child labourers working in the informal recycling sector globally may be at risk of hazardous e-waste exposures.
+
+--- TYPES ---
+- In 2022, an estimated 62 million tonnes of e-waste were produced globally. Only 22.3% was documented as formally collected and recycled.
+- Lead is a common substance released into the environment when e-waste is recycled, stored or dumped using informal activities, including open burning,.
+- Informal e-waste recycling activities may have several adverse health effects. Children and pregnant women are particularly vulnerable.
+- ILO and WHO estimate that millions of women and child labourers working in the informal recycling sector globally may be at risk of hazardous e-waste exposures.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Electronic waste (e-waste) is one of the fastest growing solid waste streams in the world (1) . Less than a quarter of e-waste produced globally in 2022 was known to be formally recycled; however, e-waste streams contain valuable and finite resources that can be reused if they are recycled appropriately. E-waste has therefore become an important income stream for individuals and some communities. People living in low- and middle-income (LMICs), particularly children, face the most significant risks from e-waste due to lack of appropriate regulations and enforcement, recycling infrastructure and training. Despite international regulations...
+- Electrical and electronic items contain many different toxic substances. Users are unlikely to have contact with these substances while the items are functional. When they become waste, these toxicants can be released into the environment if the devices are managed using environmentally-unsound practices and activities. Many unsound practices have been observed at e-waste sites including:
+- dumping on land or in water bodies
+- landfilling along with regular waste
+- opening burning or heating
+- acid baths or acid leaching
+- stripping and shredding plastic coatings
+- manual disassembly of equipment.
+
+--- PREVENTION ---
+- National and international actions are essential to protect communities from unsound e-waste recycling activities. Actions that can be taken include:
+- adopting and enforcing high-level international agreements;
+- developing and implementing national e-waste management legislation that protects public health;
+- incorporating health protection measures into national legislation;
+- monitoring e-waste sites and surrounding communities;
+- implementing and monitoring interventions that improve informal e-waste recycling activities, protect public health and ensure vital sources of community revenue;
+- educating health workers across all levels on e-waste-related child health issues;
+- eliminating child labour.
+
+--- ENVIRONMENTAL CONTROL ---
+- Electrical and electronic items contain many different toxic substances. Users are unlikely to have contact with these substances while the items are functional. When they become waste, these toxicants can be released into the environment if the devices are managed using environmentally-unsound practices and activities. Many unsound practices have been observed at e-waste sites including:
+- dumping on land or in water bodies
+- landfilling along with regular waste
+- opening burning or heating
+- acid baths or acid leaching
+- stripping and shredding plastic coatings
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- E-waste is one of the fastest growing solid waste streams in the world.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- National and international actions are essential to protect communities from unsound e-waste recycling activities. Actions that can be taken include:
+- adopting and enforcing high-level international agreements;
+- developing and implementing national e-waste management legislation that protects public health;
+- incorporating health protection measures into national legislation;
+- monitoring e-waste sites and surrounding communities;
+- implementing and monitoring interventions that improve informal e-waste recycling activities, protect public health and ensure vital sources of community revenue;
+- educating health workers across all levels on e-waste-related child health issues;
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

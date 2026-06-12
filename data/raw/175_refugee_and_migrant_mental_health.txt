@@ -1,0 +1,77 @@
+TOPIC: Refugee and migrant mental health
+CATEGORY: Mental Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/refugee-and-migrant-mental-health
+LAST UPDATED: 1 September 2025
+
+--- OVERVIEW ---
+The experience of migration is a key determinant of refugee and migrant mental health. Each stage of the migration journey presents unique stressors that can increase the risk of developing mental health conditions.
+
+Pre-migration: lack of livelihoods and opportunities for education and development, exposure to armed conflict, violence, natural disasters, poverty and/or persecution.
+
+Migration travel and transit: exposure to challenging and life-threatening conditions including violence, detention and lack of access to services to cover basic needs.
+
+--- KEY FACTS ---
+- In 2024, there were 123.2 million forcibly displaced people globally, including 73.5 million internally displaced people, 36.8 million refugees, 8.4 million asylum-seekers, and 5.9 million others needing international protection.
+- Low- and middle-income countries host 71% of the world’s refugees and others needing international protection.
+- Refugees and migrants exposed to adversity are more likely than host populations to experience mental health conditions such as depression, anxiety, post-traumatic stress disorder (PTSD), suicide and psychoses.
+- Many refugees and migrants struggle to access mental health services and face disruptions in continuity of care.
+- Refugees and migrants contribute positively to society and there are many evidence-based strategies to support them in reaching their full potential.
+- Today more people than ever live in a country other than the one where they were born. While many people migrate out of choice, others migrate out of necessity. Some may be forcibly displaced from their homes as they flee persecution, conflict, violence or disaster. Others facing adversity may also have little option but to move, for example to escape inhuman treatment, avoid economic hardship, access social rights or reunite with families.
+
+--- TYPES ---
+- Strengthen community capacity. Engage with refugee and migrant groups, provide information about mental health services, and offer community-based referrals. Improve continuity of care by ensuring communication among service providers and providing portable health information.
+- Information disclosure
+
+--- SYMPTOMS ---
+- Many refugees and migrants experience distress, such as feelings of anxiety, sadness, hopelessness, difficulty sleeping, fatigue, irritability, anger and physical pains. For most people, these reactions improve over time. Others will go on to develop mental health conditions.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- In all contexts, and at all stages of the migration journey, refugee and migrant mental health is influenced by diverse individual, family, community and structural factors that can be grouped into five areas.
+- Community support . Being part of a community with a shared background, and attending school for children, is associated with better mental health.
+- Basic needs and security . Insecure income, work, housing, legal status and access to food can contribute to poor mental health.
+- Stigma . Experiences of racism and discrimination may prevent or delay help seeking and are associated with adverse mental health outcomes.
+- Adversity and trauma . Exposure to potentially traumatic events such as conflict, abuse, violence and extended detention is associated with mental health conditions such as depression and PTSD.
+- Access to services . Language barriers, lack of awareness and confidentiality concerns often prevent refugees and migrants from accessing mental health care.
+
+--- PREVENTION ---
+- In all contexts, and at all stages of the migration journey, refugee and migrant mental health is influenced by diverse individual, family, community and structural factors that can be grouped into five areas.
+- Community support . Being part of a community with a shared background, and attending school for children, is associated with better mental health.
+- Basic needs and security . Insecure income, work, housing, legal status and access to food can contribute to poor mental health.
+- Stigma . Experiences of racism and discrimination may prevent or delay help seeking and are associated with adverse mental health outcomes.
+- Adversity and trauma . Exposure to potentially traumatic events such as conflict, abuse, violence and extended detention is associated with mental health conditions such as depression and PTSD.
+- Access to services . Language barriers, lack of awareness and confidentiality concerns often prevent refugees and migrants from accessing mental health care.
+
+--- ENVIRONMENTAL CONTROL ---
+- Pre-migration: lack of livelihoods and opportunities for education and development, exposure to armed conflict, violence, natural disasters, poverty and/or persecution.
+- Migration travel and transit: exposure to challenging and life-threatening conditions including violence, detention and lack of access to services to cover basic needs.
+- Adversity and trauma . Exposure to potentially traumatic events such as conflict, abuse, violence and extended detention is associated with mental health conditions such as depression and PTSD.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Many refugees and migrants struggle to access mental health services and face disruptions in continuity of care.
+- Today more people than ever live in a country other than the one where they were born. While many people migrate out of choice, others migrate out of necessity. Some may be forcibly displaced from their homes as they flee persecution, conflict, violence or disaster. Others facing adversity may also have little option but to move, for example to escape inhuman treatment, avoid economic hardship, access social rights or reunite with families.
+- Post-migration: barriers that hamper access to mental health care and other services, poor living conditions, separation from family members and support networks, potentially uncertain legal status, and in some cases detention in immigration centres.
+- Access to services . Language barriers, lack of awareness and confidentiality concerns often prevent refugees and migrants from accessing mental health care.
+- Integrate mental health into general health care. Train general health workers to assess and treat people with mental health conditions. Also train other professionals (e.g. migration officers, social workers, teachers) to recognize, support and refer those needing mental health care. Adapt interventions to account for language and culture.
+- Offer flexible mental health services . Give people choices regarding the location, provider and treatment approach of their mental health care. Clearly communicate entitlements and service access options (e.g. through community outreach, schools, faith groups).
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

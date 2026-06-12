@@ -1,0 +1,179 @@
+TOPIC: Preterm Birth
+CATEGORY: Maternal and Child Health / Preventive Care
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/preterm-birth | NHM India | UNICEF
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Preterm birth refers to babies born alive before 37 completed weeks of pregnancy (a normal pregnancy lasts about 40 weeks). Preterm birth is the leading cause of death among children under 5 years globally. Babies born preterm may face short-term and long-term health challenges, with risk increasing the earlier they are born. India has one of the highest numbers of preterm births in the world. Many preterm births can be prevented through good antenatal care, and most preterm babies can survive and thrive with appropriate care, including Kangaroo Mother Care.
+
+--- KEY FACTS ---
+- An estimated 13.4 million babies were born preterm globally in 2020 — about 1 in 10 births.
+- Preterm birth complications are the leading cause of death in children under 5 worldwide.
+- India accounts for the largest number of preterm births globally — estimated at over 3 million per year.
+- Survival chances increase significantly with each additional week in the womb, especially between 28-37 weeks.
+- Many preterm births occur for unknown reasons, but known risk factors can be managed.
+- Kangaroo Mother Care (KMC) — skin-to-skin contact — significantly improves survival and outcomes for preterm/low birth weight babies, even in resource-limited settings.
+- Antenatal corticosteroids given to mothers at risk of preterm labour (24-34 weeks) significantly improve newborn lung function and survival.
+
+--- TYPES / CLASSIFICATION ---
+Based on gestational age at birth:
+1. Extremely preterm: Before 28 weeks
+2. Very preterm: 28 to less than 32 weeks
+3. Moderate to late preterm: 32 to less than 37 weeks (most preterm births fall in this category)
+
+Based on cause:
+1. Spontaneous preterm labour: Labour begins on its own before 37 weeks
+2. Preterm premature rupture of membranes (PPROM): Water breaks before labour and before 37 weeks
+3. Medically indicated preterm birth: Doctors induce labour or perform caesarean early due to maternal/fetal complications (e.g., severe pre-eclampsia, fetal distress)
+
+--- SIGNS OF PRETERM LABOUR (FOR THE MOTHER) ---
+A pregnant woman should watch for these signs before 37 weeks:
+- Regular contractions (tightening of the abdomen) occurring every 10 minutes or more frequently
+- Lower back pain, especially if dull and constant or rhythmic
+- Pelvic pressure — feeling like the baby is pushing down
+- Abdominal cramps, with or without diarrhoea
+- Increase in vaginal discharge, or change in type (watery, mucus-like, or bloody)
+- Leaking fluid from the vagina (possible rupture of membranes)
+- Vaginal bleeding
+
+--- SYMPTOMS / SIGNS IN THE PRETERM BABY ---
+- Small size, low birth weight (less than 2.5 kg)
+- Thin, smooth skin; may appear shiny or translucent
+- Less body fat
+- Body temperature regulation difficulty (may feel cold)
+- Difficulty feeding (weak suck reflex)
+- Breathing difficulties (rapid breathing, grunting, pauses in breathing/apnoea) — due to underdeveloped lungs
+- Jaundice (yellowing of skin/eyes)
+- Reduced activity/responsiveness
+
+--- WARNING SIGNS — SEEK IMMEDIATE CARE ---
+For pregnant women, before 37 weeks:
+- Any signs of preterm labour listed above
+- Fluid leaking from the vagina
+- Vaginal bleeding
+- Decreased fetal movement
+
+For preterm/newborn babies:
+- Difficulty breathing, grunting, or pauses in breathing (apnoea)
+- Bluish colour of lips, face, or body
+- Refusal to feed or very weak feeding
+- Lethargy, very low activity, or difficulty waking
+- Body feels cold despite wrapping
+- Yellowing of skin/eyes that is worsening or appears in first 24 hours
+- Fever or very low temperature
+
+--- RISK FACTORS ---
+For preterm birth:
+- Multiple pregnancy (twins, triplets)
+- Previous preterm birth
+- Short interval between pregnancies (less than 18 months)
+- Infections during pregnancy (urinary tract infections, vaginal infections, malaria)
+- Chronic conditions: Hypertension, diabetes, kidney disease
+- Pre-eclampsia/eclampsia
+- Underweight or overweight before pregnancy; poor maternal nutrition
+- Anaemia during pregnancy
+- Smoking, alcohol, or substance use during pregnancy
+- Stress, including domestic violence
+- Adolescent pregnancy (under 18) or pregnancy over 35 years
+- Inadequate antenatal care / late initiation of ANC
+- Lack of access to skilled care during pregnancy
+
+--- PREVENTION ---
+1. Good antenatal care (ANC):
+   - At least 4 ANC visits (WHO recommends 8 contacts) to monitor pregnancy and identify risks early
+   - Screening and treatment of infections (UTIs, malaria, STIs)
+   - Management of chronic conditions (hypertension, diabetes)
+
+2. Maternal nutrition:
+   - Iron-folic acid (IFA) supplementation to prevent anaemia
+   - Calcium supplementation (reduces pre-eclampsia risk)
+   - Adequate maternal nutrition before and during pregnancy
+
+3. Avoiding risk behaviours:
+   - No smoking, alcohol, or recreational drug use during pregnancy
+   - Adequate birth spacing (at least 18-24 months between pregnancies)
+
+4. Managing high-risk pregnancies:
+   - Identifying women at risk (previous preterm birth, multiple pregnancy, pre-eclampsia) for closer monitoring and timely referral to higher-level facilities
+   - Progesterone supplementation for women with history of preterm birth (under medical guidance)
+
+5. For threatened preterm labour:
+   - Antenatal corticosteroids (between 24-34 weeks) to mature the baby's lungs — given by healthcare providers when preterm birth is anticipated
+   - Tocolytic medications may be used to delay labour briefly, allowing time for steroid administration and transfer to a facility with newborn care
+
+--- CARE FOR PRETERM BABIES ---
+Kangaroo Mother Care (KMC):
+- Continuous or near-continuous skin-to-skin contact between mother (or father/caregiver) and baby
+- Helps regulate baby's temperature, heart rate, and breathing
+- Promotes breastfeeding and bonding
+- Significantly reduces mortality in low birth weight babies, even without high-tech equipment
+- Can be practiced at home and in health facilities — promoted under India's national newborn care programmes
+
+Other essential newborn care:
+- Exclusive breastfeeding (or expressed breast milk if baby cannot feed directly)
+- Keeping the baby warm (avoiding hypothermia)
+- Infection prevention (hand hygiene, cord care)
+- Special Newborn Care Units (SNCUs): Government facilities providing care for sick and small newborns, including oxygen support, warmers, and feeding support
+
+--- VACCINATION ---
+- Preterm babies follow the same UIP immunisation schedule as full-term babies based on chronological age (not adjusted for prematurity), unless a doctor advises otherwise
+- Maternal vaccination (Tdap, influenza during pregnancy where available) helps protect newborns, including preterm infants, in early life
+
+--- DIAGNOSIS ---
+- Gestational age assessment: Based on last menstrual period (LMP) and/or early ultrasound dating
+- Clinical assessment of the newborn: Weight, physical features (skin, ear cartilage, sole creases), reflexes to estimate gestational age (e.g., New Ballard Score)
+- Monitoring for complications: Breathing difficulties, jaundice, feeding problems, infections
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Special Newborn Care Units (SNCUs) / Neonatal Intensive Care Units (NICUs): Provide warmth, respiratory support (oxygen, CPAP, ventilation if needed), feeding support (tube feeding if necessary), and infection treatment
+- Antenatal corticosteroids: Given to mothers before preterm delivery to reduce respiratory complications in the baby
+- Surfactant therapy: For babies with respiratory distress syndrome (severe lung immaturity) — administered in NICU settings
+- Kangaroo Mother Care: Used alongside medical care to improve outcomes
+- Phototherapy: For jaundice if levels are high
+
+--- WHEN TO SEE A DOCTOR ---
+For pregnant women:
+- Any signs of preterm labour before 37 weeks (regular contractions, fluid leakage, bleeding, pelvic pressure) — seek immediate care
+- Decreased fetal movements
+- Attend all scheduled ANC visits, even if feeling well
+
+For newborns/preterm babies:
+- Any difficulty breathing, feeding difficulties, lethargy, or temperature instability — seek immediate care
+- Regular follow-up visits as advised by the paediatrician, especially for growth and development monitoring
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India Newborn Action Plan (INAP): National strategy to reduce preventable newborn deaths, including from prematurity
+- Special Newborn Care Units (SNCUs): Established at district hospitals across India to care for sick and preterm newborns
+- Janani Shishu Suraksha Karyakram (JSSK): Provides free care for sick newborns, including free transport, drugs, diagnostics, and treatment
+- Kangaroo Mother Care: Actively promoted in Indian health facilities and community settings (Facility-Based Newborn Care guidelines)
+- Anaemia Mukt Bharat and Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA): Provide free antenatal check-ups including for high-risk pregnancy identification
+- High-risk pregnancy clinics designated under PMSMA (9th of every month — free ANC checkups with specialists)
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can all preterm babies survive?
+A: Survival depends heavily on gestational age and access to appropriate care. Babies born after 32 weeks generally have good survival rates with proper care. Extremely preterm babies (before 28 weeks) face higher risks but survival has improved significantly with modern neonatal care, including in well-equipped SNCUs.
+
+Q: What is Kangaroo Mother Care and does it really help?
+A: KMC involves holding the baby skin-to-skin against the parent's chest for extended periods. It is one of the most evidence-based, low-cost interventions that significantly reduces mortality and improves outcomes for preterm/low birth weight babies — it can be practiced by mothers and fathers, at home and in hospitals.
+
+Q: If I had a preterm birth before, will it happen again?
+A: Previous preterm birth is a risk factor for future pregnancies, but it does not mean it will definitely happen again. Discuss this history with your doctor early in subsequent pregnancies — additional monitoring and interventions (like progesterone) may reduce risk.
+
+Q: Is it safe to deliver a preterm baby at a smaller health centre?
+A: Preterm babies, especially those born very early or with complications, need care in facilities with Special Newborn Care Units (SNCUs) or NICUs. If preterm labour is anticipated, timely referral to a facility equipped for newborn care significantly improves outcomes — this is why early recognition of preterm labour signs and prompt action are important.
+
+--- IMPORTANT SAFETY NOTE ---
+Preterm birth is a leading cause of child mortality but many preterm babies survive and thrive with appropriate care. Attend all antenatal care visits, recognise the signs of preterm labour, and seek immediate medical care if they occur. If a baby is born preterm, Kangaroo Mother Care and care at a Special Newborn Care Unit significantly improve outcomes. Free care for sick and preterm newborns is available at government facilities under JSSK.
+
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.

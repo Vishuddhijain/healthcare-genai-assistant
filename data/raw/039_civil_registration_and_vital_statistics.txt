@@ -1,0 +1,69 @@
+TOPIC: Civil registration and vital statistics
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/civil-registration-and-vital-statistics
+LAST UPDATED: 27 February 2024
+
+--- OVERVIEW ---
+Countries use civil registration to record vital events such as birth, marriage, divorce, adoption, death and cause of death. Information on births and deaths by location, age, sex and cause is the cornerstone of public health and social development planning.
+
+The main source of vital statistics is civil registration. “Civil registration is defined as the continuous, permanent, compulsory and universal recording of the occurrence and characteristics of vital events pertaining to the population, as provided through decree or regulation in accordance with the legal requirements in each country” (2) . The availability of detailed vital statistics for a country or area illustrates national capacity in the compilation of these statistics from civil registration systems.
+
+Birth registration provides a basis for social inclusion and individual legal identity, which is a human right. Registering births, deaths and causes of death allows countries to identify their most pressing health and social issues such as fertility rates or resolution of criminal cases.
+
+--- KEY FACTS ---
+- It is estimated that 36 million babies born each year are not registered, as only about 50% of countries have the capacity to register at least 90% of births.
+- Registered births ranged from 98% in the WHO European Region, 96% in the Region of the Americas, 91% in Western Pacific Region, 78% in South-East Asia Region, 69% in the Eastern Mediterranean Region and only 44% in African Region.
+- Nearly 40% of the world’s deaths are not registered, and only 8% of reported deaths in low-income countries have documented causes.
+- The latest global assessment of health data capacity in countries (SCORE assessment) in 164 countries found that the percentage of registered deaths ranged from 98% in the WHO European Region, 91% in the Region of the Americas, 82% in the Western Pacific Region, 61% in South-East Asia Region, 55% in Eastern Mediterranean Region and 10% in African Region.
+- It is estimated that 14.9 million extra deaths were associated with the COVID-19 pandemic, and 84 of 197 (43%) countries did not have mortality data to contribute to the estimation.
+
+--- TYPES ---
+- Countries use civil registration to record vital events such as birth, marriage, divorce, adoption, death and cause of death. Information on births and deaths by location, age, sex and cause is the cornerstone of public health and social development planning.
+- Many barriers still prevent people from registering births and deaths, including when countries do not have the necessary laws or infrastructure to register all births and deaths. Censuses and surveys can be used to estimate population numbers, but these are not designed to capture information on all causes of death. Some countries have set up sample registration systems that can generate nationally representative mortality data.
+- The SCORE for Health Data Technical Package converges comprehensive strategies and interventions for strengthening country health information systems. Launched in August 2020, the report is a concrete starting point to improve the availability of timely, reliable and comparable health data to track progress towards the Triple Billion targets and health-related Sustainable Development Goals.
+- Information disclosure
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Nearly 40% of the world’s deaths are not registered, and only 8% of reported deaths in low-income countries have documented causes.
+- The latest global assessment of health data capacity in countries (SCORE assessment) in 164 countries found that the percentage of registered deaths ranged from 98% in the WHO European Region, 91% in the Region of the Americas, 82% in the Western Pacific Region, 61% in South-East Asia Region, 55% in Eastern Mediterranean Region and 10% in African Region.
+- It is estimated that 14.9 million extra deaths were associated with the COVID-19 pandemic, and 84 of 197 (43%) countries did not have mortality data to contribute to the estimation.
+- Countries use civil registration to record vital events such as birth, marriage, divorce, adoption, death and cause of death. Information on births and deaths by location, age, sex and cause is the cornerstone of public health and social development planning.
+- Birth registration provides a basis for social inclusion and individual legal identity, which is a human right. Registering births, deaths and causes of death allows countries to identify their most pressing health and social issues such as fertility rates or resolution of criminal cases.
+- Many barriers still prevent people from registering births and deaths, including when countries do not have the necessary laws or infrastructure to register all births and deaths. Censuses and surveys can be used to estimate population numbers, but these are not designed to capture information on all causes of death. Some countries have set up sample registration systems that can generate nationally representative mortality data.
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- Many barriers still prevent people from registering births and deaths, including when countries do not have the necessary laws or infrastructure to register all births and deaths. Censuses and surveys can be used to estimate population numbers, but these are not designed to capture information on all causes of death. Some countries have set up sample registration systems that can generate nationally representative mortality data.
+- Strengthening CRVS systems requires collaboration with partners to align investment and avoid duplication of efforts. The Health Data Collaborative has set up a CRVS technical group to support coordinated country-level engagement. The three levels of WHO (headquarters, regional and country offices) coordinate technical support to countries. WHO also supports regional initiatives led by development partners to promote CRVS in the global agenda.
+- Preventing sexual exploitation
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- The latest global assessment of health data capacity in countries (SCORE assessment) in 164 countries found that the percentage of registered deaths ranged from 98% in the WHO European Region, 91% in the Region of the Americas, 82% in the Western Pacific Region, 61% in South-East Asia Region, 55% in Eastern Mediterranean Region and 10% in African Region.
+- WHO sets the norms and standards for the generation of cause-of-death statistics to ensure comparability across countries. For more than a century, the International Classification of Diseases (ICD) has been the basis for comparable statistics on causes of mortality and morbidity between places and over time. Originating in the 19th century, the latest version, ICD-11 , was adopted by the 72 nd World Health Assembly in 2019 and came into effect on 1 January 2022.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

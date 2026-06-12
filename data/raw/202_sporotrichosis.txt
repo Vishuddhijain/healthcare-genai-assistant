@@ -1,0 +1,60 @@
+TOPIC: Sporotrichosis
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/sporotrichosis
+LAST UPDATED: 15 November 2023
+
+--- OVERVIEW ---
+Sporotrichosis is usually a sporadically occurring infection seen in tropical and subtropical climates. It is caused by a number of different fungi of the genus Sporothrix , including S. schenckii, S. globose, S. mexicana and S. brasiliensis . The fungi exist naturally on plant materials. They infect people through breaks in the skin and invade deeper parts of the skin layer. S. brasiliensis infects cats and other mammals and can spread from them to humans. This has resulted in a large and progressive outbreak spreading within Brazil and several adjacent countries in South America. Sporotrichosis leads to painful and unsightly skin lesions as well as social stigma. Outbreaks of sporotrichosis has also been reported in China associated with flooding. There are localized areas of hyperendemicity in Guatemala, Mexico, Peru and South Africa. In South Africa, sporotrichosis has been...
+
+--- KEY FACTS ---
+- Sporotrichosis is an infection under the skin caused by different species of the fungus Sporothrix.
+- Infections occur sporadically in tropical and subtropical countries. There are areas where it is hyperendemic, causing between 25 to 100 cases per 100 000 persons.
+- One species , Sporothrix brasiliensis , causes zoonotic infections that spread via cats. In areas affected by this species in South America, mainly Brazil, more than 11 000 human cases have been reported in the past 10 years.
+- Although this is principally an infection of the skin and subcutis, sporotrichosis can spread and in rare cases cause meningitis, arthritis and respiratory infection. In some patients, skin lesions can be very extensive, particularly in people living with HIV.
+- Sporotrichosis is diagnosed by microscopy, histopathology or culture. Molecular diagnostic tools are in development but not widely available.
+- Sporotrichosis can be treated easily and effectively.
+
+--- TYPES ---
+- When people get sick from cat-related infections, they might develop additional skin rashes because their immune system reacts to the germs. This reaction can cause things like red patches on the skin, known as erythema multiforme. In some cases, there can be a more widespread rash with three or more lesions appearing on different parts of the skin. Rarely, deep forms of sporotrichosis can occur that can lead to arthritis, respiratory infection and even meningitis.
+- The infection responds to treatment with oral itraconazole or terbinafine. Saturated solutions of potassium iodide taken by mouth have also been used but require dispensing pharmacy skills to make up the medicine. Intravenous amphotericin B can be used for the rare systemic forms of sporotrichosis.
+
+--- SYMPTOMS ---
+- Sporotrichosis most commonly presents with nodules and plaques on exposed skin sites such as the face, legs or arms. These may be restricted to one site (fixed pattern). Alternatively, the nodules may be arranged in lines along the course of lymphatic vessels (lymphocutaneous pattern), known as sporotrichoid spread. This form is typical of sporotrichosis but a similar clinical pattern can occur with other neglected tropical diseases such as cutaneous leishmaniasis . Both nodules and plaques can ulcerate. Sporotrichosis can also affect the mucous membranes such as the mouth and other sites including the eyes.
+- When people get sick from cat-related infections, they might develop additional skin rashes because their immune system reacts to the germs. This reaction can cause things like red patches on the skin, known as erythema multiforme. In some cases, there can be a more widespread rash with three or more lesions appearing on different parts of the skin. Rarely, deep forms of sporotrichosis can occur that can lead to arthritis, respiratory infection and even meningitis.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Sporotrichosis is a subcutaneous fungal infection seen in tropical and subtropical climates although sporadic cases can occur in more temperate climates. The largest number of cases are found in Central and South America (particularly Brazil), Southern USA, Africa, China and South-East Asia. Clusters of cases are found in some areas. These have been associated with contaminated wood, e.g. material used in mines, or with flooding, but often the reason for outbreaks in one area is unknown.
+- Sporotrichosis affects otherwise healthy individuals, often those working in agriculture or with plants or plant materials, such as packing straw or thatching. It also affects individuals exposed to the fungus during leisure outdoor activities associated with skin abrasions. Contact with domestic or feral cats, particularly among veterinarians and others looking after cats, may also lead to infection in some regions.
+- There are two ways to acquire cutaneous sporotrichosis, both of which occur by traumatic inoculation of the fungi through the skin. The classic clinical presentation is transmitted through plant debris and the second (zoonotic form) is caused by animal transmission. Scratches from cats are a common source of the latter but inoculation through a wound site or broken skin can also occur. Transmission via contact with exudate (oozing fluid) from infected cats has also been reported. The zoonotic disease is a source of public health concern because of the continuing and spreading outbreak in South America.
+
+--- PREVENTION ---
+- There are no recognized preventive measures apart from early identification and treatment of infected cats. The use of gloves, protective clothing and shoes when handling roses, hay and sphagnum moss have the potential to reduce infections.
+
+--- ENVIRONMENTAL CONTROL ---
+- There are no recognized preventive measures apart from early identification and treatment of infected cats. The use of gloves, protective clothing and shoes when handling roses, hay and sphagnum moss have the potential to reduce infections.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Sporotrichosis is diagnosed by microscopy, histopathology or culture. Molecular diagnostic tools are in development but not widely available.
+- Diagnosis depends on demonstrating the characteristic fungal cells either in scrapings or curettings from lesions or biopsy material. In many cases there are few visible organisms in lesions and here culture or molecular diagnosis are more helpful in confirming the diagnosis. All involve the deployment of laboratory diagnostic skills and appropriate training of laboratory staff.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- The infection responds to treatment with oral itraconazole or terbinafine. Saturated solutions of potassium iodide taken by mouth have also been used but require dispensing pharmacy skills to make up the medicine. Intravenous amphotericin B can be used for the rare systemic forms of sporotrichosis.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

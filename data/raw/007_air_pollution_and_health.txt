@@ -1,0 +1,147 @@
+TOPIC: Air Pollution and Health
+CATEGORY: Environmental Health / Public Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Air pollution is one of the greatest environmental health threats. Both outdoor (ambient) and indoor (household) air pollution cause respiratory disease, heart disease, stroke, lung cancer, and premature death. India has some of the most polluted cities in the world. Understanding air pollution risks and protective measures is critical for every Indian.
+
+--- KEY FACTS ---
+- Air pollution causes 7 million premature deaths per year globally.
+- In India, air pollution is responsible for approximately 1.67 million deaths annually.
+- 99% of the world's population breathes air that exceeds WHO guideline levels.
+- PM2.5 (fine particulate matter) is the most dangerous pollutant — penetrates deep into lungs and enters bloodstream.
+- India's major pollutants: PM2.5, PM10, NO2, SO2, ozone, carbon monoxide.
+- Indoor air pollution from cooking on wood/dung fires is a major cause of lung disease in Indian women and children.
+
+--- TYPES OF AIR POLLUTION ---
+Outdoor (ambient) pollution sources:
+- Vehicle exhaust (major urban source)
+- Industrial emissions and power plants
+- Construction dust
+- Crop burning (significant seasonal source in North India — winter)
+- Garbage and biomass burning
+- Dust storms
+
+Indoor (household) pollution sources:
+- Burning wood, cow dung, crop residues, or coal for cooking
+- Tobacco smoke indoors
+- Incense and dhoop sticks
+- Poorly ventilated kitchens
+- Mosquito coils and agarbattis in enclosed spaces
+
+--- HEALTH EFFECTS OF AIR POLLUTION ---
+Short-term exposure:
+- Irritation of eyes, nose, and throat
+- Coughing and wheezing
+- Aggravation of asthma and other lung conditions
+- Headache and fatigue
+
+Long-term exposure:
+- Respiratory diseases: asthma, COPD, lung cancer
+- Heart disease and stroke
+- Reduced lung development in children
+- Premature death
+- Adverse pregnancy outcomes (low birth weight, preterm birth)
+- Neurological effects in children
+
+Most vulnerable:
+- Children (developing lungs)
+- Elderly
+- People with existing respiratory or heart conditions
+- Pregnant women
+- People living near high-traffic roads or industrial areas
+
+--- AIR QUALITY INDEX (AQI) IN INDIA ---
+India's Central Pollution Control Board (CPCB) publishes daily AQI:
+| AQI Range | Category | Health Impact |
+|---|---|---|
+| 0–50 | Good | Minimal impact |
+| 51–100 | Satisfactory | Minor breathing discomfort for sensitive people |
+| 101–200 | Moderate | Breathing discomfort for asthma, heart patients |
+| 201–300 | Poor | Breathing discomfort for most people on prolonged exposure |
+| 301–400 | Very Poor | Respiratory illness on prolonged exposure |
+| 401–500 | Severe | Affects healthy people; serious impact on sensitive groups |
+
+Check AQI: SAMEER app (by CPCB) or safar.iitm.ac.in
+
+--- PROTECTION MEASURES ---
+On high pollution days (AQI > 150):
+- Limit outdoor physical activity, especially in the morning
+- Keep windows and doors closed if outdoor AQI is high
+- Wear N95 or N99 mask outdoors (not cloth or surgical masks — they don't filter PM2.5)
+- Use air purifier indoors if available (HEPA filter)
+- Avoid burning garbage, biomass, firecrackers
+
+Reducing indoor pollution:
+- Cook with LPG or electric stove (Ujjwala Yojana provides free LPG connection to BPL families)
+- Ensure good kitchen ventilation — open windows, use exhaust fan or chimney
+- Do not smoke indoors
+- Limit use of incense sticks in enclosed rooms
+- Keep pets outdoors or bathe them regularly (pet dander)
+
+General habits:
+- Avoid roads with heavy traffic during peak hours for walking/cycling
+- Plant trees around home where possible (helps filter air)
+- Support local initiatives to reduce air pollution (oppose garbage burning, support clean vehicles)
+
+--- FIRECRACKERS AND HEALTH ---
+- Firecrackers significantly spike AQI during Diwali and other festivals
+- Even healthy people experience irritation; vulnerable groups face serious risk
+- Use eco-friendly or no crackers; if burning, limit time outdoors
+- If you have asthma, COPD, or heart disease — avoid firecracker exposure completely
+
+--- INDIA-SPECIFIC PROGRAMME ---
+- National Clean Air Programme (NCAP): India's mission to reduce PM10 and PM2.5 levels by 40% by 2026 in 131 non-attainment cities.
+- Pradhan Mantri Ujjwala Yojana: Free LPG connections to BPL households to replace solid fuel cooking.
+- BS-VI fuel standards: Implemented to reduce vehicle emissions.
+- CPCB AQI monitoring: Real-time data at cpcb.nic.in and SAMEER app.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is it safe to exercise outdoors in Delhi/Mumbai in winter?
+A: On days with AQI above 200 (Poor or worse), avoid outdoor exercise especially in the morning when pollution peaks. Use indoor exercise alternatives.
+
+Q: Do indoor plants improve air quality significantly?
+A: Plants have a very minor effect on indoor air quality. They cannot replace proper ventilation or air purifiers. But they do improve wellbeing.
+
+Q: Are cloth masks effective against air pollution?
+A: No. Cloth masks and surgical masks do not filter fine particles (PM2.5). Only N95 or N99 respirators provide meaningful protection against air pollution.
+
+Q: Is air pollution worse in winter in India?
+A: Yes. In winter, cooler air traps pollutants close to the ground (thermal inversion), crop burning occurs in Punjab/Haryana, and dust from construction settles less. North India is particularly affected.
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for awareness. If you experience severe breathing difficulty due to air pollution, consult a doctor immediately. Call 112 for emergencies.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

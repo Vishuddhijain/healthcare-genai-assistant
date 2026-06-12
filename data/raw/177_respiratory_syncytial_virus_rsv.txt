@@ -1,0 +1,65 @@
+TOPIC: Respiratory syncytial virus (RSV)
+CATEGORY: Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/respiratory-syncytial-virus-(rsv)
+LAST UPDATED: 19 December 2025
+
+--- OVERVIEW ---
+Respiratory syncytial virus (RSV) is an RNA virus that belongs to the Pneumoviridae family along with the human metapneumovirus and consists in two genotypes (A and B) (1) . RSV is specific and pathogenic for humans and infects cells along the human respiratory tract, from the nose to the lungs. RSV causes a wide spectrum of respiratory disease, from mild upper respiratory tract infections (in most cases) to life threatening lower respiratory tract infections ( 2 ). Infants, especially those under six months of age, are at highest risk of severe RSV disease and death. RSV can also cause severe disease among elderly people and those with underlying illnesses. Until recently, there was no vaccine available to protect infants and elderly people from RSV disease. In the last few years, several vaccines and a long-acting monoclonal antibody have been licensed and are starting to be used...
+
+--- KEY FACTS ---
+- Refer to the WHO fact sheet for the latest global key facts and estimates.
+
+--- TYPES ---
+- RSV infection in elderly adults can exacerbate chronic underlying illnesses, such as lung and heart disease.
+
+--- SYMPTOMS ---
+- The first symptoms of RSV usually present between day 4–7 after exposure to the virus.
+- Signs and symptoms of upper respiratory illness include:
+- It is to be noted that although most children may present with fever during RSV infection, a certain proportion of young children may not.
+- Signs and symptoms consistent with lower respiratory tract infection include:
+- shortness of breath
+- Severe lung disease can result in low oxygen levels in the body, respiratory muscle fatigue and can sometimes result in death. RSV-LRTI in early life may lead to long-term respiratory consequences, including repeat hospitalizations for respiratory illness during infancy, recurrent wheeze and/or asthma, and impaired lung health beyond infancy.
+- RSV infection in elderly adults can exacerbate chronic underlying illnesses, such as lung and heart disease.
+
+--- WARNING SIGNS ---
+- Severe lung disease can result in low oxygen levels in the body, respiratory muscle fatigue and can sometimes result in death. RSV-LRTI in early life may lead to long-term respiratory consequences, including repeat hospitalizations for respiratory illness during infancy, recurrent wheeze and/or asthma, and impaired lung health beyond infancy.
+- There is no specific treatment for RSV. Management of severe RSV disease involves supportive care, such as nasal suction of secretions, intravenous fluids for hydration, and most importantly supplemental oxygen to help breathing.
+- Several immunization products are currently available to prevent severe RSV disease in infants and elderly adults (7) . To protect infants, there is a vaccine given to pregnant women and persons late in pregnancy (WHO recommends third trimester vaccination, defined from 28 weeks gestational age in most settings). Maternal immunization allows transfer of antibodies against RSV through the placenta to the unborn baby, who is then protected for approximately 6 months after birth.
+- Currently, the cost of these products is high, and they are not affordable to most low- and middle-income countries. Also, there is under-recognition of RSV as a cause of severe lung disease in these countries, who face many other health priorities. Therefore, there is a delay in introducing these potential life-saving interventions for RSV prevention into the countries where they are most needed.
+
+--- RISK FACTORS ---
+- Each year, RSV causes an estimated 3.6 million RSV-associated hospitalizations and approximately 100 000 RSV-attributable deaths in children under 5 years of age worldwide (3) . Approximately half of RSV deaths among children occur in infants under the age of 6 months. Most paediatric RSV deaths (97%) occur in low- and middle-income countries where there is limited access to supportive medical care (3) . The global estimates of adult RSV disease are not known; in the United States of America, it has been estimated that RSV results in up to 160 000 hospitalizations and 10 000 deaths among adults over 65 years of age. The hospitalization...
+- Most countries demonstrate RSV seasonality, with most annual RSV infections occurring over a several month period (5) . In temperate climates, RSV causes seasonal epidemics, tending to occur in late fall and winter, with an average duration of elevated viral circulation of five months. Although not as sharply defined, most sub-tropical and tropical countries also experience consistent months of high RSV circulation during each year but with no clear seasonality patterns.
+- RSV is transmitted via infectious respiratory particles through the air from an infected person to another one. The virus is also thought to be transmitted by direct contact with infected persons or through support contaminated with the virus. Almost all babies are infected by RSV by their second birthday. Most have mild illness, but some can get very sick. Older children and adults are often re-infected with RSV, but usually have mild illness, except for elderly persons and those with significant underlying illnesses who can have severe illness and even die.
+
+--- PREVENTION ---
+- There is no specific treatment for RSV. Management of severe RSV disease involves supportive care, such as nasal suction of secretions, intravenous fluids for hydration, and most importantly supplemental oxygen to help breathing.
+- Several immunization products are currently available to prevent severe RSV disease in infants and elderly adults (7) . To protect infants, there is a vaccine given to pregnant women and persons late in pregnancy (WHO recommends third trimester vaccination, defined from 28 weeks gestational age in most settings). Maternal immunization allows transfer of antibodies against RSV through the placenta to the unborn baby, who is then protected for approximately 6 months after birth.
+- Another immunization product to protect babies is a long-acting monoclonal antibody that targets the RSV virus. It is given as an intramuscular injection to protect against severe RSV lower respiratory tract infection lung disease during RSV infection. This product can be administered to all neonates and infants entering their first RSV season. In addition, countries could consider administering monoclonal antibody to young children (up to 24 months) with high risk of severe RSV disease (e.g. chronic lung disease, congenital heart disease, immunocompromised) entering their second RSV season.
+
+--- ENVIRONMENTAL CONTROL ---
+- The first symptoms of RSV usually present between day 4–7 after exposure to the virus.
+
+--- VACCINATION ---
+- Several immunization products are currently available to prevent severe RSV disease in infants and elderly adults (7) . To protect infants, there is a vaccine given to pregnant women and persons late in pregnancy (WHO recommends third trimester vaccination, defined from 28 weeks gestational age in most settings). Maternal immunization allows transfer of antibodies against RSV through the placenta to the unborn baby, who is then protected for approximately 6 months after birth.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- There is no specific treatment for RSV. Management of severe RSV disease involves supportive care, such as nasal suction of secretions, intravenous fluids for hydration, and most importantly supplemental oxygen to help breathing.
+- Several immunization products are currently available to prevent severe RSV disease in infants and elderly adults (7) . To protect infants, there is a vaccine given to pregnant women and persons late in pregnancy (WHO recommends third trimester vaccination, defined from 28 weeks gestational age in most settings). Maternal immunization allows transfer of antibodies against RSV through the placenta to the unborn baby, who is then protected for approximately 6 months after birth.
+- Another immunization product to protect babies is a long-acting monoclonal antibody that targets the RSV virus. It is given as an intramuscular injection to protect against severe RSV lower respiratory tract infection lung disease during RSV infection. This product can be administered to all neonates and infants entering their first RSV season. In addition, countries could consider administering monoclonal antibody to young children (up to 24 months) with high risk of severe RSV disease (e.g. chronic lung disease, congenital heart disease, immunocompromised) entering their second RSV season.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

@@ -1,0 +1,98 @@
+TOPIC: Measles
+CATEGORY: Communicable Disease (Vaccine-Preventable / Viral)
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/measles
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Measles is a highly contagious viral disease caused by measles virus, spread through respiratory droplets and airborne transmission. It is one of the most contagious diseases known — a single infected person can infect 12–18 unvaccinated susceptible individuals. Despite being preventable through vaccination, measles caused an estimated 107,500 deaths globally in 2023, mostly in children under 5. India has made major progress through the Measles-Rubella (MR) vaccination campaign under UIP, but outbreaks still occur in under-vaccinated pockets.
+
+--- TYPES ---
+- Single disease entity; complications vary by severity and host immune status
+- Modified measles: Milder presentation in partially immune individuals (e.g. infants with residual maternal antibodies)
+- Atypical measles: Rare, in those vaccinated with older inactivated vaccines (largely historical)
+
+--- SYMPTOMS ---
+Incubation: 10–14 days
+
+Prodromal phase (2–4 days before rash):
+- High fever (can reach 40°C)
+- Cough, runny nose (coryza), red watery eyes (conjunctivitis) — the "3 C's"
+- Koplik spots: Small white spots inside the mouth (on buccal mucosa) — pathognomonic, appear 1–2 days before rash
+
+Rash phase:
+- Maculopapular rash starting on face/hairline, spreading downward to trunk and limbs over 3 days
+- Rash and fever typically peak together
+- Rash fades in same order it appeared, sometimes leaving brownish discoloration/peeling
+
+--- WARNING SIGNS / COMPLICATIONS ---
+- Difficulty breathing, fast breathing (pneumonia — leading cause of measles death)
+- Persistent high fever beyond rash phase
+- Ear pain/discharge (otitis media)
+- Severe diarrhoea and dehydration
+- Encephalitis: Seizures, altered consciousness, severe headache (rare but serious — can cause permanent brain damage)
+- Subacute Sclerosing Panencephalitis (SSPE): Rare, fatal degenerative brain disease occurring years after measles infection
+- Eye complications: Can cause blindness, especially in Vitamin A-deficient children
+
+--- RISK FACTORS ---
+- Unvaccinated or incompletely vaccinated children
+- Malnutrition, especially Vitamin A deficiency (increases severity and complication risk)
+- Crowded living conditions
+- Immunocompromised status
+- Infants too young to be vaccinated (under 9 months) in outbreak settings
+- Travel to or from areas with active outbreaks
+
+--- PREVENTION ---
+Vaccination (highly effective — primary prevention):
+- Measles-Rubella (MR) vaccine: 2 doses under UIP — first dose at 9–12 months, second dose at 16–24 months
+- 2 doses provide ~97% protection; 1 dose ~93%
+- Catch-up vaccination available for children who missed doses (any age)
+- Outbreak response immunisation: Additional vaccination rounds in affected areas
+
+Other measures:
+- Vitamin A supplementation during measles illness (reduces complications and mortality — WHO recommended for all children with measles, especially in deficient populations)
+- Isolation of infected individuals (highly contagious — infectious 4 days before to 4 days after rash onset)
+- Maintain high (>95%) vaccination coverage for herd immunity
+
+--- ENVIRONMENTAL CONTROL ---
+- Outbreak investigation and ring vaccination around cases
+- Isolation of cases in healthcare settings (airborne precautions)
+- School-based catch-up vaccination campaigns in low-coverage areas
+
+--- VACCINATION ---
+- MR vaccine: 9–12 months (first dose), 16–24 months (second dose) — free under UIP
+- Mission Indradhanush: Catches up children who missed doses
+- Pre-travel vaccination recommended for unvaccinated children/adults travelling internationally
+
+--- DIAGNOSIS ---
+- Clinical diagnosis: Characteristic rash + fever + 3 C's + Koplik spots
+- Laboratory confirmation: Measles IgM antibody (serum), RT-PCR (throat swab/urine)
+- All suspected cases should be reported under IDSP surveillance
+
+--- TREATMENT (Awareness Only) ---
+- No specific antiviral treatment
+- Supportive care: Rest, hydration, fever management (paracetamol)
+- Vitamin A supplementation: Given to all children diagnosed with measles (per WHO recommendation) — reduces mortality and eye complications
+- Treat complications: Antibiotics for secondary bacterial pneumonia/ear infections (doctor prescribed)
+- Isolation to prevent spread
+
+--- WHEN TO SEE A DOCTOR ---
+- Any child with fever and rash, especially with cough/red eyes — seek evaluation
+- Difficulty breathing, persistent high fever, or altered consciousness during/after measles — emergency
+- Unvaccinated child with measles exposure — discuss post-exposure options with doctor
+- Eye redness/pain during measles in a malnourished child — urgent (Vitamin A and eye care)
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India aims for measles elimination alongside rubella control (MR elimination goals)
+- MR vaccine under UIP: Free at all government health facilities
+- Outbreaks still occur in under-immunised pockets — urban slums, migrant populations, some northeastern states
+- IDSP requires reporting of suspected measles cases/outbreaks
+- Vitamin A supplementation programme (under POSHAN Abhiyaan) complements measles control
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Measles is highly contagious and can be severe, especially in malnourished or unvaccinated children. Vaccination is free and highly effective. If your child has fever with rash, seek medical evaluation and ensure isolation to prevent spread to others.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

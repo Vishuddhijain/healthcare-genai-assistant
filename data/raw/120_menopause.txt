@@ -1,0 +1,107 @@
+TOPIC: Menopause
+CATEGORY: Women's Health / Reproductive Health (Non-Communicable)
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/menopause
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Menopause is the permanent cessation of menstruation, marking the end of a woman's reproductive years, typically occurring between ages 45–55 (average age ~51 globally; slightly earlier in India, around 46–48). It is diagnosed retrospectively after 12 consecutive months without a menstrual period, due to natural decline in ovarian function. Perimenopause (the transition period) can last several years and is when most symptoms occur. Menopause is a natural biological process, not a disease, but its symptoms and long-term health implications (bone and cardiovascular health) warrant awareness and management.
+
+--- TYPES ---
+1. Natural menopause: Gradual, age-related decline in ovarian function
+2. Premature menopause: Before age 40 (premature ovarian insufficiency)
+3. Early menopause: Between ages 40–45
+4. Induced menopause: Due to surgery (removal of ovaries), chemotherapy, or radiation
+5. Perimenopause: Transition phase before menopause with irregular cycles and symptom onset
+
+--- SYMPTOMS ---
+Vasomotor symptoms:
+- Hot flushes (sudden feeling of heat, often with sweating and flushing of face/chest/neck)
+- Night sweats (disrupting sleep)
+
+Menstrual changes (perimenopause):
+- Irregular periods (shorter/longer cycles, heavier/lighter flow)
+
+Genitourinary symptoms:
+- Vaginal dryness, itching, discomfort during intercourse
+- Increased urinary frequency/urgency, recurrent UTIs
+
+Psychological/cognitive:
+- Mood changes, irritability, anxiety, low mood
+- Sleep disturbances
+- Difficulty concentrating, "brain fog"
+
+Physical changes:
+- Joint aches and pains
+- Weight gain (especially abdominal)
+- Hair thinning, dry skin
+- Reduced libido
+
+--- WARNING SIGNS ---
+- Bleeding after 12 months of no periods (postmenopausal bleeding) — ALWAYS requires medical evaluation to rule out endometrial cancer or other pathology
+- Very heavy bleeding during perimenopause — needs evaluation
+- Severe mood changes/depression — needs mental health support
+
+--- RISK FACTORS (for early/premature menopause and severe symptoms) ---
+- Smoking (associated with earlier menopause)
+- Family history of early menopause
+- Autoimmune conditions
+- Chemotherapy or pelvic radiation
+- Surgical removal of ovaries (bilateral oophorectomy)
+- Certain genetic conditions (e.g. Turner syndrome, Fragile X)
+
+--- LONG-TERM HEALTH CONSIDERATIONS POST-MENOPAUSE ---
+- Osteoporosis: Oestrogen decline accelerates bone loss — increased fracture risk (see Bone Health)
+- Cardiovascular disease: Risk increases post-menopause; oestrogen had protective effect
+- Increased abdominal fat distribution: Higher metabolic syndrome risk
+
+--- PREVENTION / MANAGEMENT (Lifestyle) ---
+- Regular weight-bearing exercise: Maintains bone density and cardiovascular health
+- Adequate calcium and Vitamin D intake: Bone health
+- Balanced diet: Manage weight, reduce processed foods, adequate protein
+- Avoid smoking and limit alcohol
+- Manage stress: Yoga, meditation, mindfulness practices
+- Sleep hygiene: Cool bedroom, breathable clothing for night sweats
+- Pelvic floor exercises (Kegels): For urinary symptoms
+
+--- ENVIRONMENTAL CONTROL ---
+- Not applicable in vector/environmental sense — workplace accommodations (temperature control, flexible arrangements) can help manage symptoms like hot flushes
+
+--- VACCINATION ---
+- Not directly related; but routine adult vaccinations (influenza, pneumococcal, herpes zoster after 60) become relevant in this age group — see Adult Vaccination topic
+
+--- DIAGNOSIS ---
+- Clinical diagnosis: 12 months of amenorrhoea in appropriate age group — usually no tests needed
+- FSH (Follicle Stimulating Hormone): Elevated levels support diagnosis in ambiguous cases (e.g. premature menopause evaluation)
+- Bone density (DEXA scan): Recommended around menopause for osteoporosis risk assessment
+- Lipid profile, blood pressure, blood sugar: Cardiovascular risk assessment
+
+--- TREATMENT (Awareness Only) ---
+- Menopausal Hormone Therapy (MHT/HRT): Effective for vasomotor symptoms and genitourinary symptoms; risk-benefit must be individually assessed by a doctor (consideration of cardiovascular, breast cancer, and clot risk factors)
+- Non-hormonal options: Certain antidepressants (SSRIs/SNRIs) can reduce hot flushes; vaginal moisturisers/lubricants for dryness; local vaginal oestrogen (low systemic absorption) for genitourinary symptoms
+- Calcium and Vitamin D supplementation: For bone health (doctor guided)
+- Cognitive Behavioural Therapy (CBT): Effective for mood symptoms and sleep disturbance
+- All hormone therapy decisions require individualised medical assessment — not a one-size-fits-all approach
+
+--- WHEN TO SEE A DOCTOR ---
+- Any bleeding after 12 months without periods (postmenopausal bleeding) — always evaluate
+- Symptoms significantly affecting quality of life (severe hot flushes, mood disturbance, sleep problems)
+- Menopause before age 40 (premature) — needs evaluation for underlying causes and bone/cardiovascular protection planning
+- Bone density assessment around menopause, especially with risk factors
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Menopause occurs slightly earlier in Indian women (average ~46–48 years) compared to global average
+- Cultural stigma and lack of open discussion about menopause symptoms remain barriers to seeking care
+- Osteoporosis risk is compounded by widespread Vitamin D deficiency in India — bone health awareness important post-menopause
+- Government health facilities can provide gynaecological evaluation for postmenopausal bleeding and bone health screening (where DEXA available)
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Menopause is a natural transition, not a disease, but symptoms are manageable and long-term health risks (bone, heart) are important to address. Any bleeding after 12 months without periods must be evaluated by a doctor. Consult a qualified healthcare provider for personalised management.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

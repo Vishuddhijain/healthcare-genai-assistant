@@ -1,0 +1,91 @@
+TOPIC: Cervical cancer
+CATEGORY: Cancer Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/cervical-cancer
+LAST UPDATED: 2 December 2025
+
+--- OVERVIEW ---
+Globally, cervical cancer is the fourth most common cancer in women, with 660 000 new cases estimated in 2022. In the same year, about 94% of the 350 000 deaths caused by cervical cancer occurred in low- and middle-income countries. The highest rates of incidence and mortality are in sub-Saharan Africa, Central America and South-East Asia. These regional differences reflect inequalities in access to vaccination, screening and treatment services.
+
+They are further influenced by risk factors such as HIV prevalence and by broader social and economic determinants, including gender inequality and poverty.
+
+Women living with HIV are six times more likely to develop cervical cancer compared to the general population, and an estimated 5% of all cervical cancer cases are attributable to HIV (1) . Cervical cancer disproportionately affects younger women, and as a result, 20% of children who lose their mother to cancer do so due to cervical cancer.
+
+--- KEY FACTS ---
+- Cervical cancer is largely preventable through HPV vaccination and regular screening, as recommended by national guidelines, and it can be cured if detected early and treated promptly.
+- Cervical cancer is the fourth most common cancer in women globally with around 660 000 new cases and around 350 000 deaths in 2022.
+- The highest rates of cervical cancer incidence and mortality are in low- and middle-income countries. This reflects major inequities driven by lack of access to national HPV vaccination, cervical screening and treatment services and social and economic determinants.
+- Cervical cancer is caused by persistent infection with human papillomavirus (HPV). Women living with HIV are 6 times more likely to develop cervical cancer compared to women without HIV.
+- Countries worldwide are accelerating efforts to eliminate cervical cancer, guided by the global 90–70–90 targets: 90% of girls fully vaccinated with HPV vaccine by age 15, 70% of women screened by ages 35 and 45, and 90% of women with pre-cancer or invasive cancer receiving appropriate treatment.
+
+--- TYPES ---
+- Almost all cases of cervical cancer are caused by infection with oncogenic types of human papillomavirus (HPV). Human papillomavirus (HPV) is a common sexually transmitted infection which can affect the skin, genital area, anal area and throat. Almost all sexually active people will be infected at some point, usually without symptoms. In most cases, the immune system clears the virus naturally. Persistent infection with certain carcinogenic types of HPV can cause abnormal cells that may develop into cancer.
+- Boosting public awareness, strengthening health literacy, and improving access to information and services are key to prevention and control across the life course:
+- As of 2025, there are 8 licensed HPV vaccines, five of which have received WHO pre-qualification and are available globally. All these protect against the high-risk HPV types 16 and 18, which cause ~76% of cervical cancers.
+- Women should be screened for cervical cancer with a high-performance test every 5–10 years starting at age 30. Women living with HIV should be screened every 3-5 years, starting at age 25 . The global strategy encourages a minimum of two lifetime screens with a high-performance test by age 35 and again by age 45. Precancers rarely cause symptoms, which is why regular cervical cancer screening is important, even if you have been vaccinated against HPV.
+
+--- SYMPTOMS ---
+- Cervical cancer is caused by persistent infection with human papillomavirus (HPV). Women living with HIV are 6 times more likely to develop cervical cancer compared to women without HIV.
+- Almost all cases of cervical cancer are caused by infection with oncogenic types of human papillomavirus (HPV). Human papillomavirus (HPV) is a common sexually transmitted infection which can affect the skin, genital area, anal area and throat. Almost all sexually active people will be infected at some point, usually without symptoms. In most cases, the immune system clears the virus naturally. Persistent infection with certain carcinogenic types of HPV can cause abnormal cells that may develop into cancer.
+- HPV vaccination for girls 9–14 years is highly effective at preventing infection, cervical cancer and other HPV-related cancers.
+- At any age, early detection of women with symptoms, followed by prompt quality treatment, can cure cervical cancer.
+- Other important ways to prevent HPV infection and reduce the risk of cervical cancer include:
+- Women should be screened for cervical cancer with a high-performance test every 5–10 years starting at age 30. Women living with HIV should be screened every 3-5 years, starting at age 25 . The global strategy encourages a minimum of two lifetime screens with a high-performance test by age 35 and again by age 45. Precancers rarely cause symptoms, which is why regular cervical cancer screening is important, even if you have been vaccinated against HPV.
+
+--- WARNING SIGNS ---
+- Cervical cancer is the fourth most common cancer in women globally with around 660 000 new cases and around 350 000 deaths in 2022.
+- Globally, cervical cancer is the fourth most common cancer in women, with 660 000 new cases estimated in 2022. In the same year, about 94% of the 350 000 deaths caused by cervical cancer occurred in low- and middle-income countries. The highest rates of incidence and mortality are in sub-Saharan Africa, Central America and South-East Asia. These regional differences reflect inequalities in access to vaccination, screening and treatment services.
+- unusual bleeding between periods, after menopause, or after sexual intercourse
+
+--- RISK FACTORS ---
+- Almost all cases of cervical cancer are caused by infection with oncogenic types of human papillomavirus (HPV). Human papillomavirus (HPV) is a common sexually transmitted infection which can affect the skin, genital area, anal area and throat. Almost all sexually active people will be infected at some point, usually without symptoms. In most cases, the immune system clears the virus naturally. Persistent infection with certain carcinogenic types of HPV can cause abnormal cells that may develop into cancer.
+- Persistent HPV infection of the cervix (the lower part of the uterus or womb, which opens into the vagina – also called the birth canal) can lead to precancerous lesions which if left untreated cause about 95% of cervical cancers. It usually takes 15–20 years for abnormal cells to become cancer. In women with weakened immune systems, such as untreated HIV, this process can be faster and take 5–10 years. Factors that increase the risk of cancer progression include: the grade of oncogenicity of the HPV type, immune status, the presence of other sexually transmitted infections, number of births, young age at first pregnancy, hormonal...
+
+--- PREVENTION ---
+- Boosting public awareness, strengthening health literacy, and improving access to information and services are key to prevention and control across the life course:
+- HPV vaccination for girls 9–14 years is highly effective at preventing infection, cervical cancer and other HPV-related cancers.
+- Cervical screening from the age of 30 (25 years in women living with HIV) can detect cervical precancer, and when coupled with timely treatment can prevent progression to cervical cancer.
+- At any age, early detection of women with symptoms, followed by prompt quality treatment, can cure cervical cancer.
+- As of 2025, there are 8 licensed HPV vaccines, five of which have received WHO pre-qualification and are available globally. All these protect against the high-risk HPV types 16 and 18, which cause ~76% of cervical cancers.
+- HPV vaccination is a priority for all girls aged 9–14 years, before they become sexually active. Depending on the national schedule the vaccine may be given as one or two doses. Individuals with compromised immune systems, including people living with HIV, should ideally receive two or three doses. Some countries have additionally chosen to vaccinate boys to further reduce the prevalence of HPV in the community and to prevent cancers in men caused by HPV.
+- Other important ways to prevent HPV infection and reduce the risk of cervical cancer include:
+- being a non-smoker or stopping smoking
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- As of 2025, there are 8 licensed HPV vaccines, five of which have received WHO pre-qualification and are available globally. All these protect against the high-risk HPV types 16 and 18, which cause ~76% of cervical cancers.
+- HPV vaccination is a priority for all girls aged 9–14 years, before they become sexually active. Depending on the national schedule the vaccine may be given as one or two doses. Individuals with compromised immune systems, including people living with HIV, should ideally receive two or three doses. Some countries have additionally chosen to vaccinate boys to further reduce the prevalence of HPV in the community and to prevent cancers in men caused by HPV.
+- Other important ways to prevent HPV infection and reduce the risk of cervical cancer include:
+- being a non-smoker or stopping smoking
+- voluntary male circumcision.
+
+--- DIAGNOSIS ---
+- Women should be screened for cervical cancer with a high-performance test every 5–10 years starting at age 30. Women living with HIV should be screened every 3-5 years, starting at age 25 . The global strategy encourages a minimum of two lifetime screens with a high-performance test by age 35 and again by age 45. Precancers rarely cause symptoms, which is why regular cervical cancer screening is important, even if you have been vaccinated against HPV.
+- Self-collection of a sample for HPV testing, which may be a preferred choice for women, has been shown to be as reliable as samples collected by healthcare providers.
+- After a positive screen, a health-care provider can look for changes on the cervix (such as precancers) which may develop into cervical cancer if left untreated. Treatment of precancers is a simple and effective procedure to prevent cervical cancer. Treatment may be offered in the same visit for screening (the screen-and-treat approach) or after a second test (the screen, triage and treat approach), which is especially recommended for women living with HIV.
+- Treatment of precancerous lesions is usually quick and may involve limited discomfort compared to other medical procedures. The process involves examining the cervix after applying acetic acid, with or without magnification (colposcopy or naked-eye visual inspection), to locate the lesion and determine the appropriate treatment. Treatment options include:
+- thermal ablation which uses a heated probe to destroy abnormal cells;
+- cryotherapy which uses a cold probe to destroy abnormal cells;
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Women should be screened for cervical cancer with a high-performance test every 5–10 years starting at age 30. Women living with HIV should be screened every 3-5 years, starting at age 25 . The global strategy encourages a minimum of two lifetime screens with a high-performance test by age 35 and again by age 45. Precancers rarely cause symptoms, which is why regular cervical cancer screening is important, even if you have been vaccinated against HPV.
+- Self-collection of a sample for HPV testing, which may be a preferred choice for women, has been shown to be as reliable as samples collected by healthcare providers.
+- After a positive screen, a health-care provider can look for changes on the cervix (such as precancers) which may develop into cervical cancer if left untreated. Treatment of precancers is a simple and effective procedure to prevent cervical cancer. Treatment may be offered in the same visit for screening (the screen-and-treat approach) or after a second test (the screen, triage and treat approach), which is especially recommended for women living with HIV.
+- Treatment of precancerous lesions is usually quick and may involve limited discomfort compared to other medical procedures. The process involves examining the cervix after applying acetic acid, with or without magnification (colposcopy or naked-eye visual inspection), to locate the lesion and determine the appropriate treatment. Treatment options include:
+- thermal ablation which uses a heated probe to destroy abnormal cells;
+- cryotherapy which uses a cold probe to destroy abnormal cells;
+- LEEP or LEETZ (large loop excision of the transformation zone) which uses an electric heated loop to remove abnormal tissue; and/or
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

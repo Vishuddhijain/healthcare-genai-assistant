@@ -1,0 +1,82 @@
+TOPIC: Buruli ulcer (Mycobacterium ulcerans infection)
+CATEGORY: Infectious Disease Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/buruli-ulcer-(mycobacterium-ulcerans-infection)
+LAST UPDATED: 12 January 2023
+
+--- OVERVIEW ---
+Buruli ulcer has been reported in 33 countries in Africa, the Americas, Asia and the Western Pacific. Most cases occur in tropical and subtropical regions except in Australia and Japan. Out of the 33 countries, 14 regularly report data to WHO.
+
+The annual number of cases can be found under Global Health Observatory .
+
+--- KEY FACTS ---
+- Buruli ulcer is a chronic debilitating disease caused by an environmental Mycobacterium ulcerans.
+- At least 33 countries with tropical, subtropical and temperate climates have reported Buruli ulcer in Africa, South America and Western Pacific regions.
+- It often affects the skin and sometimes bone and can lead to permanent disfigurement and long-term disability.
+- The mode of transmission is not known and there is no prevention for the disease.
+- Buruli ulcer is caused by a bacterium called Mycobacterium ulcerans . The bacterium produces a toxin that causes the skin damage. Without early treatment, Buruli ulcer can lead to long-term disability. The germ that causes Buruli ulcer belongs to the same family of those that cause tuberculosis and leprosy. It is still unclear how people get Buruli ulcer from the environment.
+
+--- TYPES ---
+- Buruli ulcer is a chronic debilitating disease caused by an environmental Mycobacterium ulcerans.
+- Buruli ulcer often starts as a painless swelling (nodule), a large painless area of induration (plaque) or a diffuse painless swelling of the legs, arms or face (oedema). The disease may progress with no pain and fever. Without treatment or sometimes during antibiotics treatment, the nodule, plaque or oedema will ulcerate within 4 weeks. Bone is occasionally affected, causing deformities.
+- The disease has been classified into three categories of severity: Category I, single small lesion (32%) less than 5 cm on diameter; Category II, non-ulcerative and ulcerative plaque and oedematous forms between 5-15 cm (35%); and Category III lesions more than 15 cm in diameter including, disseminated and mixed forms such as, osteomyelitis and joint involvement (33%).
+- Differential diagnoses of Buruli ulcer include tropical phagedenic ulcers, chronic lower leg ulcers due to arterial and venous insufficiency (often in elderly populations), diabetic ulcers, cutaneous leishmaniasis, extensive ulcerative yaws and ulcers caused by Haemophilus ducreyi .
+
+--- SYMPTOMS ---
+- Buruli ulcer often starts as a painless swelling (nodule), a large painless area of induration (plaque) or a diffuse painless swelling of the legs, arms or face (oedema). The disease may progress with no pain and fever. Without treatment or sometimes during antibiotics treatment, the nodule, plaque or oedema will ulcerate within 4 weeks. Bone is occasionally affected, causing deformities.
+- The disease has been classified into three categories of severity: Category I, single small lesion (32%) less than 5 cm on diameter; Category II, non-ulcerative and ulcerative plaque and oedematous forms between 5-15 cm (35%); and Category III lesions more than 15 cm in diameter including, disseminated and mixed forms such as, osteomyelitis and joint involvement (33%).
+- Lesions frequently occur in the limbs: 35% on the upper limbs, 55% on the lower limbs, and 10% on the other parts of the body. Health workers should be careful in the diagnosis of Buruli ulcer in patients with lower leg lesions to avoid confusion with other causes of ulceration such as diabetes, arterial and venous insufficiency lesion.
+
+--- WARNING SIGNS ---
+- Interventions such as wound and lymphoedema management and surgery (mainly debridement and skin grafting) are used to speed up healing, thereby shortening the duration of hospitalization. Physiotherapy is needed in severe cases to prevent disability. Those left with disability require long-term rehabilitation. These same interventions are applicable to other neglected tropical diseases, such as leprosy and lymphatic filariasis.
+
+--- RISK FACTORS ---
+- Buruli ulcer has been reported in 33 countries in Africa, the Americas, Asia and the Western Pacific. Most cases occur in tropical and subtropical regions except in Australia and Japan. Out of the 33 countries, 14 regularly report data to WHO.
+- The annual number of cases can be found under Global Health Observatory .
+- The exact mode of transmission of M. ulcerans is still unknown.
+
+--- PREVENTION ---
+- There are currently no primary preventive measures for Buruli ulcer. The mode of transmission is not known. Bacillus Calmette–Guérin (BCG) vaccination appears to provide limited protection.
+- The objective of Buruli ulcer control is to minimize the suffering, disabilities and socioeconomic burden. Early detection and antibiotic treatment are the cornerstones of the control strategy. In many countries, community health workers play a critical role in case detection.
+- These are the core indicators to measure the progress in the control of Buruli ulcer
+- proportion of cases in category III (late stage) at diagnosis
+- proportion of laboratory-confirmed cases
+- proportion of confirmed cases who have completed a full course of antibiotic treatment.
+
+--- ENVIRONMENTAL CONTROL ---
+- There are currently no primary preventive measures for Buruli ulcer. The mode of transmission is not known. Bacillus Calmette–Guérin (BCG) vaccination appears to provide limited protection.
+- The objective of Buruli ulcer control is to minimize the suffering, disabilities and socioeconomic burden. Early detection and antibiotic treatment are the cornerstones of the control strategy. In many countries, community health workers play a critical role in case detection.
+- These are the core indicators to measure the progress in the control of Buruli ulcer
+- proportion of cases in category III (late stage) at diagnosis
+- proportion of laboratory-confirmed cases
+- proportion of confirmed cases who have completed a full course of antibiotic treatment.
+
+--- VACCINATION ---
+- There are currently no primary preventive measures for Buruli ulcer. The mode of transmission is not known. Bacillus Calmette–Guérin (BCG) vaccination appears to provide limited protection.
+
+--- DIAGNOSIS ---
+- In most cases, experienced health professionals in endemic areas can make a reliable clinical diagnosis, but training is essential.
+- Differential diagnoses of Buruli ulcer include tropical phagedenic ulcers, chronic lower leg ulcers due to arterial and venous insufficiency (often in elderly populations), diabetic ulcers, cutaneous leishmaniasis, extensive ulcerative yaws and ulcers caused by Haemophilus ducreyi .
+- Early nodular and papular lesions may be confused with insect bite, boils, lipomas, ganglions, lymph node tuberculosis, onchocerciasis nodules or deep fungal subcutaneous infections.
+- Cellulitis may look like oedema caused by M. ulcerans infection but in the case of cellulitis, there is pain and fever.
+- HIV infection complicates the management of the patient, making clinical progression more aggressive and resulting in poor treatment outcomes. WHO has published a technical guide to help clinicians in the management of co-infection.
+- Four standard laboratory methods can be used to confirm Buruli ulcer: IS2404 polymerase chain reaction (PCR), direct microscopy, histopathology and culture. The bacterium grows best at temperatures between 29–33 °C ( Mycobacterium tuberculosis grows at 37 °C) and needs a low (2.5%) oxygen concentration.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment consists of a combination of antibiotics and complementary treatments. Treatment guidance for health workers can be found in the WHO publication Treatment of mycobacterium ulcerans disease (Buruli ulcer) .
+- A recent study suggests the combination of rifampicin (10 mg/kg once daily) and clarithromycin (7.5 mg/kg twice daily) is now the recommended treatment.
+- In Australia, a combination of rifampicin (10 mg/kg once daily) and moxifloxacin (400 mg once daily) is routinely used with good results, but its effectiveness has not been proven in a randomized trial.
+- Priority research for treatment is to shorten the duration of treatment from 8 weeks and studies are in progress to achieve that.
+- Interventions such as wound and lymphoedema management and surgery (mainly debridement and skin grafting) are used to speed up healing, thereby shortening the duration of hospitalization. Physiotherapy is needed in severe cases to prevent disability. Those left with disability require long-term rehabilitation. These same interventions are applicable to other neglected tropical diseases, such as leprosy and lymphatic filariasis.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

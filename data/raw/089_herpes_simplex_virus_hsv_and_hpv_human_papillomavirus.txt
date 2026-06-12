@@ -1,0 +1,179 @@
+TOPIC: Herpes Simplex Virus (HSV) and HPV (Human Papillomavirus)
+CATEGORY: Communicable / Sexually Transmitted Infection / Viral
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus | https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer
+LAST UPDATED: 2024
+
+---
+--- SECTION 1: HERPES SIMPLEX VIRUS (HSV) ---
+
+--- OVERVIEW ---
+Herpes simplex virus (HSV) is one of the most common viral infections globally. HSV-1 typically causes oral herpes (cold sores) and HSV-2 typically causes genital herpes. Both types are lifelong infections — the virus remains dormant in nerve cells and can reactivate. HSV infection is extremely common and often stigmatised, but for most people, it causes only mild or no symptoms.
+
+--- TYPES ---
+HSV-1: Primarily causes oral herpes (cold sores around mouth, lips). Spread through oral contact. Can also cause genital herpes through oral sex.
+HSV-2: Primarily causes genital herpes. Spread through sexual contact.
+Herpes labialis: Cold sores on/around lips (HSV-1).
+Herpes genitalis: Sores on genitals, buttocks, thighs (usually HSV-2).
+Neonatal herpes: Severe infection if newborn is exposed during delivery — can be fatal.
+
+--- KEY FACTS ---
+- 3.7 billion people under 50 (67%) globally have HSV-1 infection.
+- 491 million people aged 15–49 (13%) have HSV-2 infection.
+- Most people with HSV have mild or no symptoms and do not know they are infected.
+- No cure exists, but antiviral treatment reduces symptoms and transmission.
+- HSV-2 significantly increases the risk of HIV acquisition.
+
+--- SYMPTOMS ---
+Many infections are asymptomatic. When symptoms occur:
+Primary episode (first outbreak — often the worst):
+- Painful sores or blisters on mouth/lips (HSV-1) or genitals/anus (HSV-2)
+- Tingling, itching, or burning before blisters appear
+- Flu-like symptoms: fever, swollen lymph nodes, fatigue (especially first outbreak)
+- Painful urination (genital herpes)
+
+Recurrent episodes:
+- Usually milder and shorter than primary episode
+- Tingling or itching at the site before sores appear
+- Frequency decreases over time for most people
+
+Neonatal herpes (newborns):
+- Skin sores, eye infection, or neurological signs
+- Can cause severe brain damage or death
+- Emergency — call 112
+
+--- TRANSMISSION ---
+HSV-1:
+- Oral contact: Kissing, sharing utensils, lip balm, oral sex
+- Can be transmitted even without visible sores (asymptomatic shedding)
+
+HSV-2:
+- Sexual contact: Vaginal, anal, oral sex
+- Most transmission occurs during asymptomatic shedding (no visible sores)
+- Mother to baby during delivery (neonatal herpes)
+
+--- RISK FACTORS ---
+- Multiple sexual partners
+- Unprotected sex
+- Female sex (higher risk of acquisition)
+- Weakened immune system (HIV, immunosuppressive therapy)
+- History of other STIs
+
+--- PREVENTION ---
+- Condoms significantly reduce (but do not eliminate) HSV-2 transmission — virus can be shed from areas not covered by condoms.
+- Avoid sexual contact when sores are present.
+- Antiviral suppressive therapy reduces shedding and transmission risk.
+- Avoid kissing or oral contact when active cold sores are present.
+- Do not share lip balm, utensils, or towels when you have active cold sores.
+- Pregnant women with genital herpes: Inform obstetrician — may need caesarean section to protect baby.
+
+--- DIAGNOSIS ---
+- Clinical diagnosis: Appearance of lesions (not always definitive)
+- PCR test (swab of lesion): Most accurate
+- Blood tests (IgG antibodies): Detect past infection; cannot tell you when infected or site
+- Testing available at ICTCs and government hospitals
+
+--- TREATMENT (Awareness Only) ---
+- Antiviral drugs (aciclovir, valaciclovir, famciclovir): Reduce severity and duration of outbreaks, and reduce transmission risk. Do not cure the infection.
+- Daily suppressive therapy: For people with frequent recurrences.
+- Available by doctor prescription; aciclovir available at government hospitals.
+
+--- WARNING SIGNS ---
+- Genital sores in pregnant women near delivery — emergency, inform obstetrician immediately.
+- Sores near the eye (herpes keratitis) — eye emergency, risk of blindness.
+- Widespread herpes infection in immunocompromised individuals.
+
+--- WHEN TO SEE A DOCTOR ---
+- First episode of painful genital sores
+- Eye involvement
+- Pregnant women with genital herpes — especially near due date
+- Newborn with signs of neonatal herpes — emergency
+
+---
+--- SECTION 2: HUMAN PAPILLOMAVIRUS (HPV) AND CANCER ---
+
+--- OVERVIEW ---
+HPV is the most common sexually transmitted infection. Most HPV infections clear on their own. Persistent infection with high-risk HPV types causes cervical cancer, as well as cancers of the vulva, vagina, penis, anus, and throat. HPV vaccination is highly effective and is part of India's cervical cancer prevention strategy.
+
+--- KEY FACTS ---
+- HPV is the cause of virtually all cervical cancers (99.7%).
+- Cervical cancer is the 2nd most common cancer in Indian women.
+- India accounts for approximately 25% of global cervical cancer deaths.
+- Two high-risk HPV types (16 and 18) cause 70% of cervical cancers.
+- HPV is spread through sexual contact — nearly all sexually active people will be exposed.
+- Most HPV infections are harmless and clear within 1–2 years.
+- HPV vaccine prevents infection with high-risk types and is most effective before sexual activity begins.
+
+--- TYPES ---
+Low-risk HPV (e.g., types 6, 11): Cause genital warts (condylomata acuminata) — non-cancerous.
+High-risk HPV (e.g., types 16, 18, 31, 33): Cause cervical and other anogenital cancers and oropharyngeal cancer.
+
+--- SYMPTOMS ---
+Most HPV infections: No symptoms. Clear on their own.
+Genital warts (low-risk HPV): Soft, fleshy growths on genitals, anus, or thighs. Not painful but may itch.
+Cervical cancer (high-risk HPV, untreated): See 61_cervical_cancer.txt for full details.
+- Abnormal vaginal bleeding (between periods, after sex, post-menopause)
+- Unusual vaginal discharge
+- Pelvic pain
+- These are late symptoms — early detection through Pap smear shows pre-cancerous changes.
+
+--- TRANSMISSION ---
+- Skin-to-skin genital contact (vaginal, anal, oral sex)
+- Does NOT require penetrative sex — skin contact is enough
+- Can be transmitted even without visible symptoms
+- Very rarely, from mother to baby during delivery (respiratory papillomatosis in child)
+
+--- PREVENTION ---
+Primary prevention:
+- HPV vaccination: Most effective prevention.
+  - Recommended for girls aged 9–14 years (before sexual exposure).
+  - Free under India's national programme for girls 9–14 years (rollout ongoing).
+  - Available at government hospitals and private clinics.
+  - 2-dose schedule (0 and 6 months) if given before age 15.
+  - 3-dose schedule if started at 15 or older.
+  - Also recommended for boys (prevents anal/throat cancers and protects partners).
+- Condoms: Reduce (but don't eliminate) HPV transmission.
+- Limit sexual partners.
+- Delay sexual debut.
+
+Secondary prevention (early detection):
+- Pap smear / cervical cytology: Every 3 years from age 21 or within 3 years of first sexual activity.
+- HPV DNA test: Every 5 years from age 30.
+- VIA (Visual Inspection with Acetic Acid): Simple, low-cost screening — free at Ayushman Bharat HWCs for women 30–65 years.
+
+--- DIAGNOSIS ---
+- Pap smear: Detects precancerous cells (CIN — cervical intraepithelial neoplasia)
+- HPV DNA testing: Identifies high-risk HPV types
+- Colposcopy and biopsy: For abnormal Pap results
+
+--- TREATMENT (Awareness Only) ---
+- HPV infection: No treatment for the virus itself — immune system clears most infections.
+- Genital warts: Topical treatments or minor procedures (doctor-prescribed/performed).
+- CIN (pre-cancerous changes): LEEP, cryotherapy, or cone biopsy — prevents progression to cancer.
+- Cervical cancer: Surgery, radiotherapy, chemotherapy — available at government cancer hospitals.
+- Ayushman Bharat PM-JAY covers cervical cancer treatment at empanelled hospitals.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India launched HPV vaccination as a national programme for adolescent girls — check eligibility at government health centres.
+- Cervical cancer screening (VIA/Pap) is free at all Ayushman Bharat Health and Wellness Centres for women 30–65.
+- Serosurveillance shows very high HPV prevalence in Indian women — underscoring the need for vaccination and screening.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: If I get vaccinated against HPV, do I still need Pap smears?
+A: Yes. The vaccine does not protect against all HPV types. Pap smears and screening are still recommended for vaccinated women.
+
+Q: Can men get vaccinated against HPV?
+A: Yes. HPV vaccines protect men against anal cancer, penile cancer, throat cancer, and genital warts. Currently, India's programme focuses on girls, but vaccination of boys is recommended where available.
+
+Q: My partner was diagnosed with genital warts. What should I do?
+A: Get examined by a doctor. Avoid sexual contact while warts are present. Consider HPV vaccination if not yet done. All STI testing is recommended.
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for awareness only. HPV vaccination, screening, and treatment require medical consultation. Free cervical cancer screening is available at government HWCs. Abnormal Pap results must be followed up with a gynaecologist.
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

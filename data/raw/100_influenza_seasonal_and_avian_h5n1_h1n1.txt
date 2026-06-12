@@ -1,0 +1,172 @@
+TOPIC: Influenza — Seasonal and Avian (H5N1, H1N1)
+CATEGORY: Communicable / Respiratory / Infectious Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal) | https://www.who.int/news-room/fact-sheets/detail/influenza-(avian-and-other-zoonotic) | MoHFW India
+LAST UPDATED: 2024
+
+---
+--- SECTION 1: SEASONAL INFLUENZA ---
+
+--- OVERVIEW ---
+Seasonal influenza (flu) is an acute respiratory illness caused by influenza viruses A, B, C, and D. It spreads easily from person to person through respiratory droplets. Influenza causes annual epidemics globally, predominantly during winter months. In India, flu activity is year-round with peaks during monsoon and post-monsoon seasons.
+
+--- TYPES ---
+Influenza A: Causes most seasonal epidemics; can infect humans and animals; most pandemic strains are Influenza A.
+Influenza B: Causes seasonal epidemics; only infects humans; two lineages (Victoria, Yamagata).
+Influenza C: Mild illness; less common.
+Influenza D: Primarily affects cattle; not known to infect humans significantly.
+
+--- KEY FACTS ---
+- Seasonal influenza causes 3–5 million severe illness cases and 290,000–650,000 respiratory deaths globally per year.
+- In India, influenza is significantly underreported but causes substantial illness.
+- H1N1 (swine flu) — the 2009 pandemic strain — continues to circulate as a seasonal flu strain.
+- Influenza viruses mutate rapidly (antigenic drift) — annual vaccination is needed.
+- Vaccine effectiveness varies year to year depending on how well vaccine matches circulating strains.
+
+--- SYMPTOMS ---
+Influenza vs. Common Cold:
+Influenza onset: SUDDEN (unlike cold, which builds gradually).
+- Sudden high fever (38–40°C)
+- Severe muscle aches and joint pain
+- Severe fatigue and weakness
+- Headache
+- Dry cough
+- Sore throat
+- Runny or stuffy nose
+- Some people experience vomiting and diarrhoea (more common in children)
+
+Complications (especially in vulnerable groups):
+- Pneumonia (most common serious complication)
+- Worsening of asthma, COPD, heart disease
+- Encephalitis (rare)
+- Death (in high-risk individuals)
+
+--- RISK FACTORS FOR SEVERE INFLUENZA ---
+- Age: Adults >65 years and children under 5 (especially under 2).
+- Pregnancy
+- Chronic conditions: Heart disease, lung disease (asthma, COPD), diabetes, kidney disease
+- Obesity (BMI >35)
+- Immunocompromised (HIV, cancer, steroids)
+- Healthcare workers (high exposure)
+
+--- PREVENTION ---
+Vaccination (most important):
+- Annual influenza vaccine is the most effective prevention.
+- India produces influenza vaccines; available at private clinics and some government hospitals.
+- Who should get vaccinated annually: healthcare workers, elderly (>65), pregnant women, children 6 months to 5 years, people with chronic conditions.
+- Free influenza vaccination: Currently not universally provided in India's UIP, but available at some government facilities for high-risk groups.
+
+Infection control:
+- Wash hands frequently with soap and water.
+- Cover mouth and nose with elbow when coughing/sneezing.
+- Avoid touching eyes, nose, mouth.
+- Stay home when sick — avoid spreading to others.
+- Wear mask in crowded enclosed spaces during flu season.
+- Ventilate indoor spaces well.
+
+--- ENVIRONMENTAL CONTROL ---
+- Surveillance: India's Integrated Disease Surveillance Programme (IDSP) monitors influenza activity.
+- Hospital infection control: Isolation of influenza patients, N95 masks for healthcare workers.
+- School closures and public gathering restrictions may be implemented during severe outbreaks.
+
+--- VACCINATION ---
+Influenza vaccine types available in India:
+- Inactivated trivalent/quadrivalent influenza vaccine (IIV3/IIV4): Safe for all age groups including pregnant women.
+- Updated annually based on WHO recommendation for circulating strains.
+- Single dose for adults; 2 doses (1 month apart) for children under 9 receiving vaccine for first time.
+
+--- DIAGNOSIS ---
+- Clinical diagnosis: Sudden fever, muscle aches, cough in flu season.
+- Rapid Influenza Diagnostic Test (RIDT): Quick swab test; available at hospitals.
+- RT-PCR: Definitive test; distinguishes influenza types and subtypes.
+- Available at government sentinel surveillance hospitals.
+
+--- TREATMENT (Awareness Only) ---
+- Most healthy adults recover without antiviral medication with rest and hydration.
+- Antivirals (oseltamivir/Tamiflu): Prescribed for high-risk individuals or severe disease; most effective if started within 48 hours of symptom onset. Available at government hospitals.
+- Antibiotics: NOT effective for influenza (viral infection); only for bacterial complications.
+- Do NOT give aspirin to children with flu (Reye's syndrome risk) — use paracetamol.
+- Adequate rest and fluids.
+
+--- WARNING SIGNS (Seek Emergency Care) ---
+In adults:
+- Difficulty breathing or shortness of breath
+- Persistent chest pain or pressure
+- Confusion or altered mental status
+- Severe vomiting, unable to keep fluids down
+- Symptoms improve then worsen again (secondary infection)
+
+In children:
+- Fast or laboured breathing
+- Bluish skin
+- Not drinking enough fluids
+- Seizures
+- Extreme irritability
+
+--- WHEN TO SEE A DOCTOR ---
+- High-risk individuals with flu symptoms (elderly, pregnant, chronic disease, immunocompromised)
+- Symptoms not improving after 7 days
+- Any warning signs above
+
+---
+--- SECTION 2: AVIAN INFLUENZA (H5N1, H7N9) ---
+
+--- OVERVIEW ---
+Avian influenza (bird flu) primarily infects birds. Occasionally, avian influenza viruses infect humans — usually through direct contact with infected birds or their droppings. Human-to-human transmission is rare. H5N1 is the most concerning strain — it causes severe disease with high fatality rate in humans.
+
+--- KEY FACTS ---
+- H5N1 avian influenza has a case fatality rate of approximately 60% in confirmed human cases.
+- Most human cases result from direct contact with infected poultry.
+- Sustained human-to-human transmission of H5N1 has not been established.
+- India has reported H5N1 outbreaks in poultry multiple times; human cases remain rare.
+- H9N2 avian influenza has been detected in India and has caused sporadic human infections.
+
+--- SYMPTOMS ---
+Similar to severe influenza but often more severe:
+- High fever, cough, sore throat, muscle aches
+- Eye infection (conjunctivitis)
+- Pneumonia
+- Encephalitis (in some cases)
+- Multi-organ failure in severe cases
+
+--- TRANSMISSION ---
+- Direct contact with infected live or dead poultry or their droppings
+- Visiting live poultry markets without protection
+- Consuming undercooked poultry or eggs from infected birds
+- NOT: Eating properly cooked poultry or eggs (heat kills the virus)
+
+--- PREVENTION ---
+- Avoid touching sick or dead birds.
+- Wear gloves and masks when handling poultry in infected areas.
+- Cook poultry and eggs thoroughly (70°C internal temperature).
+- Wash hands thoroughly after handling poultry.
+- Report sick or dying birds to veterinary authorities.
+- Follow government health advisories during outbreaks.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India has a National Action Plan for Influenza Pandemic Preparedness.
+- MoHFW issues guidelines during H5N1 outbreaks in poultry.
+- Culling of infected poultry is conducted to control outbreaks.
+- Report unusual poultry deaths to Animal Husbandry Department.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is swine flu (H1N1) still a risk in India?
+A: Yes. H1N1 now circulates as a regular seasonal flu strain. It can still cause severe illness in high-risk groups. Annual flu vaccine protects against H1N1.
+
+Q: Can I get bird flu from eating chicken?
+A: No, if the chicken is properly cooked (70°C). The virus is killed by heat. Properly cooked poultry and eggs are safe.
+
+Q: Is the flu vaccine the same every year?
+A: The vaccine is reformulated annually based on WHO predictions of which strains will circulate. This is why annual vaccination is needed.
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for awareness only. Influenza in high-risk groups and avian influenza exposure require prompt medical attention. In severe breathing difficulty, call 112 immediately.
+
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

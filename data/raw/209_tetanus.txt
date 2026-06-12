@@ -1,0 +1,92 @@
+TOPIC: Tetanus
+CATEGORY: Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/tetanus
+LAST UPDATED: 12 July 2024
+
+--- OVERVIEW ---
+Tetanus is an acute infectious disease caused by spores of the bacterium Clostridium tetani . The spores are found everywhere in the environment, particularly in soil, ash, intestinal tracts/feces of animals and humans, and on the surfaces of skin and rusty tools like nails, needles, barbed wire, etc. Being very resistant to heat and most antiseptics, the spores can survive for years.
+
+Anyone can get tetanus, but the disease is particularly common and serious in newborn babies and pregnant women who have not been sufficiently immunized with tetanus-toxoid-containing vaccines. Tetanus during pregnancy or within 6 weeks of the end of pregnancy is called maternal tetanus, and tetanus within the first 28 days of life is called neonatal tetanus.
+
+The disease remains an important public health problem in many parts of the world, but especially in low-income countries or districts, where immunization coverage is low, and unclean birth practices are common. Neonatal tetanus occurs when nonsterile instruments are used to cut the umbilical cord or when contaminated material is used to cover the umbilical stump. Deliveries carried out by people with unclean hands or on a contaminated surface are also risk factors.
+
+--- KEY FACTS ---
+- Tetanus is acquired through infection of a cut or wound with the spores of the bacterium Clostridium tetani, and most cases occur within 14 days of infection. Tetanus cannot be transmitted from person to person.
+- Tetanus can be prevented through immunization with tetanus-toxoid-containing vaccines (TTCV). However, people who recover from tetanus do not have natural immunity and can be infected again.
+- The majority of reported tetanus cases are birth-associated among newborn babies and mothers who have not been sufficiently vaccinated with TTCV.
+- In 2018, about 25 000 newborns died from neonatal tetanus, a 97% reduction since 1988, largely due to scaled-up immunization with TTCV.
+- In 2023, 84% of infants worldwide were vaccinated with 3 doses of diphtheria-tetanus-pertussis (DTP) containing vaccine.
+
+--- TYPES ---
+- Tetanus is an acute infectious disease caused by spores of the bacterium Clostridium tetani . The spores are found everywhere in the environment, particularly in soil, ash, intestinal tracts/feces of animals and humans, and on the surfaces of skin and rusty tools like nails, needles, barbed wire, etc. Being very resistant to heat and most antiseptics, the spores can survive for years.
+
+--- SYMPTOMS ---
+- The incubation period of tetanus varies between 3 and 21 days after infection. Most cases occur within 14 days.
+- Symptoms can include:
+- jaw cramping or the inability to open the mouth
+- muscle spasms often in the back, abdomen and extremities
+- sudden painful muscle spasms often triggered by sudden noises
+- trouble swallowing
+- fever and sweating
+- changes in blood pressure or fast heart rate.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Tetanus is acquired through infection of a cut or wound with the spores of the bacterium Clostridium tetani, and most cases occur within 14 days of infection. Tetanus cannot be transmitted from person to person.
+- Tetanus is an acute infectious disease caused by spores of the bacterium Clostridium tetani . The spores are found everywhere in the environment, particularly in soil, ash, intestinal tracts/feces of animals and humans, and on the surfaces of skin and rusty tools like nails, needles, barbed wire, etc. Being very resistant to heat and most antiseptics, the spores can survive for years.
+- The disease remains an important public health problem in many parts of the world, but especially in low-income countries or districts, where immunization coverage is low, and unclean birth practices are common. Neonatal tetanus occurs when nonsterile instruments are used to cut the umbilical cord or when contaminated material is used to cover the umbilical stump. Deliveries carried out by people with unclean hands or on a contaminated surface are also risk factors.
+- In 2018, approximately 25 000 newborns died from neonatal tetanus, a 97% reduction from 1988 when an estimated 787 000 newborn babies died of tetanus within their first month of life. However, there is increased risk of tetanus in adolescent and adult males who undergo circumcision due to waning immunity and limited opportunity for receiving booster doses in males in many countries.
+
+--- PREVENTION ---
+- Tetanus can be prevented through immunization with tetanus-toxoid-containing vaccines (TTCV), which are included in routine immunization programmes globally and administered during antenatal care contacts.
+- To be protected throughout life, WHO recommends that an individual receives 6 doses (3 primary plus 3 booster doses) of TTCV. The 3-dose primary series should begin as early as 6 weeks of age, with subsequent doses given with a minimum interval of 4 weeks between doses. The 3 booster doses should preferably be given during the second year of life (12–23 months), at 4–7 years of age, and at 9–15 years of age. Ideally, there should be at least 4 years between booster doses.
+- There are many kinds of vaccines used to protect against tetanus, all of which are combined with vaccines for other diseases:
+- diphtheria and tetanus (DT) vaccines
+- diphtheria, tetanus, and pertussis (whooping cough) (DTaP) vaccines
+- tetanus and diphtheria (Td) vaccines
+- tetanus, diphtheria, and pertussis (Tdap) vaccines.
+- Neonatal tetanus can be prevented by immunizing women of reproductive age with TTCV, either during pregnancy or outside of pregnancy. Additionally, robust medical practices can also prevent tetanus disease including clean delivery and cord care during childbirth, and proper wound care for surgical and dental procedures.
+
+--- ENVIRONMENTAL CONTROL ---
+- Tetanus is an acute infectious disease caused by spores of the bacterium Clostridium tetani . The spores are found everywhere in the environment, particularly in soil, ash, intestinal tracts/feces of animals and humans, and on the surfaces of skin and rusty tools like nails, needles, barbed wire, etc. Being very resistant to heat and most antiseptics, the spores can survive for years.
+- The disease remains an important public health problem in many parts of the world, but especially in low-income countries or districts, where immunization coverage is low, and unclean birth practices are common. Neonatal tetanus occurs when nonsterile instruments are used to cut the umbilical cord or when contaminated material is used to cover the umbilical stump. Deliveries carried out by people with unclean hands or on a contaminated surface are also risk factors.
+- Neonatal tetanus can be prevented by immunizing women of reproductive age with TTCV, either during pregnancy or outside of pregnancy. Additionally, robust medical practices can also prevent tetanus disease including clean delivery and cord care during childbirth, and proper wound care for surgical and dental procedures.
+
+--- VACCINATION ---
+- Tetanus can be prevented through immunization with tetanus-toxoid-containing vaccines (TTCV). However, people who recover from tetanus do not have natural immunity and can be infected again.
+- In 2018, about 25 000 newborns died from neonatal tetanus, a 97% reduction since 1988, largely due to scaled-up immunization with TTCV.
+- In 2023, 84% of infants worldwide were vaccinated with 3 doses of diphtheria-tetanus-pertussis (DTP) containing vaccine.
+- Anyone can get tetanus, but the disease is particularly common and serious in newborn babies and pregnant women who have not been sufficiently immunized with tetanus-toxoid-containing vaccines. Tetanus during pregnancy or within 6 weeks of the end of pregnancy is called maternal tetanus, and tetanus within the first 28 days of life is called neonatal tetanus.
+- The disease remains an important public health problem in many parts of the world, but especially in low-income countries or districts, where immunization coverage is low, and unclean birth practices are common. Neonatal tetanus occurs when nonsterile instruments are used to cut the umbilical cord or when contaminated material is used to cover the umbilical stump. Deliveries carried out by people with unclean hands or on a contaminated surface are also risk factors.
+
+--- DIAGNOSIS ---
+- The incubation period of tetanus varies between 3 and 21 days after infection. Most cases occur within 14 days.
+- Symptoms can include:
+- jaw cramping or the inability to open the mouth
+- muscle spasms often in the back, abdomen and extremities
+- sudden painful muscle spasms often triggered by sudden noises
+- trouble swallowing
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Tetanus is a medical emergency requiring:
+- care in the hospital
+- immediate treatment with medicine called human tetanus immune globulin (TIG)
+- aggressive wound care
+- drugs to control muscle spasms
+- tetanus vaccination.
+- People who recover from tetanus do not have natural immunity and can be infected again, and therefore need to be immunized.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

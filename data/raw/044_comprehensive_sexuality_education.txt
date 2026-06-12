@@ -1,0 +1,68 @@
+TOPIC: Comprehensive sexuality education
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/comprehensive-sexuality-education
+LAST UPDATED: 11 March 2026
+
+--- OVERVIEW ---
+Comprehensive sexuality education (CSE) is a curriculum‑based, incremental and scientifically-accurate approach that teaches children and young people about the cognitive, emotional, physical and social aspects of sexuality in a culturally-relevant and age-appropriate way. It helps children and young people understand their bodies, develop healthy relationships, build life skills, make informed and responsible decisions, and protect their health and well-being.
+
+CSE can be delivered in both formal and non-formal settings.
+
+--- KEY FACTS ---
+- Comprehensive sexuality education (CSE) aims to improve knowledge and understanding, and to correct misconceptions by providing young people with age-appropriate, scientifically accurate, and culturally relevant information about their bodies, health, relationships and rights. It also aims to promote self-awareness and norms that are equitable and respectful of others, by providing structured opportunities to discuss and reflect on thoughts and feelings, attitudes and values, and to practice skills which helps young people stay healthy, build respectful relationships, make informed choices, and seek help when needed.
+- Evidence shows that high-quality, well-implemented CSE can delay sexual initiation and reduce sexual risk-taking, while increasing contraceptive use.
+- Evidence shows that CSE does not increase sexual activity or encourage earlier sexual behaviour.
+- Programmes that address both delaying sex and contraceptive use are more effective than abstinence‑only programmes.
+- While a small but growing number of countries are improving the content and delivery of CSE in and outside the school setting, access to CSE remains uneven and quality varies, leaving many young people without essential knowledge and skills.
+
+--- TYPES ---
+- Comprehensive sexuality education (CSE) is a curriculum‑based, incremental and scientifically-accurate approach that teaches children and young people about the cognitive, emotional, physical and social aspects of sexuality in a culturally-relevant and age-appropriate way. It helps children and young people understand their bodies, develop healthy relationships, build life skills, make informed and responsible decisions, and protect their health and well-being.
+- CSE can be delivered in both formal and non-formal settings.
+- gender equality: norms, stereotypes, discrimination and bias, power dynamics, gender‑based violence;
+- Many children and adolescents do not receive accurate or comprehensive information about their bodies, relationships, or sexual health. Without CSE, young people may be:
+
+--- SYMPTOMS ---
+- sexual and reproductive health: contraception, pregnancy and its prevention, HIV and other sexually-transmitted infections (STIs), stigma reduction, care, treatment and support, accessing adolescent-friendly health services.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Evidence shows that high-quality, well-implemented CSE can delay sexual initiation and reduce sexual risk-taking, while increasing contraceptive use.
+- sexual and reproductive health: contraception, pregnancy and its prevention, HIV and other sexually-transmitted infections (STIs), stigma reduction, care, treatment and support, accessing adolescent-friendly health services.
+- supports protective behaviors, including delayed sexual initiation in some settings, increased contraceptive and condom use, fewer sexual partners and reduced risk taking(2,3,4); and
+- is associated with lower rates of unintended pregnancy and contributes to reduced STI risk by decreasing risk behaviors, and improving knowledge, attitudes and behaviours, particularly condom use, in some settings(1,3,4).
+- There is no evidence that CSE increases sexual activity or risk‑taking(1). Rather, it supports responsible, informed decision-making.
+
+--- PREVENTION ---
+- Comprehensive sexuality education (CSE) is a curriculum‑based, incremental and scientifically-accurate approach that teaches children and young people about the cognitive, emotional, physical and social aspects of sexuality in a culturally-relevant and age-appropriate way. It helps children and young people understand their bodies, develop healthy relationships, build life skills, make informed and responsible decisions, and protect their health and well-being.
+- consent and safety: privacy, bodily integrity, recognizing and reporting abuse, safe use of digital technologies;
+- sexual and reproductive health: contraception, pregnancy and its prevention, HIV and other sexually-transmitted infections (STIs), stigma reduction, care, treatment and support, accessing adolescent-friendly health services.
+- less able to protect themselves from STIs or unintended pregnancy
+- supports protective behaviors, including delayed sexual initiation in some settings, increased contraceptive and condom use, fewer sexual partners and reduced risk taking(2,3,4); and
+- Learning is incremental; what is taught at the earliest ages provides a foundation to be built on as a child grows older and transitions to puberty and adolescence. Early childhood content focuses on understanding bodies, emotions, family structures, relationships, respect, and basic principles of consent and safety – not sexual activity.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- sexual and reproductive health: contraception, pregnancy and its prevention, HIV and other sexually-transmitted infections (STIs), stigma reduction, care, treatment and support, accessing adolescent-friendly health services.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

@@ -1,0 +1,74 @@
+TOPIC: Self-care for health and well-being
+CATEGORY: Preventive Care and Wellness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/self-care-health-interventions
+LAST UPDATED: 3 June 2026
+
+--- OVERVIEW ---
+WHO defines self-care as the ability of individuals, families and communities to promote and maintain their own health, prevent disease and cope with illness, with or without the support of a health or care worker.
+
+Self-care recognizes people as active agents in managing their own health care, through lifestyle choices and interventions that complement care given in formal health facilities.
+
+--- KEY FACTS ---
+- Self-care is the ability of individuals, families and communities to promote and maintain their own health, prevent disease, and to cope with illness – with or without the support of a health or care worker.
+- Self-care actions include healthy practices, habits and lifestyle choices, such as eating a healthy diet, being physically active, refraining from tobacco, avoiding alcohol consumption, getting enough sleep and connecting with others.
+- Self-care interventions may include diagnostics to screen for conditions such as HIV, a pregnancy self-test, devices for self-monitoring conditions such as diabetes and hypertension, and drugs such as over-the-counter emergency contraception or paracetamol.
+
+--- TYPES ---
+- Self-care recognizes people as active agents in managing their own health care, through lifestyle choices and interventions that complement care given in formal health facilities.
+- Self-care interventions are evidence-based, high-quality tools that support self-care. They can include drugs, devices and diagnostics that can be provided fully or partially outside formal health services and, depending on the intervention, can be used with or without health and care workers.
+- Approximately 4.6 billion people worldwide are not covered by essential health services. In addition, 2.1 billion people face financial hardship, including 1.6 billion living in poverty due to out-of-pocket health expenses (1) . Underserved and marginalized populations are particularly affected often lacking access to quality health information, services and products while also facing stigma and discrimination when they seek health care.
+- Currently one of the biggest challenges is ensuring that safe and effective products are available to those who need them and that they do not place added financial burden on individuals. Use of unregulated and/or substandard products, provision of incorrect or unclear health information and the lack of access to health and care workers for guidance or management of complications/side-effects are challenges that need to be addressed when promoting or generating demand for self-care interventions.
+
+--- SYMPTOMS ---
+- The COVID-19 pandemic highlighted the unique and critical role that self-care can play in preventing infection and disease, for example through the wearing of masks and self-test kits and through government policies in which self-care interventions were prioritized.
+
+--- WARNING SIGNS ---
+- There is an urgent need to find innovative strategies that go beyond a conventional health sector response to address these challenges in accessing quality health care.
+- Currently one of the biggest challenges is ensuring that safe and effective products are available to those who need them and that they do not place added financial burden on individuals. Use of unregulated and/or substandard products, provision of incorrect or unclear health information and the lack of access to health and care workers for guidance or management of complications/side-effects are challenges that need to be addressed when promoting or generating demand for self-care interventions.
+
+--- RISK FACTORS ---
+- Approximately 4.6 billion people worldwide are not covered by essential health services. In addition, 2.1 billion people face financial hardship, including 1.6 billion living in poverty due to out-of-pocket health expenses (1) . Underserved and marginalized populations are particularly affected often lacking access to quality health information, services and products while also facing stigma and discrimination when they seek health care.
+- There is an urgent need to find innovative strategies that go beyond a conventional health sector response to address these challenges in accessing quality health care.
+- The COVID-19 pandemic highlighted the unique and critical role that self-care can play in preventing infection and disease, for example through the wearing of masks and self-test kits and through government policies in which self-care interventions were prioritized.
+
+--- PREVENTION ---
+- Self-care is the ability of individuals, families and communities to promote and maintain their own health, prevent disease, and to cope with illness – with or without the support of a health or care worker.
+- Self-care actions include healthy practices, habits and lifestyle choices, such as eating a healthy diet, being physically active, refraining from tobacco, avoiding alcohol consumption, getting enough sleep and connecting with others.
+- WHO defines self-care as the ability of individuals, families and communities to promote and maintain their own health, prevent disease and cope with illness, with or without the support of a health or care worker.
+- Healthy lifestyle choices are an important element of self-care. They include eating a healthy diet, being physically active, refraining from tobacco, avoiding alcohol consumption, getting enough sleep and connecting with others.
+- The COVID-19 pandemic highlighted the unique and critical role that self-care can play in preventing infection and disease, for example through the wearing of masks and self-test kits and through government policies in which self-care interventions were prioritized.
+- Before recommending specific self-care interventions, it is important to have evidence that they are beneficial to health, cause no harm at individual and/or population levels and are provided in a safe and supportive environment.
+
+--- ENVIRONMENTAL CONTROL ---
+- Before recommending specific self-care interventions, it is important to have evidence that they are beneficial to health, cause no harm at individual and/or population levels and are provided in a safe and supportive environment.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Self-care interventions may include diagnostics to screen for conditions such as HIV, a pregnancy self-test, devices for self-monitoring conditions such as diabetes and hypertension, and drugs such as over-the-counter emergency contraception or paracetamol.
+- Self-care interventions are evidence-based, high-quality tools that support self-care. They can include drugs, devices and diagnostics that can be provided fully or partially outside formal health services and, depending on the intervention, can be used with or without health and care workers.
+- Some people have a good knowledge of certain self-care interventions and feel comfortable using them independently from the outset, while others need more support and guidance before they can accept and use them independently. An example of a self-care intervention that needs initiation by a health or care worker is demonstrating how to self-administer an injectable contraceptive. An example of a self-care intervention that requires additional health and care worker support is follow up on a positive HIV or pregnancy test.
+- The COVID-19 pandemic highlighted the unique and critical role that self-care can play in preventing infection and disease, for example through the wearing of masks and self-test kits and through government policies in which self-care interventions were prioritized.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Healthy lifestyle choices are an important element of self-care. They include eating a healthy diet, being physically active, refraining from tobacco, avoiding alcohol consumption, getting enough sleep and connecting with others.
+- Self-care interventions are evidence-based, high-quality tools that support self-care. They can include drugs, devices and diagnostics that can be provided fully or partially outside formal health services and, depending on the intervention, can be used with or without health and care workers.
+- Some people have a good knowledge of certain self-care interventions and feel comfortable using them independently from the outset, while others need more support and guidance before they can accept and use them independently. An example of a self-care intervention that needs initiation by a health or care worker is demonstrating how to self-administer an injectable contraceptive. An example of a self-care intervention that requires additional health and care worker support is follow up on a positive HIV or pregnancy test.
+- Self-care does not replace the health system but complements it. Nor does it replace health and care workers. Self-care interventions offer an additional strategy to help advance universal health coverage (UHC), reach people in humanitarian situations, and improve health and well-being.
+- WHO’s conceptual framework on self-care interventions has core elements from both people-centred and health systems approaches, underpinned by the key principles of human rights, ethics, inclusivity and gender equality. The framework promotes the importance of an enabling environment in the implementation of self-care interventions. Ensuring an enabling environment requires action not only from the health sector, but from other sectors such as the education, justice and social services sectors, because most self-care interventions are accessed and/or used outside formal health facilities and services.
+- Self-care interventions can be connected with digital platforms and technologies and be incorporated into the education and training of health and care workers to ensure effective support for these interventions in order to achieve maximum scale and reach.
+- Health literacy, including digital literacy, is also important for the uptake of self-care interventions and provides the foundation which enables individuals to play an active role in improving their own health.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

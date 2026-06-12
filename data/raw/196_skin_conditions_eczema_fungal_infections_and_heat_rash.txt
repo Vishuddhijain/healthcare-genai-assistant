@@ -1,0 +1,174 @@
+TOPIC: Skin Conditions — Eczema, Fungal Infections, and Heat Rash
+CATEGORY: Non-Communicable / Communicable Disease (Dermatology)
+SOURCE: WHO + NHP India + IADVL - https://nhp.gov.in/disease/skin-disease | www.who.int/news-room/fact-sheets
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Skin diseases are among the most common reasons for outpatient visits in India. The hot, humid climate promotes fungal and bacterial infections, while air pollution, hard water, sweating, and increased use of synthetic clothing worsen inflammatory skin conditions like eczema. Heat rash is extremely common across India in summer months. While most common skin conditions are not life-threatening, they significantly affect quality of life, and stigma around visible skin conditions is a significant public health issue. Early and correct diagnosis matters, as many skin conditions look similar and require different treatments.
+
+--- ECZEMA (ATOPIC DERMATITIS) ---
+
+Definition: A chronic, inflammatory skin condition characterised by dry, itchy, and inflamed skin. It is part of the "atopic triad" — often co-exists with asthma and allergic rhinitis (hay fever). It is not contagious.
+
+Symptoms:
+- Dry, scaly, or rough skin
+- Intense itching (often worse at night)
+- Red to brownish-grey patches
+- Small, raised bumps that may weep fluid when scratched
+- Thickened, cracked, or scaly skin from repeated scratching
+- Raw, swollen skin from scratching
+
+Common sites:
+- Infants: Face, cheeks, scalp, outer surfaces of limbs
+- Children and adults: Behind knees, inside elbows, wrists, hands, feet, ankles, neck
+
+Triggers:
+- Dry skin (low humidity, air conditioning, hot showers)
+- Irritants: Soaps, detergents, shampoos, certain fabrics (synthetic, wool)
+- Allergens: Dust mites, pet dander, pollen, certain foods (in some children)
+- Sweat (especially in India's hot and humid climate)
+- Stress
+- Skin infections
+- Hard water
+
+Prevention and Management:
+- Moisturise liberally and frequently (emollients/moisturisers) — cornerstone of management; apply immediately after bathing
+- Use mild, fragrance-free soap or soap-free cleansers
+- Bathe in lukewarm (not hot) water; pat dry gently
+- Wear soft, loose cotton clothing
+- Keep nails short to prevent damage from scratching
+- Identify and avoid personal triggers
+- Use prescribed topical steroids or non-steroid immunomodulators during flares — do not self-medicate
+- Antihistamines for itch relief (doctor advised)
+
+--- FUNGAL SKIN INFECTIONS ---
+
+Overview: Fungal skin infections (tinea or ringworm infections) are extremely prevalent in India, dramatically increasing since around 2017–2018 due to widespread misuse of topical steroid-antifungal-antibiotic combination creams (sold over-the-counter). India is facing an epidemic of chronic, recalcitrant dermatophytosis — difficult-to-treat ringworm — recognised as a national dermatological crisis.
+
+Types by Body Site:
+- Tinea corporis: Ringworm of the body — ring-shaped, scaly, itchy patches
+- Tinea cruris (Jock itch): Groin area; ring-shaped or irregular red, itchy patches
+- Tinea capitis: Scalp ringworm; scaly patches, hair loss; common in children
+- Tinea pedis (Athlete's foot): Scaling, itching, cracking between toes and sole of feet
+- Tinea unguium (Onychomycosis): Nail fungal infection; yellow, thick, brittle nails
+- Tinea versicolor (Pityriasis versicolor): Caused by Malassezia yeast; causes hypo/hyperpigmented (lighter or darker) patches on trunk and arms; very common in India's humid climate
+
+Symptoms of Tinea (Ringworm):
+- Ring-shaped or circular reddish patch with clear centre
+- Itching (often intense)
+- Scaly, flaky border
+- May blister or ooze
+- Enlarging rings over time
+
+CRITICAL — The Steroid Cream Problem in India:
+- Many branded creams sold in Indian medical shops combine a steroid (e.g. clobetasol) + antifungal + antibiotic (e.g. Panderm, Betnovate-C, Topivate, Quadriderm)
+- These are PRESCRIPTION-ONLY but widely sold OTC and self-applied for any rash
+- Initial use suppresses redness/itching (steroid effect), appearing to improve, but the fungus survives — infection spreads and becomes chronic and treatment-resistant
+- Long-term steroid use causes skin thinning, stretch marks, acne, and systemic steroid absorption
+- DO NOT use combination steroid-antifungal creams without a dermatologist's prescription
+
+Prevention:
+- Keep skin dry, especially in skin folds (groin, underarms, between toes)
+- Wear loose, breathable cotton underwear and socks
+- Change sweaty clothes promptly
+- Avoid sharing towels, footwear, combs
+- Wear footwear in public showers/changing rooms
+- Treat household contacts and pets if they have ringworm
+
+Treatment (Awareness Only — Consult Doctor):
+- Topical antifungals (clotrimazole, miconazole, terbinafine): For limited mild infections
+- Oral antifungals (terbinafine, itraconazole, fluconazole): For extensive, recalcitrant, or nail fungal infections — must be prescribed by a doctor
+- Treatment duration matters — fungal infections must be treated for the full prescribed duration even if symptoms resolve
+
+--- HEAT RASH (MILIARIA) ---
+
+Definition: Heat rash (prickly heat) occurs when sweat ducts become blocked and sweat is trapped under the skin. Extremely common in India, especially in infants, young children, and adults in hot and humid conditions.
+
+Types:
+1. Miliaria crystallina: Superficial; tiny, clear blisters; no inflammation; least symptomatic
+2. Miliaria rubra (Prickly Heat): Most common; small red bumps with intense prickling or itching; forms in skin folds and clothing-covered areas
+3. Miliaria profunda: Deeper, flesh-coloured bumps; less common; more uncomfortable
+
+Common Sites:
+- Neck, chest, back, armpits, groin, and under breasts
+- Any area where skin rubs against skin or clothing
+
+Symptoms:
+- Clusters of small red bumps or blisters
+- Prickling, stinging, or itchy sensation
+- Mild inflammation (redness, warmth)
+- May develop secondary infection if scratched
+
+Prevention and Management:
+- Wear loose, lightweight, breathable cotton clothing
+- Stay in cool or well-ventilated environments (fan, air conditioning if available)
+- Shower with cool water after sweating
+- Keep skin dry; use talcum powder on susceptible areas (use sparingly on infants)
+- Avoid thick creams or ointments in affected areas (trap heat and sweat)
+- Calamine lotion soothes symptoms
+- Most heat rash resolves within days when the skin cools down
+- See a doctor if infected (pustules, increasing pain, fever)
+
+--- OTHER COMMON SKIN CONDITIONS IN INDIA ---
+
+Scabies:
+- Highly contagious skin infestation caused by a microscopic mite (Sarcoptes scabiei)
+- Intense itching, especially at night; small burrows and papules between fingers, wrists, elbows, waist, buttocks, genitals
+- Spreads through close skin-to-skin contact (common in overcrowded settings)
+- Requires topical permethrin or oral ivermectin — prescribed by doctor; treat all household contacts simultaneously
+
+Psoriasis:
+- Chronic autoimmune skin condition causing rapid build-up of skin cells; forms scales and red patches that can be itchy and painful
+- Not contagious; not curable but manageable
+- Triggers: Stress, infections, injury, certain medications
+- Treatment: Topical steroids, moisturisers, phototherapy, systemic therapy — doctor managed
+
+Urticaria (Hives):
+- Raised, itchy welts on the skin; can appear anywhere; allergic or non-allergic triggers
+- Acute urticaria: Resolves within 6 weeks; antihistamines help
+- Chronic urticaria: Persists >6 weeks; requires medical evaluation
+
+--- WHEN TO SEE A DOCTOR ---
+- Any skin condition that doesn't improve within 2 weeks
+- Rash spreading rapidly or becoming more painful
+- Signs of skin infection (increasing pain, pus, swelling, fever)
+- Itching severe enough to disrupt sleep
+- Rash in a child with fever
+- Do not apply combination steroid-antifungal creams without prescription
+- Nail fungal infection (often requires prolonged oral treatment — self-treatment is usually ineffective)
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India faces a national epidemic of drug-resistant, chronic dermatophytosis linked to OTC steroid combination cream misuse
+- IADVL (Indian Association of Dermatologists, Venereologists and Leprologists) has issued national guidelines and campaigns on appropriate antifungal use
+- Free dermatology OPDs at government medical college hospitals and district hospitals
+- Tele-dermatology services increasingly available via eSanjeevani (esanjeevani.mohfw.gov.in)
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Do not self-diagnose skin conditions or apply any cream — especially steroid-containing creams — without a qualified doctor's prescription. Many skin conditions look similar but require different treatments; incorrect treatment can worsen the condition or cause lasting skin damage.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

@@ -1,0 +1,112 @@
+TOPIC: Antimicrobial Resistance (AMR)
+CATEGORY: Public Health / Infectious Disease / Drug Resistance
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Antimicrobial resistance (AMR) occurs when bacteria, viruses, fungi, and parasites evolve to resist the medicines designed to kill them. This makes infections harder — and sometimes impossible — to treat. AMR is one of the greatest global public health threats. India has one of the highest AMR burdens in the world, largely due to overuse and misuse of antibiotics.
+
+--- KEY FACTS ---
+- AMR causes approximately 1.27 million deaths directly per year globally.
+- AMR was a contributing factor in 4.95 million deaths in 2019.
+- India has one of the world's highest antibiotic consumption rates.
+- Antibiotic use in India is largely unregulated — antibiotics are widely available without prescription.
+- Drug-resistant tuberculosis (MDR-TB) and drug-resistant typhoid (XDR typhoid) are growing problems in India.
+- Without action, AMR could cause 10 million deaths annually by 2050.
+
+--- HOW AMR DEVELOPS ---
+- Bacteria naturally evolve. When exposed to an antibiotic, some may survive (natural selection).
+- Survivors reproduce, creating a resistant population.
+- This is accelerated by:
+  - Taking antibiotics unnecessarily (for viral infections like cold and flu)
+  - Not completing the full antibiotic course (leaving resistant bacteria behind)
+  - Using antibiotics without prescription
+  - Giving antibiotics to animals for growth promotion
+  - Poor infection control in hospitals
+
+--- COMMON DRUG-RESISTANT INFECTIONS IN INDIA ---
+1. MDR-TB (Multi-Drug Resistant Tuberculosis): TB that does not respond to first-line drugs.
+2. XDR Typhoid: Typhoid resistant to multiple antibiotics including fluoroquinolones and azithromycin.
+3. MRSA: Methicillin-Resistant Staphylococcus aureus — hospital-acquired infection.
+4. Drug-resistant malaria: P. falciparum showing resistance to artemisinin in some regions.
+5. Carbapenem-resistant infections: Critical threat in ICUs.
+6. Drug-resistant gonorrhoea: STI becoming very difficult to treat.
+
+--- WHAT ANTIBIOTICS TREAT AND DON'T TREAT ---
+Antibiotics WORK against:
+- Bacterial infections: bacterial pneumonia, urinary tract infections, strep throat, typhoid, TB
+
+Antibiotics DO NOT WORK against:
+- Viral infections: common cold, flu, COVID-19, dengue, chikungunya, most sore throats, most coughs
+- Taking antibiotics for a viral infection is useless AND dangerous (increases resistance)
+
+--- HOW TO USE ANTIBIOTICS SAFELY ---
+1. ONLY take antibiotics when prescribed by a qualified doctor.
+2. NEVER buy antibiotics over the counter without prescription.
+3. ALWAYS complete the full course — even if you feel better. Stopping early leaves resistant bacteria.
+4. NEVER share your antibiotics with others.
+5. NEVER use leftover antibiotics from a previous illness.
+6. ASK your doctor if an antibiotic is truly necessary.
+7. NEVER pressure your doctor to prescribe antibiotics.
+
+--- PREVENTION OF INFECTIONS (REDUCING NEED FOR ANTIBIOTICS) ---
+- Wash hands thoroughly and frequently with soap
+- Get vaccinated — vaccines prevent infections, reducing antibiotic use
+- Practice safe food handling and safe water use
+- Avoid close contact with sick people
+- Use condoms (prevents STIs including drug-resistant gonorrhoea)
+
+--- INDIA-SPECIFIC ACTIONS ---
+- Schedule H1 antibiotics in India require a prescription — do not buy without one.
+- The National Action Plan on AMR (NAP-AMR) aims to reduce antibiotic misuse.
+- ICMR regularly publishes AMR data and antibiotic guidelines.
+- Hospitals are implementing Antibiotic Stewardship Programmes.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: I have a cold. Should I take an antibiotic to recover faster?
+A: No. Colds are caused by viruses. Antibiotics are useless against viruses. Rest, fluids, and symptomatic relief (paracetamol, steam) are all that's needed. Antibiotics will only cause side effects and contribute to resistance.
+
+Q: I stopped my antibiotic course after 3 days because I felt better. Is that okay?
+A: No. You must complete the full prescribed course. Feeling better doesn't mean the infection is eliminated. Stopping early leaves partially-killed bacteria that can develop resistance.
+
+Q: What can I do if I'm prescribed an antibiotic and feel it's not necessary?
+A: Ask your doctor politely — "Is this antibiotic definitely needed? Is there a non-antibiotic option?" It's okay to question. A good doctor will explain.
+
+Q: Are antibiotic-resistant infections treatable at all?
+A: Many still respond to last-resort antibiotics, but these are more expensive, have more side effects, and may not be available everywhere. Prevention through proper antibiotic use is essential.
+
+--- IMPORTANT SAFETY NOTE ---
+Never take antibiotics without a doctor's prescription. Antibiotic misuse is a public health crisis. Your decision to use antibiotics responsibly protects not just you, but your entire community.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

@@ -1,0 +1,108 @@
+TOPIC: Food Additives and Food Safety
+CATEGORY: Environmental Health / Nutrition / Public Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/food-additives | FSSAI India - fssai.gov.in
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Food additives are substances added to food to preserve flavour, enhance taste, appearance, or shelf life. They have been used for centuries (salt, vinegar, sugar). Modern food additives include synthetic chemicals and natural extracts. Regulatory authorities like WHO, Codex Alimentarius, and FSSAI (India) set safety standards for all permitted additives. When used within approved limits, food additives are safe. However, understanding them helps make informed food choices.
+
+--- TYPES ---
+1. Preservatives: Prevent spoilage and extend shelf life.
+   Examples: Sodium benzoate (E211), sulphites (E220–228), nitrates/nitrites (in processed meats).
+2. Colourants: Add or restore colour.
+   Examples: Tartrazine (yellow — E102), carmoisine (red — E122), caramel (E150).
+3. Flavour enhancers: Intensify taste.
+   Examples: Monosodium glutamate (MSG — E621), ribonucleotides.
+4. Sweeteners: Add sweetness without sugar calories.
+   Examples: Saccharin, aspartame, stevia, sucralose.
+5. Thickeners / stabilisers / emulsifiers: Improve texture and consistency.
+   Examples: Lecithin (E322), xanthan gum (E415), carrageenan (E407).
+6. Antioxidants: Prevent rancidity in fats and oils.
+   Examples: BHA (E320), BHT (E321), Vitamin E (E306–E309).
+7. Acidity regulators: Control pH.
+   Examples: Citric acid (E330), acetic acid (E260 — vinegar).
+8. Anti-caking agents: Prevent clumping in powders.
+   Examples: Silicon dioxide in salt and flour.
+
+--- KEY FACTS ---
+- All food additives permitted in India must be approved by FSSAI (Food Safety and Standards Authority of India).
+- Internationally, Codex Alimentarius and WHO's Joint FAO/WHO Expert Committee on Food Additives (JECFA) evaluate safety.
+- An Acceptable Daily Intake (ADI) is set for each additive — the amount that can be consumed daily for life without appreciable health risk.
+- E-numbers are European codes for food additives — many are natural (E300 = Vitamin C).
+- Not all additives are synthetic — many are derived from natural sources.
+
+--- SYMPTOMS OF POTENTIAL SENSITIVITY ---
+Most people tolerate approved food additives without any reaction. However, some individuals may be sensitive:
+- Tartrazine (E102): Linked to hyperactivity in children with ADHD; may trigger asthma in aspirin-sensitive people.
+- Sulphites (E220–228): Can trigger asthma attacks in sulphite-sensitive individuals.
+- MSG: Some people report headaches, flushing, or sweating ("MSG sensitivity") — though large studies have not confirmed MSG as the cause.
+- Sodium nitrite (in processed meats): Linked to cancer risk at high consumption levels.
+- Artificial colours: Some studies link certain artificial colours to hyperactivity in children.
+
+--- RISK FACTORS ---
+- Asthma or respiratory conditions (sulphite sensitivity)
+- ADHD in children (some artificial colours)
+- Food allergies (always read labels)
+- High consumption of ultra-processed foods (highest additive exposure)
+
+--- PREVENTION AND SAFE PRACTICES ---
+- Read food labels — FSSAI requires all additives to be declared on labels.
+- Choose minimally processed, whole foods wherever possible.
+- Limit ultra-processed foods (biscuits, chips, instant noodles, carbonated drinks).
+- For children: Limit packaged snacks with artificial colours.
+- Rinse canned and packaged foods to reduce preservative content.
+- When in doubt, choose fresh over packaged.
+
+--- ENVIRONMENTAL CONTROL ---
+- FSSAI conducts regular surveillance and testing of food products in India.
+- Adulteration (adding harmful substances not on the approved list) is illegal and a serious public health problem in India — especially in spices, milk, and edible oils.
+
+--- DIAGNOSIS ---
+- Specific food additive sensitivity is diagnosed through clinical history and exclusion diets.
+- A doctor or allergist can help identify if a specific additive is causing symptoms.
+
+--- TREATMENT (Awareness Only) ---
+- If you suspect sensitivity to a food additive: consult a doctor or allergist.
+- Elimination diet (removing suspected additive) under medical supervision.
+- For severe allergic reactions: antihistamines or adrenaline (doctor-prescribed).
+
+--- WARNING SIGNS ---
+- Hives, swelling, difficulty breathing after consuming packaged food may indicate food allergy (emergency — call 112).
+- Persistent hyperactivity or behavioural changes in children that correlate with certain packaged foods.
+
+--- WHEN TO SEE A DOCTOR ---
+- Repeated reactions (headache, hives, breathing difficulty) after eating specific packaged foods.
+- Child with ADHD who may be sensitive to artificial colours — discuss with paediatrician.
+- Suspected food adulteration illness: See a doctor and report to FSSAI.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- FSSAI regulates all food additives in India under Food Safety and Standards (Food Products Standards and Food Additives) Regulations.
+- Only additives on the FSSAI-approved list (positive list) are legal.
+- Food adulteration is a significant problem in India — spices mixed with artificial colours, milk adulterated with water/detergent.
+- To report adulteration: FSSAI helpline 1800-11-2100 or file complaint at fssai.gov.in.
+- FSSAI "Eat Right India" initiative promotes awareness of food labels and safe food choices.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is MSG (ajinomoto) harmful?
+A: MSG is approved by WHO, FSSAI, and FDA as safe. "Chinese restaurant syndrome" attributed to MSG has not been confirmed by controlled studies. Like any substance, excessive consumption may cause sensitivity in some individuals, but normal amounts in food are safe.
+
+Q: Are all E-numbers (like E300, E330) harmful?
+A: No. Many E-numbers are vitamins and natural substances. E300 = Vitamin C, E330 = citric acid (found in lemons). The E-number just means it has been evaluated and approved in Europe. Always look up the specific E-number if unsure.
+
+Q: Should I avoid all packaged food with preservatives?
+A: Not necessarily. Approved preservatives at regulated levels are safe. However, a diet based primarily on whole, unprocessed foods is healthier overall. Balance is key.
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for public awareness. Food additives within FSSAI-approved limits are safe for the general population. For specific health concerns or reactions, consult a doctor. Report suspected food adulteration to FSSAI at 1800-11-2100.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

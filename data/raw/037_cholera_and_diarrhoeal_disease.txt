@@ -1,0 +1,150 @@
+TOPIC: Cholera and Diarrhoeal Disease
+CATEGORY: Communicable / Waterborne Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/cholera | https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Diarrhoeal disease is the second leading cause of death in children under 5 globally. Cholera is a severe, acute diarrhoeal disease caused by the bacterium Vibrio cholerae. Both are closely linked to unsafe water, poor sanitation, and inadequate hygiene. Both are entirely preventable.
+
+--- DIARRHOEAL DISEASE ---
+
+Key facts:
+- Diarrhoea kills approximately 1.6 million people per year, mostly children under 5.
+- In India, diarrhoea accounts for approximately 13% of under-5 deaths.
+- Diarrhoea is the leading cause of malnutrition in children under 5.
+- Most deaths from diarrhoea are caused by dehydration — preventable with ORS.
+- Rotavirus is the most common cause of severe childhood diarrhoea globally.
+
+Causes:
+- Viral: Rotavirus (most common in children), norovirus
+- Bacterial: E. coli, Salmonella, Shigella, Campylobacter, Vibrio cholerae
+- Parasitic: Giardia, Cryptosporidium, Entamoeba histolytica (amoebic dysentery)
+- Route: Faecal-oral — contaminated water, food, or hands
+
+--- CHOLERA ---
+
+Key facts:
+- Cholera is an acute diarrhoeal disease caused by Vibrio cholerae.
+- Severe cholera causes profuse watery diarrhoea (rice-water stools) and vomiting, leading to rapid, severe dehydration.
+- Without treatment, severe cholera can kill within hours.
+- With treatment, case fatality should be below 1%.
+- India has periodic cholera outbreaks, especially post-floods and in areas with poor sanitation.
+
+Symptoms:
+- Sudden onset of profuse watery diarrhoea (described as "rice-water" — pale and watery)
+- Vomiting
+- Leg cramps
+- Rapid dehydration (can lead to shock and death if untreated)
+- Many infected people have mild or no symptoms but can still spread the disease.
+
+Severe dehydration signs (medical emergency):
+- Sunken eyes
+- Dry mouth and extreme thirst
+- No urination
+- Muscle cramps
+- Weak/rapid pulse
+- Lethargy or unconsciousness
+→ CALL 112 and give ORS immediately
+
+--- MANAGEMENT OF DIARRHOEA / CHOLERA ---
+The cornerstone of treatment is rehydration:
+
+ORS (Oral Rehydration Solution):
+- Give ORS after every loose stool
+- ORS sachets are available FREE at all government health centres
+- Prepare: 1 sachet in 1 litre of clean/boiled water
+- Give small sips frequently — do not force large amounts at once
+- Continue breastfeeding infants during diarrhoea
+- Continue normal feeding as soon as tolerated (do not starve)
+
+Zinc supplementation:
+- Give zinc 20 mg/day for 14 days for children with diarrhoea
+- Reduces severity and duration, and prevents recurrence for 2–3 months
+- Available free at government hospitals under IMNCI programme
+
+When to seek medical care:
+- Diarrhoea not improving with ORS after 24–48 hours
+- Blood in stool (dysentery)
+- Signs of dehydration (sunken eyes, no urination, lethargy)
+- High fever
+- Child cannot keep fluids down
+- Suspected cholera (very profuse watery diarrhoea, rice-water appearance)
+
+What NOT to do:
+- Do NOT give anti-diarrhoeal medicines (loperamide) to young children without doctor advice — can mask severity
+- Do NOT stop feeding — starvation worsens recovery
+- Do NOT take antibiotics without doctor's advice
+
+--- PREVENTION ---
+Safe water:
+- Drink boiled or treated water
+- Do not drink from unknown sources during outbreaks or flood situations
+
+Sanitation:
+- Use a toilet — open defecation spreads diarrhoeal pathogens widely
+- Safe disposal of child's faeces — in toilet
+
+Hand hygiene:
+- Wash hands with soap before eating or preparing food
+- Wash hands with soap after using the toilet or cleaning a child
+- This single action can reduce diarrhoeal disease by 40–48%
+
+Food safety:
+- Eat hot, freshly cooked food
+- Avoid raw fruits and vegetables from unknown sources during outbreaks
+- Avoid ice of unknown origin
+
+Vaccination:
+- Rotavirus vaccine: Free under India's Universal Immunisation Programme — protects against the most common severe diarrhoea in children.
+- Oral Cholera Vaccine (OCV): Used in outbreak situations and high-risk areas. Available at government facilities.
+
+--- WHEN TO CALL 112 ---
+- Profuse watery diarrhoea (possible cholera) — especially during monsoon or flood situations
+- Child is unconscious, extremely lethargic, or has no urine for 8+ hours
+- Suspected cholera case: isolate patient and contact local health authority
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Diarrhoea cases spike during monsoon season (July–October).
+- Post-flood water contamination is a major cause of cholera outbreaks.
+- IDSP (Integrated Disease Surveillance Programme) monitors diarrhoea outbreaks.
+- Report suspected cholera outbreaks to local health authorities.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do I prepare ORS at home if sachets are not available?
+A: Emergency home ORS: 1 litre boiled water + 6 level teaspoons of sugar + ½ teaspoon salt. This is a temporary measure — get proper ORS sachets as soon as possible.
+
+Q: Is diarrhoea always an infection?
+A: No. Diarrhoea can also be caused by lactose intolerance, IBS, food intolerance, medications, or anxiety. If diarrhoea is recurrent without infection signs, consult a doctor.
+
+Q: Should I avoid all dairy when I have diarrhoea?
+A: In adults, you can continue a normal, light diet. Curd (yogurt with live cultures) may actually help gut recovery. Breastfeeding should continue for infants.
+
+--- IMPORTANT SAFETY NOTE ---
+Diarrhoea with severe dehydration is a medical emergency, especially in children and the elderly. Give ORS immediately and call 112 if the person is very ill. This information is for awareness and first-line response only.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.

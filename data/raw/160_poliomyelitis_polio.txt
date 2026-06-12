@@ -1,0 +1,141 @@
+TOPIC: Poliomyelitis (Polio)
+CATEGORY: Communicable Disease / Vaccine-Preventable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/poliomyelitis | NHP India | UNICEF | Pulse Polio Programme India
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Poliomyelitis (polio) is a highly contagious infectious disease caused by the poliovirus. It primarily affects children under 5 years of age. The virus invades the nervous system and can cause irreversible paralysis within hours. There is no cure — only prevention through vaccination. India achieved polio-free status in 2014, certified by WHO, making it one of the most celebrated public health achievements in history. However, the threat of re-importation from remaining endemic countries (Pakistan, Afghanistan) makes continued vaccination critically important. Wild poliovirus types 1, 2, and 3 exist — type 2 and 3 are eradicated; only type 1 remains in 2 countries.
+
+--- KEY FACTS ---
+- Polio has been reduced by over 99% globally since the Global Polio Eradication Initiative (GPEI) launched in 1988.
+- India was declared polio-free on 27 March 2014 — the last case was detected on 13 January 2011 in West Bengal.
+- Wild poliovirus type 2 (WPV2) was declared eradicated in 2015; Wild poliovirus type 3 (WPV3) eradicated in 2019.
+- As of 2024, wild poliovirus type 1 (WPV1) remains endemic only in Pakistan and Afghanistan.
+- 1 in 200 infections leads to irreversible paralysis; among paralysed, 5–10% die from respiratory muscle paralysis.
+- Oral Polio Vaccine (OPV) and Inactivated Polio Vaccine (IPV) are both safe and effective.
+- Pulse Polio Programme: India's landmark immunisation programme — administering OPV to all children under 5.
+- cVDPV (Circulating Vaccine-Derived Poliovirus): A rare risk when OPV is used in under-immunised populations.
+
+--- TYPES OF POLIOVIRUS ---
+1. Wild Poliovirus Type 1 (WPV1): Still circulating in Pakistan and Afghanistan (as of 2024)
+2. Wild Poliovirus Type 2 (WPV2): ERADICATED globally (2015)
+3. Wild Poliovirus Type 3 (WPV3): ERADICATED globally (2019)
+4. Vaccine-Derived Poliovirus (VDPV): Rare; occurs when OPV virus mutates in under-immunised populations
+
+--- SYMPTOMS ---
+Most poliovirus infections produce no symptoms (70–95%):
+- Non-paralytic polio (minor illness, ~24% of cases): Fever, sore throat, nausea, vomiting, headache — resolves in 1–2 weeks
+- Paralytic polio (~1% of all infections): Onset of flaccid (floppy) paralysis, usually in legs — typically one limb affected more than another; rapid onset within hours; may be permanent
+
+Post-Polio Syndrome (PPS):
+- Affects 25–40% of people who had paralytic polio, decades later
+- New muscle weakness, fatigue, pain in previously affected limbs
+- Not contagious; managed with physiotherapy and supportive care
+
+--- WARNING SIGNS ---
+- Sudden onset of weakness or paralysis in any limb in a child — seek immediate medical care
+- Acute Flaccid Paralysis (AFP): Any child under 15 with sudden flaccid paralysis must be reported — this is a notifiable condition in India (part of AFP surveillance under NPSP)
+- Difficulty breathing or swallowing (bulbar polio — affects muscles of breathing)
+- High fever with muscle pain and sudden limb weakness
+
+--- RISK FACTORS ---
+- Unvaccinated or under-vaccinated status
+- Children under 5 years (highest risk)
+- Living in areas with poor sanitation and unsafe water
+- Close contact with a person infected with poliovirus
+- Travel to or contact with travellers from countries where poliovirus circulates (Pakistan, Afghanistan)
+- Immunocompromised individuals
+
+--- TRANSMISSION ---
+- Faecal-oral route (primary): Contaminated water/food with faeces of infected person
+- Oral-oral (secondary): Through respiratory secretions
+- Poliovirus multiplies in the intestine and is excreted in faeces for weeks (even in asymptomatic cases)
+- Spreads easily in areas with poor sanitation and unsafe drinking water
+- Incubation period: 6–20 days (range: 3–35 days)
+
+--- PREVENTION ---
+1. Vaccination (ONLY prevention — no cure exists):
+   - Oral Polio Vaccine (OPV): Two types: bivalent OPV (bOPV — types 1 and 3) and monovalent; given as drops in mouth
+   - Inactivated Polio Vaccine (IPV): Injected; part of routine immunisation in India
+   - Complete immunisation with both OPV and IPV provides full protection
+
+2. Safe water and sanitation:
+   - Use treated/safe drinking water
+   - Wash hands with soap after using toilet and before eating/preparing food
+   - Safe disposal of human waste (toilets, latrines)
+   - Open defecation free (ODF) status under Swachh Bharat Mission reduces polio risk
+
+--- VACCINATION (INDIA — DETAILED) ---
+Routine Immunisation Schedule (UIP India):
+- Birth: OPV (birth dose) + IPV at 6 weeks
+- 6 weeks: OPV + IPV (Pentavalent vaccine contains IPV)
+- 10 weeks: OPV
+- 14 weeks: OPV + IPV (second IPV dose)
+- 9–12 months: OPV (follow-up dose)
+- 16–18 months: OPV + IPV (booster)
+
+Pulse Polio Immunisation (PPI) Programme:
+- National Immunisation Days (NIDs): Nationwide campaigns, usually January–February
+- All children under 5 receive OPV drops FREE — regardless of previous vaccination status
+- Sub-national NIDs (SNIDs): In high-risk states/districts
+- Door-to-door polio booths set up in every community
+- Target: Zero-dose and under-immunised children in high-risk areas (UP, Bihar, MP — historically high-risk)
+
+Travellers:
+- India requires travellers arriving from Pakistan and Afghanistan to show proof of polio vaccination
+- Travellers to polio-endemic countries should ensure they are fully vaccinated
+
+--- DIAGNOSIS ---
+- Clinical: Acute flaccid paralysis (AFP) in child under 15 — immediately reportable
+- Stool specimens: Two samples collected 24–48 hours apart within 14 days of paralysis onset; sent to WHO-accredited labs
+- AFP Surveillance: India has nationwide AFP surveillance system under National Polio Surveillance Programme (NPSP) to detect any suspected polio case
+
+--- TREATMENT (AWARENESS ONLY) ---
+- NO antiviral treatment or cure for polio exists
+- Supportive care: Rest, pain relief, physiotherapy to maintain muscle function
+- Respiratory support (ventilator) for bulbar polio affecting breathing muscles
+- Physiotherapy and assistive devices (calipers, wheelchairs) for long-term rehabilitation
+- Government provides free rehabilitation support for polio survivors through ALIMCO (Artificial Limbs Manufacturing Corporation) and state schemes
+
+--- WHEN TO SEE A DOCTOR ---
+- Any sudden weakness or paralysis in a child (or adult) — report immediately to the nearest health facility
+- High fever with muscle pain in a child followed by limb weakness
+- AFP (Acute Flaccid Paralysis) is a public health notifiable condition — all clinicians must report cases immediately
+- Post-polio syndrome symptoms in an adult who had childhood polio
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India celebrated 10 years of polio-free status in 2024 — a landmark in global health
+- Pulse Polio Programme, launched in 1995, was critical — reached hundreds of millions of children
+- NPSP (National Polio Surveillance Programme): WHO-supported; active AFP surveillance
+- High-risk areas: Western UP, Bihar, Mumbai (migrant populations) remain priority areas for surveillance
+- Migrant polio monitoring: Children of migrants tracked at bus/rail stations
+- Polio survivors: India has millions of adults with polio-related paralysis — ALIMCO provides free/subsidised callipers, crutches, and wheelchairs
+- IPV was introduced into India's UIP in 2015 (replacing some OPV doses) to reduce vaccine-derived risk
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is India still polio-free?
+A: Yes, as of 2024, India remains polio-free. The last wild poliovirus case was on 13 January 2011. However, continued vaccination is critical to prevent re-importation from Pakistan and Afghanistan.
+
+Q: My child already had polio drops — do they need them again during Pulse Polio?
+A: Yes. All children under 5 should receive polio drops during Pulse Polio days, even if fully vaccinated. Extra doses boost immunity and protect communities. It is free and safe.
+
+Q: Is the polio vaccine safe?
+A: Yes. OPV and IPV have exceptional safety records. OPV carries a very small risk of vaccine-derived polio (VDPV) — approximately 1 per 2.7 million doses — which is why India uses both OPV and IPV together.
+
+Q: Can polio return to India?
+A: It is possible through importation from countries where polio is still endemic (Pakistan, Afghanistan). This is why sustained high vaccination coverage and AFP surveillance are essential.
+
+Q: Are polio survivors at risk of new symptoms?
+A: Post-Polio Syndrome (PPS) affects some survivors decades later with new muscle weakness and fatigue. This is not caused by new infection — it is a late effect of the original nerve damage. See a doctor for management.
+
+--- IMPORTANT SAFETY NOTE ---
+Polio is preventable — but there is no cure. Never miss a vaccination dose. Ensure all children under 5 receive OPV drops every time Pulse Polio camps are held. If you notice sudden paralysis in a child, seek emergency medical care and report to the health authorities — AFP surveillance is critical for keeping India polio-free. Treatment and vaccines are FREE at government facilities.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.

@@ -1,0 +1,61 @@
+TOPIC: Social determinants of health
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health
+LAST UPDATED: 6 May 2025
+
+--- OVERVIEW ---
+The social determinants of health are the conditions in which people are born, grow, work, live and age, and the wider forces that shape the conditions of daily life. Most of our health is determined by these non-medical root causes of ill health, which include quality education, access to nutritious food, and decent housing and working conditions.
+
+Wider forces include economic policies and systems, development agendas, social norms, social policies and political systems. Social determinants of health matter because addressing them not only helps prevents illness but also promotes healthy lives and equity.
+
+Health follows a social gradient whereby the more deprived the area in which people live, the lower their income, the fewer their years of education, the worse their health and the fewer healthy years they can expect to live.
+
+--- KEY FACTS ---
+- Widening health inequities undermine health and well-being across countries and cut lives short. Between countries, the difference in life expectancy gap is as wide as 33 years . Within countries, where data are available, health gaps between social groups are often growing.
+- People with higher educational attainment have better health and life spans than their less educated peers at a population level.
+- By eliminating wealth-related inequality within low- and middle-income countries, every year the lives of 1.8 million children could be saved.
+- Increasing investments by just 0.1% of GDP in each of social protection, labour market and housing and community policies could markedly improve health for 150 000 people in a country of 40 million within four years.
+- Health inequities will not be overcome unless economic inequality, structural discrimination, conflict and climate disruption are addressed.
+
+--- TYPES ---
+- manage the challenges and opportunities posed by the mega-trends of climate change and the digital transformation to promote health equity co-benefits; and
+- promote governance arrangements that devolve money, power and resources to local government, empower community engagement and civil society, and prioritize action on the social determinants of health equity in cross-government policy platforms and strategies.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- Increasing investments by just 0.1% of GDP in each of social protection, labour market and housing and community policies could markedly improve health for 150 000 people in a country of 40 million within four years.
+- Wider forces include economic policies and systems, development agendas, social norms, social policies and political systems. Social determinants of health matter because addressing them not only helps prevents illness but also promotes healthy lives and equity.
+- Weak taxation systems result in inadequate resources for universal public services, depriving 3.8 billion people worldwide of social protection coverage, such as child and paid sick leave benefits, which improve health.
+
+--- ENVIRONMENTAL CONTROL ---
+- Climate change has direct health impacts and damages the social determinants of health and livelihoods unequally. People with the lowest incomes more often depend on resources provided by nature. In low income countries, girls and women often have responsibility for water and fuel collection, and are required to travel further to obtain resources.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Social injustice continues to kill on a grand scale, in both high- and low-income countries, as the world fails to tackle the non-medical root causes of ill health. Social determinants of health equity outweigh genetic influences or health-care access in influencing health outcomes.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

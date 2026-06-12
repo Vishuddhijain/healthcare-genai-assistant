@@ -1,0 +1,63 @@
+TOPIC: Human rights
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/human-rights-and-health
+LAST UPDATED: 1 December 2023
+
+--- OVERVIEW ---
+Human rights are enshrined in human rights instruments. All WHO Member States have ratified at least one international human rights treaty that includes the right to the highest attainable standard of health. After ratifying a treaty, a country has a legal obligation to protect and fulfil the rights recognized in the treaty. To deliver on binding human rights commitments countries need to adopt a human rights-based approach to health.
+
+--- KEY FACTS ---
+- Refer to the WHO fact sheet for the latest global key facts and estimates.
+
+--- TYPES ---
+- A human rights-based approach to health commits countries to develop rights-compliant, effective, gender transformative, integrated, accountable health systems and implement other public health measures that improve the underlying determinants of health, like access to water and sanitation.
+- Addressing discrimination requires attention to overlapping and intersecting factors of discrimination notably gender, race, ethnicity, disability, sexual orientation, gender identity and socioeconomic status. An intersectional lens allows for the examination of health inequalities driven by multiple grounds of exclusion and for health interventions to be designed in a way that responds to intersecting factors. This would include, for example, ensuring that health information is provided in formats that allow people to access the information they need.
+- There is a growing recognition of the importance of regulation of non-State actors, such as the private sector and non-governmental organizations, to ensure they respect and protect human rights. For example, by enacting bans on tobacco advertising, promotion and sponsorship (TAPS), countries are implementing their commitments to manage tobacco control under the WHO Framework Convention on Tobacco Control. One third of countries (66), representing a quarter of the world’s population, have completely banned all forms of TAPS.
+- Accessibility requires that health facilities, goods, and services must be accessible to everyone. Accessibility has four dimensions: non-discrimination, physical accessibility, economic accessibility (affordability) and information accessibility. This is particularly important for persons with disabilities who often encounter significant barriers to health related to the inaccessibility of services, facilities and health information.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- This means countries must ensure legislation and health policies and programmes respect and advance the realization of human rights. Research shows that proactive measures to comply with human rights obligations help countries improve substantive equality and build resilience to shocks . For example, applying a human rights framework to reproductive health can help us identify how preventable maternal mortality and morbidity results from a variety of human rights violations including discrimination and lack of access to quality health services.
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- Human rights are enshrined in human rights instruments. All WHO Member States have ratified at least one international human rights treaty that includes the right to the highest attainable standard of health. After ratifying a treaty, a country has a legal obligation to protect and fulfil the rights recognized in the treaty. To deliver on binding human rights commitments countries need to adopt a human rights-based approach to health.
+- This means countries must ensure legislation and health policies and programmes respect and advance the realization of human rights. Research shows that proactive measures to comply with human rights obligations help countries improve substantive equality and build resilience to shocks . For example, applying a human rights framework to reproductive health can help us identify how preventable maternal mortality and morbidity results from a variety of human rights violations including discrimination and lack of access to quality health services.
+- remediable health disparities among different sub-populations. HRBA provides legal standards and obligations to put legal protections for equality and non-discrimination into action.
+- There is a growing recognition of the importance of regulation of non-State actors, such as the private sector and non-governmental organizations, to ensure they respect and protect human rights. For example, by enacting bans on tobacco advertising, promotion and sponsorship (TAPS), countries are implementing their commitments to manage tobacco control under the WHO Framework Convention on Tobacco Control. One third of countries (66), representing a quarter of the world’s population, have completely banned all forms of TAPS.
+- Quality extends to the underlying determinants of health, for example safe and potable water and sanitation as well as requiring that health facilities, goods, and services are scientifically and medically approved.
+- safe: avoiding injuries to people for whom the care is intended;
+
+--- ENVIRONMENTAL CONTROL ---
+- A human rights-based approach to health commits countries to develop rights-compliant, effective, gender transformative, integrated, accountable health systems and implement other public health measures that improve the underlying determinants of health, like access to water and sanitation.
+- Quality extends to the underlying determinants of health, for example safe and potable water and sanitation as well as requiring that health facilities, goods, and services are scientifically and medically approved.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Human rights are enshrined in human rights instruments. All WHO Member States have ratified at least one international human rights treaty that includes the right to the highest attainable standard of health. After ratifying a treaty, a country has a legal obligation to protect and fulfil the rights recognized in the treaty. To deliver on binding human rights commitments countries need to adopt a human rights-based approach to health.
+- Accountability : Countries must establish accessible and effective accountability mechanisms. These may include administrative and judicial remedies and oversight by other institutions, such as national human rights institutions and health and social care regulators. The United Nations human rights mechanisms, including the Committee on Economic Social and Cultural Rights, play a crucial accountability role by regularly reviewing countries’ compliance with their health-related human rights obligations.
+- safe: avoiding injuries to people for whom the care is intended;
+- people-centred: providing care that responds to individual needs;
+- equitable: providing care that does not vary in quality on account of age, gender, ethnicity, disability, geographic location, and socio-economic status;
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

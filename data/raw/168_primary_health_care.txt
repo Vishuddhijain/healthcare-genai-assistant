@@ -1,0 +1,62 @@
+TOPIC: Primary health care
+CATEGORY: Health Systems
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/primary-health-care
+LAST UPDATED: 5 December 2025
+
+--- OVERVIEW ---
+The concept of PHC has been repeatedly reinterpreted and redefined in the years since 1978, leading to confusion about the term and its practice. A clear and simple definition has been developed to facilitate the coordination of future PHC efforts at the global, national and local levels and to guide their implementation: "PHC is a whole-of-society approach to health that aims at ensuring the highest possible level of health and well-being and their equitable distribution by focusing on people’s needs and as early as possible along the continuum from health promotion and disease prevention to treatment, rehabilitation and palliative care, and as close as feasible to people’s everyday environment."
+
+PHC entails three inter-related and synergistic components, including: comprehensive integrated health services that embrace primary care as well as public health goods and functions as central pieces; multi-sectoral policies and actions to address the upstream and wider determinants of health; and engaging and empowering individuals, families and communities for increased social participation and enhanced self-care and self-reliance in health.
+
+PHC is rooted in a commitment to social justice, equity, solidarity and participation. It is based on the recognition that the enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction.
+
+--- KEY FACTS ---
+- Over 1.6 billion people worldwide were at risk of being pushed into poverty or further impoverished due to out-of-pocket health spending of 10% or more of their household budget in 2022.
+- Scaling up primary health care (PHC) interventions across low and middle-income countries could save 60 million lives and increase average life expectancy by 3.7 years by 2030.
+- An estimated 75% of the projected health gains from the Sustainable Development Goals could be achieved through PHC.
+- Achieving the targets for PHC requires an additional investment of around US$ 200 to US$ 328 billion a year for a more comprehensive package of health services.
+
+--- TYPES ---
+- Across the world, investments in PHC improve equity and access, health-care performance, accountability of health systems, and health outcomes. While some of these factors are directly related to the health system and access to health services, the evidence is clear that a broad range of factors beyond health services play a critical role in shaping health and well-being. These include social protection, food systems, education and environmental factors, among others.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Over 1.6 billion people worldwide were at risk of being pushed into poverty or further impoverished due to out-of-pocket health spending of 10% or more of their household budget in 2022.
+
+--- PREVENTION ---
+- PHC addresses the broader determinants of health and focuses on the comprehensive and interrelated aspects of physical, mental and social health and well-being. It provides whole-person care for health needs throughout the lifespan, not just for a set of specific diseases. Primary health care ensures people receive quality comprehensive care – ranging from promotion and prevention to treatment, rehabilitation and palliative care – as close as feasible to people’s everyday environment.
+- Across the world, investments in PHC improve equity and access, health-care performance, accountability of health systems, and health outcomes. While some of these factors are directly related to the health system and access to health services, the evidence is clear that a broad range of factors beyond health services play a critical role in shaping health and well-being. These include social protection, food systems, education and environmental factors, among others.
+
+--- ENVIRONMENTAL CONTROL ---
+- PHC addresses the broader determinants of health and focuses on the comprehensive and interrelated aspects of physical, mental and social health and well-being. It provides whole-person care for health needs throughout the lifespan, not just for a set of specific diseases. Primary health care ensures people receive quality comprehensive care – ranging from promotion and prevention to treatment, rehabilitation and palliative care – as close as feasible to people’s everyday environment.
+- Across the world, investments in PHC improve equity and access, health-care performance, accountability of health systems, and health outcomes. While some of these factors are directly related to the health system and access to health services, the evidence is clear that a broad range of factors beyond health services play a critical role in shaping health and well-being. These include social protection, food systems, education and environmental factors, among others.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- PHC is also critical to make health systems more resilient to situations of crisis, more proactive in detecting early signs of epidemics and more prepared to act early in response to surges in demand for services. Although the evidence is still evolving there is widespread recognition that PHC is the so-called front door of the health system and provides the foundation for the strengthening of the essential public health functions to confront public health crises such as COVID-19.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Member States have committed to primary health care renewal and implementation as the cornerstone of a sustainable health system for UHC, health related Sustainable Development Goals (SDGs) and health security. PHC provides the programmatic engine for UHC, the health-related SDGs and health security. This commitment has been codified and reiterated in the Declaration of Astana, the accompanying World Health Assembly Resolution 72/2, Global Monitoring Reports on UHC, and the United Nations General Assembly high-level declarations on UHC. UHC, the health-related SDGs and health security goals are ambitious but achievable. Progress must be...
+- PHC is the most inclusive, equitable, cost-effective and efficient approach to enhance people’s physical and mental health, as well as social well-being. Evidence of wide-ranging impact of investment in PHC continues to grow around the world, particularly in times of crisis such as the COVID-19 pandemic.
+- Across the world, investments in PHC improve equity and access, health-care performance, accountability of health systems, and health outcomes. While some of these factors are directly related to the health system and access to health services, the evidence is clear that a broad range of factors beyond health services play a critical role in shaping health and well-being. These include social protection, food systems, education and environmental factors, among others.
+- PHC is also critical to make health systems more resilient to situations of crisis, more proactive in detecting early signs of epidemics and more prepared to act early in response to surges in demand for services. Although the evidence is still evolving there is widespread recognition that PHC is the so-called front door of the health system and provides the foundation for the strengthening of the essential public health functions to confront public health crises such as COVID-19.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

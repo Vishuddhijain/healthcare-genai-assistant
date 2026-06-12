@@ -1,0 +1,61 @@
+TOPIC: Musculoskeletal health
+CATEGORY: Musculoskeletal Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions
+LAST UPDATED: 14 July 2022
+
+--- OVERVIEW ---
+Musculoskeletal health refers to the performance of the locomotor system, comprising intact muscles, bones, joints and adjacent connective tissues. Musculoskeletal impairments comprise more than 150 different diseases/conditions that affect the system and are characterized by impairments in the muscles, bones, joints and adjacent connective tissues leading to temporary or lifelong limitations in functioning and participation. Musculoskeletal conditions are typically characterized by pain (often persistent) and limitations in mobility and dexterity, reducing people’s ability to work and participate in society. Pain experienced in musculoskeletal structures is the most common form of non-cancer pain.
+
+Musculoskeletal conditions are relevant across the life-course – from childhood to older age. They range from those conditions that arise suddenly and are short-lived (such as fractures, sprains and strains, associated with pain and limitations in functioning) though to long-term conditions such as chronic primary low back pain and osteoarthritis.
+
+Musculoskeletal conditions include conditions that affect:
+
+--- KEY FACTS ---
+- Approximately 1.71 billion people have musculoskeletal conditions worldwide.
+- Musculoskeletal conditions are the leading contributor to disability worldwide, with low back pain being the single leading cause of disability in 160 countries.
+- Musculoskeletal conditions significantly limit mobility and dexterity, leading to early retirement from work, lower levels of well-being and reduced ability to participate in society.
+- Because of population growth and ageing, the number of people living with musculoskeletal conditions and associated functional limitations, is rapidly increasing.
+- WHO is responding to the burden attributed to musculoskeletal conditions across a number of programmatic areas.
+
+--- TYPES ---
+- Musculoskeletal conditions are relevant across the life-course – from childhood to older age. They range from those conditions that arise suddenly and are short-lived (such as fractures, sprains and strains, associated with pain and limitations in functioning) though to long-term conditions such as chronic primary low back pain and osteoarthritis.
+
+--- SYMPTOMS ---
+- Musculoskeletal conditions are the leading contributor to disability worldwide, with low back pain being the single leading cause of disability in 160 countries.
+- Musculoskeletal conditions are relevant across the life-course – from childhood to older age. They range from those conditions that arise suddenly and are short-lived (such as fractures, sprains and strains, associated with pain and limitations in functioning) though to long-term conditions such as chronic primary low back pain and osteoarthritis.
+- multiple body areas or systems , such as regional (e.g. back and neck pain) and widespread (e.g. fibromyalgia) pain conditions, inflammatory diseases such as connective tissue diseases and vasculitis that have musculoskeletal manifestations, for example systemic lupus erythematosus, or amputation as a result of disease or trauma.
+- The WHO Ageing Data Portal brings together data on available global indicators relevant to monitoring the health and well-being of people aged 60 years and over. Through maps, charts and tables, the portal offers tailored options for visualization and analysis of the data. The portal provides prevalence data for low back pain in older people.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Musculoskeletal conditions are also the highest contributor to the global need for rehabilitation. They are among the largest contributors to the need for rehabilitation services among children and account for approximately two-thirds of all adults in need of rehabilitation (1) . Musculoskeletal conditions often co-exist with other noncommunicable diseases and increase the risk of developing other noncommunicable diseases, such as cardiovascular disease (2) . People with musculoskeletal conditions are also at higher risk to develop mental health issues.
+
+--- PREVENTION ---
+- Use standard public-health prevention: timely health advice, safe hygiene practices, vaccination where recommended, risk reduction, and following local public-health guidance.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

@@ -1,0 +1,83 @@
+TOPIC: Shingles (herpes zoster)
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/shingles-(herpes-zoster)
+LAST UPDATED: 24 March 2025
+
+--- OVERVIEW ---
+Shingles, also known as herpes zoster, is a viral infection that causes a painful rash. It is caused by the varicella-zoster virus (VZV), the same virus that causes chickenpox. After a person recovers from chickenpox, the virus remains inactive in the body. Shingles occurs when the virus reactivates later in life, often when the immune system is weakened. The rash typically appears on one side of the body, often as a single stripe of blisters. The symptoms of shingles can include pain, itching, tingling and numbness, as well as fever, headache, chills and fatigue. Shingles is not contagious, but the virus can be spread to someone who has never had chickenpox, causing chickenpox. A safe and effective vaccine is available to prevent shingles and its complications. Treatment with antiviral medications can reduce the severity and duration of shingles, especially if started early....
+
+--- KEY FACTS ---
+- Shingles is a painful rash caused by the reactivation of the varicella-zoster virus (VZV), the same virus that causes chickenpox.
+- Anyone who has had chickenpox can develop shingles, although it is more common in adults over 50 years of age.
+- The main symptom is a rash that appears on one side of the body, often as a single stripe of blisters.
+- Shingles is not contagious, but the virus can be spread to someone who has never had chickenpox. This will cause chickenpox, not shingles.
+- A safe and effective vaccine is available to prevent shingles and its complications.
+- Antiviral medications can reduce the severity and duration of shingles, especially if started early.
+
+--- TYPES ---
+- Certain medical conditions. Conditions like diabetes, chronic kidney disease and lung disease may increase the risk.
+- WHO recommends that the use of the recombinant herpes zoster vaccine in a 2-dose schedule with a minimum 2-month interval between doses, for the prevention of herpes zoster in older adults and those with chronic conditions, be considered in countries where herpes zoster is an important public health problem. WHO advised countries to conduct cost-effectiveness analyses to inform decision-making.
+
+--- SYMPTOMS ---
+- The most common symptom of shingles is a painful rash. They include the following.
+- Pain, itching, tingling, or numbness usually occurs before the rash appears. This can happen days or even weeks before the rash.
+- A rash typically appears on one side of the body, often as a single stripe or band of blisters. It can also appear on the face, sometimes near the eye. If it occurs near the eye, it is a medical emergency. Contact your health-care provider right away.
+- The rash consists of small, fluid-filled blisters that break open and crust over within a few days.
+- Some people may experience fever, headache, chills and fatigue.
+- The pain associated with shingles can be intense and is often described as burning, throbbing or stabbing.
+
+--- WARNING SIGNS ---
+- The most common complication of shingles is postherpetic neuralgia (PHN), which is persistent nerve pain that can last for months or even years after the rash has healed. This pain can be severe and debilitating.
+- Other complications can include:
+- bacterial infections of the blisters
+- eye problems or vision loss (if the rash involves the eye area)
+- in rare cases, pneumonia, encephalitis (inflammation of the brain), or stroke.
+- People with weakened immune systems are at higher risk for these severe complications.
+
+--- RISK FACTORS ---
+- Anyone who has had chickenpox can develop shingles. However, it's much more common in adults over the age of 50. The risk increases with age because the immune system tends to weaken, making it harder to keep the VZV suppressed.
+- Other factors that can increase the risk of shingles include:
+- Weakened immune system. Conditions like HIV and AIDS, cancer, and organ transplantation, as well as medications that suppress the immune system, can increase the risk.
+- Stress. Periods of high stress may temporarily weaken the immune system, potentially triggering a shingles outbreak.
+- Certain medical conditions. Conditions like diabetes, chronic kidney disease and lung disease may increase the risk.
+- Shingles itself is not contagious, so you can’t get shingles from someone who has it.
+- However, you can spread the varicella-zoster virus (VZV) to someone who has never had chickenpox or the chickenpox vaccine. In that case, they would develop chickenpox, not shingles.
+- The virus spreads through direct contact with the fluid from the shingles blisters. Once the blisters crust over, the risk of spreading the virus is very low.
+
+--- PREVENTION ---
+- WHO recommends that the use of the recombinant herpes zoster vaccine in a 2-dose schedule with a minimum 2-month interval between doses, for the prevention of herpes zoster in older adults and those with chronic conditions, be considered in countries where herpes zoster is an important public health problem. WHO advised countries to conduct cost-effectiveness analyses to inform decision-making.
+- The vaccine is highly effective and licensed for adults age 50 years and older, even if they've had shingles before.
+- Being vaccinated significantly reduces the risk of developing shingles and PHN.
+
+--- ENVIRONMENTAL CONTROL ---
+- Keeping the rash clean and dry. This helps prevent secondary bacterial infections.
+
+--- VACCINATION ---
+- The chickenpox vaccine (varicella vaccine) can reduce the risk of developing shingles later in life.
+- The chickenpox vaccine contains a weakened version of the varicella-zoster virus (VZV). Studies have shown that children who received the chickenpox vaccine are significantly less likely to develop shingles compared to those who contracted chickenpox naturally.
+
+--- DIAGNOSIS ---
+- Shingles can usually be diagnosed based on the characteristic appearance of the rash and your medical history. The unique pattern – a stripe of blisters on one side of the body – is often a clear indicator.
+- If the diagnosis is uncertain, especially if the rash is atypical or if there are complications, a sample from a blister can be sent to a lab for testing. This test can confirm the presence of the varicella-zoster virus (VZV).
+
+--- TREATMENT (AWARENESS ONLY) ---
+- The primary treatment for shingles involves antiviral medications, such as acyclovir, valacyclovir, or famciclovir. These medications can help:
+- reduce the severity and duration of the illness
+- reduce the risk of complications.
+- Antiviral medications are most effective if started within 72 hours of the rash appearing.
+- Other treatments include:
+- Pain relievers. Over-the-counter pain relievers like ibuprofen or acetaminophen (paracetamol) can help manage the pain. In some cases, stronger pain medications, such as opioids or nerve pain medications, may be prescribed.
+- Calamine lotion or cool compresses. These can help soothe the skin and relieve itching.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

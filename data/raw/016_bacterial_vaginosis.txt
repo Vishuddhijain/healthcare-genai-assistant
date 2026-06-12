@@ -1,0 +1,74 @@
+TOPIC: Bacterial vaginosis
+CATEGORY: Reproductive Health / STI Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/bacterial-vaginosis
+LAST UPDATED: 21 November 2025
+
+--- OVERVIEW ---
+Bacterial vaginosis (BV) is a very common condition in women.
+
+Although it occurs globally, it is more common in low-resource settings and areas with limited access to healthcare.
+
+The exact cause of BV is not known. While many “good” bacteria are normally found in the healthy vagina, BV results from an imbalance between “good” and “harmful” bacteria micro-organisms. More specifically, an overgrowth of pathogens such as Gardnerella spp. , Prevotella spp., Mobilincus spp., Megaspahera spp., Sneathea spp. and mixed vaginal anaerobes species would eventually replace the “beneficial” lactobacilli that helps maintain a healthy vaginal environment. The exact cause of this imbalance is not known but has been attributed to douching and having unprotected sex with a new or several sex partners.
+
+--- KEY FACTS ---
+- Bacterial vaginosis (BV) is a very common cause of vaginal discharge among women of reproductive age.
+- It is treatable and curable.
+- BV prevalence varies across countries and population groups, but a recent systematic review and meta-analysis of the global BV prevalence among women of reproductive age range from 23–29%.
+- BV increases the risk of acquiring HIV, acquisition of and transmission of other STIs and if left untreated can lead to adverse effects of pregnancy.
+
+--- TYPES ---
+- WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic.
+
+--- SYMPTOMS ---
+- Some women with BV may not notice any symptoms whereas others might express:
+- unusual discharge from the vagina
+- a strong fishy or musty odour from the vagina
+- itching or irritation around the vagina
+- burning during urination.
+- BV is a very common condition and does not usually cause serious complications. However, if untreated it could lead to:
+- problems in pregnancy (for example, spontaneous abortion and preterm delivery)
+- higher risk of sexually transmitted infections, including HIV
+
+--- WARNING SIGNS ---
+- BV is a very common condition and does not usually cause serious complications. However, if untreated it could lead to:
+
+--- RISK FACTORS ---
+- BV increases the risk of acquiring HIV, acquisition of and transmission of other STIs and if left untreated can lead to adverse effects of pregnancy.
+- higher risk of sexually transmitted infections, including HIV
+- Vaginal cleansing and douching can increase the risk of developing BV. Intravaginal practice, e.g. insertion of herbs or other products into the vagina, is another risk factor.
+- It is best treated with the antibiotic metronidazole but efficacy of treatments for BV is low if not combined with lifestyle/risk reduction advice. Further instructions on avoiding excessive vaginal cleansing or douching and intravaginal practice should be provided.
+
+--- PREVENTION ---
+- It is best treated with the antibiotic metronidazole but efficacy of treatments for BV is low if not combined with lifestyle/risk reduction advice. Further instructions on avoiding excessive vaginal cleansing or douching and intravaginal practice should be provided.
+
+--- ENVIRONMENTAL CONTROL ---
+- Vaginal cleansing and douching can increase the risk of developing BV. Intravaginal practice, e.g. insertion of herbs or other products into the vagina, is another risk factor.
+- It is best treated with the antibiotic metronidazole but efficacy of treatments for BV is low if not combined with lifestyle/risk reduction advice. Further instructions on avoiding excessive vaginal cleansing or douching and intravaginal practice should be provided.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Healthcare providers will discuss the patient’s medical and sexual history and conduct a genital examination to check for the presence of vaginal discharge. The most commonly used diagnostic test for BV is wet mount microscopy or Gram stain of vaginal fluid smear, possibly combined with vaginal pH measurement and sniff test in the Amsel criteria.
+- Clinical and laboratory assessments for bacterial vaginosis can be affected by factors such as recent sexual activity, menstrual cycle, douching, intravaginal practice (insertion of herbs or other products) and use of antimicrobial agents.
+- In settings where laboratory diagnosis is not possible, a syndromic approach for case management to diagnose and treat vaginal discharge is recommended.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- BV is treatable and curable.
+- It is best treated with the antibiotic metronidazole but efficacy of treatments for BV is low if not combined with lifestyle/risk reduction advice. Further instructions on avoiding excessive vaginal cleansing or douching and intravaginal practice should be provided.
+- Other treatments include:
+- clindamycin (topical)
+- Women who present with vaginal discharge, and who are managed based on the syndromic approach are treated for BV, candidiasis and trichomoniasis. Metronidazole is indicated for both BV and trichomonas, while topical or oral antifungals are indicated for candidiasis.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

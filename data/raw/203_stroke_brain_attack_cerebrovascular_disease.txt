@@ -1,0 +1,179 @@
+TOPIC: Stroke (Brain Attack / Cerebrovascular Disease)
+CATEGORY: Non-Communicable Disease / Neurological Emergency / Cardiovascular Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death | NHP India | Indian Stroke Association | CDC
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+A stroke occurs when the blood supply to the brain is suddenly interrupted (ischaemic stroke) or when a blood vessel in the brain ruptures and bleeds (haemorrhagic stroke). Without blood, brain cells begin dying within minutes — making stroke one of the most time-critical medical emergencies. Stroke is the second leading cause of death and third leading cause of disability globally. In India, stroke accounts for approximately 7% of all deaths and is a leading cause of disability. The key message for stroke: ACT FAST — every second counts.
+
+--- KEY FACTS ---
+- Stroke kills approximately 5.5 million people globally each year.
+- In India, approximately 1.8 million new strokes occur each year; stroke is responsible for about 7% of all deaths.
+- India has over 12 million stroke survivors — many with permanent disability.
+- 80% of strokes are PREVENTABLE through controlling risk factors.
+- A stroke occurs every 40 seconds in India.
+- Time is brain: Each minute a large stroke goes untreated, about 1.9 million brain cells die.
+- With clot-busting treatment (tPA/thrombolysis), outcomes dramatically improve IF given within 4.5 hours.
+- India National Stroke Programme: Designated stroke centres in government hospitals.
+
+--- TYPES OF STROKE ---
+1. Ischaemic Stroke (most common, ~87% of all strokes):
+   - Caused by a clot blocking a blood vessel in the brain
+   - Two types:
+     - Thrombotic: Clot forms directly in a brain artery (usually due to atherosclerosis)
+     - Embolic: Clot forms elsewhere (heart, large artery) and travels to the brain
+   - Treatable with clot-busting drugs (thrombolysis) within 4.5 hours
+
+2. Haemorrhagic Stroke (~13% of strokes):
+   - Caused by a ruptured blood vessel bleeding into the brain
+   - Two types:
+     - Intracerebral haemorrhage: Bleeding within brain tissue (most common; often due to hypertension)
+     - Subarachnoid haemorrhage: Bleeding between brain and surrounding membrane (often due to aneurysm rupture)
+   - Higher mortality than ischaemic stroke
+
+3. Transient Ischaemic Attack (TIA) — "Mini-Stroke":
+   - Same symptoms as stroke but last only minutes to 24 hours; no permanent damage
+   - WARNING: TIA is a major warning sign — 10–15% of TIA patients have a full stroke within 3 months
+   - Requires IMMEDIATE medical evaluation to prevent major stroke
+
+--- SYMPTOMS — USE THE F.A.S.T. TEST ---
+
+F — FACE: Facial drooping or numbness — especially on one side; ask person to smile — does one side droop?
+A — ARM: Arm weakness — is one arm weak or numb? Ask to raise both arms — does one drift downward?
+S — SPEECH: Slurred, garbled, or inability to speak; or difficulty understanding speech
+T — TIME: Call 112 IMMEDIATELY — time is critical
+
+Additional stroke symptoms (BE-FAST adds these):
+B — BALANCE: Sudden loss of balance, coordination, or difficulty walking
+E — EYES: Sudden vision problems in one or both eyes; double vision; sudden blindness in one eye
+
+Other symptoms:
+- Sudden severe headache with no known cause ("thunderclap headache" — worst headache of your life) — sign of subarachnoid haemorrhage
+- Sudden numbness or weakness of face, arm, or leg, especially on one side
+- Sudden confusion
+- Sudden dizziness
+
+KEY POINT: ANY ONE of these symptoms appearing suddenly = stroke. Act immediately.
+
+--- WARNING SIGNS --- 
+Call 112 for ANY sudden onset:
+- Facial droop (especially one-sided)
+- Arm or leg weakness/paralysis (especially one-sided)
+- Speech difficulty (slurred, garbled, or absent)
+- Sudden severe headache (worst ever)
+- Sudden vision loss or double vision
+- Loss of balance or coordination
+
+DO NOT WAIT: Stroke symptoms require immediate emergency response. Do NOT wait to see if symptoms improve. Do NOT drive yourself — call 112.
+
+--- RISK FACTORS ---
+Non-modifiable:
+- Age: Risk doubles every 10 years after age 55
+- Gender: Men have higher stroke rates; women live longer so more strokes in women overall
+- Family history of stroke
+- Previous stroke or TIA
+
+Modifiable (can be controlled):
+- Hypertension (high blood pressure): Single most important risk factor (causes 50%+ of strokes)
+- Atrial fibrillation (irregular heartbeat): Increases stroke risk 5-fold
+- Diabetes mellitus
+- High cholesterol (dyslipidaemia)
+- Smoking: Doubles stroke risk
+- Obesity
+- Physical inactivity
+- Excessive alcohol use
+- Illicit drug use (cocaine, amphetamines)
+- Stress and depression (emerging evidence)
+
+India-specific high-risk:
+- Young strokes: India has unusually high rates of stroke in young adults (20–45 years) — linked to rheumatic heart disease, uncontrolled hypertension, and genetic factors
+
+--- PREVENTION ---
+PRIMARY PREVENTION (before a stroke):
+1. Control blood pressure: Target <130/80 mmHg — take medicines as prescribed; monitor regularly
+2. Manage diabetes: Keep HbA1c within target
+3. Treat atrial fibrillation: Blood-thinning medications (anticoagulants) under doctor's guidance
+4. Stop smoking: Risk of stroke falls dramatically after quitting
+5. Eat healthy: Low salt (reduces BP), more fruits/vegetables, less saturated fat
+6. Regular physical activity: 150 min/week moderate exercise
+7. Limit alcohol: Heavy drinking raises BP and stroke risk
+8. Maintain healthy weight
+
+SECONDARY PREVENTION (after TIA or stroke):
+- Antiplatelet drugs (aspirin, clopidogrel): Prescribed by doctors to prevent recurrence
+- Anticoagulants: For atrial fibrillation-related stroke
+- Blood pressure and cholesterol control
+- Lifestyle changes (same as above, often more urgently needed)
+
+--- TREATMENT (AWARENESS ONLY) ---
+For Ischaemic Stroke:
+- IV tPA (tissue plasminogen activator/thrombolysis): Clot-busting drug; must be given within 4.5 hours of symptom onset
+- Mechanical thrombectomy: Catheter procedure to remove large clots; up to 24 hours window at specialised centres
+- Requires CT scan to confirm type before treatment
+- Aspirin (325 mg): Given within 48 hours if thrombolysis not possible
+
+For Haemorrhagic Stroke:
+- Blood pressure control
+- Surgery: For some cases (clot evacuation, aneurysm clipping/coiling)
+- Reversal of blood thinners if applicable
+
+Post-stroke rehabilitation:
+- Physiotherapy: Regain movement
+- Speech therapy: For speech and swallowing problems
+- Occupational therapy: Regain daily living skills
+- Available at government hospitals and rehabilitation centres (NIMHANS, regional referral hospitals)
+
+CRITICAL TIME WINDOWS:
+- tPA: Must be given within 4.5 hours — ideally within 60 minutes of arriving at hospital
+- Thrombectomy: Up to 24 hours at designated centres
+- EVERY MINUTE MATTERS
+
+--- WHEN TO SEE A DOCTOR ---
+- IMMEDIATELY — call 112 for any sudden F.A.S.T. or BE-FAST symptoms
+- Even if symptoms resolve (TIA) — go to hospital within hours; do not wait until next day
+- Do not drive — call emergency services
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Indian Stroke Association: isastroke.com — guidelines, patient resources
+- National Programme for Prevention and Control of NCDs (NP-NCD): Stroke prevention through BP, DM control
+- Government hospitals increasingly equipped with stroke units and CT scanners in cities
+- Golden hour/Time: The window for thrombolysis is often missed in India due to delayed presentation — public awareness critical
+- Young stroke burden: India has one of highest rates of stroke in 20–45 age group globally (rheumatic heart disease, uncontrolled BP, drug use)
+- Ayushman Bharat PM-JAY: Covers stroke treatment (thrombolysis and surgery) at empanelled hospitals
+- AIIMS, PGI, state referral hospitals: Designated comprehensive stroke centres
+- Telemedicine: Telestroke networks being developed in some states (Karnataka, Kerala, AP) to enable remote stroke diagnosis in rural areas
+- Smoking + tobacco: Significant contributor in India — stopping tobacco is key stroke prevention
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the difference between a stroke and a heart attack?
+A: A heart attack occurs when blood supply to the heart muscle is blocked. A stroke occurs when blood supply to the brain is blocked or when a vessel in the brain ruptures. Both are medical emergencies but involve different organs.
+
+Q: Can young people get strokes?
+A: Yes. India has unusually high rates of stroke in young adults (20–45). Causes include rheumatic heart disease, uncontrolled blood pressure, smoking, illicit drug use, and genetic clotting disorders.
+
+Q: If stroke symptoms go away, do I still need to go to hospital?
+A: YES, absolutely. Temporary symptoms (TIA — transient ischaemic attack) are a warning that a major stroke may be imminent, often within hours or days. Immediate evaluation and treatment can prevent a larger stroke.
+
+Q: Can stroke patients fully recover?
+A: Recovery varies widely. Some recover fully; many have lasting disabilities. Early treatment (within 4.5 hours) dramatically improves recovery. Intensive rehabilitation (physiotherapy, speech therapy) helps maximise recovery.
+
+Q: Does taking aspirin during a stroke help?
+A: Do NOT self-administer aspirin during a suspected stroke without medical advice. If the stroke is haemorrhagic (bleeding), aspirin makes it worse. Only take aspirin if directed by emergency personnel or a doctor.
+
+--- IMPORTANT SAFETY NOTE ---
+Stroke is a medical emergency. Use F.A.S.T. (Face, Arms, Speech, Time) to recognise symptoms. Call 112 immediately — do not drive yourself or wait for symptoms to improve. The sooner treatment is given, the better the outcome. Stroke treatment is available at government hospitals. Stroke is largely preventable — control your blood pressure, don't smoke, and manage diabetes.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.

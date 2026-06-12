@@ -1,0 +1,85 @@
+TOPIC: Arsenic
+CATEGORY: Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/arsenic
+LAST UPDATED: 7 December 2022
+
+--- OVERVIEW ---
+Arsenic is a natural component of the earth’s crust and is widely distributed throughout the environment in the air, water and land. It is highly toxic in its inorganic form.
+
+People are exposed to elevated levels of inorganic arsenic through drinking contaminated water, using contaminated water in food preparation and irrigation of food crops, industrial processes, eating contaminated food and smoking tobacco.
+
+Long-term exposure to inorganic arsenic, mainly through drinking-water and food, can lead to chronic arsenic poisoning. Skin lesions and skin cancer are the most characteristic effects.
+
+--- KEY FACTS ---
+- Arsenic is naturally present at high levels in the groundwater of several countries.
+- Arsenic is highly toxic in its inorganic form.
+- Contaminated water used for drinking, food preparation and irrigation of food crops poses the greatest threat to public health from arsenic.
+- Long-term exposure to arsenic from drinking-water and food can cause cancer and skin lesions. It has also been associated with cardiovascular disease and diabetes. In utero and early childhood exposure has been linked to negative impacts on cognitive development and increased deaths in young adults.
+- The most important action in affected communities is the prevention of further exposure to arsenic by provision of a safe water supply.
+
+--- TYPES ---
+- Arsenic is highly toxic in its inorganic form.
+- Arsenic is a natural component of the earth’s crust and is widely distributed throughout the environment in the air, water and land. It is highly toxic in its inorganic form.
+- Long-term exposure to inorganic arsenic, mainly through drinking-water and food, can lead to chronic arsenic poisoning. Skin lesions and skin cancer are the most characteristic effects.
+- Fish, shellfish, meat, poultry, dairy products and cereals can also be dietary sources of arsenic, although exposure from these foods is generally much lower compared to exposure through contaminated groundwater. In seafood, arsenic is mainly found in its less toxic organic form.
+
+--- SYMPTOMS ---
+- The immediate symptoms of acute arsenic poisoning include vomiting, abdominal pain and diarrhoea. These are followed by numbness and tingling of the extremities, muscle cramping and death, in extreme cases.
+- The first symptoms of long-term exposure to high levels of inorganic arsenic (for example, through drinking-water and food) are usually observed in the skin, and include pigmentation changes, skin lesions and hard patches on the palms and soles of the feet (hyperkeratosis). These occur after a minimum exposure of approximately five years and may be a precursor to skin cancer.
+- The symptoms and signs caused by long-term elevated exposure to inorganic arsenic differ between individuals, population groups and geographical areas. Thus, there is no universal definition of the disease caused by arsenic. This complicates the assessment of the burden on health of arsenic.
+- Discriminate between high-arsenic and low-arsenic sources. For example, test water for arsenic levels and paint tube wells or hand pumps different colours. This can be an effective and low-cost means to rapidly reduce exposure to arsenic when accompanied by effective education.
+
+--- WARNING SIGNS ---
+- Long-term exposure to arsenic from drinking-water and food can cause cancer and skin lesions. It has also been associated with cardiovascular disease and diabetes. In utero and early childhood exposure has been linked to negative impacts on cognitive development and increased deaths in young adults.
+- The immediate symptoms of acute arsenic poisoning include vomiting, abdominal pain and diarrhoea. These are followed by numbness and tingling of the extremities, muscle cramping and death, in extreme cases.
+
+--- RISK FACTORS ---
+- Drinking-water and food
+- The greatest threat to public health from arsenic originates from contaminated groundwater. Inorganic arsenic is naturally present at high levels in the groundwater of a number of countries, including Argentina, Bangladesh, Cambodia, Chile, China, India, Mexico, Pakistan, the United States of America and Viet Nam. Drinking-water, crops irrigated with contaminated water and food prepared with contaminated water are the sources of exposure.
+- Fish, shellfish, meat, poultry, dairy products and cereals can also be dietary sources of arsenic, although exposure from these foods is generally much lower compared to exposure through contaminated groundwater. In seafood, arsenic is mainly found in its less toxic organic form.
+- Industrial processes
+- Arsenic is used industrially as an alloying agent, as well as in the processing of glass, pigments, textiles, paper, metal adhesives, wood preservatives and ammunition. Arsenic is also used in the hide tanning process and, to a limited extent, in pesticides, feed additives and pharmaceuticals.
+- People who smoke tobacco can also be exposed to the natural inorganic arsenic content of tobacco because tobacco plants can take up arsenic naturally present in the soil. The potential for elevated arsenic exposure was much greater in the past when tobacco plants were treated with lead arsenate insecticide.
+
+--- PREVENTION ---
+- The most important action in affected communities is the prevention of further exposure to arsenic by the provision of a safe water supply for drinking, food preparation and irrigation of food crops. There are a number of options to reduce levels of arsenic in drinking-water.
+- Substitute high-arsenic sources, such as groundwater, with low-arsenic, microbiologically safe sources such as rainwater and treated surface water. Low-arsenic water can be used for drinking, cooking and irrigation purposes, whereas high-arsenic water can be used for other purposes such as bathing and washing clothes.
+- Discriminate between high-arsenic and low-arsenic sources. For example, test water for arsenic levels and paint tube wells or hand pumps different colours. This can be an effective and low-cost means to rapidly reduce exposure to arsenic when accompanied by effective education.
+- Blend low-arsenic water with higher-arsenic water to achieve an acceptable arsenic concentration level.
+- Install arsenic removal systems – either centralized or domestic – and ensure the appropriate disposal of the removed arsenic. Technologies for arsenic removal include oxidation, coagulation-precipitation, absorption, ion exchange and membrane techniques. There is an increasing number of effective and low-cost options for removing arsenic from small or household supplies, though there is still limited evidence about the extent to which such systems are used effectively over sustained periods of time.
+- Long-term actions are also required to reduce occupational exposure from industrial processes.
+- Education and community engagement are key factors for ensuring successful interventions. There is a need for community members to understand the risks of high arsenic exposure and the sources of arsenic exposure, including the intake of arsenic by crops (e.g. rice) from irrigation water and the intake of arsenic into food from cooking water.
+- High-risk populations should also be monitored for early signs of arsenic poisoning – usually skin problems.
+
+--- ENVIRONMENTAL CONTROL ---
+- Drinking-water and food
+- The greatest threat to public health from arsenic originates from contaminated groundwater. Inorganic arsenic is naturally present at high levels in the groundwater of a number of countries, including Argentina, Bangladesh, Cambodia, Chile, China, India, Mexico, Pakistan, the United States of America and Viet Nam. Drinking-water, crops irrigated with contaminated water and food prepared with contaminated water are the sources of exposure.
+- Fish, shellfish, meat, poultry, dairy products and cereals can also be dietary sources of arsenic, although exposure from these foods is generally much lower compared to exposure through contaminated groundwater. In seafood, arsenic is mainly found in its less toxic organic form.
+- Industrial processes
+- Arsenic is used industrially as an alloying agent, as well as in the processing of glass, pigments, textiles, paper, metal adhesives, wood preservatives and ammunition. Arsenic is also used in the hide tanning process and, to a limited extent, in pesticides, feed additives and pharmaceuticals.
+- People who smoke tobacco can also be exposed to the natural inorganic arsenic content of tobacco because tobacco plants can take up arsenic naturally present in the soil. The potential for elevated arsenic exposure was much greater in the past when tobacco plants were treated with lead arsenate insecticide.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Contaminated water used for drinking, food preparation and irrigation of food crops poses the greatest threat to public health from arsenic.
+- The greatest threat to public health from arsenic originates from contaminated groundwater. Inorganic arsenic is naturally present at high levels in the groundwater of a number of countries, including Argentina, Bangladesh, Cambodia, Chile, China, India, Mexico, Pakistan, the United States of America and Viet Nam. Drinking-water, crops irrigated with contaminated water and food prepared with contaminated water are the sources of exposure.
+- Discriminate between high-arsenic and low-arsenic sources. For example, test water for arsenic levels and paint tube wells or hand pumps different colours. This can be an effective and low-cost means to rapidly reduce exposure to arsenic when accompanied by effective education.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- People who smoke tobacco can also be exposed to the natural inorganic arsenic content of tobacco because tobacco plants can take up arsenic naturally present in the soil. The potential for elevated arsenic exposure was much greater in the past when tobacco plants were treated with lead arsenate insecticide.
+- Substitute high-arsenic sources, such as groundwater, with low-arsenic, microbiologically safe sources such as rainwater and treated surface water. Low-arsenic water can be used for drinking, cooking and irrigation purposes, whereas high-arsenic water can be used for other purposes such as bathing and washing clothes.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

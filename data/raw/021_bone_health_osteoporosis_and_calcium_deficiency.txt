@@ -1,0 +1,175 @@
+TOPIC: Bone Health — Osteoporosis and Calcium Deficiency
+CATEGORY: Non-Communicable Disease (Musculoskeletal / Metabolic Bone Disease)
+SOURCE: WHO + IOF + NHP India + ICMR - https://www.who.int/news-room/fact-sheets/detail/osteoporosis | nhp.gov.in | iofbonehealth.org
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Bones are living tissue that continuously break down and rebuild throughout life. Bone mass peaks around age 25–30, then gradually declines. Osteoporosis is a skeletal disease characterised by reduced bone density and deteriorating bone microarchitecture, leading to increased fracture risk. India has a very high and underrecognised burden of osteoporosis — estimated 50 million Indians are affected, with women disproportionately impacted after menopause. Indian populations also have a high prevalence of Vitamin D deficiency (60–90% in some studies), which — along with dietary calcium inadequacy — is a primary driver of poor bone health. Calcium deficiency, rickets in children, and osteomalacia in adults are also significant.
+
+--- BONE HEALTH CONDITIONS ---
+
+1. OSTEOPOROSIS:
+- Low bone density leading to fragile, fracture-prone bones
+- Often asymptomatic until a fracture occurs — called the "silent disease"
+- Most common osteoporotic fractures in India: Hip (most serious), vertebral (spine), wrist (Colles' fracture)
+- Hip fracture in elderly: ~20–30% die within a year; majority require assistance for daily activities thereafter
+
+2. OSTEOPENIA:
+- Bone density lower than normal but not yet at osteoporosis level
+- Precursor stage — intervention can prevent progression to osteoporosis
+
+3. OSTEOMALACIA (Adult Rickets):
+- Softening of bones due to Vitamin D and/or calcium deficiency in adults
+- Causes: Vitamin D deficiency (sunlight deprivation, malabsorption), low calcium diet
+- Symptoms: Bone pain (especially back, hips, legs), muscle weakness, waddling gait
+
+4. RICKETS (Children):
+- Bone softening in growing children due to Vitamin D and/or calcium deficiency
+- Causes bowing of legs, soft skull, delayed tooth eruption, widened wrists
+- Common in infants and toddlers with limited sun exposure or pure breastfeeding without supplementation
+- Treatment: Vitamin D and calcium supplementation under medical supervision
+
+5. CALCIUM DEFICIENCY:
+- Hypocalcaemia (low blood calcium) causes: Muscle cramps and spasms, tingling in hands/feet, numbness, convulsions (severe)
+- Chronic dietary calcium insufficiency contributes to osteoporosis over time
+- India-specific: Low dietary calcium intake is common due to limited dairy consumption in some populations and low bioavailability of plant-based calcium
+
+--- SYMPTOMS ---
+
+Osteoporosis (early stage — usually none):
+- No symptoms until a fracture occurs
+
+Signs suggesting bone loss or fracture:
+- Back pain (sudden, severe — possible vertebral compression fracture)
+- Loss of height over time (vertebral compression)
+- Stooped posture (kyphosis / "dowager's hump")
+- Fragility fracture: Fracture after minimal trauma (fall from standing height or less)
+- Wrist fracture on falling forward (Colles' fracture)
+
+Osteomalacia / Rickets:
+- Diffuse bone pain (aching, dull) — especially back, hips, pelvis, feet
+- Muscle weakness (difficulty climbing stairs, rising from sitting)
+- Bone tenderness on pressure
+- In children: Bowed legs, rachitic rosary (knobby ribs), delayed motor milestones
+
+Calcium deficiency:
+- Muscle cramps and spasms (especially calves)
+- Tingling or numbness in fingers, toes, face
+- Dental problems (weak/brittle teeth)
+- Brittle nails
+- Fatigue
+
+--- RISK FACTORS ---
+
+For Osteoporosis:
+- Female sex (women lose bone faster after menopause due to oestrogen loss)
+- Age >50 (men) or post-menopause (women)
+- Low calcium and Vitamin D intake throughout life
+- Vitamin D deficiency (extremely prevalent in India — even with abundant sunshine, due to skin coverage, indoor lifestyle, high melanin)
+- Physical inactivity / sedentary lifestyle
+- Low body weight (BMI <19 kg/m²) — less mechanical loading on bones
+- Smoking
+- Excessive alcohol use
+- Family history of osteoporosis or fragility fractures
+- Long-term medications: Corticosteroids (most common), proton pump inhibitors, antiepileptics, aromatase inhibitors, DMPA (injectable contraceptive)
+- Medical conditions: Hyperthyroidism, hyperparathyroidism, coeliac disease, inflammatory bowel disease, rheumatoid arthritis, COPD, diabetes, chronic kidney disease
+- Early menopause (<45 years) or surgical removal of ovaries
+- Prolonged immobilisation
+
+For Calcium Deficiency:
+- Low dairy and calcium-rich food intake
+- Vitamin D deficiency (needed for calcium absorption)
+- High phytate diet (whole grains, legumes — reduces calcium absorption)
+- Lactose intolerance reducing dairy intake
+- Malabsorption syndromes
+
+For Vitamin D Deficiency (India context):
+- Paradoxically high in sunny India; due to: Indoor lifestyle, skin coverage by clothing, high melanin pigmentation, limited dietary sources, sunscreen use
+- Exclusively breastfed infants (breast milk has low Vitamin D)
+- Elderly (reduced skin synthesis and outdoor activity)
+- People with malabsorption
+
+--- PREVENTION ---
+Calcium Intake (adequate dietary calcium throughout life):
+- Adults: 1000 mg/day; women >50 years and men >70 years: 1200 mg/day
+- Children and adolescents: 1000–1300 mg/day
+- Calcium-rich foods in India:
+  * Dairy: Milk (~300 mg/glass), curd/yoghurt (~150–200 mg/cup), paneer, cheese
+  * Non-dairy (important for vegetarians): Ragi (finger millet) — one of the richest plant sources (~350 mg/100g), til (sesame seeds), rajma, chana, soyabean, tofu, dark green vegetables (drumstick leaves, amaranth, fenugreek), small fish eaten with bones (sardines)
+  * Fortified foods: Fortified milk, fortified orange juice, fortified cereals
+
+Vitamin D:
+- Sun exposure: 15–30 minutes of midday sun on arms and face (without sunscreen) — 3–4 days per week
+- Dietary sources (limited): Fatty fish (salmon, mackerel), egg yolk, fortified dairy products, mushrooms exposed to UV
+- Vitamin D supplementation: 600–800 IU/day for adults (up to 2000 IU/day is safe); higher doses may be needed for deficiency — doctor prescribed
+
+Physical Activity:
+- Weight-bearing exercises (walking, jogging, dancing, aerobics, stair climbing): Stimulate bone remodelling and build bone density
+- Resistance/strength training: Increases bone density and muscle strength (reduces fall risk)
+- Balance and flexibility exercises (yoga, tai chi): Reduce fall risk in elderly
+- Minimum: 30 minutes of moderate activity, 5 days a week
+
+Lifestyle:
+- Quit smoking
+- Limit alcohol
+- Prevent falls in elderly: Remove trip hazards at home, use grab bars in bathrooms, ensure adequate lighting, wear non-slip footwear, treat vision problems
+
+--- DIAGNOSIS ---
+- DEXA Scan (Dual-Energy X-ray Absorptiometry): Gold standard for bone density measurement; reports T-score
+  * T-score ≥ -1.0: Normal
+  * T-score -1.0 to -2.5: Osteopenia
+  * T-score ≤ -2.5: Osteoporosis
+- FRAX Tool: 10-year fracture probability calculator (WHO tool) — combines BMD and clinical risk factors
+- Serum 25(OH) Vitamin D: Measures Vitamin D status (deficient <20 ng/mL; insufficient 20–29; sufficient ≥30 ng/mL)
+- Serum calcium, phosphate, alkaline phosphatase, PTH: Assess metabolic bone disease
+- X-ray: Detects fractures and gross bone loss (not sensitive for early osteoporosis)
+
+Who should have DEXA screening:
+- All women ≥65 years
+- All men ≥70 years
+- Younger postmenopausal women and men 50–69 with risk factors
+- Anyone who has had a fragility fracture
+
+--- TREATMENT (Awareness Only) ---
+- Adequate calcium and Vitamin D supplementation (if dietary intake is insufficient) — foundational
+- Bisphosphonates (alendronate, risedronate, zoledronic acid): First-line for osteoporosis — doctor prescribed
+- Hormone replacement therapy (HRT): For postmenopausal women — doctor decision (risk-benefit discussion)
+- Denosumab, teriparatide, romosozumab: Newer agents for high fracture risk — specialist prescribed
+- Treat secondary causes: Correct Vitamin D deficiency, treat hyperthyroidism, etc.
+- Hip fracture: Surgical repair (if fit for surgery) followed by physiotherapy and rehabilitation
+
+--- WHEN TO SEE A DOCTOR ---
+- Fracture from minor fall or minimal trauma (fragility fracture)
+- Back pain with loss of height or stooped posture
+- Bone pain and muscle weakness
+- Post-menopause women (bone density assessment)
+- Long-term corticosteroid use
+- Child with bowing of legs, delayed walking, or suspected rickets
+- Tingling, numbness, or muscle spasms (calcium deficiency)
+- Low Vitamin D level on blood test
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Ragi (finger millet) is the most calcium-rich staple grain in India — promoting its consumption is a key public health strategy
+- Vitamin D deficiency is a national epidemic; supplementation is underutilised
+- ICMR-NIN recommends daily Vitamin D supplementation for elderly and infants in India
+- Few government hospitals have DEXA scanners outside major cities — private availability is growing
+- Hip fracture care: Major challenge in rural India due to surgical infrastructure; many elderly with hip fractures do not receive surgery
+- Ayushman Bharat PMJAY: Covers hip fracture surgery and orthopaedic procedures for eligible beneficiaries
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Do not self-supplement with high-dose calcium or Vitamin D without medical supervision — excess calcium can increase cardiovascular risk; excess Vitamin D causes toxicity. Osteoporosis medication must be taken exactly as prescribed. Always consult a qualified doctor or orthopaedic/endocrine specialist for diagnosis and management of bone health conditions.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

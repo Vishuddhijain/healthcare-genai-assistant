@@ -1,0 +1,134 @@
+TOPIC: Blindness and Visual Impairment
+CATEGORY: Sensory Health / Non-Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Vision is one of the most important senses. Visual impairment ranges from mild to complete blindness. An estimated 2.2 billion people globally have a near or distance vision impairment. The majority of vision impairment is preventable or treatable. In India, cataract is the leading cause of preventable blindness and is curable with a simple surgery.
+
+--- KEY FACTS ---
+- 2.2 billion people have near or distance vision impairment globally.
+- At least 1 billion cases of vision impairment could be prevented or are yet to be addressed.
+- India has approximately 12 million blind people — the largest blind population globally.
+- Cataract is the leading cause of blindness in India (66.2% of all blindness).
+- Most vision impairment disproportionately affects people over 50 years.
+- Uncorrected refractive error (needing glasses) is the leading cause of vision impairment globally.
+
+--- COMMON EYE CONDITIONS ---
+
+1. CATARACT (Most common cause of blindness in India)
+- Clouding of the lens of the eye causing blurry vision.
+- Usually age-related; also caused by diabetes, injury, prolonged steroid use.
+- Symptoms: Blurry or hazy vision, faded colours, glare, difficulty seeing at night.
+- Treatment: Simple, safe surgical procedure (phacoemulsification or SICS) — restores vision. FREE at government hospitals under National Programme for Control of Blindness (NPCB).
+- Do not delay surgery — cataract is curable.
+
+2. GLAUCOMA (Silent blinding disease)
+- Damage to the optic nerve, often caused by raised eye pressure.
+- Often called the "silent thief of sight" — no symptoms until significant vision loss.
+- Symptoms (when advanced): Gradual peripheral (side) vision loss, eye pain, halos around lights.
+- Risk factors: Age >40, family history, diabetes, hypertension, prolonged steroid eye drops use.
+- Treatment: Eye drops (to lower eye pressure), laser, surgery. Cannot restore lost vision but prevents further loss.
+- Prevention: Regular eye checks for those at risk — early detection is key.
+
+3. REFRACTIVE ERRORS (Most common cause of vision impairment)
+- Near-sightedness (myopia): Difficulty seeing distant objects. Very common in children and young adults; rising rapidly.
+- Far-sightedness (hyperopia): Difficulty seeing close objects.
+- Astigmatism: Blurred vision due to irregular cornea shape.
+- Presbyopia: Age-related difficulty reading close text (everyone gets this after 40).
+- Treatment: Glasses, contact lenses, or corrective surgery. Free eye tests at government hospitals.
+
+4. DIABETIC RETINOPATHY
+- Damage to blood vessels of the retina due to prolonged diabetes.
+- Leading cause of blindness in working-age adults.
+- Often no symptoms until advanced stages — regular eye check-ups are essential for all diabetics.
+- Prevention: Good blood sugar control is the most important step. Annual dilated eye exam for all diabetics.
+- Treatment: Laser therapy, injections, or surgery (at specialised centres).
+
+5. AGE-RELATED MACULAR DEGENERATION (AMD)
+- Deterioration of the macula (central part of retina) with age.
+- Affects central vision — reading, recognising faces.
+- Risk factors: Age >50, smoking, family history.
+- No cure but treatment can slow progression.
+
+6. CONJUNCTIVITIS (Pink Eye)
+- Inflammation of the thin layer covering the white of the eye.
+- Viral (most common): Red eye, watery discharge, mild irritation. Highly contagious.
+- Bacterial: Red eye, thick yellow-green discharge.
+- Allergic: Itching, redness, watering — related to dust/pollen.
+- Prevention: Wash hands frequently; do not touch eyes; do not share towels or eye drops.
+- Treatment: Usually self-limiting (viral); antibiotic drops for bacterial (consult doctor).
+
+--- EYE CARE HABITS ---
+- Regular eye check-ups: Adults >40 every 2 years; diabetics annually; elderly annually.
+- Screen time: Follow 20-20-20 rule — every 20 minutes, look at something 20 feet away for 20 seconds.
+- Protect from UV: Wear sunglasses outdoors (UV protection) to reduce cataract and AMD risk.
+- Nutrition: Vitamin A (green leafy vegetables, carrots, milk) is essential for eye health.
+- Vitamin A deficiency causes night blindness — common in Indian children. Free Vitamin A supplementation under UIP.
+- Do not rub eyes vigorously.
+- Remove contact lenses before sleeping; follow hygiene guidelines.
+
+--- INDIA-SPECIFIC PROGRAMME ---
+National Programme for Control of Blindness and Visual Impairment (NPCBVI):
+- Free cataract surgery at all government district hospitals.
+- Free spectacles to eligible patients.
+- School eye screening programme.
+- Blindness helpline: 1800-180-5025
+Contact your District Blindness Control Society or government hospital eye department.
+
+--- WHEN TO SEE A DOCTOR IMMEDIATELY ---
+- Sudden vision loss in one or both eyes
+- Sudden onset of floaters (spots/cobwebs in vision) with flashes — possible retinal detachment (emergency)
+- Eye injury
+- Sudden eye pain with redness and nausea
+- Double vision (diplopia)
+- Vision loss after diabetes or hypertension — see an ophthalmologist promptly
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can using screens too much permanently damage vision?
+A: Extended screen use causes eye strain (dry eyes, fatigue, headache) but no permanent vision damage. Follow the 20-20-20 rule, ensure proper screen distance, and blink regularly.
+
+Q: Can wearing glasses make vision worse?
+A: No. Glasses correct refractive errors; they do not worsen the underlying eye condition. In children, wearing correct glasses is essential for proper visual development.
+
+Q: Is cataract surgery safe?
+A: Yes. Cataract surgery is one of the safest and most effective surgical procedures. It is performed millions of times a year in India with excellent outcomes. Free at government hospitals.
+
+Q: My child squints. Should I be concerned?
+A: Yes — any squinting (one eye turning inward or outward) in a child needs prompt evaluation by an ophthalmologist. Early treatment prevents permanent vision problems (amblyopia/lazy eye).
+
+--- IMPORTANT SAFETY NOTE ---
+Regular eye examinations are key to preventing vision loss. Any sudden change in vision is a medical emergency. Seek care immediately. This information is for awareness only — diagnosis and treatment require a qualified ophthalmologist.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

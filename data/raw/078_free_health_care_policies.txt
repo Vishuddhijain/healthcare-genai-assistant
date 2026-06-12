@@ -1,0 +1,65 @@
+TOPIC: Free health care policies
+CATEGORY: Government Schemes / Health Financing
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/free-health-care-policies
+LAST UPDATED: 17 July 2020
+
+--- OVERVIEW ---
+Free health care policies – or politiques de gratuité – are about removing formal user fees. The removal of fees may apply to all health services, to the primary care level, to selected population groups, to selected services for everyone, or to selected services for specific population groups characterized by medical or economic vulnerability. Evidence about the impact of FHC policies in terms of financial protection and health service utilization is mixed. If well-designed and implemented, FHC policies can expand coverage in countries with few resources and can therefore be part of a strategy and a catalyst to move towards universal health coverage (UHC).
+
+--- KEY FACTS ---
+- Sufficient financial resources for the government to finance the exempted services are crucial for FHC policies to contribute towards universal health coverage.
+- Free health care (FHC) policies have gained popularity over the past 10 years, mostly in western Africa.
+- FHC policies remove formal user fees at the point of service. They can apply to everyone for all health services, or to a selection of specific population groups or services
+- While FHC policies may trigger an increase in the use of services, evidence on improved financial protection is mixed.
+- Without proper targeting and monitoring, better-off population groups will benefit from FHC policies more than vulnerable population groups.
+
+--- TYPES ---
+- FHC policies remove formal user fees at the point of service. They can apply to everyone for all health services, or to a selection of specific population groups or services
+- Free health care policies aim to reduce the financial barriers that people may experience when trying to access health services. They eliminate formal user fees at the point of service.
+- Moreover, if not properly anticipated and backed by increased supplies and medicines, FHC may have negative unintended consequences, such as patients having to pay for this scarce supply informally or in the private sector. Also, if user fees previously retained at the facility level are abolished, their effect as a direct incentive for health workers disappears, possibly leading to demotivated staff.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- While FHC policies may trigger an increase in the use of services, evidence on improved financial protection is mixed.
+- These services are chosen to protect population groups deemed to be especially vulnerable, particularly low-income groups.
+- improving financial protection.
+- While FHC policies may trigger an increase in the use of services, evidence on improved financial protection is mixed. People may still have to make direct payments for other services they need.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Free health care policies aim to reduce the financial barriers that people may experience when trying to access health services. They eliminate formal user fees at the point of service.
+- Examples of services under a free health care policy include:
+- assisted deliveries
+- caesarean sections
+- health services for children below a defined age (often 5 years)
+- health services for elderly people above a certain age (often 65 years).
+- These services are chosen to protect population groups deemed to be especially vulnerable, particularly low-income groups.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

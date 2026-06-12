@@ -1,0 +1,150 @@
+TOPIC: Rheumatic Heart Disease (RHD) and Rheumatic Fever
+CATEGORY: Non-Communicable Disease / Cardiovascular Disease / Child Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/rheumatic-heart-disease | NHP India | ICMR | Indian Academy of Pediatrics
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Rheumatic heart disease (RHD) is permanent damage to heart valves caused by one or more episodes of acute rheumatic fever (ARF), an inflammatory condition triggered by the body's immune response to untreated or inadequately treated streptococcal (strep) throat infections. RHD remains a significant public health problem in India and other low- and middle-income countries, disproportionately affecting children and young adults in overcrowded living conditions with limited access to healthcare. RHD is entirely preventable through prompt treatment of strep throat infections — making it a key target for primary healthcare programmes.
+
+--- KEY FACTS ---
+- RHD causes an estimated 300,000+ deaths globally each year, with the highest burden in South Asia, Sub-Saharan Africa, and the Pacific.
+- India has one of the highest burdens of RHD globally — estimated millions of people affected, mostly young.
+- RHD is caused by repeated episodes of acute rheumatic fever (ARF), which follows untreated strep throat (Group A Streptococcus pharyngitis).
+- RHD predominantly affects children and young adults aged 5-15 years at first presentation of rheumatic fever; valve damage manifests over years.
+- RHD is entirely PREVENTABLE — prompt antibiotic treatment of strep throat (within 9 days of symptom onset) prevents rheumatic fever.
+- Secondary prevention (regular penicillin injections) prevents recurrent rheumatic fever episodes and further heart damage in those already affected.
+- RHD is a leading cause of cardiovascular disease in young people in India, contributing to "young stroke" and heart failure in people under 40.
+
+--- TYPES / DISEASE PROGRESSION ---
+1. Group A Streptococcal (GAS) pharyngitis ("strep throat"): The triggering infection — a bacterial throat infection
+2. Acute Rheumatic Fever (ARF): An autoimmune inflammatory reaction occurring 2-4 weeks after untreated/inadequately treated strep throat; affects joints, heart, skin, and brain
+3. Rheumatic Heart Disease (RHD): Permanent valve damage resulting from one or more episodes of ARF — most commonly affects the mitral valve, followed by the aortic valve
+
+Valve problems caused by RHD:
+- Mitral stenosis (narrowing) — most common
+- Mitral regurgitation (leaking)
+- Aortic valve involvement (stenosis or regurgitation)
+- Can lead to heart failure, atrial fibrillation, stroke (due to clot formation), and infective endocarditis
+
+--- SYMPTOMS ---
+Strep throat (the triggering infection):
+- Sore throat with sudden onset
+- Fever
+- Red, swollen tonsils, sometimes with white patches
+- Swollen, tender lymph nodes in the neck
+- Difficulty swallowing
+- Absence of cough/runny nose (helps distinguish from viral sore throat)
+
+Acute Rheumatic Fever (occurs 2-4 weeks after strep throat):
+- Fever
+- Joint pain and swelling, often "migratory" (moves from one joint to another) — typically large joints (knees, ankles, elbows, wrists)
+- Carditis (heart inflammation): May cause new heart murmur, chest pain, shortness of breath, palpitations, fatigue
+- Sydenham's chorea: Involuntary, jerky movements (occurs weeks to months after infection) — more common in girls
+- Erythema marginatum: Pink rings/patches on the skin (rare)
+- Subcutaneous nodules: Painless lumps under the skin near joints (rare)
+
+Rheumatic Heart Disease (established, often years later):
+- Shortness of breath, especially with exertion or lying flat
+- Fatigue
+- Palpitations (irregular heartbeat)
+- Swelling of legs/ankles
+- Chest pain
+- In severe cases: Symptoms of heart failure
+
+--- WARNING SIGNS — SEEK URGENT/EMERGENCY CARE ---
+- Sore throat with fever lasting more than a few days, especially in children aged 5-15 — get evaluated and treated promptly to prevent rheumatic fever
+- Joint pain/swelling that moves between joints, with fever, following a recent sore throat — possible acute rheumatic fever, needs urgent evaluation
+- New heart murmur, chest pain, breathlessness, or palpitations in a child/young person, especially with history of joint pains or sore throats — needs cardiac evaluation
+- In known RHD patients: Sudden worsening of breathlessness, chest pain, fainting, or signs of stroke (sudden weakness, slurred speech) — EMERGENCY, call 112
+- Fever in someone with known RHD — could indicate infective endocarditis, a serious complication — seek prompt medical evaluation
+
+--- RISK FACTORS ---
+- Age 5-15 years (highest risk for first episode of rheumatic fever)
+- Overcrowded living conditions (facilitates spread of strep throat)
+- Limited access to healthcare (delays treatment of strep throat)
+- Poor socioeconomic conditions
+- Previous episode of rheumatic fever (significantly increases risk of recurrence and progressive valve damage)
+- Family history of RHD (some genetic susceptibility)
+- Low- and middle-income settings, including many parts of rural and urban India
+
+--- PREVENTION ---
+PRIMARY PREVENTION (preventing the first episode of rheumatic fever):
+- Prompt diagnosis and treatment of strep throat with appropriate antibiotics (typically penicillin) — must be given within 9 days of symptom onset to prevent rheumatic fever
+- Improving access to primary healthcare so sore throats are evaluated and treated promptly
+- Reducing overcrowding where possible; good hygiene practices
+
+SECONDARY PREVENTION (preventing recurrence in those who have had rheumatic fever or have RHD):
+- Regular benzathine penicillin injections (typically every 3-4 weeks) for years (often until age 21 or 5+ years after last episode, per medical guidance) — dramatically reduces risk of recurrent rheumatic fever and progression of valve damage
+- This is one of the most effective and cost-effective interventions in cardiovascular medicine
+- Registries/programmes to track and ensure patients receive their scheduled penicillin injections
+
+TERTIARY PREVENTION:
+- Regular cardiac monitoring (echocardiography) for those with RHD
+- Dental hygiene and antibiotic prophylaxis before certain dental/surgical procedures (to prevent infective endocarditis) — as advised by a cardiologist
+
+--- ENVIRONMENTAL CONTROL ---
+- Reducing household crowding where feasible
+- Improving ventilation in schools and homes (reduces transmission of strep throat)
+- Community health worker programmes to identify and refer sore throats for prompt treatment, especially in school-age children
+
+--- VACCINATION ---
+- No vaccine currently available for Group A Streptococcus / rheumatic fever prevention (vaccine development is an active area of global research)
+- Prevention currently relies on prompt antibiotic treatment of strep throat (primary prevention) and regular penicillin prophylaxis (secondary prevention)
+
+--- DIAGNOSIS ---
+- Strep throat: Clinical assessment; throat swab/rapid antigen test or culture where available
+- Acute Rheumatic Fever: Diagnosed using the Jones Criteria — combination of major criteria (carditis, arthritis, chorea, erythema marginatum, subcutaneous nodules) and minor criteria (fever, elevated inflammatory markers, joint pain, ECG changes), plus evidence of recent strep infection (throat culture, rapid antigen test, or antibody tests like ASO titre)
+- Rheumatic Heart Disease: Echocardiography (echo) is the key diagnostic tool — detects valve damage, even before symptoms develop ("subclinical RHD")
+- ECG and chest X-ray: May show heart enlargement or rhythm abnormalities
+
+--- TREATMENT (AWARENESS ONLY) ---
+For strep throat:
+- Antibiotics (typically penicillin or amoxicillin) for the full prescribed course — even if symptoms improve early, completing the course is essential to prevent rheumatic fever
+
+For acute rheumatic fever:
+- Anti-inflammatory medications (aspirin, sometimes corticosteroids for carditis) to reduce inflammation, under medical supervision
+- Bed rest during active inflammation, especially with carditis
+- Initiation of secondary prophylaxis (regular penicillin injections) immediately after diagnosis
+
+For established RHD:
+- Long-term secondary prophylaxis with penicillin injections
+- Medications for heart failure symptoms (diuretics, etc.) as prescribed by a cardiologist
+- Anticoagulation (blood thinners) if atrial fibrillation or high stroke risk — requires careful medical monitoring
+- Surgical valve repair or replacement for severe valve damage — available at major government and private cardiac centres; Ayushman Bharat PM-JAY covers cardiac surgery for eligible patients
+
+--- WHEN TO SEE A DOCTOR ---
+- Any child or young person with sore throat and fever — especially if persistent, with white patches on tonsils, and without cough/cold symptoms — get evaluated promptly
+- Joint pains that move between joints, with fever, after a recent throat infection
+- New heart murmur detected during a routine check-up in a child or young adult
+- Breathlessness, palpitations, fatigue, or chest pain in a young person, especially with history of joint pains or rheumatic fever
+- Anyone diagnosed with rheumatic fever/RHD should have regular follow-up for penicillin prophylaxis and cardiac monitoring — do not skip doses or appointments
+
+--- INDIA-SPECIFIC CONTEXT ---
+- RHD remains a major cause of heart disease and "young stroke" in India, particularly affecting people in their 20s-40s
+- School health programmes under Ayushman Bharat (Rashtriya Bal Swasthya Karyakram - RBSK) include screening that can help identify heart murmurs in children for further evaluation
+- Government cardiac centres and medical colleges provide echocardiography and cardiac surgery; Ayushman Bharat PM-JAY covers valve surgery for eligible beneficiaries
+- Community awareness about prompt treatment of sore throat in children is a key, low-cost prevention strategy
+- Some Indian states have established RHD control programmes with penicillin prophylaxis registries to ensure long-term adherence
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can a simple sore throat really cause heart disease?
+A: Yes — but only specific bacterial throat infections (Group A Streptococcus / "strep throat"), and only if left untreated. The body's immune response to this infection, if untreated, can attack the heart valves (rheumatic fever), causing permanent damage over time (RHD). Most viral sore throats do NOT cause this.
+
+Q: How can I tell if my child's sore throat is "strep throat"?
+A: Strep throat typically causes sudden severe sore throat, fever, red/swollen tonsils (sometimes with white patches), and swollen neck lymph nodes — usually WITHOUT cough or runny nose. However, a doctor's evaluation (and throat swab/test where available) is needed for accurate diagnosis. When in doubt, especially in children aged 5-15, get it checked.
+
+Q: If my child already has RHD, can it get worse?
+A: Yes, repeated episodes of rheumatic fever cause progressively more valve damage. This is why secondary prevention — regular penicillin injections — is so critical for anyone diagnosed with rheumatic fever or RHD, to prevent further episodes and worsening of heart damage.
+
+Q: Is RHD curable?
+A: Established valve damage from RHD generally requires ongoing management (medications) and, in severe cases, surgery (valve repair or replacement). However, RHD is entirely PREVENTABLE — the key is preventing the first episode of rheumatic fever through prompt treatment of strep throat, and preventing recurrences through penicillin prophylaxis.
+
+--- IMPORTANT SAFETY NOTE ---
+Rheumatic heart disease is a preventable cause of serious heart damage in young people. Prompt antibiotic treatment of sore throat with fever in children (especially aged 5-15) can prevent rheumatic fever and lifelong heart damage. If diagnosed with rheumatic fever or RHD, regular penicillin prophylaxis injections are critical and should not be missed — discuss any concerns with your doctor. Cardiac surgery for severe RHD is covered under Ayushman Bharat PM-JAY for eligible patients.
+
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.

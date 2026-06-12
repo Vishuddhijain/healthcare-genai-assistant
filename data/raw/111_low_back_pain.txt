@@ -1,0 +1,93 @@
+TOPIC: Low Back Pain
+CATEGORY: Non-Communicable Disease (Musculoskeletal)
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/low-back-pain
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Low back pain (LBP) is the single leading cause of disability worldwide, affecting people of all ages. WHO estimates approximately 619 million people had low back pain in 2020, projected to rise to 843 million by 2050 due to population growth and ageing. Most cases (non-specific LBP) have no identifiable structural cause and are managed without imaging or surgery. India's rising sedentary lifestyle, desk jobs, and improper lifting practices in manual labour contribute significantly to the burden.
+
+--- TYPES ---
+1. Acute LBP: Lasts less than 6 weeks; usually resolves with self-care
+2. Subacute LBP: 6–12 weeks
+3. Chronic LBP: Lasts more than 12 weeks; often multifactorial (physical, psychological, social factors)
+4. Specific LBP (small minority): Due to identifiable cause — disc herniation with nerve compression, fracture, infection, cancer, inflammatory disease (e.g. ankylosing spondylitis)
+5. Non-specific LBP (vast majority, ~90%): No clear structural cause identified on imaging
+
+--- SYMPTOMS ---
+- Pain in lower back, ranging from dull ache to sharp/shooting pain
+- Stiffness, especially in the morning or after prolonged sitting
+- Pain that may radiate to buttocks or legs (sciatica — if nerve involvement)
+- Reduced range of motion
+- Muscle spasm
+
+--- WARNING SIGNS (RED FLAGS — require urgent evaluation) ---
+- Loss of bladder or bowel control (cauda equina syndrome — EMERGENCY)
+- Numbness in groin/inner thighs (saddle anaesthesia)
+- Progressive leg weakness
+- Back pain with unexplained weight loss, fever, or history of cancer
+- Back pain following significant trauma (fall, accident)
+- Back pain in someone with osteoporosis or long-term steroid use (possible fracture)
+- Pain that is worse at night or doesn't improve with rest (possible infection/malignancy)
+
+--- RISK FACTORS ---
+- Sedentary lifestyle / prolonged sitting (desk jobs)
+- Manual labour involving heavy lifting, bending, twisting
+- Poor posture
+- Obesity
+- Smoking (reduces blood flow to spinal discs)
+- Psychological factors: Stress, anxiety, depression (strongly linked to chronic LBP)
+- Age (peak prevalence in working-age adults, but can occur at any age)
+- Occupational vibration exposure (e.g. driving heavy vehicles)
+
+--- PREVENTION ---
+- Regular physical activity: Core and back-strengthening exercises
+- Maintain healthy body weight
+- Proper lifting technique: Bend knees, keep back straight, lift with legs, avoid twisting while lifting
+- Ergonomic workstation: Proper chair height, screen at eye level, regular breaks from sitting
+- Avoid prolonged static postures — change position regularly
+- Quit smoking
+- Stress management
+
+--- ENVIRONMENTAL CONTROL ---
+- Workplace ergonomic assessments (especially IT/desk workers and manual labourers)
+- Adjustable workstations, lumbar support chairs
+- Mechanical aids for heavy lifting in industrial/agricultural settings
+
+--- VACCINATION ---
+- Not applicable
+
+--- DIAGNOSIS ---
+- Clinical history and examination (most cases — imaging not needed)
+- Imaging (X-ray, MRI, CT): Only indicated if red flags present, or pain persists beyond 4–6 weeks despite conservative treatment
+- Avoid unnecessary early imaging — most non-specific LBP resolves without it and imaging findings often don't correlate with symptoms
+
+--- TREATMENT (Awareness Only) ---
+- First-line (WHO/most guidelines): Education, reassurance, staying active, avoiding prolonged bed rest
+- Exercise therapy: Most effective long-term intervention — supervised exercise programmes, yoga, physiotherapy
+- Heat therapy for symptomatic relief
+- Pain relief medication (NSAIDs, paracetamol) — short-term, doctor advised
+- Avoid prolonged bed rest — worsens outcomes
+- Chronic LBP: Multidisciplinary approach including psychological support (CBT), exercise, and pain management
+- Surgery: Reserved for specific cases (severe disc herniation with nerve compression, spinal stenosis with progressive deficits) — small minority of cases
+
+--- WHEN TO SEE A DOCTOR ---
+- Any red flag symptom listed above — urgent/emergency evaluation
+- Pain persisting beyond 4–6 weeks despite self-care
+- Pain interfering significantly with daily activities or sleep
+- Recurrent episodes of severe back pain
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Rising IT/desk-job sector contributes to increasing LBP prevalence in urban India
+- Manual labourers (construction, agriculture, load-carrying) at high occupational risk
+- Yoga, widely practised in India, has evidence-based benefit for chronic LBP
+- Physiotherapy services available at government hospitals (often under-utilised)
+- Avoid unnecessary spinal surgery — second opinions recommended for surgical recommendations without red flags
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Most low back pain improves with activity and time. Any red flag symptoms (bladder/bowel changes, leg weakness, fever, unexplained weight loss) require urgent medical evaluation. Consult a qualified healthcare provider for persistent or severe pain.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

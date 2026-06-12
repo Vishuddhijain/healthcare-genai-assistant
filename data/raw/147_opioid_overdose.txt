@@ -1,0 +1,82 @@
+TOPIC: Opioid overdose
+CATEGORY: Emergency Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/opioid-overdose
+LAST UPDATED: 29 August 2025
+
+--- OVERVIEW ---
+The term “opioids” includes compounds that are extracted from the poppy plant ( Papaver somniferum ) as well as semisynthetic and synthetic compounds with similar properties that can interact with opioid receptors in the brain. Opioids have analgesic and sedative effects, and such medicines as morphine, codeine and fentanyl are commonly used for the management of pain. Opioid medicines methadone and buprenorphine are used for maintenance treatment of opioid dependence. After intake, opioids can cause euphoria, which is one of the main reasons why they are taken for non-medical reasons. Opioids include heroin, morphine, codeine, fentanyl, methadone, tramadol, and other similar substances. Due to their pharmacological effects, they can cause difficulties with breathing, and opioid overdose can lead to death.
+
+Their regular non-medical use, prolonged use, misuse and use without medical supervision can lead to opioid dependence and other health problems. Opioid dependence is a disorder of regulation of opioid use arising from repeated or continuous use of opioids. The characteristic feature of dependence is a strong internal drive to use opioids, which manifests itself by impaired ability to control use, increasing priority given to use over other activities and persistence of use despite harm or negative consequences. Physiological features of dependence may also be present, including increased tolerance to the effects of opioids, withdrawal symptoms following cessation or reduction in use, or repeated use of opioids or pharmacologically similar substances to prevent or alleviate withdrawal symptoms.
+
+Worldwide, about 296 million people (or 5.8% of the global population aged 15–64 years) used drugs at least once in 2021. Among them, about 60 million people used opioids. About 39.5 million people lived with drug use disorders in 2021 (2) . Most people dependent on opioids used illicitly cultivated and manufactured heroin, but the proportion of those using prescription opioids is growing.
+
+--- KEY FACTS ---
+- The term “opioids” includes compounds that are extracted from the poppy plant (Papaver somniferum) as well as semisynthetic and synthetic compounds with similar properties that can interact with opioid receptors in the brain.
+- Opioids are commonly used for the treatment of pain, and include medicines such as morphine, fentanyl and tramadol.
+- Their non-medical use, prolonged use, misuse and use without medical supervision can lead to opioid dependence and other health problems.
+- Due to their pharmacological effects, opioids can cause breathing difficulties, and opioid overdose can lead to death.
+- Worldwide, in 2019 about 600 000 deaths were attributable to drug use. Close to 80% of these deaths are related to opioids, with about 25% of those deaths caused by opioid overdose.
+- There are effective treatment interventions for opioid dependence that can decrease the risk of overdose, yet less than 10% of people who need such treatment are receiving it.
+
+--- TYPES ---
+- WHO continues to monitor several fentanyl analogues through its surveillance system for new psychoactive substances, alerting countries to the potential dangers associated with these substances. Collection of such data is important as information about the patterns of use, misuse and non-medical use of opioids is very limited.
+- Information disclosure
+
+--- SYMPTOMS ---
+- Opioids are commonly used for the treatment of pain, and include medicines such as morphine, fentanyl and tramadol.
+- Opioid use can lead to death due to the effects of opioids on the part of the brain which regulates breathing. An opioid overdose can be identified by a combination of three signs and symptoms:
+- using opioids in combination with alcohol and/or other substances or medicines that suppress respiratory function such as benzodiazepines, barbiturates, anesthetics or some pain medications; and
+- WHO also issues normative guidance to promote the appropriate use of opioids for pain and palliative care. Appropriate use and regulation of opioid analgesics ensures that they are available where needed whilst preventing their diversion and harm related to misuse.
+
+--- WARNING SIGNS ---
+- Death following opioid overdose is preventable if the person receives basic life support and the timely administration of the drug naloxone. Naloxone is an antidote to opioids that will reverse the effects of an opioid overdose if administered in time. Naloxone has virtually no effect in people who have not taken opioids.
+- Access to naloxone is generally limited to health professionals. In many countries there is still limited availability of naloxone even in medical settings, including in ambulances. On the other hand, some countries have already made naloxone available in pharmacies without prescription. Several countries (Australia, Canada, Italy, the United Kingdom of Great Britain and Northern Ireland and Ukraine) have introduced naloxone as over-the-counter medication and have also started proactive dissemination in communities.
+- In recent years, a number of programmes around the world have shown that providing naloxone to people likely to witness an opioid overdose, in combination with training on the use of naloxone and on the resuscitation of people following an opioid overdose, could substantially reduce the number of deaths resulting from opioid overdose. This is particularly relevant for people with opioid use disorders and leaving prison, as they have very high rates of opioid overdose during the first four weeks after release.
+
+--- RISK FACTORS ---
+- There are a number of risk factors for opioid overdose. These include:
+- having an opioid use disorder;
+- taking opioids by injection;
+- resumption of opioid use after an extended period of abstinence (e.g. following detoxification, release from incarceration, cessation of treatment);
+- using prescription opioids without medical supervision;
+- high prescribed dosage of opioids (more than 100 mg of morphine or equivalent daily).
+- using opioids in combination with alcohol and/or other substances or medicines that suppress respiratory function such as benzodiazepines, barbiturates, anesthetics or some pain medications; and
+- having concurrent medical conditions such as HIV, liver or lung diseases or mental health conditions.
+
+--- PREVENTION ---
+- Beyond approaches to reducing drug use in general in the community, there are specific measures to prevent opioid overdose. These include:
+- increasing the availability of opioid dependence treatment, including for those dependent on prescription opioids;
+- reducing and preventing irrational or inappropriate opioid prescribing;
+- monitoring opioid prescribing and dispensing; and
+- limiting inappropriate over-the-counter sales of opioids.
+- The gap between recommendations and practice is significant. Only half of countries provide access to effective treatment options for opioid dependence and less than 10% of people worldwide in need of such treatment are receiving it.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Opioids are commonly used for the treatment of pain, and include medicines such as morphine, fentanyl and tramadol.
+- There are effective treatment interventions for opioid dependence that can decrease the risk of overdose, yet less than 10% of people who need such treatment are receiving it.
+- resumption of opioid use after an extended period of abstinence (e.g. following detoxification, release from incarceration, cessation of treatment);
+- using opioids in combination with alcohol and/or other substances or medicines that suppress respiratory function such as benzodiazepines, barbiturates, anesthetics or some pain medications; and
+- health-care workers, the emergency services, people providing accommodation to people who use opioids, and peer education and outreach workers as well as others whose work brings them into contact with people who are at risk of overdose.
+- increasing the availability of opioid dependence treatment, including for those dependent on prescription opioids;
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

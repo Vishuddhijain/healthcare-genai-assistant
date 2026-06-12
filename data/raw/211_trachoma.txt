@@ -1,0 +1,83 @@
+TOPIC: Trachoma
+CATEGORY: Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/trachoma
+LAST UPDATED: 4 March 2026
+
+--- OVERVIEW ---
+Trachoma is the leading infectious cause of blindness worldwide. It is caused by an obligate intracellular bacterium called Chlamydia trachomatis . The infection is transmitted by direct or indirect transfer of eye and nose discharges of infected people, particularly young children who harbour the principal reservoir of infection. These discharges can be spread by particular species of flies.
+
+--- KEY FACTS ---
+- Trachoma is a disease of the eye caused by infection with the bacterium Chlamydia trachomatis .
+- It is a public health problem in 30 countries and is responsible for the blindness or visual impairment of about 1.9 million people.
+- Blindness from trachoma is difficult to reverse.
+- Based on November 2025 data, 97 million people live in trachoma endemic areas and are at risk of trachoma blindness.
+- Infection spreads through personal contact (via hands, clothes, bedding or hard surfaces) and by flies that have been in contact with discharge from the eyes or nose of an infected person. With repeated episodes of infection over many years, the eyelashes may be drawn in so that they rub on the surface of the eye. This causes pain and may permanently damage the cornea.
+- In 2024, 87 349 people received surgical treatment for advanced stage of the disease, and 44.4 million people were treated with antibiotics. Global antibiotic coverage in 2024 was 39%.
+
+--- TYPES ---
+- Information disclosure
+
+--- SYMPTOMS ---
+- In areas where trachoma is endemic, active (inflammatory) trachoma is common among preschool-aged children, with the proportion of such children affected sometimes being as high as 90%. Infection becomes less frequent and shorter in duration with increasing age. Infection is usually acquired when living in close proximity to others with active disease, and the family is the main setting for transmission. An individual’s immune system can clear a single episode of infection, but in endemic communities re-acquisition of the organism occurs frequently.
+- After years of repeated infection, the inside of the eyelid can become so severely scarred (trachomatous conjunctival scarring) that it turns inwards and causes the eyelashes to rub against the eyeball (trachomatous trichiasis), resulting in constant pain and light intolerance. This and other alterations of the eye can lead to scarring of the cornea. Left untreated, this condition leads to the formation of irreversible opacities, with resulting visual impairment or blindness. The age at which this occurs depends on several factors including local transmission intensity. In very highly endemic communities it can occur in childhood, though...
+- Visual impairment or blindness results in a worsening of the life experience of affected individuals and their families, who are normally already amongst the poorest of the poor. Women are blinded up to 4 times as often as men, probably due to their close contact with infected children and their resulting greater frequency of infection episodes.
+- Environmental factors associated with more intense transmission of C. trachomatis include:
+- inadequate hygiene
+- crowded households
+- inadequate access to water
+- inadequate access to and use of sanitation.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- In areas where trachoma is endemic, active (inflammatory) trachoma is common among preschool-aged children, with the proportion of such children affected sometimes being as high as 90%. Infection becomes less frequent and shorter in duration with increasing age. Infection is usually acquired when living in close proximity to others with active disease, and the family is the main setting for transmission. An individual’s immune system can clear a single episode of infection, but in endemic communities re-acquisition of the organism occurs frequently.
+- After years of repeated infection, the inside of the eyelid can become so severely scarred (trachomatous conjunctival scarring) that it turns inwards and causes the eyelashes to rub against the eyeball (trachomatous trichiasis), resulting in constant pain and light intolerance. This and other alterations of the eye can lead to scarring of the cornea. Left untreated, this condition leads to the formation of irreversible opacities, with resulting visual impairment or blindness. The age at which this occurs depends on several factors including local transmission intensity. In very highly endemic communities it can occur in childhood, though...
+- Visual impairment or blindness results in a worsening of the life experience of affected individuals and their families, who are normally already amongst the poorest of the poor. Women are blinded up to 4 times as often as men, probably due to their close contact with infected children and their resulting greater frequency of infection episodes.
+- Environmental factors associated with more intense transmission of C. trachomatis include:
+- inadequate hygiene
+- crowded households
+- inadequate access to water
+- inadequate access to and use of sanitation.
+
+--- PREVENTION ---
+- Elimination programmes in endemic countries are being implemented using the WHO-recommended SAFE strategy. This consists of:
+- S urgery to treat the blinding stage (trachomatous trichiasis);
+- A ntibiotics to clear infection, particularly mass drug administration of the antibiotic azithromycin, which is donated by the manufacturer to elimination programmes, through the International Trachoma Initiative;
+- F acial cleanliness; and
+- E nvironmental improvement, particularly improving access to water and sanitation.
+- Most endemic countries are accelerating the implementation of this strategy to achieve elimination targets.
+- Data reported to WHO by Member States for 2024 show that 87 349 people with trachomatous trichiasis were provided with corrective surgery in that year, and 44.4 million people in endemic communities were treated with antibiotics to eliminate trachoma.
+- Elimination efforts need to continue to ensure that we reach the target set by World Health Assembly resolution WHA 51.11, which is elimination of trachoma as a public health problem (1) . Particularly important is the engagement of multiple actors involved in water, sanitation and socioeconomic development.
+
+--- ENVIRONMENTAL CONTROL ---
+- Elimination programmes in endemic countries are being implemented using the WHO-recommended SAFE strategy. This consists of:
+- S urgery to treat the blinding stage (trachomatous trichiasis);
+- A ntibiotics to clear infection, particularly mass drug administration of the antibiotic azithromycin, which is donated by the manufacturer to elimination programmes, through the International Trachoma Initiative;
+- F acial cleanliness; and
+- E nvironmental improvement, particularly improving access to water and sanitation.
+- Most endemic countries are accelerating the implementation of this strategy to achieve elimination targets.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- In 2024, 87 349 people received surgical treatment for advanced stage of the disease, and 44.4 million people were treated with antibiotics. Global antibiotic coverage in 2024 was 39%.
+- S urgery to treat the blinding stage (trachomatous trichiasis);
+- Data reported to WHO by Member States for 2024 show that 87 349 people with trachomatous trichiasis were provided with corrective surgery in that year, and 44.4 million people in endemic communities were treated with antibiotics to eliminate trachoma.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

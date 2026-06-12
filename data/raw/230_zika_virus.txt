@@ -1,0 +1,78 @@
+TOPIC: Zika virus
+CATEGORY: Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/zika-virus
+LAST UPDATED: 6 November 2025
+
+--- OVERVIEW ---
+Zika virus is a mosquito-borne virus that was first identified in Uganda in 1947 in a Rhesus macaque monkey, followed by evidence of infection and disease in humans in other African countries in the 1950s.
+
+From the 1960s to the 1980s, sporadic human infections were detected across Africa and Asia. However, since 2007, outbreaks of Zika virus disease have been recorded in Africa, the Americas, Asia and the Pacific.
+
+During outbreaks over the last decade, Zika virus infection was found to be associated with increased incidence of Guillain-Barré syndrome. When Zika virus emerged in the Americas, with a large epidemic in Brazil in 2015, an association between Zika virus infection and microcephaly (smaller than normal head size) was first describe. Similar findings were observed in French Polynesia upon retrospective review. From February to November 2016, WHO declared a Public Health Emergency of International Concern (PHEIC) regarding microcephaly, other neurological disorders and Zika virus, and the causal link between Zika virus and congenital malformations was confirmed soon thereafter (1,2) . Outbreaks of Zika virus disease were identified throughout most of the Americas and in other regions with established Aedes aegypti mosquito populations. Infections were also detected in travellers from...
+
+--- KEY FACTS ---
+- Zika virus is primarily transmitted by Aedes mosquitoes, which bite mostly during the day.
+- Most people with Zika virus infection do not develop symptoms. When symptoms occur, they include rash, fever, conjunctivitis, muscle and joint pain, malaise and headache that last for 2–7 days. No vaccine is yet available for the prevention or treatment of Zika virus infection.
+- Zika virus infection during pregnancy can cause infants to be born with microcephaly smaller than normal head size and other congenital malformations, as well as preterm birth and miscarriage.
+- Zika virus infection is associated with Guillain-Barré syndrome, neuropathy and myelitis in adults and children.
+- In February 2016, WHO declared Zika-related microcephaly a Public Health Emergency of International Concern (PHEIC). The causal link between the Zika virus and congenital malformations was confirmed, and the PHEIC declaration was lifted in November 2016.
+- Although cases of Zika virus disease declined globally from 2017 onwards, transmission persists at low levels in several countries in the Americas and in some countries in Asia and Africa, where sporadic outbreaks have also been documented.
+
+--- TYPES ---
+- Zika virus infection during pregnancy can cause infants to be born with microcephaly smaller than normal head size and other congenital malformations, as well as preterm birth and miscarriage.
+- In February 2016, WHO declared Zika-related microcephaly a Public Health Emergency of International Concern (PHEIC). The causal link between the Zika virus and congenital malformations was confirmed, and the PHEIC declaration was lifted in November 2016.
+- Zika virus infection during pregnancy is a cause of microcephaly and other congenital malformations in the infant, including limb contractures, high muscle tone, eye abnormalities and hearing loss. These clinical features are collectively referred to as congenital Zika syndrome.
+- The risk of congenital malformations following infection in pregnancy remains unknown; an estimated 5–15% of infants born to women infected with Zika virus during pregnancy have evidence of Zika-related complications (3) . Congenital malformations occur following both symptomatic and asymptomatic infection. Zika infection in pregnancy can also cause complications such as fetal loss, stillbirth and preterm birth.
+
+--- SYMPTOMS ---
+- Most people infected with Zika virus do not develop symptoms. Among people who do become ill, symptoms typically start 3–14 days after infection. Symptoms are generally mild, including rash, fever, conjunctivitis, muscle and joint pain, malaise and headache, and usually last for 2–7 days. These symptoms are common to other arboviral and non-arboviral diseases; thus, the diagnosis of Zika virus infection requires laboratory confirmation.
+
+--- WARNING SIGNS ---
+- Zika virus infection during pregnancy is a cause of microcephaly and other congenital malformations in the infant, including limb contractures, high muscle tone, eye abnormalities and hearing loss. These clinical features are collectively referred to as congenital Zika syndrome.
+- The risk of congenital malformations following infection in pregnancy remains unknown; an estimated 5–15% of infants born to women infected with Zika virus during pregnancy have evidence of Zika-related complications (3) . Congenital malformations occur following both symptomatic and asymptomatic infection. Zika infection in pregnancy can also cause complications such as fetal loss, stillbirth and preterm birth.
+- Zika virus infection can also cause Guillain-Barré syndrome, neuropathy and myelitis, particularly in adults and older children.
+- Research is ongoing to investigate the risk and effects of Zika virus infection on pregnancy outcomes, strategies for prevention and control, and effects of infection on other neurological disorders in children and adults.
+
+--- RISK FACTORS ---
+- Zika virus is primarily transmitted by infected mosquitoes of the Aedes ( Stegomyia ) genus, mainly Aedes aegypti but also Aedes albopictus ; these species also transmit dengue, chikungunya and urban yellow fever. These mosquitoes are most abundant in tropical and subtropical regions, but their geographic range is expanding. Aedes mosquitoes usually bite during the day and mostly outdoors, although they can also feed indoors.
+- Zika virus is also transmitted from mother to fetus during pregnancy, as well as through sexual contact, laboratory exposure, transfusion of blood and blood products, and possibly through organ transplantation.
+- For regions with active transmission of Zika virus, all people with Zika virus infection and their sexual partners (particularly pregnant women) should receive information about the risks of sexual transmission of Zika virus.
+- WHO recommends that sexually active men and women be counselled and offered a full range of contraceptive methods to be able to make an informed choice about whether and when to become pregnant in order to prevent possible adverse pregnancy and fetal outcomes.
+- Women who have had unprotected sex and do not wish to become pregnant due to concerns about Zika virus infection should have ready access to emergency contraceptive services and counselling. Pregnant women should practice safer sex (including correct and consistent use of condoms) or abstain from sexual activity for at least the entire duration of pregnancy.
+- For regions with no active transmission of Zika virus, WHO recommends practicing safer sex or abstinence for a period of three months for men and two months for women who are returning from areas of active Zika virus transmission to prevent infection of their sex partners. Sexual partners of pregnant women living in or returning from areas where local transmission of Zika virus occurs should practice safer sex or abstain from sexual activity throughout pregnancy.
+
+--- PREVENTION ---
+- No vaccine is yet available for the prevention or treatment of Zika virus infection. Development of a Zika vaccine remains an active area of research.
+- For regions with active transmission of Zika virus, all people with Zika virus infection and their sexual partners (particularly pregnant women) should receive information about the risks of sexual transmission of Zika virus.
+- WHO recommends that sexually active men and women be counselled and offered a full range of contraceptive methods to be able to make an informed choice about whether and when to become pregnant in order to prevent possible adverse pregnancy and fetal outcomes.
+- Women who have had unprotected sex and do not wish to become pregnant due to concerns about Zika virus infection should have ready access to emergency contraceptive services and counselling. Pregnant women should practice safer sex (including correct and consistent use of condoms) or abstain from sexual activity for at least the entire duration of pregnancy.
+- For regions with no active transmission of Zika virus, WHO recommends practicing safer sex or abstinence for a period of three months for men and two months for women who are returning from areas of active Zika virus transmission to prevent infection of their sex partners. Sexual partners of pregnant women living in or returning from areas where local transmission of Zika virus occurs should practice safer sex or abstain from sexual activity throughout pregnancy.
+
+--- ENVIRONMENTAL CONTROL ---
+- Zika virus is also transmitted from mother to fetus during pregnancy, as well as through sexual contact, laboratory exposure, transfusion of blood and blood products, and possibly through organ transplantation.
+- Aedes mosquitoes breed in small collections of water around homes, schools and work sites. It is important to eliminate these mosquito breeding sites, including covering water storage containers, removing standing water in flowerpots, and cleaning up trash and used tires. Community initiatives are essential to support local government and public health programmes to reduce mosquito breeding sites. Health authorities may also advise use of larvicides and insecticides to reduce mosquito populations and disease spread.
+
+--- VACCINATION ---
+- Most people with Zika virus infection do not develop symptoms. When symptoms occur, they include rash, fever, conjunctivitis, muscle and joint pain, malaise and headache that last for 2–7 days. No vaccine is yet available for the prevention or treatment of Zika virus infection.
+- No vaccine is yet available for the prevention or treatment of Zika virus infection. Development of a Zika vaccine remains an active area of research.
+
+--- DIAGNOSIS ---
+- Infection with Zika virus may be suspected based on symptoms of persons living in or visiting areas with Zika virus transmission and/or Aedes mosquito vectors. A diagnosis of Zika virus infection can only be confirmed by laboratory tests of blood or other body fluids to detect viral RNA by RT-PCR testing, or through IgM antibody testing. For IgM antibody testing, positive results must be differentiated from cross-reactive related flaviviruses such as dengue virus, to which the patient may have been exposed or previously vaccinated.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- There is no specific treatment available for Zika virus infection or disease.
+- People with symptoms such as rash, fever or joint pain should get plenty of rest, drink fluids, and treat symptoms with antipyretics and/or analgesics. If a specific diagnosis cannot be made and dengue cannot be ruled out, patients should be treated as if they have dengue, according to standardized clinical guidelines. This includes avoidance of nonsteroidal anti-inflammatory drugs until dengue virus infections are ruled out because of bleeding risk. If symptoms worsen, patients should seek medical care and advice.
+- Pregnant women living in areas with Zika transmission or who develop symptoms of Zika virus infection should seek medical attention for laboratory testing, information, counselling and other clinical care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

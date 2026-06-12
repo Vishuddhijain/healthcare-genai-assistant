@@ -1,0 +1,129 @@
+TOPIC: Fragility Fractures and Osteoporosis
+CATEGORY: Non-Communicable Disease / Bone Health / Musculoskeletal
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/fragility-fractures | International Osteoporosis Foundation
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+A fragility fracture is a bone fracture that occurs from minimal trauma — a fall from standing height or less — that would not normally break a healthy bone. Fragility fractures are primarily caused by osteoporosis (low bone density). They are a major public health concern globally and in India, especially among older adults and post-menopausal women. Hip fractures — the most severe fragility fracture — are associated with significant disability and death.
+
+--- TYPES ---
+Common fragility fracture sites:
+1. Hip fracture: Most serious — often requires surgery; 20–30% of patients die within 1 year; 50% never regain previous mobility.
+2. Vertebral (spine) fracture: Most common fragility fracture — may cause height loss, back pain, stooped posture (kyphosis/dowager's hump); many are silent (no pain).
+3. Wrist (Colles') fracture: Common after outstretched hand fall; often the first sign of osteoporosis.
+4. Humerus (upper arm) fracture.
+5. Pelvis fracture.
+
+--- KEY FACTS ---
+- Worldwide, 1 in 3 women and 1 in 5 men over age 50 will experience an osteoporotic fracture.
+- In India, an estimated 50 million people have osteoporosis.
+- A hip fracture occurs approximately every 3 seconds globally.
+- Indian women develop osteoporosis at a younger age than Western women — partly due to lower calcium intake and Vitamin D deficiency.
+- Once one fragility fracture has occurred, the risk of a second fracture doubles.
+
+--- SYMPTOMS ---
+Fragility fractures:
+- Sudden pain after minor fall or movement
+- Inability to bear weight (hip, spine, leg fractures)
+- Visible deformity at fracture site
+- Swelling and bruising
+
+Silent vertebral fractures (often unnoticed):
+- Gradual height loss (>2 cm over time)
+- Progressive back pain
+- Stooped posture (kyphosis)
+- Reduced rib-to-hip distance
+
+Osteoporosis itself has NO symptoms — it is only detected by bone density testing or after a fracture.
+
+--- RISK FACTORS ---
+Non-modifiable:
+- Age >50 (especially post-menopausal women)
+- Female sex (bone loss accelerates after menopause)
+- Family history of hip fracture or osteoporosis
+- Ethnic factors (South Asians have lower bone density on average)
+- Previous fragility fracture
+
+Modifiable:
+- Low calcium and Vitamin D intake
+- Physical inactivity / sedentary lifestyle
+- Tobacco use (reduces bone density)
+- Excessive alcohol use
+- Prolonged use of steroids (corticosteroids) — major drug-induced cause
+- Low body weight / undernutrition
+- Falls risk (see 40_falls_injury.txt)
+
+Medical conditions increasing risk:
+- Rheumatoid arthritis
+- Hyperparathyroidism
+- Coeliac disease
+- Chronic kidney disease
+- Hyperthyroidism
+
+--- PREVENTION ---
+Building bone density (most effective in youth — bone bank concept):
+- Adequate calcium: Adults need 1000–1200 mg/day. Sources: milk, curd, paneer, ragi, sesame, fish with bones.
+- Adequate Vitamin D: 600–800 IU/day. Sources: 15–20 min morning sunlight, oily fish, fortified milk, eggs. Supplements if deficient (doctor-advised).
+- Regular weight-bearing exercise: Walking, jogging, dancing, yoga — builds bone strength.
+- Resistance training: Improves muscle strength and bone density.
+- Quit smoking and limit alcohol.
+- Avoid prolonged steroid use (only with medical supervision).
+- Fall prevention in elderly (see 40_falls_injury.txt) — since most fragility fractures result from falls.
+
+--- ENVIRONMENTAL CONTROL ---
+- Home modifications to prevent falls (grab bars, non-slip mats, adequate lighting) are critical.
+- Ensure elderly family members have regular bone density checks.
+- Community awareness to reduce "normal ageing" misconception — fractures are not inevitable.
+
+--- VACCINATION ---
+No specific vaccine for osteoporosis. However:
+- Influenza and pneumococcal vaccines reduce hospitalisations that lead to immobility and bone loss.
+
+--- DIAGNOSIS ---
+- DXA (Dual-energy X-ray Absorptiometry) scan: Gold standard for bone density measurement; T-score below -2.5 = osteoporosis.
+- FRAX score: WHO tool to calculate 10-year fracture risk (available online at shef.ac.uk/FRAX).
+- Blood tests: Calcium, Vitamin D, parathyroid hormone, thyroid function (to rule out secondary causes).
+- X-ray: Detects fractures; may show vertebral compression.
+DXA scanning available at government medical colleges and district hospitals in India.
+
+--- TREATMENT (Awareness Only) ---
+- Calcium and Vitamin D supplementation (doctor-prescribed)
+- Bisphosphonates (alendronate, risedronate) — reduce fracture risk; doctor-prescribed
+- Denosumab, teriparatide — for severe osteoporosis; specialist-prescribed
+- Hip fracture: Usually requires surgical fixation (hemiarthroplasty or total hip replacement) — available at government hospitals
+- Post-fracture rehabilitation: Physiotherapy is essential for recovery
+- Liaison Fracture Service: Hospitals identify osteoporosis after any fragility fracture and initiate treatment
+
+--- WARNING SIGNS ---
+- Sudden, severe back pain in a person over 60 — possible vertebral fracture
+- Pain and inability to bear weight after a minor fall — possible hip fracture
+- Progressive height loss and stooped posture — possible vertebral fractures
+
+--- WHEN TO SEE A DOCTOR ---
+- Women at menopause — bone density check
+- Anyone over 50 with a fracture from minimal trauma — needs osteoporosis workup
+- Long-term steroid users — regular bone density monitoring
+- Any person with height loss >2 cm or new back pain after 60
+- Hip/spine fracture: Emergency — call 112, do not move the person
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Vitamin D deficiency is almost universal in India despite abundant sunshine — largely due to indoor lifestyles, clothing, and skin pigmentation.
+- Calcium intake in India is far below recommended levels — average Indian diet provides only 300–400 mg/day vs. recommended 1000+ mg.
+- DXA scanning is available in government medical college hospitals; private sector availability has improved.
+- Ayushman Bharat PM-JAY covers hip fracture surgery at empanelled hospitals for eligible patients.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is osteoporosis only a problem for women?
+A: No. 1 in 5 men over 50 will have an osteoporotic fracture. Men are often underdiagnosed because osteoporosis is mistakenly seen as a women's disease.
+
+Q: Can I reverse osteoporosis?
+A: Bone density can be increased modestly with treatment and lifestyle changes. Significant reversal is limited, but treatment can prevent further loss and substantially reduce fracture risk.
+
+Q: Does milk really help bones?
+A: Yes. Dairy is the richest dietary calcium source. Adequate calcium from youth builds peak bone mass. However, Vitamin D is equally important for calcium absorption — often deficient in India.
+
+--- IMPORTANT SAFETY NOTE ---
+This is awareness information only. Osteoporosis diagnosis and treatment require medical supervision. Hip and spine fractures are emergencies — call 112 and do not attempt to move the person without medical guidance.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

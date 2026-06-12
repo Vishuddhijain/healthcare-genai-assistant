@@ -1,0 +1,96 @@
+TOPIC: Taeniasis/cysticercosis
+CATEGORY: Sexual Health / STI Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/taeniasis-cysticercosis
+LAST UPDATED: 11 January 2022
+
+--- OVERVIEW ---
+Taeniasis due to T. solium , T. saginata or T. asiatica is usually characterized by mild and non-specific symptoms. Abdominal pain, nausea, diarrhoea or constipation may arise when the tapeworms become fully developed in the intestine, approximately 8 weeks after ingestion of meat containing cysticerci.
+
+These symptoms may continue until the tapeworm dies following treatment, otherwise it may live for several years. It is considered that untreated infections with T. solium tapeworms generally persist for 2–3 years.
+
+In the case of cysticercosis due to T. solium , the incubation period prior to the appearance of clinical symptoms is variable, and infected people may remain asymptomatic for many years.
+
+--- KEY FACTS ---
+- The term taeniasis refers to intestinal infection with tapeworms. Three parasite species cause taeniasis in humans, Taenia solium, Taenia saginata and Taenia asiatica. Only T. solium causes major health problems.
+- T. solium taeniasis is acquired by humans through the ingestion of the parasite's larval cysts (cysticerci) in undercooked and infected pork.
+- Human tapeworm carriers excrete tapeworm eggs in their faeces and contaminate the environment when they defecate in open areas.
+- Humans can also become infected with T. solium eggs due to poor hygiene (via the fecal-oral route) or ingesting contaminated food or water.
+- Ingested T. solium eggs develop to larvae (called cysticerci) in various organs of the human body. When they enter the central nervous system, they can cause neurological symptoms (neurocysticercosis), including epileptic seizures.
+- T. solium is the cause of 30% of epilepsy cases in many endemic areas where people and roaming pigs live in close proximity. In high-risk communities it can be associated with as many as 70% of epilepsy cases.
+
+--- TYPES ---
+- In some endemic regions (particularly in Asia), infected people may develop visible or palpable subcutaneous nodules. Neurocysticercosis is associated with a variety of signs and symptoms depending on the number, size, stage, and location of the pathological changes as well as the host’s immune response but can also be clinically asymptomatic. Symptoms may include chronic headaches, blindness, seizures (epilepsy if they are recurrent), hydrocephalus, meningitis, and symptoms caused by lesions occupying spaces of the central nervous system.
+- Robust surveillance data is fundamental to assess disease burden, take action and to evaluate progress. As for other neglected diseases, data is especially scarce. WHO is active in counters this situation by collecting and mapping data on T. solium distribution and risk factors associated with the occurrence of the parasite, such as information on pig keeping, food safety and sanitation. This information has been incorporated into the WHO Global Health Observatory .
+- Information disclosure
+
+--- SYMPTOMS ---
+- Taeniasis due to T. solium , T. saginata or T. asiatica is usually characterized by mild and non-specific symptoms. Abdominal pain, nausea, diarrhoea or constipation may arise when the tapeworms become fully developed in the intestine, approximately 8 weeks after ingestion of meat containing cysticerci.
+- These symptoms may continue until the tapeworm dies following treatment, otherwise it may live for several years. It is considered that untreated infections with T. solium tapeworms generally persist for 2–3 years.
+- In the case of cysticercosis due to T. solium , the incubation period prior to the appearance of clinical symptoms is variable, and infected people may remain asymptomatic for many years.
+- In some endemic regions (particularly in Asia), infected people may develop visible or palpable subcutaneous nodules. Neurocysticercosis is associated with a variety of signs and symptoms depending on the number, size, stage, and location of the pathological changes as well as the host’s immune response but can also be clinically asymptomatic. Symptoms may include chronic headaches, blindness, seizures (epilepsy if they are recurrent), hydrocephalus, meningitis, and symptoms caused by lesions occupying spaces of the central nervous system.
+- Epilepsy is one of the most common clinical signs in patients with NCC. WHO recognizes that people with epilepsy frequently suffer stigmatization and discrimination. WHO urges the Member States to support the establishment and implementation of strategies for the management of epilepsy, and promote actions to prevent the causes of epilepsy ( Resolution WHA 68.20 of 2015 ). WHO has published the WHO guidelines on management of Taenia solium NCC to promote better clinical management.
+- Providing guidance for improved diagnostics and supporting countries diagnostic capacity
+- Faecal screening tests such as Kato-Katz, can be used to identify Taenia eggs and hence areas in which the parasite may be endemic, but the test is not species specific, so the positive samples must be confirmed as T. solium .
+- The gold standard for the diagnostic of NCC is imaging.
+
+--- WARNING SIGNS ---
+- Human cysticercosis can result in devastating effects on human health. The larvae (cysticerci) may develop in the muscles, skin, eyes and the central nervous system. When cysts develop in the brain, the condition is referred to as neurocysticercosis (NCC). Symptoms include severe headache, blindness, convulsions and epileptic seizures and can be fatal.
+
+--- RISK FACTORS ---
+- Humans can also become infected with T. solium eggs due to poor hygiene (via the fecal-oral route) or ingesting contaminated food or water.
+- T. solium is the cause of 30% of epilepsy cases in many endemic areas where people and roaming pigs live in close proximity. In high-risk communities it can be associated with as many as 70% of epilepsy cases.
+- Taeniasis is an intestinal infection caused by 3 species of tapeworm: Taenia solium (pork tapeworm), Taenia saginata (beef tapeworm) and Taenia asiatica .
+- Infection with the T. solium tapeworm occurs when a person eats raw or undercooked, infected pork. Infection with the tapeworm causes few clinical symptoms. Tapeworm eggs passed in the faeces with the tapeworm carrier are infective for pigs. T. solium eggs may also infect humans if they are ingested by a person (via the fecal-oral route, or by ingesting contaminated food or water), causing infection with the larval parasite in the tissues (human cysticercosis).
+- In some endemic regions (particularly in Asia), infected people may develop visible or palpable subcutaneous nodules. Neurocysticercosis is associated with a variety of signs and symptoms depending on the number, size, stage, and location of the pathological changes as well as the host’s immune response but can also be clinically asymptomatic. Symptoms may include chronic headaches, blindness, seizures (epilepsy if they are recurrent), hydrocephalus, meningitis, and symptoms caused by lesions occupying spaces of the central nervous system.
+- Identification of endemic areas (mapping): One of the first steps to control the disease is to identify those communities or endemic areas where control measures need to be implemented. WHO has developed a mapping protocol which includes an Excel mapping tool, to evaluate the level of risk and assist the countries in identify high risk areas for endemicity to T. solium .
+
+--- PREVENTION ---
+- There are several interventions for the control of T. solium that can be used in different combinations. In a meeting of experts in 2009, they were identified as:
+- Core “rapid impact” interventions:
+- treatment of human taeniasis;
+- intervention in pigs (vaccination plus anthelmintic treatment);
+- Supporting measures:
+- community health education, including hygiene and food safety;
+- improved sanitation - ending open defecation;
+- Measures requiring more fundamental societal changes:
+
+--- ENVIRONMENTAL CONTROL ---
+- There are several interventions for the control of T. solium that can be used in different combinations. In a meeting of experts in 2009, they were identified as:
+- Core “rapid impact” interventions:
+- treatment of human taeniasis;
+- intervention in pigs (vaccination plus anthelmintic treatment);
+- Supporting measures:
+- community health education, including hygiene and food safety;
+
+--- VACCINATION ---
+- intervention in pigs (vaccination plus anthelmintic treatment);
+- Promoting pig interventions: Specific control measures in the pig population include the implementation of good farming practices, vaccination of pigs with the TSOL18 vaccine and the treatment with oxfendazole. Vaccination prevents the pigs getting infected; oxfendazole cures the pigs already infected at the time of vaccination, and both can be given simultaneously. Working with veterinary authorities as well as key partners in the animal sector, WHO is supporting pilot projects incorporating pig interventions, essential to attain long-term outcomes.
+
+--- DIAGNOSIS ---
+- The term taeniasis refers to intestinal infection with tapeworms. Three parasite species cause taeniasis in humans, Taenia solium, Taenia saginata and Taenia asiatica. Only T. solium causes major health problems.
+- Taeniasis is an intestinal infection caused by 3 species of tapeworm: Taenia solium (pork tapeworm), Taenia saginata (beef tapeworm) and Taenia asiatica .
+- Neurocysticercosis is the most frequent preventable cause of epilepsy worldwide and is estimated to cause 30% of all epilepsy cases in countries where the parasite is endemic. In specific communities the association between NCC and epilepsy can be up to 70%. In poor remote settings where the disease is present, epilepsy is difficult to diagnose and treat, and causes major stigma, especially in girls and women (where it is commonly associated to witchcraft).
+- Taeniasis due to T. solium , T. saginata or T. asiatica is usually characterized by mild and non-specific symptoms. Abdominal pain, nausea, diarrhoea or constipation may arise when the tapeworms become fully developed in the intestine, approximately 8 weeks after ingestion of meat containing cysticerci.
+- Providing guidance for improved diagnostics and supporting countries diagnostic capacity
+
+--- TREATMENT (AWARENESS ONLY) ---
+- to assist in controlling or stopping the parasite transmission cycle. The treatment can be done on an individual bases, or as preventive chemotherapy depending on the local circumstances and the control approaches being implemented. Taeniasis can be treated with single doses of praziquantel (10 mg/kg) or niclosamide (adults and children over 6 years: 2 g, children aged 2–6 years: 1 g). Albendazole at 400 mg for 3 consecutive days has also been used . Recommendations and important considerations for the use of these drugs for preventive chemotherapy for taeniasis, are described in the PAHO/WHO Guideline for preventive chemotherapy for the...
+- In NCC, since the destruction of cysts may lead to an inflammatory response, specialised treatment is required and may include long courses with high doses of praziquantel and/or albendazole, as well as supporting therapy with corticosteroids and/or anti-epileptic drugs, and possibly surgery. The dosage and the duration of treatment can vary greatly and depend mainly on the number, size, location and developmental stage of the cysts, their surrounding inflammatory edema, acuteness and severity of clinical symptoms or signs. The WHO guidelines on management of T. solium neurocysticercosis provide more details to assist health care-providers.
+- Epilepsy is one of the most common clinical signs in patients with NCC. WHO recognizes that people with epilepsy frequently suffer stigmatization and discrimination. WHO urges the Member States to support the establishment and implementation of strategies for the management of epilepsy, and promote actions to prevent the causes of epilepsy ( Resolution WHA 68.20 of 2015 ). WHO has published the WHO guidelines on management of Taenia solium NCC to promote better clinical management.
+- Providing guidance for improved diagnostics and supporting countries diagnostic capacity
+- Faecal screening tests such as Kato-Katz, can be used to identify Taenia eggs and hence areas in which the parasite may be endemic, but the test is not species specific, so the positive samples must be confirmed as T. solium .
+- The gold standard for the diagnostic of NCC is imaging.
+- Improved, simple, cost-effective diagnostic tools for Taenia solium are still needed.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

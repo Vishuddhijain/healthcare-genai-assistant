@@ -1,0 +1,93 @@
+TOPIC: Ebola disease
+CATEGORY: Infectious Disease Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ebola-disease
+LAST UPDATED: 24 April 2025
+
+--- OVERVIEW ---
+It is thought that fruit bats of the Pteropodidae family are natural hosts of the Orthoebolavirus. The virus can get into the human population when people have close contact with the blood, secretions, organs or other bodily fluids of infected animals such as fruit bats, chimpanzees, gorillas, monkeys, forest antelope or porcupines found ill or dead or in the rainforest.
+
+People can get infected with the virus from another person by direct contact (through broken skin or mucous membranes) with:
+
+the blood or body fluids of a person who is sick with or has died from Ebola disease; and
+
+--- KEY FACTS ---
+- Ebola disease is a severe, often fatal illness in humans.
+- Three different viruses are known to cause large Ebola disease outbreaks: Ebola virus, Sudan virus and Bundibugyo virus.
+- The average Ebola disease case fatality rate is around 50%. Case fatality rates have varied from 25–90% in past outbreaks.
+- Early intensive supportive care with rehydration and the treatment of symptoms improves survival.
+- Approved vaccines and treatments are only available for one of the viruses (Ebola virus) and are under development for the others.
+- Outbreak control relies on a package of interventions including intensive supportive care of patients, infection prevention and control, disease surveillance and contact tracing, laboratory services, safe and dignified burials, vaccination if relevant, and social mobilization.
+
+--- TYPES ---
+- Communities should be well informed, both about the disease itself and how to control the outbreak. This is done best when they are involved in the response and there is open discussion.
+- offer counselling to male survivors and their sexual partners to inform them of the potential risk and support them adhering to safer sex practices (including condom provision and good hand and personal hygiene);
+
+--- SYMPTOMS ---
+- The incubation period or interval from infection to onset of symptoms varies from 2 to 21 days.
+- The symptoms of Ebola disease can be sudden and include fever, fatigue, malaise, muscle pain, headache and sore throat. These are followed by vomiting, diarrhoea, abdominal pain rash, and symptoms of impaired kidney and liver functions. It is important for health and care workers to be on the lookout for these symptoms.
+- Despite a perception that bleeding is a common symptom, this is less frequent and can occur later in the disease. Some patients may develop internal and external bleeding, including blood in vomit and faeces, bleeding from the nose, gums and vagina. Bleeding at the sites where needles have punctured the skin can also occur.
+- The impact on the central nervous system can result in confusion, irritability and aggression.
+
+--- WARNING SIGNS ---
+- Ebola disease is a severe, often fatal illness in humans.
+- Ebola disease (EBOD) is a rare but severe illness in humans (1) . It is often fatal.
+- Despite a perception that bleeding is a common symptom, this is less frequent and can occur later in the disease. Some patients may develop internal and external bleeding, including blood in vomit and faeces, bleeding from the nose, gums and vagina. Bleeding at the sites where needles have punctured the skin can also occur.
+
+--- RISK FACTORS ---
+- It is thought that fruit bats of the Pteropodidae family are natural hosts of the Orthoebolavirus. The virus can get into the human population when people have close contact with the blood, secretions, organs or other bodily fluids of infected animals such as fruit bats, chimpanzees, gorillas, monkeys, forest antelope or porcupines found ill or dead or in the rainforest.
+- People can get infected with the virus from another person by direct contact (through broken skin or mucous membranes) with:
+- the blood or body fluids of a person who is sick with or has died from Ebola disease; and
+- objects or surfaces that have been contaminated with body fluids (like blood, feces, vomit) from a person sick with the disease or who has died from the disease.
+- People cannot transmit the disease before they have symptoms, and they remain infectious as long as their blood contains the virus.
+- Health and care workers have frequently been infected while treating patients with Ebola disease. This occurs through close contact with patients when infection control precautions are not strictly practiced.
+- Burial ceremonies that involve direct contact with the body of a person who has died can also contribute to the transmission of Ebola disease.
+
+--- PREVENTION ---
+- Community engagement is key to successfully controlling any outbreak. Outbreak control relies on using a range of interventions, such as clinical care, surveillance and contact tracing, laboratory services, infection prevention and control in health facilities, safe and dignified burials, vaccination (only for Ebola virus disease) and social mobilization.
+- Raising awareness of risk factors and protective measures that individuals can take is an effective way to reduce human transmission. Risk reduction messaging should focus on several factors:
+- Reduce the risk of wildlife-to-human transmission from contact with infected fruit bats or monkeys/apes and the consumption of their raw meat.
+- Reduce the risk of human-to-human transmission arising from direct or close contact with infected people, particularly with their body fluids. Close physical contact with Ebola patients should be avoided. Patients should be isolated in a designated treatment center for early care and to avoid transmission at home.
+- Communities should be well informed, both about the disease itself and how to control the outbreak. This is done best when they are involved in the response and there is open discussion.
+- Outbreak containment measures include safe and dignified burial of the deceased , identifying people who may have been in contact with someone infected with Ebola disease and monitoring their health for 21 days, separating the healthy from the sick to prevent further spread and providing care to confirmed patients. Maintaining good hygiene and a clean environment are also important.
+- Health-care workers should always take standard precautions when caring for patients, regardless of their presumed diagnosis. These include basic hand hygiene, respiratory hygiene, use of personal protective equipment (to block splashes or other contact with infected materials), safe injection practices and safe and dignified burial practices.
+- Health-care workers caring for patients with suspected or confirmed Ebola disease should apply extra infection control measures to prevent contact with the patients’ blood and body fluids and contaminated surfaces or materials such as clothing and bedding. Infection prevention and control guideline for Ebola and Marburg diseases .
+
+--- ENVIRONMENTAL CONTROL ---
+- Community engagement is key to successfully controlling any outbreak. Outbreak control relies on using a range of interventions, such as clinical care, surveillance and contact tracing, laboratory services, infection prevention and control in health facilities, safe and dignified burials, vaccination (only for Ebola virus disease) and social mobilization.
+- Raising awareness of risk factors and protective measures that individuals can take is an effective way to reduce human transmission. Risk reduction messaging should focus on several factors:
+- Reduce the risk of wildlife-to-human transmission from contact with infected fruit bats or monkeys/apes and the consumption of their raw meat.
+- Reduce the risk of human-to-human transmission arising from direct or close contact with infected people, particularly with their body fluids. Close physical contact with Ebola patients should be avoided. Patients should be isolated in a designated treatment center for early care and to avoid transmission at home.
+- Communities should be well informed, both about the disease itself and how to control the outbreak. This is done best when they are involved in the response and there is open discussion.
+- Outbreak containment measures include safe and dignified burial of the deceased , identifying people who may have been in contact with someone infected with Ebola disease and monitoring their health for 21 days, separating the healthy from the sick to prevent further spread and providing care to confirmed patients. Maintaining good hygiene and a clean environment are also important.
+
+--- VACCINATION ---
+- For Ebola virus disease:
+- Two vaccines are approved: Ervebo (Merck & Co.) and Zabdeno and Mvabea (Janssen Pharmaceutica). Ervebo vaccine is recommended as part of outbreak response, see SAGE recommendations of July 2024.
+- In case of a confirmed Ebola virus disease outbreak, Ervebo vaccines can be accessed through the International Coordinating Group on vaccine provision.
+- For preventive vaccination of health-care and frontline workers, request of Ervebo vaccines can be made through Gavi Preventive Ebola vaccination .
+- For other Ebola diseases, such as SVD:
+
+--- DIAGNOSIS ---
+- It can be difficult to clinically distinguish Ebola disease from other infectious diseases such as malaria, typhoid fever, shigellosis, meningitis and other viral haemorrhagic fevers because symptoms at early stage of the disease are similar.
+- Confirmation that the person has an Orthoebolavirus infection is made using the following diagnostic methods:
+- reverse transcriptase polymerase chain reaction (RT-PCR) assay
+- antibody-capture enzyme-linked immunosorbent assay (ELISA)
+- antigen-capture detection tests
+- virus isolation by cell culture.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Over the years, WHO and partners have developed guidance and training that outline how to provide the best possible care for patients and increase their chance of survival, whether or not specific treatments are being used. Called optimized supportive care, this covers the relevant tests to administer, how to manage pain, nutrition and co-infections (such as malaria), and other approaches that put the patient on the best path to recovery.
+- For Ebola virus disease, WHO made strong recommendations for treatment with mAb114 (ansuvimab TM ) or REGN-EB3 (Inmazeb TM ) that are both monoclonal antibodies. For other Ebola diseases, such as SVD or BVD, there are no approved therapeutics, but candidate products are under development and a CORE protocol for clinical trials is available.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

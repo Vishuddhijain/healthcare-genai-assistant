@@ -1,0 +1,63 @@
+TOPIC: Asbestos
+CATEGORY: Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/asbestos
+LAST UPDATED: 27 September 2024
+
+--- OVERVIEW ---
+Asbestos is a group of mineral fibres with widespread current and historical commercial uses, but which can cause deaths and serious ill-health in workers and other people who are exposed to these fibres (more than 200 000 deaths globally every year, along with a substantial burden of ill health).
+
+All forms of asbestos have been assessed by WHO as causing several types of cancer, and asbestos also causes chronic respiratory diseases. Because of its use in building materials, anyone engaging in construction, maintenance and demolition of buildings where asbestos has been used is potentially at risk, even many years or decades after the asbestos was put in place.
+
+Asbestos-related diseases can be prevented, and the most efficient way to prevent them is to stop the use of all forms of asbestos to prevent exposure, as more than 50 WHO Member States have already done through legal measures, and to use low hazard materials instead. Preventing asbestos exposure also means protecting workers during maintenance work where asbestos is already in place, and during asbestos removal.
+
+--- KEY FACTS ---
+- All forms of asbestos, including chrysotile, are carcinogenic to humans.
+- Systematic review evidence indicates that a substantial proportion of manual workers in the construction industry globally are exposed to asbestos.
+- Globally, more than 200 000 deaths are estimated to be caused by occupational exposure to asbestos – more than 70% of all deaths from work-related cancers.
+- The use of asbestos has been prohibited in more than 50 WHO Member States.
+
+--- TYPES ---
+- All forms of asbestos, including chrysotile, are carcinogenic to humans.
+- All forms of asbestos have been assessed by WHO as causing several types of cancer, and asbestos also causes chronic respiratory diseases. Because of its use in building materials, anyone engaging in construction, maintenance and demolition of buildings where asbestos has been used is potentially at risk, even many years or decades after the asbestos was put in place.
+- Asbestos-related diseases can be prevented, and the most efficient way to prevent them is to stop the use of all forms of asbestos to prevent exposure, as more than 50 WHO Member States have already done through legal measures, and to use low hazard materials instead. Preventing asbestos exposure also means protecting workers during maintenance work where asbestos is already in place, and during asbestos removal.
+- Asbestos is a group of naturally occurring mineral fibres. It has widespread current or historical commercial uses because of its material properties (strong, heat resistant). There are six main forms of asbestos, and the main form in current use is chrysotile (white asbestos).
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Globally, more than 200 000 deaths are estimated to be caused by occupational exposure to asbestos – more than 70% of all deaths from work-related cancers.
+- Asbestos is a group of mineral fibres with widespread current and historical commercial uses, but which can cause deaths and serious ill-health in workers and other people who are exposed to these fibres (more than 200 000 deaths globally every year, along with a substantial burden of ill health).
+- Due to the widespread uses of asbestos, and therefore high numbers of people potentially exposed to this material, asbestos has been estimated to cause deaths and ill health in large numbers of people every year.
+
+--- RISK FACTORS ---
+- A systematic review from the WHO/ILO Joint Estimates reported that studies to date suggest that a substantial proportion of manual workers in the construction industry globally are exposed to asbestos (1) , however the available evidence was judged to be of “low quality of evidence” and further studies are needed on this. There is also exposure during the mining and processing of asbestos, and in the production and use of asbestos-containing products including brake shoes, brake pads and clutches for vehicles, and in particular building materials such as roof tiles made with asbestos cement. Anyone trimming or fitting asbestos-containing...
+- Exposure to asbestos fibres also occurs where asbestos-containing products have become degraded, such as during building maintenance and demolition and the disposal of building waste. Damage to buildings because of natural disasters is a particular concern if asbestos-containing building materials have been used. Anyone engaging in construction, maintenance and demolition of buildings where asbestos has been used is potentially at risk, even many years or decades after the asbestos was put in place.
+
+--- PREVENTION ---
+- Asbestos-related diseases can be prevented, and the most efficient way to prevent them is to stop the use of all forms of asbestos to prevent exposure. More than 50 WHO Member States have legislated to prohibit the use of asbestos. Decisions to take legislative action have considered a range of costs and benefits, including the costs of providing healthcare and the loss of workforce productivity, in addition to conventional economic and trade considerations. Preventing asbestos exposure also means protecting workers during maintenance work where asbestos is in place, and during asbestos removal.
+
+--- ENVIRONMENTAL CONTROL ---
+- Asbestos-related diseases can be prevented, and the most efficient way to prevent them is to stop the use of all forms of asbestos to prevent exposure. More than 50 WHO Member States have legislated to prohibit the use of asbestos. Decisions to take legislative action have considered a range of costs and benefits, including the costs of providing healthcare and the loss of workforce productivity, in addition to conventional economic and trade considerations. Preventing asbestos exposure also means protecting workers during maintenance work where asbestos is in place, and during asbestos removal.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

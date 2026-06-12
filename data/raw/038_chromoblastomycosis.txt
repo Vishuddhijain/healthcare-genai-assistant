@@ -1,0 +1,69 @@
+TOPIC: Chromoblastomycosis
+CATEGORY: Infectious Disease Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/chromoblastomycosis
+LAST UPDATED: 15 November 2023
+
+--- OVERVIEW ---
+Chromoblastomycosis is a sporadically occurring infection seen in tropical and subtropical climates caused by a number of different pigmented fungi, the most common of which are Fonsecaea pedrosoi , Fonsecaea monophora and Cladophialophora carrionii . Other fungi can also cause chromoblastomycosis.
+
+Chromoblastomycosis can cause disability due to limb enlargement, which may lead to inability to work and considerable social stigma. Rarely, the fungi that cause chromoblastomycosis can infect other organs, such as the brain, or lead to skin cancer.
+
+Chromoblastomycosis affects normal healthy people and is mainly seen in adults. Agricultural workers are the most common occupational group to be infected.
+
+--- KEY FACTS ---
+- Chromoblastomycosis is an infection under the skin caused by fungi.
+- It occurs sporadically in tropical and subtropical climates, and its global incidence is unknown.
+- The infection can be disfiguring, causing wart-like lesions of the skin which spread slowly to adjacent areas. It causes disfigurement and disability, and in rare cases skin cancer.
+- Chromoblastomycosis is diagnosed with laboratory tools such as microscopy and culture. More accurate molecular diagnostic methods are in development.
+- Safe and effective antifungal medicines are available for treatment.
+
+--- TYPES ---
+- The earliest lesions of chromoblastomycosis are small, raised lumps or nodules on the skin surface with no specific visible diagnostic features. Therefore, diagnosis depends on demonstrating the characteristic thick-walled, single or multicellular clusters of pigmented fungal cells, known as muriform or sclerotic bodies, either in scrapings from lesions or in histopathology of biopsy material.
+
+--- SYMPTOMS ---
+- Chromoblastomycosis presents with wart-like lesions on exposed areas of the skin such as the legs or forearms. These can exceed 10 centimetres in diameter.
+- Patches of skin may also appear flattened (plaque-like) and show central scarring or atrophy, but they are not itchy or painful. Pain and itching can appear in moderate or severe disease. Small dark spots can be seen on the surface of lesions and represent clusters of the pigmented fungal cells – an important diagnostic clue.
+- Large lesions cause severe limb swelling and discomfort, limiting movement. In longstanding cases, secondary bacterial infections are common and the smell from affected limbs may be unpleasant, which may also lead to social exclusion. There is a risk of development of squamous cell carcinoma of the skin in longstanding untreated lesions.
+- Although the infection usually remains in one body region, local spread through the lymphatics, and very rarely blood stream dissemination to the central nervous system, can occur.
+
+--- WARNING SIGNS ---
+- Patches of skin may also appear flattened (plaque-like) and show central scarring or atrophy, but they are not itchy or painful. Pain and itching can appear in moderate or severe disease. Small dark spots can be seen on the surface of lesions and represent clusters of the pigmented fungal cells – an important diagnostic clue.
+- Large lesions cause severe limb swelling and discomfort, limiting movement. In longstanding cases, secondary bacterial infections are common and the smell from affected limbs may be unpleasant, which may also lead to social exclusion. There is a risk of development of squamous cell carcinoma of the skin in longstanding untreated lesions.
+
+--- RISK FACTORS ---
+- This infection occurs when fungi from the natural environment invade deeper parts of an individual’s skin after their skin is damaged by a superficial abrasion or a penetrating injury. An infected person cannot directly transmit the infection to other people. Intermediate vectors, such as mosquitoes, do not transmit chromoblastomycosis.
+
+--- PREVENTION ---
+- Safe and effective antifungal medicines are available for treatment.
+- Other methods of treatment include local application of heat, cryotherapy and photodynamic therapy . Surgical reductions have been used but should be given following initial chemotherapy to avoid local recurrence.
+
+--- ENVIRONMENTAL CONTROL ---
+- This infection occurs when fungi from the natural environment invade deeper parts of an individual’s skin after their skin is damaged by a superficial abrasion or a penetrating injury. An infected person cannot directly transmit the infection to other people. Intermediate vectors, such as mosquitoes, do not transmit chromoblastomycosis.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Chromoblastomycosis is diagnosed with laboratory tools such as microscopy and culture. More accurate molecular diagnostic methods are in development.
+- Patches of skin may also appear flattened (plaque-like) and show central scarring or atrophy, but they are not itchy or painful. Pain and itching can appear in moderate or severe disease. Small dark spots can be seen on the surface of lesions and represent clusters of the pigmented fungal cells – an important diagnostic clue.
+- The earliest lesions of chromoblastomycosis are small, raised lumps or nodules on the skin surface with no specific visible diagnostic features. Therefore, diagnosis depends on demonstrating the characteristic thick-walled, single or multicellular clusters of pigmented fungal cells, known as muriform or sclerotic bodies, either in scrapings from lesions or in histopathology of biopsy material.
+- Culture or molecular diagnosis is helpful in confirming the diagnosis but decisions on treatment can be made without identification of the organism. All laboratory diagnostic methods require specialized skills and training, and there is currently insufficient diagnostic expertise in many endemic areas.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Chromoblastomycosis can be treated with oral itraconazole or terbinafine. Voriconazole, intravenous amphotericin B and oral flucytosine have also been used.
+- Other methods of treatment include local application of heat, cryotherapy and photodynamic therapy . Surgical reductions have been used but should be given following initial chemotherapy to avoid local recurrence.
+- Early treatment is key, providing the best results after about 3–6 months. Patients with large or extensive chromoblastomycosis and limb swelling often require over a year of treatment and there may be residual lymphoedema in such cases.
+- There is no evidence that different fungal species respond differently to the antifungal medicines recommended for treatment.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

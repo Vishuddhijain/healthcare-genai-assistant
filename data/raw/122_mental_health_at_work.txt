@@ -1,0 +1,109 @@
+TOPIC: Mental Health at Work
+CATEGORY: Mental Health / Occupational Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work | NIMHANS - nimhans.ac.in
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Mental health at work is increasingly recognised as essential to overall workplace productivity and wellbeing. WHO estimates that 12 billion working days are lost annually to depression and anxiety alone, costing the global economy approximately US$1 trillion in lost productivity. In India, rising workplace stress, long hours, job insecurity, and the IT/BPO sector's demanding schedules contribute significantly to employee mental health concerns. Poor working conditions — including discrimination, excessive workload, job insecurity, and poor management practices — are significant risk factors for mental health conditions.
+
+--- TYPES OF WORKPLACE MENTAL HEALTH RISKS ---
+1. Work-related stress: Excessive workload, unclear job roles, lack of control over work
+2. Burnout: Chronic workplace stress leading to exhaustion, cynicism, reduced professional efficacy — recognised by WHO as an occupational phenomenon
+3. Workplace bullying and harassment: Including sexual harassment — significant mental health impact
+4. Job insecurity: Contract work, layoffs, economic uncertainty
+5. Poor work-life balance: Excessive overtime, "always-on" culture (especially in IT/BPO)
+6. Discrimination: Based on gender, caste, religion, disability, or mental health status itself
+
+--- SYMPTOMS (Recognising Workplace Mental Health Strain) ---
+- Persistent fatigue not relieved by rest
+- Cynicism, detachment from work ("checked out")
+- Reduced productivity and concentration
+- Increased absenteeism or presenteeism (present but not productive)
+- Irritability with colleagues
+- Physical symptoms: Headaches, sleep disturbances, digestive issues
+- Increased use of alcohol/substances to cope
+- Withdrawal from work social interactions
+
+--- WARNING SIGNS ---
+- Expressions of hopelessness or worthlessness related to work
+- Sudden significant decline in performance with behavioural changes
+- Talk of self-harm or suicide in relation to work pressure — treat as urgent, see Suicide topic
+- Signs of substance misuse to cope with work stress
+
+--- RISK FACTORS ---
+- Excessive workloads and time pressure
+- Low job control/autonomy
+- Job insecurity and precarious contracts
+- Poor organisational culture: bullying, harassment, discrimination
+- Inadequate support from supervisors/colleagues
+- Long working hours, night shifts (common in BPO/IT sector in India)
+- Lack of role clarity
+- Limited career development opportunities
+- Conflicting demands and unclear lines of responsibility
+
+--- PREVENTION (Organisational and Individual) ---
+Organisational measures:
+- Manager training to recognise and respond to mental health concerns
+- Reasonable workload management and realistic deadlines
+- Clear job roles and communication
+- Anti-bullying and anti-harassment policies (POSH Act compliance in India)
+- Flexible working arrangements where feasible
+- Employee Assistance Programmes (EAPs) — confidential counselling support
+- Return-to-work support for employees recovering from mental health conditions
+
+Individual strategies:
+- Setting boundaries between work and personal time
+- Regular breaks during work
+- Physical activity and adequate sleep
+- Seeking support from colleagues, supervisors, or counselling services
+- Mindfulness and stress-reduction techniques
+
+--- ENVIRONMENTAL CONTROL ---
+- Ergonomic and comfortable physical work environment (reduces physical-mental health interplay)
+- Quiet spaces for breaks/decompression
+- Reasonable lighting, noise control in open-plan offices
+
+--- VACCINATION ---
+- Not applicable
+
+--- DIAGNOSIS ---
+- Self-assessment tools (e.g. workplace wellbeing surveys, burnout inventories)
+- Clinical evaluation by mental health professional for diagnosable conditions (depression, anxiety) — see Mental Disorders topic
+
+--- TREATMENT (Awareness Only) ---
+- Employee Assistance Programmes (where available): Confidential short-term counselling
+- Referral to mental health professionals for clinical conditions
+- Workplace accommodations: Adjusted workload, flexible hours during recovery
+- Reasonable accommodation under Rights of Persons with Disabilities Act 2016 (India) for employees with mental health conditions
+
+--- WHEN TO SEEK HELP ---
+- Persistent work-related stress affecting health, relationships, or sleep
+- Symptoms of depression or anxiety lasting more than 2 weeks
+- Experiencing workplace bullying or harassment — report through appropriate channels (HR, Internal Complaints Committee under POSH Act)
+- Any thoughts of self-harm related to work stress — seek immediate help (Tele-MANAS: 14416)
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Mental Healthcare Act 2017: Mandates parity for mental health insurance coverage
+- POSH Act 2013: Mandatory Internal Complaints Committees for workplace sexual harassment
+- Rights of Persons with Disabilities Act 2016: Includes mental illness; mandates reasonable accommodation
+- IT/BPO sector: High prevalence of burnout due to night shifts, targets, and "always-on" culture — sector-specific wellness initiatives increasingly being adopted
+- Tele-MANAS (14416 / 1800-891-4416): Free 24x7 mental health support, applicable to workplace stress as well
+- NIMHANS conducts workplace mental health research and training programmes
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Workplace mental health concerns are valid and treatable. If work stress is affecting your health or you're experiencing harassment, support is available through Tele-MANAS (14416), Employee Assistance Programmes, or qualified mental health professionals.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.

@@ -1,0 +1,71 @@
+TOPIC: Youth violence
+CATEGORY: Emergency Awareness / Violence Prevention
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/youth-violence
+LAST UPDATED: 8 May 2026
+
+--- OVERVIEW ---
+Youth violence refers to violence that occurs among individuals aged 10–29 years who are unrelated and who may or may not know each other. It generally takes place outside of the home. It includes a range of acts including bullying, technology-facilitated violence, physical fighting, sexual and physical assault, gang-related violence and homicide. Youth violence results in deaths, injuries, disability and long-term health consequences. These include mental health problems and behaviours that include health-risks, which can lead to chronic diseases. It is associated with higher school-dropout rates, and negative impacts on cognitive development and opportunities to contribute to communities.
+
+--- KEY FACTS ---
+- Worldwide around 193 000 homicides occur among youth aged 15–29 years each year, which is 40% of the total number of homicides globally.
+- Homicide is among the leading cause of death in people aged 15–29 years, and most homicides involve male victims.
+- For each young person killed, many more sustain injuries requiring hospital treatment.
+- When it is not fatal, youth violence has a serious, often lifelong, impact on a person's physical, psychological and social functioning.
+
+--- TYPES ---
+- WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Homicide is among the leading cause of death in people aged 15–29 years, and most homicides involve male victims.
+- Worldwide an estimated 193 000 homicides occur among young people between 15–29 years of age each year, making it one of the leading causes of death for people in this age group. Youth homicide rates vary dramatically between and within countries. Between 2000 and 2019, rates of youth homicide decreased in most countries, although the decrease has been greater in high-income countries than in low- and middle-income countries. Most youth homicide victims are males, and most perpetrators are males.
+
+--- RISK FACTORS ---
+- Worldwide an estimated 193 000 homicides occur among young people between 15–29 years of age each year, making it one of the leading causes of death for people in this age group. Youth homicide rates vary dramatically between and within countries. Between 2000 and 2019, rates of youth homicide decreased in most countries, although the decrease has been greater in high-income countries than in low- and middle-income countries. Most youth homicide victims are males, and most perpetrators are males.
+- For every young person killed by violence, more sustain injuries that require hospital treatment.
+- Sexual violence also affects a significant proportion of youth. For example, 1 in 5 girls and 1 in 7 boys report sexual abuse.
+- Globally 25% of all children and adolescents are exposed to bullying.
+- Youth homicide and non-fatal violence not only contribute greatly to the global burden of premature death, injury and disability, but also have a serious, often lifelong, impact on a person's psychological and social functioning. They can lead to emotional distress, loneliness, anxiety, depression, self-harming behaviours, suicidal ideation, and suicidal attempts. This can affect victims' families, friends and communities. Youth violence increases the costs of health, welfare and criminal justice services; reduces productivity; and decreases the value of property.
+- Certain characteristics increase the likelihood that someone will perpetrate violence.
+- Risk factors for individuals:
+- attention deficit, hyperactivity, conduct disorder, or other behavioural disorders
+
+--- PREVENTION ---
+- Promising prevention programmes include:
+- life skills and social development programmes designed to help children and adolescents manage anger, resolve conflict, and develop the necessary social skills to solve problems;
+- whole school approaches to violence prevention in educational facilities;
+- programmes that support parents and teach positive parenting skills;
+- preschool programmes that provide children with academic and social skills at an early age;
+- therapeutic approaches for youths at high risk of being involved in violence;
+- reducing access to alcohol;
+- interventions to reduce the harmful use of drugs;
+
+--- ENVIRONMENTAL CONTROL ---
+- exposure to violence in the family.
+- interventions to reduce concentrated poverty and to upgrade urban environments.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- For each young person killed, many more sustain injuries requiring hospital treatment.
+- For every young person killed by violence, more sustain injuries that require hospital treatment.
+- Critical to reducing the immediate consequences of youth violence are improvements in pre-hospital and emergency care, including access to care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

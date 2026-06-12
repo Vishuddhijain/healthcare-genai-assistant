@@ -1,0 +1,83 @@
+TOPIC: Yaws
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/yaws
+LAST UPDATED: 12 January 2023
+
+--- OVERVIEW ---
+Yaws forms part of a group of chronic bacterial infections commonly known as the endemic treponematoses. These diseases are caused by spiral bacteria of the genus Treponema , which also includes endemic syphilis (bejel) and pinta. Yaws is the most common of these 3 infections.
+
+The organism that causes yaws, Treponema pallidum subspecies pertenue , is closely related genetically to T. pallidum subspecies pallidum , which causes syphilis, bejel and pinta.
+
+The disease is found primarily in poor communities in warm, humid and tropical forest areas of Africa, Asia, Latin America and the Pacific. Most affected populations live in rural areas far from health services. Poverty, low socio-economic conditions and poor personal hygiene facilitate the spread of yaws.
+
+--- KEY FACTS ---
+- Yaws is a chronic disfiguring and debilitating childhood infectious disease.
+- The disease affects skin, bone and cartilage. Humans are currently believed to be the only reservoir. Transmission is from person to person.
+- Yaws is cured with a single oral dose of an inexpensive antibiotic called azithromycin.
+- There are 15 countries currently known to be endemic for yaws.
+
+--- TYPES ---
+- Yaws is a chronic disfiguring and debilitating childhood infectious disease.
+- Yaws forms part of a group of chronic bacterial infections commonly known as the endemic treponematoses. These diseases are caused by spiral bacteria of the genus Treponema , which also includes endemic syphilis (bejel) and pinta. Yaws is the most common of these 3 infections.
+- About 75–80% of people affected by yaws are children under 15 years of age. Peak incidence occurs in children aged 6–10 years, and males and females are equally affected. Transmission is through person-to-person contact of minor injuries. The initial lesion of yaws is teemed with the bacteria. Most lesions occur on the limbs. The incubation period is 9–90 days, with an average of 21 days. Without treatment, infection can lead to chronic disfigurement and disability.
+- Yaws initially presents as a papilloma (a wart-like tumour) teemed with bacteria, which makes clinical diagnosis straightforward. Without treatment, the papilloma will ulcerate. The diagnosis of the ulcerative form is more challenging and requires serological confirmation. Papilloma and ulcers are very infectious and in the absence of treatment can quickly spread to others. Other clinical forms of yaws exist but they are not as infectious.
+
+--- SYMPTOMS ---
+- Yaws initially presents as a papilloma (a wart-like tumour) teemed with bacteria, which makes clinical diagnosis straightforward. Without treatment, the papilloma will ulcerate. The diagnosis of the ulcerative form is more challenging and requires serological confirmation. Papilloma and ulcers are very infectious and in the absence of treatment can quickly spread to others. Other clinical forms of yaws exist but they are not as infectious.
+- Secondary yaws occurs weeks to months after the primary infection and typically presents with multiple raised yellow lesions or pain and swelling of long bones and fingers (dactylitis).
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- About 75–80% of people affected by yaws are children under 15 years of age. Peak incidence occurs in children aged 6–10 years, and males and females are equally affected. Transmission is through person-to-person contact of minor injuries. The initial lesion of yaws is teemed with the bacteria. Most lesions occur on the limbs. The incubation period is 9–90 days, with an average of 21 days. Without treatment, infection can lead to chronic disfigurement and disability.
+- WHO classifies countries into three epidemiological groups.
+- Group A: countries with currently known endemic status
+- Group B: previously endemic countries, with unknown current status
+- Group C: are countries with no history of yaws.
+- In 2013, 13 countries were known to be endemic with yaws. Since then, and through intense surveillance activities, 2 additional countries reported confirmed cases (Liberia and Philippines) (1) and 3 countries reported suspected yaws cases (Colombia, Ecuador and Haiti).
+- In 2021, a single case of yaws was reported in a 5-year-old child from Malaysia, one of the countries listed by WHO as previously endemic but current status unknown ( 2 ). Further investigations are warranted.
+- Out of the countries and territories known to have been endemic in the 1950s, at least 76 fall into group B and need to be assessed to determine if the disease is still present. This can be done through integrated surveillance with other diseases, especially skin-related neglected tropical diseases.
+
+--- PREVENTION ---
+- There is no vaccine for yaws. Health education and improvement in personal hygiene are essential components to reduce transmission. Contacts of patients with yaws should receive empiric treatment.
+- The eradication approach consists of mass treatment (also called total community treatment, TCT) in which oral azithromycin (30 mg/kg, maximum 2 g) is administered to the entire population (minimum 90% coverage) in areas known to harbour yaws.
+- Three criteria for eradication of yaws are:
+- absence of new serologically confirmed indigenous cases for 3 consecutive years;
+- absence of any case proven by PCR; and
+- absence of evidence of transmission for 3 continuous years measured with sero-surveys among children aged 1–5 years.
+
+--- ENVIRONMENTAL CONTROL ---
+- There is no vaccine for yaws. Health education and improvement in personal hygiene are essential components to reduce transmission. Contacts of patients with yaws should receive empiric treatment.
+- The eradication approach consists of mass treatment (also called total community treatment, TCT) in which oral azithromycin (30 mg/kg, maximum 2 g) is administered to the entire population (minimum 90% coverage) in areas known to harbour yaws.
+- Three criteria for eradication of yaws are:
+- absence of new serologically confirmed indigenous cases for 3 consecutive years;
+- absence of any case proven by PCR; and
+- absence of evidence of transmission for 3 continuous years measured with sero-surveys among children aged 1–5 years.
+
+--- VACCINATION ---
+- There is no vaccine for yaws. Health education and improvement in personal hygiene are essential components to reduce transmission. Contacts of patients with yaws should receive empiric treatment.
+
+--- DIAGNOSIS ---
+- Traditionally, laboratory-based serological tests such as Treponema pallidum particle agglutination (TPPA) and rapid plasma reagin (RPR) are widely used to diagnose treponemal infections (for example, syphilis and yaws). These tests cannot distinguish yaws from syphilis, however, and the interpretation of results from these tests in adults who live in yaws endemic areas therefore needs careful clinical assessment. About 40% of ulcers clinically misidentified as yaws are caused by the unrelated H. ducreyi bacterium.
+- Treponemal rapid tests are widely available and cheap; however, they cannot distinguish between past and current infection and therefore have limited use in monitoring interruption of transmission. Dual Path Platform Syphilis Screen and Confirm assay (Chembio Diagnostics, USA) can detect both past and present infection. Because of the high cost of the DPP test, initial screening of suspected yaws cases can be done by the treponemal tests and positives confirmed by the DPP. However, countries may choose to use only DPP if affordability is not a problem.
+- Polymerase chain reaction (PCR) technology is used to definitively confirm yaws by detecting the DNA in the skin lesions. It can also be used to monitor azithromycin resistance. This will be useful after mass treatment and post-elimination surveillance.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Either of 2 antibiotics – azithromycin or benzathine penicillin – may be used to treat yaws:
+- Azithromycin (single oral dose) at 30 mg/kg (maximum 2 g) is the preferred treatment.
+- Benzathine penicillin (single intramuscular dose) at 0.6 million units (children aged under 10 years) and 1.2 million units (people aged over 10 years) can be used for patients with suspected clinical treatment failure after azithromycin, or patients who cannot be treated with azithromycin.
+- Patients should be reexamined 4 weeks after antibiotic treatment. Complete clinical healing will be observed in over 95% of cases. Any individual with presumed treatment failure requires macrolide resistance testing and treatment with benzathine penicillin.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

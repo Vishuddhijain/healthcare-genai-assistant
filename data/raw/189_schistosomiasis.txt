@@ -1,0 +1,85 @@
+TOPIC: Schistosomiasis
+CATEGORY: Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/schistosomiasis
+LAST UPDATED: 23 February 2026
+
+--- OVERVIEW ---
+Schistosomiasis is an acute and chronic parasitic disease caused by blood flukes (trematode worms) of the genus Schistosoma . Estimates show that at least 253.7 million people required preventive treatment in 2024. Preventive treatment, which should be repeated over a number of years, will reduce and prevent morbidity. Schistosomiasis transmission has been reported from 79 countries. Transmission of Schistosoma haematobium has been confirmed in Cabo Verde, a country which was not previously considered endemic. However, preventive chemotherapy for schistosomiasis, where people and communities are targeted for large-scale treatment, is only required in 50 endemic countries with moderate-to-high transmission.
+
+--- KEY FACTS ---
+- Schistosomiasis is an acute and chronic disease caused by parasitic worms.
+- People are infected during routine agricultural, domestic, occupational and recreational activities which expose them to infested water.
+- Lack of hygiene and certain play habits of school-aged children such as swimming or fishing in infested water make them especially vulnerable to infection.
+- Estimates show that at least 253.7 million people required preventive treatment for schistosomiasis in 2024, out of which more than 100.5 million people were reported to have been treated.
+- Schistosomiasis control focuses on reducing disease through periodic, large-scale population treatment with praziquantel; a more comprehensive approach including ensuing access to safe drinking water, adequate sanitation, behaviour change interventions, veterinary public health and snail control can also reduce transmission.
+
+--- TYPES ---
+- Schistosomiasis is an acute and chronic disease caused by parasitic worms.
+- People become infected when larval forms of the parasite – released by freshwater snails – penetrate the skin during contact with infested water.
+- There are 2 major forms of schistosomiasis – intestinal and urogenital – caused by 5 main species of blood fluke.
+- With the rise in eco-tourism and travel to remote areas, increasing numbers of tourists are contracting schistosomiasis. At times, tourists present severe acute infection and unusual problems including paralysis.
+
+--- SYMPTOMS ---
+- Symptoms of schistosomiasis are caused mainly by the body’s reaction to the worms’ eggs.
+- Intestinal schistosomiasis can result in abdominal pain, diarrhoea, and blood in the stool. Liver enlargement is common in advanced cases and is frequently associated with an accumulation of fluid in the peritoneal cavity and hypertension of the abdominal blood vessels. In such cases there may also be enlargement of the spleen.
+- The classic sign of urogenital schistosomiasis is haematuria (blood in urine). Kidney damage and fibrosis of the bladder and ureter are sometimes diagnosed in advanced cases. Bladder cancer is another possible complication in the later stages. In women, urogenital schistosomiasis may present with genital lesions, vaginal bleeding, pain during sexual intercourse and nodules in the vulva – described as female genital schistosomiasis (FGS). In men, male genital schistosomiasis (MGS) symptoms include ejaculatory pain and haematospermia, with pathology of the seminal vesicles, prostate and other organs. This disease may also have other...
+- The economic and health effects of schistosomiasis are considerable and the disease disables more than it kills. In children, schistosomiasis can cause anaemia, stunting and a reduced ability to learn, although the effects are usually reversible with treatment. Chronic schistosomiasis may affect people’s ability to work and in some cases can result in death. The number of deaths due to schistosomiasis is difficult to estimate because of hidden pathologies such as liver and kidney failure, bladder cancer and ectopic pregnancies due to female genital schistosomiasis.
+- Deaths due to schistosomiasis are currently estimated at 14 353 globally per year. However, these figures are likely underestimated and need to be reassessed.
+
+--- WARNING SIGNS ---
+- With the rise in eco-tourism and travel to remote areas, increasing numbers of tourists are contracting schistosomiasis. At times, tourists present severe acute infection and unusual problems including paralysis.
+- Deaths due to schistosomiasis are currently estimated at 14 353 globally per year. However, these figures are likely underestimated and need to be reassessed.
+- Praziquantel is the recommended treatment against all forms of schistosomiasis. It is effective, safe and low-cost. Even though re-infection may occur after treatment, the risk of developing severe disease is diminished and even reversed when treatment is initiated and repeated in childhood.
+
+--- RISK FACTORS ---
+- People become infected when larval forms of the parasite – released by freshwater snails – penetrate the skin during contact with infested water.
+- Transmission occurs when people suffering from schistosomiasis contaminate freshwater sources with faeces or urine containing parasite eggs, which hatch in water.
+- In the body, the larvae develop into adult schistosomes. Adult worms live in the blood vessels where the females release eggs. Some of the eggs are passed out of the body in the faeces or urine to continue the parasite’s lifecycle. Others become trapped in body tissues, causing immune reactions and progressive damage to organs.
+
+--- PREVENTION ---
+- The control of schistosomiasis is based on large-scale treatment of at-risk population groups, access to safe water, improved sanitation, hygiene education, behaviour change and the One Health approach to control snail intermediate hosts and zoonotic transmission.
+- Hybrids of human and animal schistosomes ( S. haematobium – S. bovis and S. haematobium – S. mattheei ) have been reported in humans in many sub-Saharan African countries. Some of these hybrids have the potential to transmit schistosomiasis, as shown by the outbreak in Corsica, France, in 2013.
+- The Neglected tropical diseases road map 2021–2030 , adopted by the World Health Assembly, set as global goals the elimination of schistosomiasis as a public health problem in all endemic countries and the interruption of its transmission (absence of infection in humans) in selected countries.
+- The WHO strategy for schistosomiasis control focuses on reducing disease through periodic, targeted treatment with praziquantel through the large-scale treatment (preventive chemotherapy) of affected populations. It involves regular treatment of all at-risk groups. In a few countries, where there is low transmission, the interruption of the transmission of the disease should be the goal.
+- Groups targeted for treatment are:
+- preschool-aged children;
+- school-aged children;
+- adults considered to be at risk in endemic areas and people with occupations involving contact with infested water, such as fishermen, farmers, irrigation workers and women whose domestic tasks bring them in contact with infested water; and
+
+--- ENVIRONMENTAL CONTROL ---
+- The control of schistosomiasis is based on large-scale treatment of at-risk population groups, access to safe water, improved sanitation, hygiene education, behaviour change and the One Health approach to control snail intermediate hosts and zoonotic transmission.
+- Hybrids of human and animal schistosomes ( S. haematobium – S. bovis and S. haematobium – S. mattheei ) have been reported in humans in many sub-Saharan African countries. Some of these hybrids have the potential to transmit schistosomiasis, as shown by the outbreak in Corsica, France, in 2013.
+- The Neglected tropical diseases road map 2021–2030 , adopted by the World Health Assembly, set as global goals the elimination of schistosomiasis as a public health problem in all endemic countries and the interruption of its transmission (absence of infection in humans) in selected countries.
+- The WHO strategy for schistosomiasis control focuses on reducing disease through periodic, targeted treatment with praziquantel through the large-scale treatment (preventive chemotherapy) of affected populations. It involves regular treatment of all at-risk groups. In a few countries, where there is low transmission, the interruption of the transmission of the disease should be the goal.
+- Groups targeted for treatment are:
+- preschool-aged children;
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Schistosomiasis is diagnosed through the detection of parasite eggs in stool or urine specimens. Antibodies and/or antigens detected in blood or urine samples are also indications of infection.
+- For urogenital schistosomiasis, a filtration technique using nylon, paper or polycarbonate filters is the standard diagnostic technique. Children with S. haematobium almost always have microscopic blood in their urine which can be detected by chemical reagent strips.
+- The eggs of intestinal schistosomiasis can be detected in faecal specimens through a technique using methylene blue-stained cellophane soaked in glycerin or glass slides, known as the Kato-Katz technique. In S. mansoni transmission areas, the circulating cathodic antigen (CCA) test can also be used.
+- For people living in non-endemic or low-transmission areas, serological and immunological tests may be useful in showing exposure to infection and the need for thorough examination, treatment and follow-up.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Estimates show that at least 253.7 million people required preventive treatment for schistosomiasis in 2024, out of which more than 100.5 million people were reported to have been treated.
+- Schistosomiasis control focuses on reducing disease through periodic, large-scale population treatment with praziquantel; a more comprehensive approach including ensuing access to safe drinking water, adequate sanitation, behaviour change interventions, veterinary public health and snail control can also reduce transmission.
+- Schistosomiasis is prevalent in tropical and subtropical areas, especially in poor communities without access to safe drinking water and adequate sanitation. It is estimated that at least 93.9% of those requiring treatment for schistosomiasis live in Africa.
+- For people living in non-endemic or low-transmission areas, serological and immunological tests may be useful in showing exposure to infection and the need for thorough examination, treatment and follow-up.
+- The control of schistosomiasis is based on large-scale treatment of at-risk population groups, access to safe water, improved sanitation, hygiene education, behaviour change and the One Health approach to control snail intermediate hosts and zoonotic transmission.
+- The WHO strategy for schistosomiasis control focuses on reducing disease through periodic, targeted treatment with praziquantel through the large-scale treatment (preventive chemotherapy) of affected populations. It involves regular treatment of all at-risk groups. In a few countries, where there is low transmission, the interruption of the transmission of the disease should be the goal.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

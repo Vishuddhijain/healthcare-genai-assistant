@@ -1,0 +1,141 @@
+TOPIC: Mental Health of Adolescents and Older Adults
+CATEGORY: Mental Health (Age-Specific)
+SOURCE: WHO Fact Sheets - https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health | https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults | NIMHANS - nimhans.ac.in
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Mental health needs vary significantly across the lifespan. Adolescence (10–19 years) is a critical developmental period when half of all mental disorders begin (by age 14), yet most go unrecognised and untreated. WHO estimates 1 in 7 adolescents globally experience a mental disorder. Older adults (60+) face unique mental health challenges including depression, anxiety, and dementia, often compounded by social isolation, loss of independence, bereavement, and physical health decline. In India, both age groups face significant treatment gaps due to stigma and limited specialised services.
+
+=== ADOLESCENT MENTAL HEALTH ===
+
+--- TYPES ---
+- Anxiety disorders: Most common in adolescents
+- Depression: Often underrecognised, may present as irritability rather than sadness
+- Behavioural disorders: ADHD, conduct disorder (more common in younger adolescents)
+- Eating disorders: Onset commonly in adolescence, particularly affecting girls
+- Self-harm and suicidal behaviour: Suicide is among the leading causes of death in 15–19 year olds globally
+
+--- SYMPTOMS ---
+- Persistent sadness, irritability, or mood swings beyond typical teenage variability
+- Withdrawal from friends and family
+- Decline in academic performance
+- Changes in eating or sleeping patterns
+- Excessive worry about appearance, weight, or performance
+- Risk-taking behaviours, substance use
+- Self-harm (cutting, burning) — requires urgent attention
+- Expressions of hopelessness or thoughts of death/suicide
+
+--- WARNING SIGNS (Urgent) ---
+- Talking about wanting to die or "not wanting to be here"
+- Self-harm behaviours
+- Giving away possessions, saying goodbyes
+- Sudden calmness after a period of depression (can precede suicide attempt)
+- Severe withdrawal or refusal to attend school/leave room
+
+--- RISK FACTORS ---
+- Academic pressure (significant in India's exam-focused education system)
+- Bullying (including cyberbullying)
+- Family conflict, abuse, or neglect
+- Social media use and comparison
+- Substance use
+- LGBTQ+ youth facing discrimination/stigma
+- Body image concerns
+
+--- PREVENTION ---
+- School-based mental health programmes and life skills education
+- Reducing academic pressure; promoting balanced approach to achievement
+- Parental awareness and open communication
+- Reducing stigma around seeking help
+- Limiting harmful social media exposure; promoting digital wellbeing
+- Early identification programmes in schools
+
+=== MENTAL HEALTH OF OLDER ADULTS ===
+
+--- TYPES ---
+- Depression: Often underdiagnosed in elderly — may present as physical complaints rather than sadness
+- Anxiety disorders
+- Dementia: Progressive cognitive decline (see Dementia topic)
+- Delirium: Acute confusional state, often due to underlying medical illness — distinct from dementia, often reversible
+
+--- SYMPTOMS ---
+Depression in elderly:
+- May present as fatigue, aches/pains, sleep problems rather than overt sadness
+- Loss of interest in activities
+- Social withdrawal
+- Memory complaints (can be confused with dementia — "pseudodementia")
+- Appetite changes, weight loss
+
+Anxiety: Excessive worry about health, finances, family — can be disabling
+
+--- WARNING SIGNS ---
+- Sudden onset confusion (delirium — investigate underlying medical cause urgently)
+- Expressions of hopelessness, "burden on family" — suicide risk in elderly is significant and underrecognised
+- Self-neglect (not eating, not taking medications, poor hygiene)
+- Significant behaviour change — could indicate depression, dementia onset, or abuse
+
+--- RISK FACTORS ---
+- Social isolation and loneliness (especially with adult children migrating for work)
+- Bereavement (loss of spouse, friends)
+- Chronic illness and pain
+- Loss of independence/mobility
+- Elder abuse (financial, physical, emotional — often by family members)
+- Polypharmacy (multiple medications affecting mood/cognition)
+- Sensory impairment (hearing/vision loss contributing to isolation)
+
+--- PREVENTION ---
+- Maintaining social connections: Community groups, religious gatherings, family involvement
+- Physical activity: Walking groups, yoga — benefits both physical and mental health
+- Regular health check-ups: Address chronic conditions and pain
+- Cognitive engagement: Reading, puzzles, social activities
+- Addressing sensory impairments (hearing aids, cataract surgery) — improves social engagement
+- Elder abuse prevention: Family awareness, legal protections (Maintenance and Welfare of Parents and Senior Citizens Act 2007)
+
+--- ENVIRONMENTAL CONTROL ---
+- Age-friendly community spaces (accessible parks, community centres)
+- Safe, supportive living environments for elderly (reducing fall risk also reduces fear/anxiety)
+- School environments free from bullying for adolescents
+
+--- VACCINATION ---
+- Not directly applicable to mental health; but routine adult vaccination (influenza, pneumococcal) supports overall health in elderly, indirectly supporting mental wellbeing
+
+--- DIAGNOSIS ---
+- Clinical assessment by mental health professional
+- Screening tools: PHQ-9 (depression), GAD-7 (anxiety) — adapted for age group
+- For elderly: Distinguish depression ("pseudodementia") from true dementia — cognitive testing, response to treatment
+- Rule out medical causes (thyroid, B12 deficiency, medication side effects) in both age groups
+
+--- TREATMENT (Awareness Only) ---
+- Psychotherapy: Age-appropriate CBT and counselling
+- Medication: Antidepressants/anti-anxiety medications — careful dosing in elderly due to polypharmacy and side-effect sensitivity; doctor prescribed
+- Family involvement: Crucial for both age groups — psychoeducation for parents/caregivers
+- School-based interventions for adolescents
+- Community-based programmes for elderly: Day care centres, social clubs
+
+--- WHEN TO SEEK HELP ---
+Adolescents:
+- Any mention of self-harm or suicide — immediate help via Tele-MANAS (14416)
+- Significant decline in functioning (school, relationships) lasting more than 2 weeks
+- Signs of eating disorder (rapid weight change, food restriction, purging)
+
+Older Adults:
+- Sudden confusion — seek medical evaluation urgently (rule out delirium causes)
+- Persistent low mood, withdrawal, or self-neglect
+- Suicidal expressions, especially "being a burden" statements — take seriously
+- Suspected elder abuse — contact Senior Citizen Helpline: 14567
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Tele-MANAS (14416 / 1800-891-4416): Free 24x7 helpline for all ages, multiple languages
+- Elder Line/Senior Citizen Helpline: 14567 — for elder abuse, mental health, and welfare support
+- Mental Healthcare Act 2017: Includes provisions relevant to both age groups
+- School Mental Health Programme: Increasingly integrated under various state education initiatives
+- Joint family structures provide some protective social support, but increasing nuclear family trends and migration increase isolation risk for elderly
+- NIMHANS geriatric and child & adolescent psychiatry departments provide specialised services
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Adolescent and elderly mental health concerns are often underrecognised. Any expression of self-harm or suicidal thoughts at any age requires immediate attention — Tele-MANAS (14416) provides free, confidential support. Sudden confusion in elderly requires urgent medical evaluation, not just psychiatric assessment.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.

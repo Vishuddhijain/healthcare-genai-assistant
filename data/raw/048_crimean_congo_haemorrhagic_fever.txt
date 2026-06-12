@@ -1,0 +1,90 @@
+TOPIC: Crimean-Congo haemorrhagic fever
+CATEGORY: Infectious Disease Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever
+LAST UPDATED: 20 February 2025
+
+--- OVERVIEW ---
+Crimean-Congo haemorrhagic fever (CCHF) is a widespread disease caused by a tick-borne virus ( Nairovirus ) of the Bunyaviridae family. The CCHF virus causes severe viral haemorrhagic fever outbreaks, with a case fatality rate of 10–40%.
+
+CCHF is endemic in Africa, the Balkans, the Middle East and Asian countries south of the 50th parallel north – the geographical limit of the principal tick vector.
+
+--- KEY FACTS ---
+- The Crimean-Congo haemorrhagic fever (CCHF) virus causes severe viral haemorrhagic fever outbreaks.
+- CCHF outbreaks have a case fatality rate of up to 40%.
+- The virus is primarily transmitted to people from ticks and livestock animals. Human-to-human transmission can occur resulting from close contact with the blood, secretions, organs or other bodily fluids of infected persons.
+- CCHF is endemic in Africa, the Balkans, the Middle East and Asia, in countries south of the 50th parallel north.
+- There is no vaccine available for either people or animals.
+
+--- TYPES ---
+- The hosts of the CCHF virus include a wide range of wild and domestic animals such as cattle, sheep and goats. Many birds are resistant to infection, but ostriches are susceptible and may show a high prevalence of infection in endemic areas, where they have been at the origin of human cases. For example, a former outbreak occurred at an ostrich abattoir in South Africa. There is no apparent disease in these animals.
+- Tests on patient samples present an extreme biohazard risk and should only be conducted under maximum biological containment conditions. However, if samples have been inactivated (e.g. with virucides, gamma rays, formaldehyde, heat, etc.), they can be manipulated in a basic biosafety environment.
+
+--- SYMPTOMS ---
+- The length of the incubation period depends on the mode of acquisition of the virus. Following infection by a tick bite, the incubation period is usually one to three days, with a maximum of nine days. The incubation period following contact with infected blood or tissues is usually five to six days, with a documented maximum of 13 days.
+- Onset of symptoms is sudden, with fever, myalgia, (muscle ache), dizziness, neck pain and stiffness, backache, headache, sore eyes and photophobia (sensitivity to light). There may be nausea, vomiting, diarrhoea, abdominal pain and sore throat early on, followed by sharp mood swings and confusion. After two to four days, the agitation may be replaced by sleepiness, depression and lassitude, and the abdominal pain may localize to the upper right quadrant, with detectable hepatomegaly (liver enlargement).
+- Other clinical signs include tachycardia (fast heart rate), lymphadenopathy (enlarged lymph nodes), and a petechial rash (a rash caused by bleeding into the skin) on internal mucosal surfaces, such as in the mouth and throat, and on the skin. The petechiae may give way to larger rashes called ecchymoses, and other haemorrhagic phenomena. There is usually evidence of hepatitis, and severely ill patients may experience rapid kidney deterioration, sudden liver failure or pulmonary failure after the fifth day of illness.
+- The mortality rate from CCHF is approximately 30%, with death occurring in the second week of illness. In patients who recover, improvement generally begins on the ninth or tenth day after the onset of illness.
+
+--- WARNING SIGNS ---
+- The Crimean-Congo haemorrhagic fever (CCHF) virus causes severe viral haemorrhagic fever outbreaks.
+- Crimean-Congo haemorrhagic fever (CCHF) is a widespread disease caused by a tick-borne virus ( Nairovirus ) of the Bunyaviridae family. The CCHF virus causes severe viral haemorrhagic fever outbreaks, with a case fatality rate of 10–40%.
+- The mortality rate from CCHF is approximately 30%, with death occurring in the second week of illness. In patients who recover, improvement generally begins on the ninth or tenth day after the onset of illness.
+
+--- RISK FACTORS ---
+- The CCHF virus is transmitted to people either by tick bites or through contact with infected animal blood or tissues during and immediately after slaughter. The majority of cases have occurred in people involved in the livestock industry, such as agricultural workers, slaughterhouse workers and veterinarians.
+- Human-to-human transmission can occur resulting from close contact with the blood, secretions, organs or other bodily fluids of infected persons. Hospital-acquired infections can also occur due to improper sterilization of medical equipment, reuse of needles and contamination of medical supplies.
+- Although an inactivated, mouse brain-derived vaccine against CCHF has been developed and used on a small scale in eastern Europe, there is currently no safe and effective vaccine widely available for human use.
+- In the absence of a vaccine, the only way to reduce infection in people is by raising awareness of the risk factors and educating people about the measures they can take to reduce exposure to the virus.
+- Public health advice should focus on several aspects.
+- Reducing the risk of tick-to-human transmission:
+- wear protective clothing (long sleeves, long trousers);
+- wear light coloured clothing to allow easy detection of ticks on the clothes;
+
+--- PREVENTION ---
+- Ticks of the genus Hyalomma are the principal vector of Crimean-Congo haemorrhagic fever. Photo: Robert Swanepoel/NICD South Africa
+- It is difficult to prevent or control CCHF infection in animals and ticks as the tick-animal-tick cycle usually goes unnoticed and the infection in domestic animals is usually not apparent. Furthermore, the tick vectors are numerous and widespread, so tick control with acaricides (chemicals intended to kill ticks) is only a realistic option for well-managed livestock production facilities.
+- For example, following an outbreak at an ostrich abattoir in South Africa (noted above), measures were taken to ensure that ostriches remained tick free for 14 days in a quarantine station before slaughter. This decreased the risk for the animal to be infected during its slaughtering and prevented human infection for those in contact with the livestock.
+- There are no vaccines available for use in animals.
+- Although an inactivated, mouse brain-derived vaccine against CCHF has been developed and used on a small scale in eastern Europe, there is currently no safe and effective vaccine widely available for human use.
+- In the absence of a vaccine, the only way to reduce infection in people is by raising awareness of the risk factors and educating people about the measures they can take to reduce exposure to the virus.
+- Public health advice should focus on several aspects.
+- Reducing the risk of tick-to-human transmission:
+
+--- ENVIRONMENTAL CONTROL ---
+- Ticks of the genus Hyalomma are the principal vector of Crimean-Congo haemorrhagic fever. Photo: Robert Swanepoel/NICD South Africa
+- It is difficult to prevent or control CCHF infection in animals and ticks as the tick-animal-tick cycle usually goes unnoticed and the infection in domestic animals is usually not apparent. Furthermore, the tick vectors are numerous and widespread, so tick control with acaricides (chemicals intended to kill ticks) is only a realistic option for well-managed livestock production facilities.
+- For example, following an outbreak at an ostrich abattoir in South Africa (noted above), measures were taken to ensure that ostriches remained tick free for 14 days in a quarantine station before slaughter. This decreased the risk for the animal to be infected during its slaughtering and prevented human infection for those in contact with the livestock.
+- There are no vaccines available for use in animals.
+- Health-care workers caring for patients with suspected or confirmed CCHF, or handling specimens from them, should implement standard infection control precautions. These include basic hand hygiene, use of personal protective equipment, safe injection practices and safe burial practices.
+- As a precautionary measure, health-care workers caring for patients immediately outside the CCHF outbreak area should also implement standard infection control precautions.
+
+--- VACCINATION ---
+- There is no vaccine available for either people or animals.
+- There are no vaccines available for use in animals.
+- Although an inactivated, mouse brain-derived vaccine against CCHF has been developed and used on a small scale in eastern Europe, there is currently no safe and effective vaccine widely available for human use.
+- In the absence of a vaccine, the only way to reduce infection in people is by raising awareness of the risk factors and educating people about the measures they can take to reduce exposure to the virus.
+
+--- DIAGNOSIS ---
+- CCHF virus infection can be diagnosed by several different laboratory tests:
+- enzyme-linked immunosorbent assay (ELISA) ;
+- serum neutralization;
+- reverse transcriptase polymerase chain reaction (RT-PCR) assay; and
+- virus isolation by cell culture.
+- Patients with fatal disease, as well as in patients in the first few days of illness, do not usually develop a measurable antibody response and so diagnosis in these individuals is achieved by virus or RNA detection in blood or tissue samples.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Early intensive supportive care including fluid management and treatment of specific symptoms, can improve survival chance.
+- There is currently no specific treatment approved for Crimean-Congo haemorrhagic fever. The antiviral drug ribavirin has been given off label as treatment; however, there is currently considerable uncertainties about its efficacy on the outcome of patients with CCHF given the lack of clinical evidence, as well as on its optimal dosing regimens. Whenever possible, if the decision is to use ribavirin to treat patients, they must be enrolled into a randomized clinical trial with ribavirin or other investigational therapeutics to assess clinical outcomes and safety.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

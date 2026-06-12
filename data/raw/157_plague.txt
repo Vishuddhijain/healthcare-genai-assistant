@@ -1,0 +1,156 @@
+TOPIC: Plague
+CATEGORY: Communicable Disease / Zoonotic Disease / Emergency Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/plague | NCDC India | NHP India
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Plague is a serious bacterial infection caused by Yersinia pestis, transmitted to humans primarily through the bite of infected fleas carried by rodents. Historically responsible for devastating pandemics ("Black Death"), plague still occurs in some parts of the world, including India, where it can re-emerge. India experienced a notable plague outbreak in Surat, Gujarat in 1994. Plague is treatable with antibiotics if diagnosed early, but can be fatal within 24 hours if untreated, especially the pneumonic form.
+
+--- KEY FACTS ---
+- Plague is caused by the bacterium Yersinia pestis.
+- Transmitted mainly through flea bites from infected rodents (rats), and occasionally through direct contact with infected animals or person-to-person (pneumonic plague).
+- Three main forms: bubonic (most common), septicaemic, and pneumonic (most dangerous and contagious).
+- Untreated bubonic plague has a case-fatality rate of 30–60%; pneumonic plague is almost always fatal without rapid treatment.
+- With prompt antibiotic treatment, plague is curable.
+- India had a significant plague outbreak in Surat, Gujarat in 1994 (pneumonic plague), and a smaller outbreak in Himachal Pradesh in 2002.
+- Plague is a notifiable disease in India under the Epidemic Diseases Act.
+- Sporadic cases continue to occur in parts of Africa, Asia, and the Americas; surveillance remains important.
+
+--- TYPES OF PLAGUE ---
+1. Bubonic plague (most common, ~80-90% of cases):
+   - Caused by flea bites
+   - Painful, swollen lymph nodes (buboes), usually in groin, armpit, or neck
+   - Fever, chills, headache, weakness
+
+2. Septicaemic plague:
+   - Occurs when infection spreads to the bloodstream (can develop from untreated bubonic plague or directly from flea bite)
+   - Fever, chills, extreme weakness, abdominal pain
+   - Bleeding into skin and organs; tissue may turn black (gangrene), especially fingers, toes, nose
+   - Very high mortality without treatment
+
+3. Pneumonic plague (most dangerous, and the only form transmissible person-to-person):
+   - Affects the lungs; can occur as a complication of bubonic/septicaemic plague (secondary) or from inhaling infectious droplets (primary)
+   - Rapid onset of fever, chest pain, cough with bloody/watery sputum, difficulty breathing
+   - Spreads through respiratory droplets — can cause outbreaks
+   - Fatal within 18-24 hours if untreated
+
+--- SYMPTOMS ---
+General onset (sudden, 1-7 days after exposure):
+- Sudden onset of fever and chills
+- Headache
+- Weakness, malaise
+- Muscle aches
+
+Bubonic plague specific:
+- Painful, swollen lymph nodes (buboes) — often in groin, armpit, or neck; may be the size of a chicken egg
+- Skin around bubo may be red, warm, and very tender
+
+Septicaemic plague specific:
+- Abdominal pain, nausea, vomiting, diarrhoea
+- Bleeding under skin or from other body sites
+- Blackening/death of tissue (fingers, toes, nose) — gangrene
+
+Pneumonic plague specific:
+- Rapidly developing pneumonia
+- Cough with bloody or watery sputum
+- Chest pain
+- Severe difficulty breathing
+- Can progress to respiratory failure within a day
+
+--- WARNING SIGNS — MEDICAL EMERGENCY ---
+- Sudden high fever with painful swollen lymph node (bubo) — especially after exposure to rodents/fleas in an endemic area
+- Cough with blood-tinged sputum and difficulty breathing, with recent fever — possible pneumonic plague — EXTREME EMERGENCY, isolate and seek care immediately
+- Blackening of fingers, toes, or skin with fever
+- Any of these symptoms in a person who has been in a plague-affected area or had contact with dead/sick rodents
+
+--- RISK FACTORS ---
+- Living in or visiting areas with known rodent/flea infestations or rural areas with plague-endemic rodent populations
+- Contact with rodents (rats, ground squirrels, marmots) or their fleas
+- Handling dead animals (especially rodents) without protection
+- Pet cats/dogs that hunt rodents (can bring infected fleas home)
+- Healthcare workers/family members caring for a pneumonic plague patient without protection (person-to-person spread)
+- Occupational exposure: farmers, hunters, people working in rodent-infested granaries or warehouses
+
+--- TRANSMISSION ---
+- Flea bite: Primary route — fleas become infected after feeding on infected rodents, then bite humans
+- Direct contact: Handling tissues/fluids of an infected animal (e.g., skinning an infected animal)
+- Respiratory droplets: Pneumonic plague can spread person-to-person through close contact (coughing)
+- NOT spread by casual contact unless pneumonic form is present
+
+--- PREVENTION ---
+1. Rodent and flea control:
+   - Reduce rodent populations around homes, granaries, and food storage areas
+   - Store food and grain in rodent-proof containers
+   - Maintain clean surroundings; eliminate rodent nesting sites (rubble, woodpiles)
+   - Use flea control products on pets in endemic areas
+
+2. Personal protection:
+   - Avoid contact with sick or dead rodents/animals
+   - Use insect repellent containing DEET when in rodent-infested areas
+   - Wear gloves when handling animals (hunters, farmers)
+
+3. Surveillance:
+   - Report unusual rodent deaths to local health authorities — can indicate an outbreak before human cases occur
+   - Plague is a notifiable disease — suspected cases must be reported immediately
+
+4. For pneumonic plague:
+   - Isolate suspected/confirmed cases
+   - Healthcare workers use appropriate PPE (masks, gowns)
+   - Post-exposure prophylaxis (antibiotics) for close contacts
+
+--- VACCINATION ---
+- No widely available commercial plague vaccine for general public use
+- Plague vaccines exist for high-risk groups (laboratory workers, certain military/occupational groups) in some countries, but are not part of routine immunisation
+- Prevention relies primarily on vector/rodent control and prompt treatment
+
+--- DIAGNOSIS ---
+- Clinical suspicion based on symptoms + exposure history (rodent/flea contact, travel to endemic area)
+- Laboratory confirmation: Culture of bubo aspirate, blood, or sputum for Yersinia pestis
+- Rapid diagnostic tests and PCR available at reference laboratories (NCDC, NIV Pune in India)
+- Notify health authorities immediately on suspicion — do not wait for confirmation before initiating treatment in suspected cases
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Antibiotics: Streptomycin, gentamicin, doxycycline, or ciprofloxacin — must be started as early as possible
+- Pneumonic plague requires IMMEDIATE treatment (within hours) — delays significantly increase mortality
+- Supportive care: IV fluids, oxygen, treatment of complications (organ support for septicaemic plague)
+- Close contacts of pneumonic plague cases may receive prophylactic antibiotics
+- All suspected/confirmed cases treated and reported through government health system — FREE treatment at government facilities
+
+--- WHEN TO SEE A DOCTOR ---
+- Sudden fever with painful swollen lymph node, especially after rodent/flea exposure in an area with known plague activity — seek care immediately
+- Any fever with cough and difficulty breathing after possible exposure — treat as emergency
+- Unusual rodent deaths observed in your area — report to local health department
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Plague is notifiable under the Epidemic Diseases Act, 1897 (India's oldest public health law, originally enacted in response to plague)
+- 1994 Surat plague outbreak: Pneumonic plague outbreak caused significant public health response and migration; led to strengthening of disease surveillance (later formalised as IDSP — Integrated Disease Surveillance Programme)
+- 2002 Himachal Pradesh outbreak: Smaller bubonic plague outbreak (Shimla district)
+- NCDC (National Centre for Disease Control) and NIV Pune: Reference laboratories for plague diagnosis
+- Plague-endemic foci (areas where the bacteria persists in rodent populations) exist in parts of India — ongoing rodent surveillance is part of public health monitoring
+- Reporting: Any suspected case must be reported immediately to district health authorities under IDSP
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is plague still a threat in India today?
+A: Plague is rare in India today, but the bacteria persists in some rodent populations (enzootic foci), meaning sporadic cases or small outbreaks can occur. Surveillance and rapid reporting systems exist to detect and respond quickly.
+
+Q: Can plague be treated successfully?
+A: Yes, if diagnosed and treated early with appropriate antibiotics, plague is curable. The danger comes from delayed diagnosis, especially with pneumonic plague, which can be fatal within 24 hours.
+
+Q: How is plague different from "Black Death"?
+A: "Black Death" refers to the massive pandemic of bubonic plague that swept through Europe and Asia in the 14th century, caused by the same bacterium (Yersinia pestis). Modern antibiotics have made plague a treatable disease, but it remains dangerous if untreated.
+
+Q: What should I do if I find dead rats near my home?
+A: Avoid handling dead rodents directly. Report unusual rodent deaths to local health/municipal authorities, especially in areas with known plague activity, as this can be an early warning sign of an outbreak.
+
+--- IMPORTANT SAFETY NOTE ---
+Plague is a medical emergency, especially the pneumonic form, which can be fatal within 24 hours and is contagious person-to-person. If you develop sudden high fever with a painful swollen lymph node or cough with difficulty breathing after possible rodent/flea exposure, seek medical care immediately and inform healthcare providers of your exposure history. Plague is curable with prompt antibiotic treatment, available free at government health facilities. Report unusual rodent deaths to local health authorities.
+
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.

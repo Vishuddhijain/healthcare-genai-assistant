@@ -1,0 +1,63 @@
+TOPIC: El Niño Southern Oscillation (ENSO)
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/el-nino-southern-oscillation-(enso)
+LAST UPDATED: 9 November 2023
+
+--- OVERVIEW ---
+El Niño Southern Oscillation (ENSO) is a naturally occurring large-scale climatic phenomenon involving fluctuating ocean temperatures in the central and eastern equatorial Pacific, coupled with changes in the overlying atmosphere. El Niño and La Niña are the oceanic components, while the Southern Oscillation is the atmospheric counterpart, thus giving rise to the term El Niño Southern Oscillation (ENSO). ENSO occurs in irregular cycles of 2–7 years and presents 3 phases: El Niño, La Niña and a neutral phase. An El Niño event is characterized by a period of sea-surface warming and consequent suppression of the nutrient-rich cold water up-welling off the coast of Peru and Ecuador, typically lasting between 12 and 18 months. In contrast, a La Niña event is characterized by a period of colder than average sea surface temperatures in the central and eastern Pacific Ocean and an...
+
+--- KEY FACTS ---
+- El Niño Southern Oscillation (ENSO) is one of the most important sources of annual global climate variability, second only to the earth–sun relationship that drives the seasons. El Niño and its counterpart La Niña are associated with characteristic patterns of rainfall and temperature, which can include extreme events such as flooding and drought.
+- ENSO affects many parts of the globe, but most intensely impacts the tropics, including countries and areas in Africa, Latin America and South and South-East Asia that are particularly vulnerable to natural hazards.
+- By altering climate conditions, ENSO can have severe effects on key health determinants through, among other factors, impacts on food security, air and water quality, ecosystems and health infrastructure safety. ENSO is also associated with altered transmission patterns of vector-borne, rodent-borne and waterborne diseases, as well as fish and shellfish poisoning.
+- Early warning systems and anticipatory action can help reduce the impacts of extreme weather conditions exacerbated by ENSO.
+
+--- TYPES ---
+- In 2014, ENSO-related information produced by the International Research Institute for Climate and Society (IRI) for the malaria community in east Africa, provided time-sensitive information for interventions to reduce malaria transmission in high-risk areas.
+- Countries where Enhanced National Climate Services (ENACTS) are being developed can share information on the past impacts of ENSO events, particularly related to the spatial and temporal distribution of rainfall and temperature changes at the district level.
+
+--- SYMPTOMS ---
+- Vectors, such as mosquitoes, that are responsible for the transmission of malaria, dengue and Rift Valley fever are sensitive to changes in temperature, rainfall and humidity, which determine the suitability of ecosystems for vector reproduction, development and activity.
+
+--- WARNING SIGNS ---
+- By altering climate conditions, ENSO can have severe effects on key health determinants through, among other factors, impacts on food security, air and water quality, ecosystems and health infrastructure safety. ENSO is also associated with altered transmission patterns of vector-borne, rodent-borne and waterborne diseases, as well as fish and shellfish poisoning.
+- The world food crisis of 1982–84, the most severe recorded, was also linked to El Niño, including famines that struck populations in the Horn of Africa and the Sahel.
+- A so-called triple dip La Niña event in 2020–23 resulted in 3 consecutive years of drought in Ethiopia, Kenya and Somalia, leaving millions of people facing severe hunger.
+
+--- RISK FACTORS ---
+- Local incidence of vector-borne diseases, wildfire smoke exposure, heat stress, drought-related health and nutritional impacts have all been observed to be influenced by ENSO events.
+- ENSO-related drought conditions can increase the risk of wildfires resulting in local and trans-boundary smoke pollution. The inhalation of fire smoke is a major public health problem, causing respiratory diseases and other harmful effects.
+- Any transition from a La Niña to an El Niño phase will likely produce a rise in global average surface temperature, with warming tendencies affecting the development of extreme heat in the Southern Hemisphere. The joint influence of both El Niño warming and rising global temperatures caused by climate change amplifies the potential for extreme heat in many regions, creating deadly conditions for millions of people.
+- ENSO events can be predicted with some reliability several months in advance, allowing the climate community to prepare seasonal forecasts with enhanced precision. The increased predictability of climate events on seasonal to inter-annual timescales can help planners and health professionals anticipate, prepare for and respond to ENSO-related health risks. For example:
+- In 2014, ENSO-related information produced by the International Research Institute for Climate and Society (IRI) for the malaria community in east Africa, provided time-sensitive information for interventions to reduce malaria transmission in high-risk areas.
+
+--- PREVENTION ---
+- By altering climate conditions, ENSO can have severe effects on key health determinants through, among other factors, impacts on food security, air and water quality, ecosystems and health infrastructure safety. ENSO is also associated with altered transmission patterns of vector-borne, rodent-borne and waterborne diseases, as well as fish and shellfish poisoning.
+- In Peru, a study found that children born during and after 1997–1998 El Niño, while controlling for other factors, were on average shorter and had less lean mass for their age and sex than expected had El Niño not occurred.
+
+--- ENVIRONMENTAL CONTROL ---
+- By altering climate conditions, ENSO can have severe effects on key health determinants through, among other factors, impacts on food security, air and water quality, ecosystems and health infrastructure safety. ENSO is also associated with altered transmission patterns of vector-borne, rodent-borne and waterborne diseases, as well as fish and shellfish poisoning.
+- Local incidence of vector-borne diseases, wildfire smoke exposure, heat stress, drought-related health and nutritional impacts have all been observed to be influenced by ENSO events.
+- ENSO-related drought conditions can increase the risk of wildfires resulting in local and trans-boundary smoke pollution. The inhalation of fire smoke is a major public health problem, causing respiratory diseases and other harmful effects.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

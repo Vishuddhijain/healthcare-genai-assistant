@@ -1,0 +1,72 @@
+TOPIC: Refugee and migrant health
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/refugee-and-migrant-health
+LAST UPDATED: 25 March 2026
+
+--- OVERVIEW ---
+More people are on the move now than ever before, and displacement and migration continue to rise. Yet many refugees and migrants face poorer health outcomes than the host populations. Many face constraints in accessing health care. Addressing their health needs is, therefore, a global health priority and integral to the principle of the right to health for all. Refugees and migrants have specific physical and mental health needs that are influenced by their experiences in their country of origin, conditions during their journeys, and the policies and environments in destination countries.
+
+Climate change, in addition to conflicts and disasters, is transforming patterns of displacement and migration and amplifying risks to health and well-being. Displaced and migrant populations are often among those most affected, yet they often remain excluded from national health and climate adaptation strategies.
+
+--- KEY FACTS ---
+- About 1 in 8 people (or more than a billion) are on the move globally.
+- Of this total, an estimated 304 million are international migrants (2024), double the number in 1990 (154 million). This includes approximately 170 million migrant workers and 7 million international students.
+- It is estimated that 117.3 million people are forcibly displaced, including 73.5 million internally displaced persons (IDPs), 36.4 million refugees, and 8.4 million asylum seekers. Among them, 49 million are children, and 2.3 million were born into refugee life.
+- Human mobility is expected to continue growing, driven by poverty, insecurity, limited access to basic services, conflict, environmental degradation and disasters. Health systems must be equipped to respond to these evolving needs.
+- Displacement and migration can have both positive and negative health impacts. Refugees and migrants' social and economic contributions, such as remittances, can improve access to services in countries of origin, while restrictive environments in transit and destination countries may pose health risks.
+- Refugees and migrants often experience poorer health outcomes due to language and cultural barriers, institutional discrimination and restrictive policies that limit access to or use of health services.
+
+--- TYPES ---
+- Climate change, in addition to conflicts and disasters, is transforming patterns of displacement and migration and amplifying risks to health and well-being. Displaced and migrant populations are often among those most affected, yet they often remain excluded from national health and climate adaptation strategies.
+- Data on displacement and migration remains constrained due to divergent definitions, varying methodologies and the exclusion of irregular migrants and those working in informal sectors from official statistics.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Displacement and migration can have both positive and negative health impacts. Refugees and migrants' social and economic contributions, such as remittances, can improve access to services in countries of origin, while restrictive environments in transit and destination countries may pose health risks.
+- Climate change, in addition to conflicts and disasters, is transforming patterns of displacement and migration and amplifying risks to health and well-being. Displaced and migrant populations are often among those most affected, yet they often remain excluded from national health and climate adaptation strategies.
+- These conditions can increase risks of infectious diseases (e.g. measles, food- and waterborne illnesses), accidental injuries, hypothermia, burns, and other health consequences linked to hazardous travel and unmet basic needs. Refugees and migrants may also face heightened exposure to gender-based violence, with serious physical and mental health impacts.
+- Women and girls may face challenges accessing gender-based violence prevention and response services. Unaccompanied and separated children are at heightened risk of exploitation, abuse and neglect. People with disabilities may encounter additional accessibility and attitudinal barriers. Ensuring inclusive, accessible, and participatory approaches is essential to upholding their rights, health, and safety.
+
+--- PREVENTION ---
+- Under international law and the UNHCR's mandate, refugees are people outside their country of origin who need international protection because they fear persecution or a serious threat to their life, physical integrity or freedom in their country of origin as a result of persecution, armed conflict, violence or serious public disorder(3).
+- Asylum seekers are individuals who seek international protection. In countries where asylum cases are judged on a case-by-case basis using specific eligibility criteria, asylum seekers are people whose claim has not been finally decided on by the country in which they have submitted it. Not every asylum seeker will ultimately be recognized as a refugee, but every recognized refugee is initially an asylum seeker(3).
+- As of mid-2025, the number of forcibly displaced people reached 117 million, up from 83 million in 2020. This includes 36.8 million refugees, with 8.4 million asylum seekers; notably, low- and middle-income countries host 71% of the world’s refugees and others in need of international protection(7).
+- They may face xenophobia, discrimination, and obstacles in accessing health and social services. Migrants in irregular situations may be excluded from national programmes for health promotion, disease prevention, treatment, and care, including financial protection schemes. This results in high out-of-pocket costs, language barriers, and inadequate cultural or linguistic support.
+- Women and girls may face challenges accessing gender-based violence prevention and response services. Unaccompanied and separated children are at heightened risk of exploitation, abuse and neglect. People with disabilities may encounter additional accessibility and attitudinal barriers. Ensuring inclusive, accessible, and participatory approaches is essential to upholding their rights, health, and safety.
+
+--- ENVIRONMENTAL CONTROL ---
+- Human mobility is expected to continue growing, driven by poverty, insecurity, limited access to basic services, conflict, environmental degradation and disasters. Health systems must be equipped to respond to these evolving needs.
+- Displacement and migration can have both positive and negative health impacts. Refugees and migrants' social and economic contributions, such as remittances, can improve access to services in countries of origin, while restrictive environments in transit and destination countries may pose health risks.
+- These conditions can increase risks of infectious diseases (e.g. measles, food- and waterborne illnesses), accidental injuries, hypothermia, burns, and other health consequences linked to hazardous travel and unmet basic needs. Refugees and migrants may also face heightened exposure to gender-based violence, with serious physical and mental health impacts.
+- Although refugees and migrants share many health determinants with host populations, displacement and migration introduce additional structural and environmental barriers. Strengthening equitable access to health services and addressing social, economic and environmental determinants of health are essential to building sustainable, inclusive and effective support for refugee and migrant communities, while fostering the overall resilience of host societies.
+- Many refugees and migrants, especially those in vulnerable or irregular situations, experience poorer health outcomes due to substandard living conditions and unfavorable social, economic and environmental determinants.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Migration and displacement also occur within country borders. Latest available estimates – from 2005 – estimated the number of internal migrants at 763 million(8) . In 2024, there were approximately 83.4 million internally displaced persons (IDPs) worldwide(9) .
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Migrants may face limitations in accessing health care due to their migratory status, but international law recognizes the right to the highest attainable standard of health, consistent with the 2030 Agenda for Sustainable Development, particularly SDG 3 (Ensure healthy lives and promote well-being for all at all ages)(4 ) . Although governed by different legal frameworks, refugees and migrants share the same universal human rights and fundamental freedoms as everyone else(4).
+- As of 2024, there were an estimated 304 million international migrants worldwide; this is almost double the number of international migrants in 1990 (154 million)(5). In 2022 there were an estimated 167.7 million migrant workers, including many essential health workers, and 6.9 million international students(6).
+- They may face xenophobia, discrimination, and obstacles in accessing health and social services. Migrants in irregular situations may be excluded from national programmes for health promotion, disease prevention, treatment, and care, including financial protection schemes. This results in high out-of-pocket costs, language barriers, and inadequate cultural or linguistic support.
+- In humanitarian settings, insecurity, infrastructure damage and disruptions to supply chains create further obstacles to accessing health care. These challenges affect both displaced populations and host communities.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

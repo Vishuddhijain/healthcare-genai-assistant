@@ -1,0 +1,70 @@
+TOPIC: Ionizing radiation and health effects
+CATEGORY: Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ionizing-radiation-and-health-effects
+LAST UPDATED: 27 July 2023
+
+--- OVERVIEW ---
+Ionizing radiation is a type of energy released by atoms that travels in the form of electromagnetic waves (gamma or X-rays) or particles (neutrons, beta or alpha). The spontaneous disintegration of atoms is called radioactivity, and the excess energy emitted is a form of ionizing radiation. Unstable elements which disintegrate and emit ionizing radiation are called radionuclides.
+
+The activity — used as a measure of the amount of a radionuclide present — is expressed in a unit called the becquerel (Bq): one becquerel is one disintegration per second. The half-life is the time required for the activity of a radionuclide to decrease by decay to half of its initial value. The half-life of a radioactive element is the time that it takes for one half of its atoms to disintegrate. This can range from a mere fraction of a second to millions of years (e.g. iodine-131 has a half-life of 8 days while carbon-14 has a half-life of 5730 years).
+
+--- KEY FACTS ---
+- Ionizing radiation is a type of energy released by atoms in the form of electromagnetic waves or particles.
+- People are exposed to natural sources of ionizing radiation, such as in soil, water, and vegetation, as well as in human-made sources, such as x-rays in medical devices.
+- Ionizing radiation has many beneficial applications, including uses in medicine, industry, agriculture and research.
+- As the use of ionizing radiation increases, so does the potential for health hazards if not properly used or contained.
+- Acute health effects such as skin burns or acute radiation syndrome can occur when doses of radiation exceed very high levels.
+- Low doses of ionizing radiation can increase the risk of longer term effects such as cancer.
+
+--- TYPES ---
+- Ionizing radiation is a type of energy released by atoms in the form of electromagnetic waves or particles.
+- Acute health effects such as skin burns or acute radiation syndrome can occur when doses of radiation exceed very high levels.
+- Ionizing radiation is a type of energy released by atoms that travels in the form of electromagnetic waves (gamma or X-rays) or particles (neutrons, beta or alpha). The spontaneous disintegration of atoms is called radioactivity, and the excess energy emitted is a form of ionizing radiation. Unstable elements which disintegrate and emit ionizing radiation are called radionuclides.
+- Medical use of radiation accounts for 98 % of the population dose contribution from all human-made sources, and represents 20% of the total population exposure. Annually worldwide, more than 4200 million diagnostic radiology examinations are performed, 40 million nuclear medicine procedures are carried out, and 8.5 million radiotherapy treatments are given.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Beyond certain thresholds, radiation can impair the functioning of tissues and/or organs and can produce acute effects such as skin redness, hair loss, radiation burns, or acute radiation syndrome. These effects are more severe at higher doses and higher dose rates. For instance, the dose threshold for acute radiation syndrome is about 1 Sv (1000 mSv).
+
+--- RISK FACTORS ---
+- Exposure to radiation may occur through internal or external pathways.
+- Internal exposure to ionizing radiation occurs when a radionuclide is inhaled, ingested or otherwise enters into the bloodstream (for example, by injection or through wounds). Internal exposure stops when the radionuclide is eliminated from the body, either spontaneously (such as through excreta) or as a result of a treatment.
+- Exposure to ionizing radiation can be classified for radiation protection purposes into three exposure situations, i.e. planned, existing and emergency situations. Planned exposure situations result from the deliberate introduction and operation of radiation sources with specific purposes, as is the case with the medical use of radiation for diagnosis or treatment of patients, or the use of radiation in industry or research. Existing exposure occurs where radiation already exists and a decision on control must be taken – for example, exposure to radon in homes or workplaces or exposure to natural background radiation from the environment....
+- Medical use of radiation accounts for 98 % of the population dose contribution from all human-made sources, and represents 20% of the total population exposure. Annually worldwide, more than 4200 million diagnostic radiology examinations are performed, 40 million nuclear medicine procedures are carried out, and 8.5 million radiotherapy treatments are given.
+
+--- PREVENTION ---
+- Use standard public-health prevention: timely health advice, safe hygiene practices, vaccination where recommended, risk reduction, and following local public-health guidance.
+
+--- ENVIRONMENTAL CONTROL ---
+- Exposure to radiation may occur through internal or external pathways.
+- Internal exposure to ionizing radiation occurs when a radionuclide is inhaled, ingested or otherwise enters into the bloodstream (for example, by injection or through wounds). Internal exposure stops when the radionuclide is eliminated from the body, either spontaneously (such as through excreta) or as a result of a treatment.
+- Exposure to ionizing radiation can be classified for radiation protection purposes into three exposure situations, i.e. planned, existing and emergency situations. Planned exposure situations result from the deliberate introduction and operation of radiation sources with specific purposes, as is the case with the medical use of radiation for diagnosis or treatment of patients, or the use of radiation in industry or research. Existing exposure occurs where radiation already exists and a decision on control must be taken – for example, exposure to radon in homes or workplaces or exposure to natural background radiation from the environment....
+- Medical use of radiation accounts for 98 % of the population dose contribution from all human-made sources, and represents 20% of the total population exposure. Annually worldwide, more than 4200 million diagnostic radiology examinations are performed, 40 million nuclear medicine procedures are carried out, and 8.5 million radiotherapy treatments are given.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Exposure to radiation also comes from human-made sources ranging from nuclear power generation to medical uses of radiation for diagnosis or treatment. Today, the most common human-made sources of ionizing radiation are medical devices, including x-ray machines and Computed Tomography (CT) scanners.
+- Medical use of radiation accounts for 98 % of the population dose contribution from all human-made sources, and represents 20% of the total population exposure. Annually worldwide, more than 4200 million diagnostic radiology examinations are performed, 40 million nuclear medicine procedures are carried out, and 8.5 million radiotherapy treatments are given.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Ionizing radiation has many beneficial applications, including uses in medicine, industry, agriculture and research.
+- Exposure to radiation also comes from human-made sources ranging from nuclear power generation to medical uses of radiation for diagnosis or treatment. Today, the most common human-made sources of ionizing radiation are medical devices, including x-ray machines and Computed Tomography (CT) scanners.
+- Internal exposure to ionizing radiation occurs when a radionuclide is inhaled, ingested or otherwise enters into the bloodstream (for example, by injection or through wounds). Internal exposure stops when the radionuclide is eliminated from the body, either spontaneously (such as through excreta) or as a result of a treatment.
+- Medical use of radiation accounts for 98 % of the population dose contribution from all human-made sources, and represents 20% of the total population exposure. Annually worldwide, more than 4200 million diagnostic radiology examinations are performed, 40 million nuclear medicine procedures are carried out, and 8.5 million radiotherapy treatments are given.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

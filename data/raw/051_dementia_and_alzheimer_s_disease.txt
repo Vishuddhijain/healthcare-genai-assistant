@@ -1,0 +1,134 @@
+TOPIC: Dementia and Alzheimer's Disease
+CATEGORY: Mental Health / Neurological / Ageing
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/dementia
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Dementia is a syndrome — usually chronic or progressive — in which there is deterioration in memory, thinking, behaviour, and the ability to perform everyday activities. Dementia is NOT a normal part of ageing. It is caused by brain diseases. Alzheimer's disease is the most common form, accounting for 60–70% of cases. Currently, there is no cure, but care and support can significantly improve the quality of life for people with dementia and their caregivers.
+
+--- KEY FACTS ---
+- Over 55 million people globally have dementia; this is expected to rise to 139 million by 2050.
+- In India, approximately 8.8 million people have dementia (Dementia India Report).
+- Alzheimer's disease causes 60–70% of all dementia cases.
+- Dementia is one of the leading causes of disability and dependency among older adults.
+- Women are disproportionately affected — both as patients and as caregivers.
+- Up to 40% of dementia cases may be preventable by modifying risk factors.
+
+--- TYPES OF DEMENTIA ---
+1. Alzheimer's disease: Most common. Gradual memory loss, language problems, disorientation, behavioural changes.
+2. Vascular dementia: Caused by strokes or reduced blood supply to the brain. Often step-like deterioration.
+3. Lewy body dementia: Associated with abnormal protein deposits in the brain. Visual hallucinations and motor symptoms.
+4. Frontotemporal dementia: Affects personality, behaviour, and language more than memory initially.
+
+--- SYMPTOMS ---
+Early stage (often missed):
+- Forgetting recent events or conversations
+- Getting lost in familiar places
+- Losing track of time
+- Difficulty with complex tasks (managing finances, cooking)
+- Repeating the same questions or stories
+
+Middle stage:
+- Increased memory loss — forgetting names, faces of family members
+- Needing help with daily activities (dressing, bathing)
+- Wandering and getting lost
+- Behavioural changes: agitation, suspicion, depression
+- Difficulty recognising family members
+
+Late stage:
+- Complete dependence on caregivers
+- Difficulty eating and swallowing
+- Bed-bound
+- Vulnerability to infections
+
+--- DIFFERENCE FROM NORMAL AGEING ---
+Normal ageing: Occasionally forgetting where you put your keys, but remembering later.
+Dementia: Forgetting what keys are for, or being unable to recognise family members.
+If memory problems are interfering with daily life — see a doctor.
+
+--- RISK FACTORS ---
+Non-modifiable:
+- Age (risk doubles every 5 years after 65)
+- Genetics (family history — especially first-degree relatives with Alzheimer's)
+- Down syndrome
+
+Modifiable (reducing these can prevent up to 40% of cases):
+- Hypertension (especially in midlife)
+- Obesity
+- Physical inactivity
+- Diabetes
+- Excessive alcohol consumption
+- Smoking
+- Depression
+- Social isolation
+- Air pollution
+- Low education levels
+- Hearing loss (untreated)
+
+--- PREVENTION ---
+Based on current evidence:
+- Be physically active (most strongly supported intervention)
+- Manage cardiovascular risk factors: control blood pressure, blood sugar, cholesterol
+- Do not smoke
+- Limit alcohol
+- Stay mentally active: reading, puzzles, learning new skills
+- Stay socially engaged
+- Treat depression and hearing loss
+- Quality sleep (sleep deprivation increases amyloid plaque build-up in the brain)
+- Eat a healthy diet (Mediterranean or MIND diet shows some evidence)
+
+--- CARE FOR PEOPLE WITH DEMENTIA ---
+Dementia care requires patience, compassion, and adaptability:
+- Maintain routine — familiar structure is comforting
+- Keep environment safe: remove trip hazards, install locks on doors to prevent wandering
+- Communicate simply and calmly: short sentences, one idea at a time
+- Redirect rather than argue when confused
+- Allow independence in tasks they can still do
+- Watch for signs of pain, as people with advanced dementia may not communicate it verbally
+
+--- CAREGIVER SUPPORT ---
+Caregiving for a person with dementia is demanding. Caregivers need support too:
+- Alzheimer's and Related Disorders Society of India (ARDSI): ardsi.org — India's leading dementia support organisation
+- Provides caregiver training, helplines, and day care centres
+- ARDSI Dementia Helpline: 1800-425-0630 (free)
+- Tele MANAS: 14416 (for caregiver mental health)
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is memory loss always dementia?
+A: No. Many conditions cause memory problems including vitamin B12 deficiency, thyroid disorders, depression, and medication side effects — all treatable. Always see a doctor to rule out reversible causes.
+
+Q: Can young people get dementia?
+A: Yes. Early-onset dementia (before 65 years) accounts for about 9% of cases. It is less common but does occur.
+
+Q: Is dementia hereditary?
+A: Most dementia is not directly hereditary. However, having a first-degree relative (parent or sibling) with Alzheimer's does increase risk. Rare genetic forms (e.g., APOE-e4 gene) do exist.
+
+Q: Should someone with dementia be put in a nursing home?
+A: This depends on the individual's needs, family situation, and local resources. Many families in India care for dementia patients at home. ARDSI offers guidance and support for both options.
+
+--- IMPORTANT SAFETY NOTE ---
+This is awareness information only. If you or a family member are experiencing memory or behavioural changes, please consult a neurologist or psychiatrist. Contact ARDSI (ardsi.org) or call 1800-425-0630 for support.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

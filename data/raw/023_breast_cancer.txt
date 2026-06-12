@@ -1,0 +1,90 @@
+TOPIC: Breast cancer
+CATEGORY: Cancer Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/breast-cancer
+LAST UPDATED: 23 February 2021
+
+--- OVERVIEW ---
+Breast cancer is a disease in which abnormal cells in the breast grow out of control and form tumours. If left unchecked, the tumours can spread throughout the body and become fatal.
+
+Breast cancer cells begin inside the milk ducts and/or the milk-producing lobules of the breast. The earliest form (in situ) is not life-threatening and can be detected in early stages. Cancer cells can spread into nearby breast tissue (invasion). This creates tumours that cause lumps or thickening.
+
+Invasive cancers can spread to nearby lymph nodes or other organs (metastasize). Metastasis can be life-threatening and fatal. Treatment is based on the person, the type of cancer and its spread. Treatment combines surgery, radiation therapy and medications.
+
+--- KEY FACTS ---
+- Breast cancer caused an estimated 670 000 deaths globally in 2022 and was the most common cancer in women in 157 countries out of 185 in the same year.
+- Approximately 80% of breast cancers occur in women with no specific risk factors other than sex and age.
+- Approximately 0.5–1% of breast cancers occur in men.
+- Effective interventions for early and timely diagnosis linked to comprehensive treatment, rehabilitation and palliative care are essential to reduce the burden of breast cancer and to achieve and maintain optimal functioning and well-being.
+
+--- TYPES ---
+- Breast cancer is a disease in which abnormal cells in the breast grow out of control and form tumours. If left unchecked, the tumours can spread throughout the body and become fatal.
+- Breast cancer cells begin inside the milk ducts and/or the milk-producing lobules of the breast. The earliest form (in situ) is not life-threatening and can be detected in early stages. Cancer cells can spread into nearby breast tissue (invasion). This creates tumours that cause lumps or thickening.
+- Invasive cancers can spread to nearby lymph nodes or other organs (metastasize). Metastasis can be life-threatening and fatal. Treatment is based on the person, the type of cancer and its spread. Treatment combines surgery, radiation therapy and medications.
+- Treatment for breast cancer depends on the subtype of cancer and how much it has spread outside of the breast to lymph nodes (stages II or III) or to other parts of the body (stage IV) and may be combined t o minimize the chances of the cancer coming back (recurrence). These include:
+
+--- SYMPTOMS ---
+- Breast cancer can have combinations of symptoms, especially when it is more advanced. Symptoms of breast cancer can include:
+- a breast lump or thickening, often without pain
+- Breast cancers may spread to other areas of the body and trigger other symptoms. Often, the most common first detectable site of spread is to the lymph nodes under the arm although it is possible to have cancer-bearing lymph nodes that cannot be felt.
+- Over time, cancerous cells may spread to other organs including the lungs, liver, brain and bones. Once they reach these sites, new cancer-related symptoms such as bone pain or headaches may appear.
+- early diagnosis: being aware of signs and symptoms of breast cancer and the importance of seeking medical advice for abnormal findings, timely clinical evaluation and diagnosis and referral for treatment services; and
+- screening: the application of mammography in an apparently healthy population, usually women 50-69 years of age, to identify pre-clinical lesions before recognizable signs or symptoms appear.
+
+--- WARNING SIGNS ---
+- Breast cancer caused an estimated 670 000 deaths globally in 2022 and was the most common cancer in women in 157 countries out of 185 in the same year.
+- In 2022, there were an estimated 2.3 million women diagnosed with breast cancer and 670 000 deaths globally. Breast cancer occurs in every country of the world in women at any age after puberty but with increasing rates in later life. Global estimates reveal striking inequities in the breast cancer burden according to human development. For instance, in countries with a very high Human Development Index (HDI), 1 in 12 women will be diagnosed with breast cancer in their lifetime and 1 in 71 women die of it.
+- Surgery may remove just the cancerous tissue (called a lumpectomy) or the whole breast (mastectomy). Lymph nodes are removed at the time of cancer surgery for invasive cancers. Complete removal of the lymph node bed under the arm (complete axillary dissection) was thought to be necessary in the past to prevent the spread of cancer. A smaller lymph node procedure called “sentinel node biopsy” is now preferred as it has fewer complications.
+- Cancers that do not express ER or PR are “hormone receptor negative” and need to be treated with chemotherapy unless the cancer is very small. The chemotherapy regimens available today are very effective in reducing the chances of cancer spread or recurrence and are generally given as outpatient therapy, not requiring hospital admission in the absence of complications.
+- Prehabilitation, including lifestyle-based interventions (exercise, diet and nutritional supplementation and psychological support) between diagnosis and treatment has proven effective in minimizing complications related to the treatment.
+
+--- RISK FACTORS ---
+- In 2022, there were an estimated 2.3 million women diagnosed with breast cancer and 670 000 deaths globally. Breast cancer occurs in every country of the world in women at any age after puberty but with increasing rates in later life. Global estimates reveal striking inequities in the breast cancer burden according to human development. For instance, in countries with a very high Human Development Index (HDI), 1 in 12 women will be diagnosed with breast cancer in their lifetime and 1 in 71 women die of it.
+- In contrast, in countries with a low HDI, 1 in 27 women will be diagnosed with breast cancer in their lifetime and 1 in 48 women die from it.
+- Female gender is the strongest breast cancer risk factor. Approximately 99% of breast cancers occur in women and 0.5–1% of breast cancers occur in men.
+- Certain factors increase the risk of breast cancer including increasing age, obesity, harmful use of alcohol, family history of breast cancer, history of radiation exposure, reproductive history (such as age that menstrual periods began and age at first pregnancy), tobacco use and postmenopausal hormone therapy. Approximately 80% of breast cancers develop in women who have no modifiable breast cancer risk factor other than gender (female) and age (over 40 years).
+- Family history of breast cancer increases the risk of breast cancer, but most women diagnosed with breast cancer do not have a known family history of the disease. However, absence of a known family history does not necessarily mean that a woman is at low risk.
+- Certain inherited high penetrance gene mutations greatly increase breast cancer risk, the most dominant being mutations in the genes BRCA1, BRCA2 and PALB-2. Women found to have mutations in these major genes or at high risk may consider risk reduction strategies such as chemoprevention and/or surgical removal of both breasts.
+- Breast cancer can have combinations of symptoms, especially when it is more advanced. Symptoms of breast cancer can include:
+- a breast lump or thickening, often without pain
+
+--- PREVENTION ---
+- Breast cancer is a disease in which abnormal cells in the breast grow out of control and form tumours. If left unchecked, the tumours can spread throughout the body and become fatal.
+- Certain inherited high penetrance gene mutations greatly increase breast cancer risk, the most dominant being mutations in the genes BRCA1, BRCA2 and PALB-2. Women found to have mutations in these major genes or at high risk may consider risk reduction strategies such as chemoprevention and/or surgical removal of both breasts.
+- medications to kill cancer cells and prevent spread, including hormonal therapies, chemotherapy or targeted biological therapies.
+- Surgery may remove just the cancerous tissue (called a lumpectomy) or the whole breast (mastectomy). Lymph nodes are removed at the time of cancer surgery for invasive cancers. Complete removal of the lymph node bed under the arm (complete axillary dissection) was thought to be necessary in the past to prevent the spread of cancer. A smaller lymph node procedure called “sentinel node biopsy” is now preferred as it has fewer complications.
+- Radiotherapy plays a very important role in treating breast cancer. With early-stage breast cancers, radiation can prevent a woman having to undergo a mastectomy. With later stage cancers, radiotherapy can reduce cancer recurrence risk even when a mastectomy has been performed.
+
+--- ENVIRONMENTAL CONTROL ---
+- Certain factors increase the risk of breast cancer including increasing age, obesity, harmful use of alcohol, family history of breast cancer, history of radiation exposure, reproductive history (such as age that menstrual periods began and age at first pregnancy), tobacco use and postmenopausal hormone therapy. Approximately 80% of breast cancers develop in women who have no modifiable breast cancer risk factor other than gender (female) and age (over 40 years).
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Effective interventions for early and timely diagnosis linked to comprehensive treatment, rehabilitation and palliative care are essential to reduce the burden of breast cancer and to achieve and maintain optimal functioning and well-being.
+- Breast cancer cells begin inside the milk ducts and/or the milk-producing lobules of the breast. The earliest form (in situ) is not life-threatening and can be detected in early stages. Cancer cells can spread into nearby breast tissue (invasion). This creates tumours that cause lumps or thickening.
+- In 2022, there were an estimated 2.3 million women diagnosed with breast cancer and 670 000 deaths globally. Breast cancer occurs in every country of the world in women at any age after puberty but with increasing rates in later life. Global estimates reveal striking inequities in the breast cancer burden according to human development. For instance, in countries with a very high Human Development Index (HDI), 1 in 12 women will be diagnosed with breast cancer in their lifetime and 1 in 71 women die of it.
+- In contrast, in countries with a low HDI, 1 in 27 women will be diagnosed with breast cancer in their lifetime and 1 in 48 women die from it.
+- Family history of breast cancer increases the risk of breast cancer, but most women diagnosed with breast cancer do not have a known family history of the disease. However, absence of a known family history does not necessarily mean that a woman is at low risk.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Mortality is reduced when breast cancer cases are detected and treated early. There are two components of early detection:
+- early diagnosis: being aware of signs and symptoms of breast cancer and the importance of seeking medical advice for abnormal findings, timely clinical evaluation and diagnosis and referral for treatment services; and
+- screening: the application of mammography in an apparently healthy population, usually women 50-69 years of age, to identify pre-clinical lesions before recognizable signs or symptoms appear.
+- Treatment for breast cancer depends on the subtype of cancer and how much it has spread outside of the breast to lymph nodes (stages II or III) or to other parts of the body (stage IV) and may be combined t o minimize the chances of the cancer coming back (recurrence). These include:
+- surgery to remove the breast tumour;
+- radiation therapy to reduce recurrence risk in the breast and surrounding tissues; and
+- medications to kill cancer cells and prevent spread, including hormonal therapies, chemotherapy or targeted biological therapies.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

@@ -1,0 +1,57 @@
+TOPIC: Mycetoma
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/mycetoma
+LAST UPDATED: 14 January 2022
+
+--- OVERVIEW ---
+The causative organisms of mycetoma are distributed worldwide but are endemic in tropical and subtropical areas in the so called 'Mycetoma belt', which includes among others, the Bolivarian Republic of Venezuela, Chad, Ethiopia, India, Mauritania, Mexico, Senegal, Somalia, Sudan, Thailand, and Yemen. The number of cases reported differs per country, however at the moment most cases have been reported from Mexico and Sudan.
+
+--- KEY FACTS ---
+- Mycetoma is a chronic, progressively destructive infectious disease of the subcutaneous tissues that spreads to affect the skin, deep tissues and bone.
+- Mycetoma can be caused by different species of bacteria or fungi.
+- Mycetoma occurs in tropical and subtropical environments characterized by short rainy seasons and prolonged dry seasons that favour the growth of thorny bushes.
+- Global burden is unknown, but the disease is endemic in Africa, Asia, Europe and Latin America.
+- Mycetoma has numerous adverse medical, health and socioeconomic consequences for patients, communities and health services in affected areas.
+- People living in or travelling to endemic areas should be advised not to walk barefoot, as footwear and clothing in general can protect against puncture wounds.
+
+--- TYPES ---
+- Mycetoma is a chronic, progressively destructive infectious disease of the subcutaneous tissues that spreads to affect the skin, deep tissues and bone.
+- Mycetoma is a chronic disease usually of the foot but any part of the body can be affected. Infection is most probably acquired by traumatic inoculation of fungi or ‎bacteria into the subcutaneous tissue. So far more than 70 different bacteria and fungi have been indicated as causative agents.
+- Information disclosure
+
+--- SYMPTOMS ---
+- Mycetoma is characterized by a combination of painless ‎subcutaneous mass, multiple sinuses and discharge ‎containing grains. Within the grain, the causative agent is found. It usually ‎spreads to involve the skin, deep structures and bone, resulting in ‎destruction, ‎deformity and loss of function, which may be fatal. ‎Mycetoma commonly ‎involves the extremities, back and gluteal region but any other part of the body can be affected.‎ Given its slow progression, painless nature, lack of awareness, and scarcity of medical and health facilities in endemic areas, many patients present late with an advanced infection where amputation may be...
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Transmission, most probably occurs when the causative organism enters the body through minor trauma or a penetrating injury, commonly thorn pricks. There is a clear association between mycetoma and individuals who walk barefooted and are manual workers.
+
+--- PREVENTION ---
+- Mycetoma is not a notifiable disease (a disease required by law to be reported) and a global surveillance system is still being developed. There are no control programmes for mycetoma yet, except for Sudan. Preventing infection is difficult, but people living in or travelling to endemic areas should be advised not to walk barefooted.
+
+--- ENVIRONMENTAL CONTROL ---
+- Mycetoma is not a notifiable disease (a disease required by law to be reported) and a global surveillance system is still being developed. There are no control programmes for mycetoma yet, except for Sudan. Preventing infection is difficult, but people living in or travelling to endemic areas should be advised not to walk barefooted.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- The diagnosis of mycetoma is based on clinical presentation and identification of the causative organisms which can be detected by directly examining the grains that are discharged by the sinuses. The samples can be obtained by Fine Needle Aspiration (FNA) or surgical biopsy. Although grains microscopy is helpful in detecting the causative organism, it is important to further identify these by culture but even then misclassification occurs. Identification by Polymerase chain reaction (PCR) is the most reliable method but has high cost and lacks standardized techniques. There is no point-of-care rapid diagnostic test that can be used in...
+
+--- TREATMENT (AWARENESS ONLY) ---
+- The treatment depends on the causative organism. For bacterial mycetoma, treatment consists of a combination of antibiotics whereas for fungal mycetoma treatment consists of a combination of antifungal drugs and surgery. The treatment is lengthy, has many side effects, expensive not available in endemic areas and most importantly often unsatisfactory. For fungal mycetoma, amputations and recurrent infections are common.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

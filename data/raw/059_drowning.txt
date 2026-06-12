@@ -1,0 +1,73 @@
+TOPIC: Drowning
+CATEGORY: Injury and Emergency Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/drowning
+LAST UPDATED: 1 May 2026
+
+--- OVERVIEW ---
+Drowning is the process of experiencing respiratory impairment from submersion/immersion in liquid. Outcomes are classified as death, morbidity and no morbidity.
+
+The global burden of drowning impacts all economies and regions, however:
+
+drowning death rates are more than three times higher in low- and middle-income countries than in high-income countries;
+
+--- KEY FACTS ---
+- There are around 300 000 annual drowning deaths worldwide.
+- Drowning disproportionately impacts children and young people. Children aged under 5 years account for nearly a quarter of all drowning deaths.
+- Drowning is the fourth leading cause of death for children aged 1–4 years and the third leading cause of death for children aged 5–14 years.
+- Ninety-two percent of drowning deaths occur in low- and middle-income countries.
+- Resolutions endorsed by the United Nations General Assembly and the World Health Assembly provide a roadmap for global drowning prevention efforts.
+
+--- TYPES ---
+- Drowning is the process of experiencing respiratory impairment from submersion/immersion in liquid. Outcomes are classified as death, morbidity and no morbidity.
+- Travelling on water, particularly in dangerous weather conditions or without appropriate safety equipment, can increase drowning risk. In many low- and middle-income countries, water transport is significantly less regulated than in high-income countries. Daily commuting often takes place on overcrowded and unsafe vessels, operated by staff who have not been trained to recognize hazardous conditions or perform high-seas navigation.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- There are around 300 000 annual drowning deaths worldwide.
+- Drowning disproportionately impacts children and young people. Children aged under 5 years account for nearly a quarter of all drowning deaths.
+- Drowning is the fourth leading cause of death for children aged 1–4 years and the third leading cause of death for children aged 5–14 years.
+- Ninety-two percent of drowning deaths occur in low- and middle-income countries.
+- Drowning is the process of experiencing respiratory impairment from submersion/immersion in liquid. Outcomes are classified as death, morbidity and no morbidity.
+- drowning death rates are more than three times higher in low- and middle-income countries than in high-income countries;
+
+--- RISK FACTORS ---
+- Individuals with occupations such as commercial or subsistence fishing face a substantially higher risk of drowning. The United Nations Food and Agriculture Organization estimates that more than 32 000 fishers die while working every year. Climate change has aggravated the hazardous conditions under which most fishers work, as extreme weather and natural disasters become more prevalent and destructive.
+- Climate change is causing more extreme weather events, such as floods and heatwaves. Drowning accounts for 75% of deaths in flood disasters. Drowning risks due to floods are particularly high in low- and middle-income countries where early warning systems and flood mitigation infrastructure are underdeveloped.
+- Heatwaves increase the risk of drowning. As temperatures rise, more people seek water for heat relief and typically spend longer periods of time in and on the water.
+
+--- PREVENTION ---
+- There are many actions to prevent drowning. Covering wells, using doorway barriers and playpens, fencing swimming pools and otherwise controlling access to water hazards greatly reduces water hazard exposure and risk.
+- Community-based, supervised childcare for pre-school children can reduce drowning risk and has other proven health benefits. Teaching school-age children basic swimming, water safety and safe rescue skills is another approach. But these efforts must be undertaken with an emphasis on safety, and an overall risk management that includes a safety-tested curricula, a safe training area, screening and student selection, and student-instructor ratios established for safety.
+- Preventing drowning: Practical guidance for the provision of day-care, basic swimming and water safety skills, and safe rescue and resuscitation training.
+- A WHO investment case modelling investment in drowning prevention between now and 2050 shows scaling up just two interventions to be cost-saving. Through investing in day-care programmes for pre-school children and teaching children basic swim skills, 774 000 fewer children would drown between now and 2050. Furthermore, another 178 000 children would avoid severe, life-limiting injuries due to non-fatal drowning over the same period. Scaling these two interventions is projected to result in savings of over US$ 400 billion – a return of 9 times the value of the cost of scaling up the interventions.
+- Hidden depths: the global investment case for drowning prevention
+- Effective policies and legislation are also important for drowning prevention. Setting and enforcing safe boating, shipping and ferry regulations are vital to improving safety on the water and preventing drowning. Building resilience to flooding and managing flood risks through better disaster preparedness planning, land use planning, and early warning systems can prevent drowning during flood disasters.
+- Developing a national water safety strategy can provide strategic direction and a framework to guide multisectoral action and allow for monitoring and evaluation of efforts.
+
+--- ENVIRONMENTAL CONTROL ---
+- Individuals with occupations such as commercial or subsistence fishing face a substantially higher risk of drowning. The United Nations Food and Agriculture Organization estimates that more than 32 000 fishers die while working every year. Climate change has aggravated the hazardous conditions under which most fishers work, as extreme weather and natural disasters become more prevalent and destructive.
+- Travelling on water, particularly in dangerous weather conditions or without appropriate safety equipment, can increase drowning risk. In many low- and middle-income countries, water transport is significantly less regulated than in high-income countries. Daily commuting often takes place on overcrowded and unsafe vessels, operated by staff who have not been trained to recognize hazardous conditions or perform high-seas navigation.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Community-based, supervised childcare for pre-school children can reduce drowning risk and has other proven health benefits. Teaching school-age children basic swimming, water safety and safe rescue skills is another approach. But these efforts must be undertaken with an emphasis on safety, and an overall risk management that includes a safety-tested curricula, a safe training area, screening and student selection, and student-instructor ratios established for safety.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

@@ -1,0 +1,80 @@
+TOPIC: Childhood cancer
+CATEGORY: Cancer Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/cancer-in-children
+LAST UPDATED: 10 March 2026
+
+--- OVERVIEW ---
+Cancer is a leading cause of death for children and adolescents. The likelihood of surviving a diagnosis of childhood cancer depends on the country in which the child lives; in high-income countries, more than 80% of children with cancer are cured, but in many LMICs less than 30% are cured.
+
+Although childhood cancer cannot generally be prevented or identified through screening, most types of childhood cancer can be cured with generic medicines and other forms of treatment, including surgery and radiotherapy.
+
+The reasons for lower survival rates in LMICs include delay in diagnosis, an inability to obtain an accurate diagnosis, inaccessible therapy, abandonment of treatment, death from toxicity (side effects) and avoidable relapse. Improving access to childhood cancer care, including to essential medicines and technologies, is highly cost-effective, feasible and can improve survival in all income settings .
+
+--- KEY FACTS ---
+- Each year, an estimated 400 000 children and adolescents of 0–19 years old develop cancer.
+- The most common types of cancer affecting children include leukemias, brain tumours and solid tumours such as neuroblastoma and Wilms tumour; lymphomas, bone cancer and thyroid cancer are more common during adolescence.
+- In high-income countries, where comprehensive services are generally accessible, more than 80% of children with cancer are cured. In most low- and middle-income countries (LMICs), less than 30% are cured.
+- Avoidable deaths from childhood cancers in LMICs result from lack of diagnosis, misdiagnosis or delayed diagnosis, obstacles to accessing care, abandonment of treatment, death from toxicity and relapse.
+- Only 29% of low-income countries report that cancer medicines are generally available to their populations compared to 96% of high-income countries.
+
+--- TYPES ---
+- The most common types of cancer affecting children include leukemias, brain tumours and solid tumours such as neuroblastoma and Wilms tumour; lymphomas, bone cancer and thyroid cancer are more common during adolescence.
+- Although childhood cancer cannot generally be prevented or identified through screening, most types of childhood cancer can be cured with generic medicines and other forms of treatment, including surgery and radiotherapy.
+- Childhood cancer data systems are needed to drive continuous improvements in the quality of care, and to inform policy decisions.
+- Some chronic infections, such as HIV, Epstein-Barr virus and malaria, are risk factors for childhood cancer. They are particularly relevant in LMICs. Other infections can increase a child’s risk of developing cancer as an adult, so it is important to be vaccinated (against hepatitis B to help prevent liver cancer and against human papillomavirus to help prevent cervical cancer) and to other pursue other methods such as early detection and treatment of chronic infections that can lead to cancer.
+
+--- SYMPTOMS ---
+- Some chronic infections, such as HIV, Epstein-Barr virus and malaria, are risk factors for childhood cancer. They are particularly relevant in LMICs. Other infections can increase a child’s risk of developing cancer as an adult, so it is important to be vaccinated (against hepatitis B to help prevent liver cancer and against human papillomavirus to help prevent cervical cancer) and to other pursue other methods such as early detection and treatment of chronic infections that can lead to cancer.
+- awareness of symptoms by families and primary care providers;
+- Palliative care relieves symptoms caused by cancer and improves the quality of life of patients and their families. Not all children with cancer can be cured, but relief of suffering is possible for everyone. Paediatric palliative care is considered a core component of comprehensive care, starting when the disease is diagnosed and continuing throughout treatment and care, regardless of whether a child receives treatment with curative intent.
+- Palliative care programmes can be delivered through community and home-based care, providing pain relief and psychosocial support to patients and their families. Adequate access to oral morphine and other pain medicines should be provided for the treatment of moderate to severe cancer pain, which affects more than 80% of cancer patients in the terminal phase.
+
+--- WARNING SIGNS ---
+- Avoidable deaths from childhood cancers in LMICs result from lack of diagnosis, misdiagnosis or delayed diagnosis, obstacles to accessing care, abandonment of treatment, death from toxicity and relapse.
+- Cancer is a leading cause of death for children and adolescents. The likelihood of surviving a diagnosis of childhood cancer depends on the country in which the child lives; in high-income countries, more than 80% of children with cancer are cured, but in many LMICs less than 30% are cured.
+- The reasons for lower survival rates in LMICs include delay in diagnosis, an inability to obtain an accurate diagnosis, inaccessible therapy, abandonment of treatment, death from toxicity (side effects) and avoidable relapse. Improving access to childhood cancer care, including to essential medicines and technologies, is highly cost-effective, feasible and can improve survival in all income settings .
+- Palliative care programmes can be delivered through community and home-based care, providing pain relief and psychosocial support to patients and their families. Adequate access to oral morphine and other pain medicines should be provided for the treatment of moderate to severe cancer pain, which affects more than 80% of cancer patients in the terminal phase.
+
+--- RISK FACTORS ---
+- Cancer occurs in people of all ages and can affect any part of the body. It begins with genetic change in single cells, that can then grow into a mass (or tumour), invade other parts of the body and cause harm and death if left untreated. Unlike cancer in adults, most childhood cancers do not have a known cause. Many studies have sought to identify the causes of childhood cancer, but very few cancers in children are caused by environmental or lifestyle factors. Cancer prevention efforts in children should focus on behaviours that will prevent the child from developing preventable cancer as an adult.
+- Some chronic infections, such as HIV, Epstein-Barr virus and malaria, are risk factors for childhood cancer. They are particularly relevant in LMICs. Other infections can increase a child’s risk of developing cancer as an adult, so it is important to be vaccinated (against hepatitis B to help prevent liver cancer and against human papillomavirus to help prevent cervical cancer) and to other pursue other methods such as early detection and treatment of chronic infections that can lead to cancer.
+- Current data suggest that approximately 10% of all children with cancer have a predisposition because of genetic factors (3) . Further research is needed to identify factors impacting cancer development in children.
+
+--- PREVENTION ---
+- Avoidable deaths from childhood cancers in LMICs result from lack of diagnosis, misdiagnosis or delayed diagnosis, obstacles to accessing care, abandonment of treatment, death from toxicity and relapse.
+- Although childhood cancer cannot generally be prevented or identified through screening, most types of childhood cancer can be cured with generic medicines and other forms of treatment, including surgery and radiotherapy.
+- The reasons for lower survival rates in LMICs include delay in diagnosis, an inability to obtain an accurate diagnosis, inaccessible therapy, abandonment of treatment, death from toxicity (side effects) and avoidable relapse. Improving access to childhood cancer care, including to essential medicines and technologies, is highly cost-effective, feasible and can improve survival in all income settings .
+- Some chronic infections, such as HIV, Epstein-Barr virus and malaria, are risk factors for childhood cancer. They are particularly relevant in LMICs. Other infections can increase a child’s risk of developing cancer as an adult, so it is important to be vaccinated (against hepatitis B to help prevent liver cancer and against human papillomavirus to help prevent cervical cancer) and to other pursue other methods such as early detection and treatment of chronic infections that can lead to cancer.
+- Because it is generally not possible to prevent cancer in children, the most effective strategy to reduce the burden of cancer in children and improve outcomes is to focus on a prompt, correct diagnosis followed by effective, evidence-based therapy with tailored supportive care.
+- When identified early, cancer is more likely to respond to effective treatment and result in a greater probability of survival, less suffering, and often less expensive and less intensive treatment. Significant improvements can be made in the lives of children with cancer by detecting cancer early and avoiding delays in care. A correct diagnosis is essential to treat children with cancer because each cancer requires a specific treatment regimen that may include surgery, radiotherapy, and chemotherapy.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- When identified early, cancer is more likely to respond to effective treatment and result in a greater probability of survival, less suffering, and often less expensive and less intensive treatment. Significant improvements can be made in the lives of children with cancer by detecting cancer early and avoiding delays in care. A correct diagnosis is essential to treat children with cancer because each cancer requires a specific treatment regimen that may include surgery, radiotherapy, and chemotherapy.
+- Early diagnosis consists of 3 components:
+- awareness of symptoms by families and primary care providers;
+- accurate and timely clinical evaluation, diagnosis, and staging (determining the extent to which a cancer has spread); and
+- access to prompt treatment.
+- Early diagnosis is relevant in all settings and improves survival for many cancers. Programmes to promote early and correct diagnosis have been successfully implemented in countries of all income levels, often through the collaborative efforts of governments, civil society and nongovernmental organizations, with vital roles played by parent groups. Childhood cancer is associated with a range of warning symptoms, such as fever, severe and persistent headaches, bone pain and weight loss, that can be detected by families and by trained primary health-care providers.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- A correct diagnosis is essential to prescribe appropriate therapy for the type and extent of the disease. Standard therapies include chemotherapy, surgery and/or radiotherapy. Children also need special attention to their continued physical and cognitive growth and nutritional status, which requires a dedicated, multi-disciplinary team. Access to effective diagnosis, essential medicines, pathology, blood products, radiation therapy, technology and psychosocial and supportive care are variable and inequitable around the world.
+- However, cure is possible for more than 80% of children with cancer when childhood cancer services are accessible. Pharmacological treatment, for example, includes inexpensive generic medications included on the WHO List of essential medicines for children . Children who complete treatment require ongoing care to monitor for cancer recurrence and to manage any possible long-term impact of treatment.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

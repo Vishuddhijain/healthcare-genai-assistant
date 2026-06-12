@@ -1,0 +1,65 @@
+TOPIC: Trans fat
+CATEGORY: Preventive Care and Wellness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/trans-fat
+LAST UPDATED: 24 January 2024
+
+--- OVERVIEW ---
+Cardiovascular diseases are the leading cause of mortality in the world. Major risk factors are unhealthy diets, physical inactivity, tobacco and alcohol use. Among other dietary factors, high intake of trans fat increases the risk of death from any cause by 34%, coronary heart disease deaths by 28%, and coronary heart disease by 21%. Trans fat has no known health benefits.
+
+Trans fat is produced industrially by the partial hydrogenation of any liquid oils, in most cases vegetable oils, but also occurs naturally in meat and dairy products from ruminant animals. For a healthy diet, the recommended intake of trans-fats is less than 1% of total energy. Industrially produced trans fats are not part of a healthy diet and should be avoided.
+
+Governments have a central role in creating healthy food environments that enable people to adopt and maintain healthy dietary practices and must encourage reformulation of food products to reduce trans fat, with the goal of eliminating industrially produced trans fat. WHO developed a REPLACE action package that supports governments to design and implement a policy to eliminate industrially produced trans fat from their food supply.
+
+--- KEY FACTS ---
+- Trans fat, or trans -fatty acids (TFA), are unsaturated fatty acids that come from either industrial or natural sources.
+- More than 278 000 deaths each year globally can be attributed to intake of industrially produced trans fat.
+- Trans fat clogs arteries, increasing the risk of heart attacks and deaths.
+- Industrially produced trans fat can be found in margarine, vegetable shortening, Vanaspati ghee, fried foods, and baked goods such as crackers, biscuits and pies. Baked and fried street and restaurant foods often contain industrially produced trans fat. Trans fat can also be found naturally in meat and dairy foods from ruminant animals (e.g. cows, sheep, goats). Both industrially produced and naturally occurring trans fat are equally harmful.
+- Industrially produced trans fat can be eliminated and replaced with healthier fats or oils without changing cost, taste or availability of food.
+- WHO’s recommendation for adults is to limit consumption of trans fat to less than 1% of total energy intake, which is less than 2.2 g per day for a 2000-calorie diet.
+
+--- TYPES ---
+- Governments have a central role in creating healthy food environments that enable people to adopt and maintain healthy dietary practices and must encourage reformulation of food products to reduce trans fat, with the goal of eliminating industrially produced trans fat. WHO developed a REPLACE action package that supports governments to design and implement a policy to eliminate industrially produced trans fat from their food supply.
+- Industrially produced trans fats are formed in an industrial process that adds hydrogen to vegetable oil, converting the liquid into a solid and resulting in partially hydrogenated oil (PHO). On average, trans fat concentrations in PHO are 25–45%. Naturally occurring trans fats come from ruminants (such as cows and sheep), are found in meat and dairy foods, and are equally harmful as industrially produced trans fat.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- More than 278 000 deaths each year globally can be attributed to intake of industrially produced trans fat.
+- Trans fat clogs arteries, increasing the risk of heart attacks and deaths.
+- Cardiovascular diseases are the leading cause of mortality in the world. Major risk factors are unhealthy diets, physical inactivity, tobacco and alcohol use. Among other dietary factors, high intake of trans fat increases the risk of death from any cause by 34%, coronary heart disease deaths by 28%, and coronary heart disease by 21%. Trans fat has no known health benefits.
+
+--- RISK FACTORS ---
+- Trans fat clogs arteries, increasing the risk of heart attacks and deaths.
+- Cardiovascular diseases are the leading cause of mortality in the world. Major risk factors are unhealthy diets, physical inactivity, tobacco and alcohol use. Among other dietary factors, high intake of trans fat increases the risk of death from any cause by 34%, coronary heart disease deaths by 28%, and coronary heart disease by 21%. Trans fat has no known health benefits.
+
+--- PREVENTION ---
+- Trans fat is produced industrially by the partial hydrogenation of any liquid oils, in most cases vegetable oils, but also occurs naturally in meat and dairy products from ruminant animals. For a healthy diet, the recommended intake of trans-fats is less than 1% of total energy. Industrially produced trans fats are not part of a healthy diet and should be avoided.
+- Although the primary responsibility to protect citizens from the harmful effects of industrially produced trans fat rests with governments, there are actions that individuals can take too to reduce trans fact intake: intake:
+- avoid PHO found in fried and baked foods (if it is labelled on the food product)
+
+--- ENVIRONMENTAL CONTROL ---
+- Governments have a central role in creating healthy food environments that enable people to adopt and maintain healthy dietary practices and must encourage reformulation of food products to reduce trans fat, with the goal of eliminating industrially produced trans fat. WHO developed a REPLACE action package that supports governments to design and implement a policy to eliminate industrially produced trans fat from their food supply.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

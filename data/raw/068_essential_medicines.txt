@@ -1,0 +1,69 @@
+TOPIC: Essential medicines
+CATEGORY: Health Systems / Medicines Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/essential-medicines
+LAST UPDATED: 26 January 2026
+
+--- OVERVIEW ---
+Essential medicines are those that effectively and safely treat the priority health-care needs of populations. They are selected by taking into consideration public health relevance, evidence of benefits and harms, and with consideration of costs, affordability and other relevant factors.
+
+Essential medicines should always be available within functioning health systems, in sufficient quantities to meet patient needs. They should be available in appropriate dosage forms for the intended uses and patients, be of assured quality, and be affordable for both individuals and the health system.
+
+While essential medicines cover a wide range of global health needs, they represent only a small proportion of the total number of medicines available globally. The use of a limited number of carefully selected medicines can lead to improved supply, better prescribing practices and lower costs.
+
+--- KEY FACTS ---
+- Essential medicines treat the priority health-care needs of populations.
+- Essential medicines should be available, affordable and of assured quality at all times.
+- WHO publishes its Model List of Essential Medicines every 2 years to guide countries to develop and update national essential medicine lists.
+- WHO selects essential medicines based on public health relevance, evidence of benefits and harms, and with consideration of costs, affordability and other relevant factors.
+- Globally, over 150 countries have national essential medicines lists based on the WHO Model List.
+- The 2025 edition of the WHO Model List includes over 520 medicines (including 374 for children).
+
+--- TYPES ---
+- Essential medicines should always be available within functioning health systems, in sufficient quantities to meet patient needs. They should be available in appropriate dosage forms for the intended uses and patients, be of assured quality, and be affordable for both individuals and the health system.
+- In 2007, the first Model List of Essential Medicines for Children (EMLc) was published in recognition of the unique needs of children. This was a major achievement, particularly in promoting research into medicines for children and the development of child-friendly formulations.
+- Requests for changes to the WHO Model List, (such as the addition of new medicines or formulations, removal of medicines or formulations, or expanding the listing of a medicine to include a new indication), are made through an open application process. Applications may be submitted by anyone, including scientific researchers, academic institutions, non-governmental organizations, patient groups or networks, pharmaceutical companies and WHO technical departments.
+- Since the first Model List in 1977, the number and scope of essential medicines included in the Model List have grown. Medicines requiring specialized medical care have been introduced, such as lung surfactants for newborn babies, targeted cancer treatments and medicines for multiple sclerosis. The Model List has also included more treatments for chronic and noncommunicable diseases, reflecting the changing global disease burden and ageing populations.
+
+--- SYMPTOMS ---
+- In 2017, in response to the growing threat of antimicrobial resistance, the WHO Model List introduced the AWaRe (Access, Watch, Reserve) classification of antibiotics. The AWaRe classification guides the empiric use of essential antibiotics for more than 30 clinical infections in community and hospital settings. It has formed the basis of broader guidance for optimal antibiotic prescribing and use, supporting antimicrobial stewardship.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- Essential medicines are those that effectively and safely treat the priority health-care needs of populations. They are selected by taking into consideration public health relevance, evidence of benefits and harms, and with consideration of costs, affordability and other relevant factors.
+- The essential medicines concept can be adapted to different health-care systems, settings and income levels. By focusing on a limited number of carefully selected medicines, countries can improve supply, promote more rational prescribing practices and better control costs while ensuring access to essential medicines.
+- While the cost of a medicine is a consideration in the selection process, a high absolute cost of a medicine does not necessarily prevent it from being added to the WHO Model List if it otherwise meets the required selection criteria. Since 2002, affordability has evolved from being a precondition of listing a medicine on the Model list to being a consequence. Listing a medicine on the Model List is one step in a series of actions that can lead to lower costs, better affordability and greater access.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Essential medicines treat the priority health-care needs of populations.
+- Essential medicines should be available, affordable and of assured quality at all times.
+- WHO publishes its Model List of Essential Medicines every 2 years to guide countries to develop and update national essential medicine lists.
+- WHO selects essential medicines based on public health relevance, evidence of benefits and harms, and with consideration of costs, affordability and other relevant factors.
+- Globally, over 150 countries have national essential medicines lists based on the WHO Model List.
+- The 2025 edition of the WHO Model List includes over 520 medicines (including 374 for children).
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

@@ -1,0 +1,184 @@
+TOPIC: Child Health — Diarrhoea, Pneumonia, and Malnutrition (Under-5 Children)
+CATEGORY: Communicable Disease + Nutritional Disorder (Paediatric)
+SOURCE: WHO + UNICEF + NHM India + NHP India - https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease | https://www.who.int/news-room/fact-sheets/detail/pneumonia | nhm.gov.in/index4.php?lang=1&level=0&linkid=409
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Despite significant progress over the past two decades, India still accounts for a substantial share of global under-5 child deaths. The three leading causes of death in children under 5 in India are pneumonia, diarrhoeal diseases, and malnutrition (which underlies ~45% of all child deaths globally). These three conditions are closely linked — malnutrition weakens immunity, increasing susceptibility to infection; infections worsen nutritional status; diarrhoea and pneumonia together account for over a third of under-5 deaths globally.
+
+--- SECTION 1: DIARRHOEA IN CHILDREN ---
+
+Definition: Passage of 3 or more loose or watery stools per day. Acute diarrhoea lasts <14 days; persistent diarrhoea lasts 14 days or more; dysentery involves blood in stool.
+
+Common Causes:
+- Rotavirus (most common cause of severe diarrhoea in young children)
+- E. coli, Shigella, Salmonella (bacterial)
+- Cryptosporidium, Giardia (parasitic)
+- Contaminated water or food
+- Poor hygiene and sanitation
+
+Dehydration — Key Danger:
+Diarrhoea kills primarily by dehydration. Recognise signs:
+- Mild: Thirsty, slightly less active
+- Moderate: Dry mouth, sunken eyes, reduced skin elasticity (skin pinch goes back slowly), less urine, no tears when crying, irritable
+- Severe: Very sunken eyes, very dry mouth, skin pinch goes back very slowly, unable to drink, lethargic/unconscious — MEDICAL EMERGENCY
+
+ORS (Oral Rehydration Solution):
+- First-line treatment for preventing and treating dehydration from diarrhoea
+- WHO/UNICEF low-osmolarity ORS: 1 packet in 1 litre of clean water
+- If ORS packet unavailable: Home-made solution — 1 litre clean water + 6 level teaspoons sugar + half level teaspoon salt
+- Give sips frequently; do NOT stop feeds — continue breastfeeding
+
+Zinc Supplementation:
+- Zinc 20 mg/day for 14 days (10 mg/day for infants under 6 months) — reduces diarrhoea duration and severity and prevents recurrence
+- Government health centres provide ORS and zinc free under IMNCI programme
+
+When to Seek Medical Help (diarrhoea):
+- Blood in stool
+- High fever
+- Persistent vomiting — cannot keep ORS down
+- Not improving after 2–3 days
+- Signs of moderate or severe dehydration
+- Child is very young (<6 months)
+
+Prevention of Diarrhoea:
+- Exclusive breastfeeding for first 6 months (protects against infections)
+- Safe drinking water (boiled or purified)
+- Hand washing with soap — before preparing food, before feeding child, after using toilet/changing nappies
+- Safe food handling and storage
+- Rotavirus vaccine: Available under UIP (Universal Immunisation Programme) in India — 2 or 3 doses at 6–10–14 weeks
+- Improved sanitation and use of toilets (Swachh Bharat Mission)
+
+--- SECTION 2: PNEUMONIA IN CHILDREN ---
+
+Definition: Infection of the lungs (alveoli) caused by bacteria, viruses, or fungi. Bacterial pneumonia (Streptococcus pneumoniae, Haemophilus influenzae) is most severe. Viral pneumonia (RSV, influenza) is more common.
+
+Symptoms:
+- Fast breathing (most important sign): >60 breaths/min in infants <2 months; >50 in 2–11 months; >40 in 1–5 years
+- Chest in-drawing (lower chest wall draws inward with each breath)
+- Wheezing
+- High fever
+- Cough
+- Difficulty feeding or lethargy
+- Cyanosis (bluish lips/nails) — EMERGENCY
+
+Classification (WHO):
+- Pneumonia: Fast breathing, no chest in-drawing → treat with oral antibiotics (amoxicillin first line)
+- Severe pneumonia: Chest in-drawing → hospital admission required
+- Very severe: Cyanosis, unable to feed, convulsions → emergency
+
+Prevention:
+- Vaccination: Pneumococcal Conjugate Vaccine (PCV) — under UIP phase-in; protects against S. pneumoniae (leading bacterial cause)
+- Hib vaccine (Pentavalent vaccine): Protects against H. influenzae type b
+- Exclusive breastfeeding (first 6 months)
+- Reduce indoor air pollution (biomass fuel smoke)
+- Adequate nutrition (malnutrition increases pneumonia risk significantly)
+- Zinc supplementation (reduces pneumonia incidence in children)
+- Hand washing with soap
+
+When to Seek Medical Help (pneumonia):
+- Fast breathing
+- Chest in-drawing
+- Difficulty breathing or noisy breathing
+- High persistent fever
+- Unable to drink/feed
+- Lethargy or drowsiness
+- Any of above in infant <2 months — seek care urgently
+
+--- SECTION 3: MALNUTRITION IN CHILDREN ---
+
+Definitions:
+- Stunting: Low height-for-age (chronic undernutrition over a long period) — 35% of Indian children under 5 are stunted (NFHS-5)
+- Wasting: Low weight-for-height (acute undernutrition) — 19% of Indian children under 5 are wasted
+- Underweight: Low weight-for-age — 32% of Indian children under 5 are underweight
+- Severe Acute Malnutrition (SAM): Very low weight-for-height with or without oedema; life-threatening
+- Moderate Acute Malnutrition (MAM): Moderate weight-for-height deficit
+- Micronutrient deficiency: Lacks Vitamin A, iron, zinc, iodine — "hidden hunger"
+
+Signs of Severe Acute Malnutrition (SAM):
+- Visible severe wasting (very thin arms and legs, prominent ribs)
+- Bilateral pitting oedema (swelling in both feet/legs — sign of kwashiorkor)
+- MUAC (Mid-Upper Arm Circumference) < 11.5 cm (red zone) — screening tool used by health workers
+- Very poor appetite
+- Marasmus: Extreme wasting, very low weight, wrinkled skin
+- Kwashiorkor: Oedema, swollen belly, skin lesions, hair changes
+
+Causes of Malnutrition in India:
+- Inadequate dietary intake (quality and quantity)
+- Poor infant and young child feeding practices
+- Recurrent infections (diarrhoea, pneumonia) creating vicious cycle
+- Poverty and food insecurity
+- Maternal malnutrition (low birth weight babies)
+- Poor WASH (Water, Sanitation, Hygiene) practices
+- Early marriage and adolescent pregnancy
+
+Prevention:
+- Exclusive breastfeeding for 6 months; continued breastfeeding up to 2 years
+- Timely complementary feeding from 6 months (nutritious semi-solid foods alongside breastfeeding)
+- Dietary diversity (cereals, pulses, vegetables, fruits, dairy/animal foods)
+- Vitamin A supplementation (Vitamin A National Supplementation Programme — doses every 6 months for children 9 months–5 years)
+- Iron and Folic Acid (IFA) supplementation — through ICDS and health system
+- Deworming: National Deworming Day (NDD) — albendazole twice yearly for children 1–19 years
+- Growth monitoring at Anganwadi centres (monthly weighing)
+
+SAM Management:
+- Therapeutic feeding at Nutrition Rehabilitation Centres (NRCs) — located in government district hospitals and CHCs
+- Ready-to-Use Therapeutic Food (RUTF): Peanut-based energy-dense product for SAM management at home
+- Treatment of infections accompanying SAM
+
+--- GOVERNMENT PROGRAMMES ---
+- ICDS (Integrated Child Development Services): Anganwadi centres provide supplementary nutrition, growth monitoring, immunisation, health check-ups, and referrals
+- POSHAN Abhiyaan (National Nutrition Mission): Targets reduction of stunting, underweight, anaemia, and low birth weight
+- MAA Programme (Mothers Absolute Affection): Promotes breastfeeding
+- NRC (Nutrition Rehabilitation Centres): SAM management at government hospitals
+- Universal Immunisation Programme (UIP): Rotavirus, PCV, Pentavalent (Hib), Measles-Rubella, BCG, IPV, OPV vaccines — free at government centres
+
+Helplines:
+- POSHAN Abhiyaan portal: poshan.gov.in
+- Child Helpline: 1098 (Childline India)
+- ICDS via Anganwadi: Reach nearest Anganwadi centre
+
+--- WHEN TO SEEK MEDICAL HELP ---
+- Diarrhoea with signs of dehydration or blood in stool
+- Fast breathing, chest in-drawing, or difficulty breathing
+- Child unable to eat/drink or is extremely lethargic
+- Child looks severely thin or has bilateral leg swelling
+- Child has MUAC less than 11.5 cm (red tape on MUAC measuring tape)
+- Persistent fever (>3 days)
+- Any serious illness in an infant under 2 months
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Diarrhoea, pneumonia, and malnutrition in children — especially infants — can become life-threatening rapidly. Always seek timely care from a qualified healthcare provider. Do not delay if warning signs are present. Free care is available at government Primary Health Centres, Community Health Centres, and district hospitals.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

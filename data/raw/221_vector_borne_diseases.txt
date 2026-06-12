@@ -1,0 +1,75 @@
+TOPIC: Vector-borne diseases
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases
+LAST UPDATED: 26 September 2024
+
+--- OVERVIEW ---
+Vectors are living organisms that can transmit infectious pathogens between humans, or from animals to humans. Many of these vectors are bloodsucking insects which ingest disease-producing microorganisms during a blood meal from an infected host (human or animal) and later transmit it into a new host, after the pathogen has replicated. Often, once a vector becomes infectious, they are capable of transmitting the pathogen for the rest of their life during each subsequent bite/blood meal.
+
+--- KEY FACTS ---
+- Vector-borne diseases account for more than 17% of all infectious diseases, causing more than 700 000 deaths annually. They can be caused by either parasites, bacteria or viruses.
+- Malaria is a parasitic infection transmitted by Anopheline mosquitoes. It causes an estimated 249 million cases globally, and results in more than 608 000 deaths every year. Most of the deaths occur in children under the age of 5 years.
+- Dengue is the most prevalent viral infection transmitted by Aedes mosquitoes. More than 3.9 billion people in over 132 countries are at risk of contracting dengue, with an estimated 96 million symptomatic cases and an estimated 40 000 deaths every year.
+- Other viral diseases transmitted by vectors include chikungunya fever, Zika virus fever, yellow fever, West Nile fever, Japanese encephalitis (all transmitted by mosquitoes), tick-borne encephalitis (transmitted by ticks) and Oropouche fever (transmitted by Culicoides flies)
+- Many of vector-borne diseases are preventable through protective measures and community mobilization.
+
+--- TYPES ---
+- The burden of these diseases is highest in tropical and subtropical areas, and they disproportionately affect the poorest populations. Since 2014, major outbreaks of dengue, malaria, chikungunya, yellow fever and Zika have afflicted populations, claimed lives, and overwhelmed health systems in many countries. Other diseases such as chikungunya, leishmaniasis and lymphatic filariasis cause chronic suffering, life-long morbidity, disability and occasional stigmatization.
+- Information disclosure
+
+--- SYMPTOMS ---
+- Malaria is a parasitic infection transmitted by Anopheline mosquitoes. It causes an estimated 249 million cases globally, and results in more than 608 000 deaths every year. Most of the deaths occur in children under the age of 5 years.
+- Dengue is the most prevalent viral infection transmitted by Aedes mosquitoes. More than 3.9 billion people in over 132 countries are at risk of contracting dengue, with an estimated 96 million symptomatic cases and an estimated 40 000 deaths every year.
+- Other viral diseases transmitted by vectors include chikungunya fever, Zika virus fever, yellow fever, West Nile fever, Japanese encephalitis (all transmitted by mosquitoes), tick-borne encephalitis (transmitted by ticks) and Oropouche fever (transmitted by Culicoides flies)
+- Vector-borne diseases are human illnesses caused by parasites, viruses and bacteria that are transmitted by vectors. Every year there are more than 700 000 deaths from diseases such as malaria, dengue, schistosomiasis, human African trypanosomiasis, leishmaniasis, Chagas disease, yellow fever, Japanese encephalitis and onchocerciasis.
+- The burden of these diseases is highest in tropical and subtropical areas, and they disproportionately affect the poorest populations. Since 2014, major outbreaks of dengue, malaria, chikungunya, yellow fever and Zika have afflicted populations, claimed lives, and overwhelmed health systems in many countries. Other diseases such as chikungunya, leishmaniasis and lymphatic filariasis cause chronic suffering, life-long morbidity, disability and occasional stigmatization.
+- Louse-borne relapsing fever
+
+--- WARNING SIGNS ---
+- Vector-borne diseases account for more than 17% of all infectious diseases, causing more than 700 000 deaths annually. They can be caused by either parasites, bacteria or viruses.
+- Malaria is a parasitic infection transmitted by Anopheline mosquitoes. It causes an estimated 249 million cases globally, and results in more than 608 000 deaths every year. Most of the deaths occur in children under the age of 5 years.
+- Dengue is the most prevalent viral infection transmitted by Aedes mosquitoes. More than 3.9 billion people in over 132 countries are at risk of contracting dengue, with an estimated 96 million symptomatic cases and an estimated 40 000 deaths every year.
+- Vector-borne diseases are human illnesses caused by parasites, viruses and bacteria that are transmitted by vectors. Every year there are more than 700 000 deaths from diseases such as malaria, dengue, schistosomiasis, human African trypanosomiasis, leishmaniasis, Chagas disease, yellow fever, Japanese encephalitis and onchocerciasis.
+
+--- RISK FACTORS ---
+- Vector-borne diseases account for more than 17% of all infectious diseases, causing more than 700 000 deaths annually. They can be caused by either parasites, bacteria or viruses.
+- Malaria is a parasitic infection transmitted by Anopheline mosquitoes. It causes an estimated 249 million cases globally, and results in more than 608 000 deaths every year. Most of the deaths occur in children under the age of 5 years.
+- Dengue is the most prevalent viral infection transmitted by Aedes mosquitoes. More than 3.9 billion people in over 132 countries are at risk of contracting dengue, with an estimated 96 million symptomatic cases and an estimated 40 000 deaths every year.
+- Other viral diseases transmitted by vectors include chikungunya fever, Zika virus fever, yellow fever, West Nile fever, Japanese encephalitis (all transmitted by mosquitoes), tick-borne encephalitis (transmitted by ticks) and Oropouche fever (transmitted by Culicoides flies)
+- Vector-borne diseases are human illnesses caused by parasites, viruses and bacteria that are transmitted by vectors. Every year there are more than 700 000 deaths from diseases such as malaria, dengue, schistosomiasis, human African trypanosomiasis, leishmaniasis, Chagas disease, yellow fever, Japanese encephalitis and onchocerciasis.
+- Plague (transmitted from rats to humans)
+
+--- PREVENTION ---
+- Many of vector-borne diseases are preventable through protective measures and community mobilization.
+- WHO Secretariat provides strategic, normative, and technical guidance to countries and development partners to strengthen vector control as a fundamental approach based on GVCR to prevent disease and respond to outbreaks. Specifically, WHO responds to vector-borne diseases by:
+- providing evidence-based guidance for controlling vectors and protecting people against infection;
+- providing training (capacity building) on clinical management, diagnosis and vector control with support from some of its collaborating centres; and
+- supporting the development and evaluation of new tools, technologies and approaches for vector-borne diseases, including vector control and disease management technologies.
+- A crucial element in reducing the burden of vector-borne diseases is behavioural change. WHO works with partners to provide education and improve public awareness, so that people know how to protect themselves and their communities from mosquitoes, ticks, bugs, flies and other vectors.
+
+--- ENVIRONMENTAL CONTROL ---
+- Distribution of vector-borne diseases is determined by a complex set of demographic, environmental and social factors. Global travel and trade, unplanned urbanization, climate change and silent spread and adaptation of the vectors have all contributed to the spread of vector-borne diseases.
+- Access to water and sanitation is a very important factor in disease control and elimination. WHO works together with many different government sectors to improve water storage, sanitation, thereby helping to control these diseases at the community level.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- providing training (capacity building) on clinical management, diagnosis and vector control with support from some of its collaborating centres; and
+
+--- TREATMENT (AWARENESS ONLY) ---
+- providing training (capacity building) on clinical management, diagnosis and vector control with support from some of its collaborating centres; and
+- supporting the development and evaluation of new tools, technologies and approaches for vector-borne diseases, including vector control and disease management technologies.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

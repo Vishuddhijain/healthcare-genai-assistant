@@ -1,0 +1,65 @@
+TOPIC: Noma
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/noma
+LAST UPDATED: 15 December 2023
+
+--- OVERVIEW ---
+Noma is a rapidly progressing severe gangrenous disease of the mouth and the face. It mostly affects children aged 2–6 years suffering from malnutrition, affected by infectious diseases, living in extreme poverty with poor oral health or with weakened immune systems (1) . Noma can also occur among immunocompromised adults due to HIV, leukaemia and other diseases.
+
+The disease, also called cancrum oris or gangrenous stomatitis, is mostly found in sub-Saharan Africa, although cases have also been reported in Latin America, Asia and other regions. Noma starts as a soft tissue lesion (a sore) of the gums. It then develops into an acute necrotizing gingivitis that progresses rapidly, destroying the soft tissues and further progressing to involve the hard tissues and skin of the face. Noma is generally considered an opportunistic and non-contagious disease.
+
+Survivors suffer from severe facial disfigurement, have difficulty speaking and eating, endure social stigma, and require complex surgery and rehabilitation. When noma is detected at an early stage, its progression can be rapidly halted through basic hygiene, antibiotics and improved nutrition.
+
+--- KEY FACTS ---
+- Noma is a severe gangrenous disease of the mouth and face. Its pathogenesis is linked with non-specific polymicrobial organisms and a range of modifiable risk factors and underlying social determinants shared with other neglected tropical diseases (NTDs).
+- Noma mainly affects children aged 2−6 years old and is found most commonly among those living in poor communities. Africa is the most affected continent, although cases have also been reported in Asia, the Americas and other regions.
+- The latest WHO estimates on burden of disease date to 1998, with an estimated 140 000 incident cases per year and a prevalence of 770 000 cases. The case-fatality rate was estimated at 90%, although evidence shows that this can be greatly reduced by early treatment.
+- Accurate estimations of noma’s burden are challenging, as many cases go undiagnosed, untreated and unreported due to the fast progression of the disease, high case-fatality rate, weak health systems including surveillance, associated stigma and lack of awareness of noma by healthcare workers and caregivers.
+- Affected children that survive the diseases are often left with serious aesthetic and functional consequences including disfigurement and impairments in breathing, swallowing, speaking and vision that further contribute to their social isolation, stigmatization, discrimination, and consequently to violations of their human rights.
+
+--- TYPES ---
+- The disease, also called cancrum oris or gangrenous stomatitis, is mostly found in sub-Saharan Africa, although cases have also been reported in Latin America, Asia and other regions. Noma starts as a soft tissue lesion (a sore) of the gums. It then develops into an acute necrotizing gingivitis that progresses rapidly, destroying the soft tissues and further progressing to involve the hard tissues and skin of the face. Noma is generally considered an opportunistic and non-contagious disease.
+- Noma is diagnosed using clinical criteria that differ according to the different stages of progress. There is currently no point of care diagnostic test. WHO classifies noma into 5 clinical stages : stage 0 – simple gingivitis (gum inflammation); stage 1 – acute necrotizing gingivitis; stage 2 – oedema; stage 3 – gangrene; stage 4 – scarring; and stage 5 – sequelae.
+
+--- SYMPTOMS ---
+- Limitations exist in our current understanding of the aetiology and pathogenesis of noma. Evidence indicates that the causative agents of noma are non-specific polymicrobial organisms. There is also a wide range of associated risk factors reported: research highlights that the disease is linked with malnutrition, other causes of immunosuppression, underlying infections, poor oral health and extreme poverty. Noma is considered an opportunistic and non-contagious disease: there is no documented evidence to support direct transmission from person to person.
+
+--- WARNING SIGNS ---
+- Noma is a severe gangrenous disease of the mouth and face. Its pathogenesis is linked with non-specific polymicrobial organisms and a range of modifiable risk factors and underlying social determinants shared with other neglected tropical diseases (NTDs).
+- Noma is a rapidly progressing severe gangrenous disease of the mouth and the face. It mostly affects children aged 2–6 years suffering from malnutrition, affected by infectious diseases, living in extreme poverty with poor oral health or with weakened immune systems (1) . Noma can also occur among immunocompromised adults due to HIV, leukaemia and other diseases.
+- Survivors suffer from severe facial disfigurement, have difficulty speaking and eating, endure social stigma, and require complex surgery and rehabilitation. When noma is detected at an early stage, its progression can be rapidly halted through basic hygiene, antibiotics and improved nutrition.
+
+--- RISK FACTORS ---
+- Accurate estimation of the number of noma cases is challenging due to the rapid progression of the disease, high case fatality rate, weak health systems and epidemiological surveillance, changing or varying disease definitions, substantial social stigma, and a lack of awareness of noma by healthcare workers and caregivers. The WHO global incidence, prevalence and case fatality figures from 1998 (global incidence 140 000 cases per year, prevalence 770 000, case fatality 90%) remain the most widely cited, but methodological limitations mean that the true magnitude of noma’s burden and the quantification of noma survivors is largely unknown....
+- Since the early 2000s over 13 000 cases of noma have been reported in scientific literature. Their distribution indicates that the disease is prevalent beyond the so-called noma belt, an area of the African continent stretching from Mauritania to Ethiopia. Indeed, cases are seen in African countries outside this area as well as in other parts of the world, including Asia and Asia-Pacific, the Americas, the Middle East and Europe.
+- Noma is a marker of absolute poverty. In 2012, the UN Human Rights Council acknowledged that the neglect from which noma is affected may amount to a violation of basic child rights. The Council made a comprehensive set of recommendations in line with the strategies of the WHO Regional Office for Africa Noma Control Programme.
+- Limitations exist in our current understanding of the aetiology and pathogenesis of noma. Evidence indicates that the causative agents of noma are non-specific polymicrobial organisms. There is also a wide range of associated risk factors reported: research highlights that the disease is linked with malnutrition, other causes of immunosuppression, underlying infections, poor oral health and extreme poverty. Noma is considered an opportunistic and non-contagious disease: there is no documented evidence to support direct transmission from person to person.
+
+--- PREVENTION ---
+- Survivors suffer from severe facial disfigurement, have difficulty speaking and eating, endure social stigma, and require complex surgery and rehabilitation. When noma is detected at an early stage, its progression can be rapidly halted through basic hygiene, antibiotics and improved nutrition.
+- Noma is a marker of absolute poverty. In 2012, the UN Human Rights Council acknowledged that the neglect from which noma is affected may amount to a violation of basic child rights. The Council made a comprehensive set of recommendations in line with the strategies of the WHO Regional Office for Africa Noma Control Programme.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Noma is diagnosed using clinical criteria that differ according to the different stages of progress. There is currently no point of care diagnostic test. WHO classifies noma into 5 clinical stages : stage 0 – simple gingivitis (gum inflammation); stage 1 – acute necrotizing gingivitis; stage 2 – oedema; stage 3 – gangrene; stage 4 – scarring; and stage 5 – sequelae.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Early detection is essential, as therapy is most effective at the early stages of disease when it appears as aggressively swollen gums (acute necrotizing gingivitis). Treatment typically includes prescription of widely available antibiotics, advice and support on practices to improve oral hygiene, disinfectant mouthwash (salt water or chlorhexidine could be used), and nutrition supplements. If diagnosed during the early stages of the disease, treatment can lead to proper wound healing and no long-term sequelae. More severe cases may warrant surgical intervention and wound dressing. Once noma reaches the gangrenous stage of the disease...
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

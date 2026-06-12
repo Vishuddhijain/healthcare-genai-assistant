@@ -1,0 +1,84 @@
+TOPIC: Sickle-cell disease
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease
+LAST UPDATED: 6 August 2025
+
+--- OVERVIEW ---
+Sickle-cell disease (SCD) is a genetic disorder that affects haemoglobin, the molecule in red blood cells responsible for carrying oxygen. The disease causes red blood cells to become rigid and sickle-shaped, leading to blockages in blood flow and subsequent pain and organ damage. SCD is most common in individuals of African, Mediterranean, Middle Eastern, and Indian descent. The disease manifests in various forms, with sickle-cell anaemia being the most severe. Early diagnosis is crucial for managing the disease and preventing complications. Treatment focuses on alleviating symptoms and preventing crises, with advanced therapies like gene therapy offering hope for a cure.
+
+--- KEY FACTS ---
+- Sickle-cell disease is a serious inherited blood disorder caused by a mutation in the HBB gene, leading to abnormal, sickle-shaped red blood cells that block blood flow and cause severe health complications.
+- In 2021, an estimated 7.74 million people were living with sickle-cell disease globally, with 515 000 new births, primarily in sub-Saharan Africa, which accounts for nearly 80% of global cases.
+- Sickle-cell disease causes substantial under-5 mortality: 81 100 deaths in 2021, making it the 12th leading cause of death in this age group when considering the total mortality burden.
+- Traditional mortality recording underestimates sickle-cell disease impact – actual deaths are 11 times higher than cause-specific statistics suggest (376 000 vs 34 400 deaths in 2021).
+- Common complications include acute pain crises, anaemia, stroke, infections, kidney failure, and pregnancy-related risks.
+- Effective interventions exist, including disease modifying agents such as hydroxyurea and vaccinations to prevent infection.
+
+--- TYPES ---
+- Common complications include acute pain crises, anaemia, stroke, infections, kidney failure, and pregnancy-related risks.
+- Delayed growth: in children and adolescents, due to chronic anaemia and other complications.
+- Sickle-cell anemia is typically diagnosed through a blood test. These tests look for the abnormal hemoglobin (HbS) that characterizes the disease. Additional tests, such as haemoglobin electrophoresis, can confirm the diagnosis and determine the specific type of SCD. Early diagnosis, such as through newborn screening, is essential for managing the disease and preventing severe complications.
+- acute chest syndrome: a life-threatening condition caused by sickle-cells blocking blood flow in the lungs, leading to chest pain, fever, and difficulty breathing;
+
+--- SYMPTOMS ---
+- Pain episodes (crises): sudden, severe pain due to blocked blood flow. These episodes can last for hours to days and can be severe enough to require hospitalization.
+- Anaemia: caused by the rapid breakdown of sickle-cells, leading to fatigue, weakness, and shortness of breath.
+- Swelling: particularly in the hands and feet, known as dactylitis, which is often the first symptom in babies.
+- Frequent infections: due to spleen damage, which makes patients more susceptible to infections such as pneumonia.
+- Delayed growth: in children and adolescents, due to chronic anaemia and other complications.
+- Vision problems: caused by blocked blood vessels in the eyes, which can lead to damage to the retina.
+
+--- WARNING SIGNS ---
+- SCD can lead to numerous complications, including:
+- early mortality especially in individuals without access to care;
+- severe infections (e.g. pneumococcal, salmonella);
+- stroke: due to blocked blood flow to the brain, which can cause long-term neurological damage;
+- acute chest syndrome: a life-threatening condition caused by sickle-cells blocking blood flow in the lungs, leading to chest pain, fever, and difficulty breathing;
+- organ damage: particularly to the spleen, liver, and kidneys, due to repeated blockages and lack of oxygen;
+- leg ulcers: chronic, painful sores on the legs that are difficult to heal;
+- pregnancy complications (maternal and neonatal risks).
+
+--- RISK FACTORS ---
+- SCD is caused by a mutation in the HBB gene, which provides instructions for making haemoglobin. This mutation leads to the production of abnormal haemoglobin known as haemoglobin S. When a person inherits two copies of the haemoglobin S gene (one from each parent), they develop SCD. Individuals with one normal haemoglobin gene and one haemoglobin S gene have sickle-cell trait (SCT) and usually do not exhibit symptoms but can pass the gene to their offspring.
+
+--- PREVENTION ---
+- Preventing complications and managing SCD involves regular medical care and lifestyle adjustments:
+- regular check-ups: with a health-care provider specializing in SCD to monitor health and manage symptoms;
+- vaccinations: to prevent infections, particularly pneumococcal and meningococcal infections;
+- healthy lifestyle: including a balanced diet, adequate hydration, and avoiding extreme temperatures to reduce the risk of crises; and
+- education and support: for patients and families to understand the disease and its management, including recognizing early signs of complications and knowing when to seek medical help.
+- For people living with sickle-cell disease, part of good health and well-being includes consideration about sexual and reproductive health.
+- Providers should talk to patients about sexual and reproductive health and their plans for pregnancy within the context of sickle-cell disease. Women living with sickle-cell disease need integrated care that informs them of the options for care in order to reduce any sickle-cell symptoms. Preventing complications can lead to better outcomes for women and their babies.
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- Effective interventions exist, including disease modifying agents such as hydroxyurea and vaccinations to prevent infection.
+- routine vaccinations (pneumococcal, Haemophilus influenzae, hepatitis B)
+- vaccinations: to prevent infections, particularly pneumococcal and meningococcal infections;
+
+--- DIAGNOSIS ---
+- Sickle-cell anemia is typically diagnosed through a blood test. These tests look for the abnormal hemoglobin (HbS) that characterizes the disease. Additional tests, such as haemoglobin electrophoresis, can confirm the diagnosis and determine the specific type of SCD. Early diagnosis, such as through newborn screening, is essential for managing the disease and preventing severe complications.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- While there is no universal cure for SCD, various treatments can help manage symptoms and reduce complications:
+- routine vaccinations (pneumococcal, Haemophilus influenzae, hepatitis B)
+- folic acid supplements.
+- Disease-modifying therapy:
+- hydroxyurea: a medication that reduces the frequency of pain crises and the need for blood transfusions by increasing the production of fetal haemoglobin, which prevents the sickling of red blood cells;
+- pain management: using medications like acetaminophen, ibuprofen, and opioids to relieve pain during crises; and
+- blood transfusions: to treat severe anaemia and prevent stroke by increasing the number of normal red blood cells in circulation.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

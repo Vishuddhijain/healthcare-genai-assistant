@@ -1,0 +1,81 @@
+TOPIC: Ultraviolet radiation
+CATEGORY: Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation
+LAST UPDATED: 21 June 2022
+
+--- OVERVIEW ---
+Ultraviolet radiation (UVR) can neither be seen nor felt. While some people are exposed to artificial UVR sources (e.g. in medicine, industry and for disinfection and cosmetic purposes), everyone is exposed to solar UVR. Solar UVR levels are influenced by several factors:
+
+Sun elevation: the higher the sun in the sky, the higher the UVR level. UVR levels vary with time of day and time of year.
+
+Latitude: the closer to the equator, the higher the UVR levels.
+
+--- KEY FACTS ---
+- Skin cancers are caused primarily by exposure to ultraviolet radiation (UVR), either from the sun or from artificial sources such as sunbeds.
+- Globally in 2020, over 1.5 million cases of skin cancers were diagnosed and over 120 000 skin cancer-associated deaths were reported.
+- Worldwide, it is estimated that 15 million people are blind due to cataracts; of these, some 10% may be due to exposure to UVR.
+- Excessive sun exposure in children and adolescents contributes to skin cancer in later life.
+- A certain amount of UV exposure is beneficial to health, in particular for vitamin D.
+- Simple and effective prevention measures are available. Sun protection is recommended when the ultraviolet index is 3 and above.
+
+--- TYPES ---
+- Acute effects of UVR include DNA damage, sunburn, phototoxic and photoallergic reactions, and suppression of the immune system. Immunosuppression can be considered as a risk factor for cancer and can cause reactivation of viruses (e.g. cold sores in the lip).
+- Chronic effects on skin and lips from UVR exposure include:
+- Acute effects of UVR include photokeratitis and photoconjunctivitis (inflammation of the cornea and conjunctiva, respectively). These effects are reversible, easily prevented by protective eyewear and are not usually associated with any long-term damage but are painful and might require therapeutic intervention.
+- Chronic effects of UVR include:
+
+--- SYMPTOMS ---
+- Ultraviolet radiation (UVR) can neither be seen nor felt. While some people are exposed to artificial UVR sources (e.g. in medicine, industry and for disinfection and cosmetic purposes), everyone is exposed to solar UVR. Solar UVR levels are influenced by several factors:
+- Acute effects of UVR include photokeratitis and photoconjunctivitis (inflammation of the cornea and conjunctiva, respectively). These effects are reversible, easily prevented by protective eyewear and are not usually associated with any long-term damage but are painful and might require therapeutic intervention.
+
+--- WARNING SIGNS ---
+- Globally in 2020, over 1.5 million cases of skin cancers were diagnosed and over 120 000 skin cancer-associated deaths were reported.
+- squamous cell carcinoma (SCC): a malignant cancer, which generally spreads less than melanoma and is less likely to cause death;
+- Excessive exposure to UVR caused around 1.2 million new cases of non-melanoma skin cancers (SCC and BCC) and 325 000 melanomas of the skin, and 64 000 premature deaths from non-melanoma and 57 000 melanomas of the skin in the year 2020.
+
+--- RISK FACTORS ---
+- Children and adolescents are particularly vulnerable to the harmful effects of UVR due to their skin and eye structure. Sunburns in childhood lead to a higher risk of skin cancer in later life. Also, a larger amount of UVR can reach and damage their retina.
+- Fair-skinned people suffer more from sunburn and have a higher risk of skin cancer than dark-skinned people; however, darker-skinned people also develop skin cancers. Consideration of eye damage is important for everyone.
+- People at increased risk include those with a high number of naevi, those taking photosensitizing medication, and those with a family history of skin cancer.
+- Outdoor workers exposed occupationally to solar UVR levels face an increased risk of developing non-melanoma skin cancers.
+
+--- PREVENTION ---
+- Skin cancer is highly preventable. WHO recommends the following measures to protect against excessive exposure to UVR.
+- Limit time in the midday sun.
+- Wear protective clothing.
+- Wear a broad brimmed hat to protect the eyes, face, ears and neck.
+- Wear wraparound-style sunglasses that provide 99 to 100% UV-A and UV-B protection.
+- Use broad-spectrum sunscreen on skin areas that cannot be covered by clothes. Sun protection is best achieved by seeking shade and wearing clothes rather than applying sunscreens. Sunscreens should not be used for extending time spent in the sun.
+- Avoid use of artificial tanning devices. Sunbed use increases the risk of developing skin cancers. Artificial tanning should never be considered as an option to achieve sufficient vitamin D status. Several countries have implemented legislation to ban or restrict the use of sunbeds.
+- Encouraging children to take the simple precautions above will prevent both short-term and long-term damage while still allowing them to enjoy the time they spend outdoors.
+
+--- ENVIRONMENTAL CONTROL ---
+- Skin cancers are caused primarily by exposure to ultraviolet radiation (UVR), either from the sun or from artificial sources such as sunbeds.
+- Worldwide, it is estimated that 15 million people are blind due to cataracts; of these, some 10% may be due to exposure to UVR.
+- Excessive sun exposure in children and adolescents contributes to skin cancer in later life.
+- A certain amount of UV exposure is beneficial to health, in particular for vitamin D.
+- Reflection: reflective surfaces, such as water, sand and fresh snow, increase the UVR level.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Globally in 2020, over 1.5 million cases of skin cancers were diagnosed and over 120 000 skin cancer-associated deaths were reported.
+- Use broad-spectrum sunscreen on skin areas that cannot be covered by clothes. Sun protection is best achieved by seeking shade and wearing clothes rather than applying sunscreens. Sunscreens should not be used for extending time spent in the sun.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Ultraviolet radiation (UVR) can neither be seen nor felt. While some people are exposed to artificial UVR sources (e.g. in medicine, industry and for disinfection and cosmetic purposes), everyone is exposed to solar UVR. Solar UVR levels are influenced by several factors:
+- UVR in small amounts is essential to good health as it leads to the production of vitamin D in the body. Vitamin D strengthens the bone and musculoskeletal system. People who have very low sun exposure – such as those in institutional care or housebound, people with deeply pigmented skin living in high latitudes or those who, for religious or cultural reasons cover their entire body surface when they are outdoors – should consider oral vitamin D supplementation.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

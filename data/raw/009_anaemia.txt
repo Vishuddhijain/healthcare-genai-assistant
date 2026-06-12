@@ -1,0 +1,102 @@
+TOPIC: Anaemia
+CATEGORY: Non-Communicable Disease (Nutritional / Blood Disorder)
+SOURCE: WHO Fact Sheet + NHP India + NHM India - https://www.who.int/news-room/fact-sheets/detail/anaemia | https://nhp.gov.in/disease/non-communicable-disease/anaemia | nhm.gov.in/index4.php?lang=1&level=0&linkid=409
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Anaemia is a condition where the number of red blood cells (RBCs) or the haemoglobin (Hb) concentration within them is lower than normal, reducing the blood's capacity to carry oxygen. India has one of the highest anaemia burdens in the world. According to NFHS-5 (2019–21), 57% of women aged 15–49, 67% of children aged 6–59 months, and 25% of men aged 15–49 are anaemic. The most common type in India is iron-deficiency anaemia, but vitamin B12 and folate deficiency anaemia are also widespread.
+
+--- TYPES ---
+1. Iron-Deficiency Anaemia (IDA): Most common globally and in India. Due to inadequate iron intake, poor absorption, chronic blood loss (menstruation, GI bleeding), or increased demand (pregnancy).
+2. Folate-Deficiency Anaemia: Due to insufficient folic acid (Vitamin B9); common in pregnancy.
+3. Vitamin B12 Deficiency Anaemia (Pernicious Anaemia): Often due to dietary deficiency (strict vegetarian/vegan diets) or malabsorption.
+4. Anaemia of Chronic Disease: Associated with chronic infections (TB, HIV), inflammatory conditions, or cancer.
+5. Sickle Cell Anaemia / Thalassaemia: Inherited (genetic) blood disorders — significant burden in tribal and specific population groups in India.
+6. Haemolytic Anaemia: Premature destruction of RBCs; multiple causes.
+
+--- SYMPTOMS ---
+Mild anaemia may be asymptomatic. Common symptoms include:
+- Fatigue and weakness
+- Pale skin, conjunctiva (inner eyelids), and nail beds
+- Shortness of breath on exertion
+- Dizziness and lightheadedness
+- Rapid or irregular heartbeat (palpitations)
+- Cold hands and feet
+- Headache
+- Poor concentration and difficulty thinking clearly
+- In children: poor growth, poor school performance, increased susceptibility to infections
+
+Severe anaemia:
+- Chest pain
+- Extreme fatigue even at rest
+- Swelling of limbs (in chronic severe cases)
+- Heart failure (in very severe, untreated cases)
+
+--- RISK FACTORS ---
+- Women of reproductive age (menstrual blood loss)
+- Pregnant and lactating women
+- Infants and young children (rapid growth demands)
+- Adolescent girls
+- Elderly individuals
+- Vegetarians/vegans (B12 deficiency risk)
+- People with chronic illness (TB, HIV, kidney disease, cancer)
+- Tribal populations in India (genetic haemoglobin disorders)
+- People with chronic blood loss (ulcers, piles, hookworm infection)
+
+--- PREVENTION ---
+Dietary strategies:
+- Increase iron-rich foods: dark leafy greens (spinach, methi), lentils (dal), legumes, sesame seeds, jaggery, fortified cereals, meat (especially liver and red meat)
+- Enhance iron absorption by pairing iron-rich foods with Vitamin C sources (lemon, amla, tomatoes)
+- Avoid tea and coffee immediately after meals (tannins inhibit iron absorption)
+- Include Vitamin B12 sources: dairy, eggs, meat/fish, B12-fortified foods; supplements for strict vegetarians
+- Include folate-rich foods: green leafy vegetables, legumes, fortified grains
+
+Government programmes:
+- ANAEMIA MUKT BHARAT (AMB) — flagship programme targeting reduction of anaemia in six beneficiary groups (children 6–59 months, 5–9 years, 10–19 years, women of reproductive age, pregnant women, lactating mothers)
+- Weekly Iron and Folic Acid Supplementation (WIFS) programme for school-going adolescents
+- Iron and Folic Acid (IFA) supplementation provided free through ANMs and health centres under NHM
+
+--- DIAGNOSIS ---
+- Complete Blood Count (CBC): Haemoglobin level, RBC indices (MCV, MCH), haematocrit
+- Peripheral blood smear: Identifies RBC morphology
+- Serum ferritin and iron studies: Diagnose iron deficiency
+- Serum B12 and folate levels: Diagnose nutritional deficiencies
+- Haemoglobin electrophoresis: Identifies sickle cell or thalassaemia traits
+- Stool test for occult blood: Identifies hidden GI blood loss
+
+--- TREATMENT (Awareness Only) ---
+- Iron-deficiency anaemia: Iron supplementation (tablets or syrup) as prescribed; dietary changes
+- B12/folate deficiency: Supplementation with Vitamin B12 or folic acid
+- Treat underlying causes (infections, GI disorders, menstrual disorders)
+- Severe anaemia: Blood transfusion under medical supervision
+- Inherited disorders (thalassaemia, sickle cell): Specialised management at haematology centres
+- Do not self-supplement without diagnosis — excess iron is harmful
+
+--- WHEN TO SEE A DOCTOR ---
+- Persistent unexplained fatigue, breathlessness, or dizziness
+- Pale skin or pale inner eyelids
+- History of heavy menstrual bleeding
+- Pregnancy (anaemia screening is part of antenatal care)
+- Child with poor growth, fatigue, or frequent infections
+- Family history of thalassaemia or sickle cell disease
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Anaemia Mukt Bharat programme: mohfw.gov.in/anaemia-mukt-bharat
+- Free IFA tablets distributed at government health centres, Anganwadi centres (ICDS), and schools
+- Thalassaemia screening recommended for couples before marriage in high-prevalence states (Gujarat, Maharashtra, Punjab, West Bengal)
+- POSHAN Abhiyaan (National Nutrition Mission) targets anaemia as part of broader nutrition goals
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Anaemia has multiple causes and requires proper diagnosis before treatment. Do not self-supplement with iron or other supplements without medical advice. Always consult a qualified healthcare provider for evaluation and treatment.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

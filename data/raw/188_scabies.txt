@@ -1,0 +1,110 @@
+TOPIC: Scabies
+CATEGORY: Communicable Disease / Skin Condition / Neglected Tropical Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/scabies | NHP India | IADVL
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Scabies is a highly contagious skin condition caused by infestation with the microscopic mite Sarcoptes scabiei, which burrows into the top layer of skin to live and lay eggs, causing intense itching and a pimple-like rash. Scabies spreads easily through close skin-to-skin contact and is common in overcrowded living conditions. WHO classifies scabies as a neglected tropical disease due to its significant burden in low-resource settings. While intensely uncomfortable, scabies is treatable with appropriate medication, and outbreaks can be controlled with prompt treatment of affected individuals and close contacts.
+
+--- KEY FACTS ---
+- Scabies affects an estimated 200-300 million people globally at any given time.
+- It is highly contagious — spreads through prolonged direct skin-to-skin contact, and less commonly through shared bedding/clothing.
+- Scabies is common in crowded living conditions: schools, hostels, prisons, nursing homes, and densely populated households — relevant across many settings in India.
+- The intense itching is caused by an allergic reaction to the mites, their eggs, and waste — not the mites' movement alone.
+- Itching is often worse at night.
+- Scabies can lead to secondary bacterial skin infections from scratching, which can in turn lead to more serious complications (e.g., post-streptococcal kidney disease) if untreated.
+- Crusted (Norwegian) scabies is a severe form occurring in immunocompromised or elderly individuals, with thousands of mites and high contagiousness.
+- Treatment is effective, but ALL close contacts/household members typically need treatment simultaneously to prevent re-infestation.
+
+--- TYPES ---
+1. Classic scabies: Typical presentation with characteristic burrows and intense itching, usually a moderate number of mites (10-15)
+2. Crusted (Norwegian) scabies: Severe form with thick, crusted skin lesions containing thousands to millions of mites; occurs in immunocompromised, elderly, or debilitated individuals; HIGHLY contagious and can spread through brief contact or contaminated items
+3. Nodular scabies: Persistent, itchy nodules (lumps) that can remain even after successful treatment (represent ongoing immune reaction, not active infestation)
+
+--- SYMPTOMS ---
+- Intense itching, especially at night
+- Pimple-like rash (small red bumps, sometimes with tiny blisters)
+- Thin, irregular burrow tracks on the skin — greyish or skin-coloured lines, often a few millimetres to a centimetre long (classic sign, but not always visible)
+- Common locations: Between fingers, wrists, elbows, armpits, waistline, around nipples (in women), genital area (in men), buttocks
+- In infants and young children: May also affect the face, scalp, palms, and soles (different distribution than adults)
+- In elderly/immunocompromised (crusted scabies): Thick, scaly, crusted patches, often less itchy but highly contagious
+
+--- WARNING SIGNS — SEEK PROMPT MEDICAL CARE ---
+- Widespread, thick, crusted skin lesions, especially in an elderly or immunocompromised person — possible crusted scabies, requires urgent treatment and infection control measures
+- Signs of secondary bacterial infection in scratched areas: increasing redness, warmth, pus, swelling, fever
+- Multiple household/classroom/hostel members developing itchy rashes around the same time — possible outbreak requiring coordinated treatment
+
+--- RISK FACTORS ---
+- Close physical contact with an infected person (including sexual contact, sharing a bed)
+- Living in crowded conditions: hostels, prisons, refugee camps, nursing homes, joint family households
+- Sharing bedding, clothing, or towels with an infested person (less common route, but possible since mites can survive briefly off the body)
+- Immunocompromised status (HIV, organ transplant, on immunosuppressive medications) — increased risk of crusted scabies
+- Elderly individuals, especially in institutional care settings
+- Poor access to water for bathing/laundry
+
+--- TRANSMISSION ---
+- Prolonged direct skin-to-skin contact is the main route (brief contact like handshakes is unlikely to transmit classic scabies)
+- Mites can survive away from human skin for 24-36 hours in favourable conditions — shared bedding, clothing, or furniture can occasionally be a source, especially with crusted scabies
+- NOT transmitted by pets — animal "mange" mites do not establish infestation in humans (may cause temporary mild itching but don't reproduce on human skin)
+
+--- PREVENTION ---
+1. Avoid prolonged skin-to-skin contact with infected individuals until they have completed treatment
+2. Treat all household members/close contacts simultaneously, even if not all are symptomatic (as recommended by a doctor) — this prevents re-infestation cycles
+3. Wash bedding, clothing, and towels used in the past 3 days in hot water (>50°C) and dry on high heat, or seal in a plastic bag for 3-7 days if washing isn't possible (mites die without a host)
+4. Avoid sharing personal items (clothing, towels, bedding) in communal living settings
+5. In institutional settings (hostels, nursing homes, prisons): Prompt identification and treatment of cases, with attention to crusted scabies which can drive outbreaks
+
+--- ENVIRONMENTAL CONTROL ---
+- Thorough cleaning of living spaces, though mites do not survive long away from human skin (vacuuming furniture/mattresses can help reduce mite numbers in the environment)
+- In community/institutional outbreaks, mass treatment of affected groups may be recommended by health authorities
+- Improving living conditions and reducing overcrowding where feasible reduces transmission risk
+
+--- VACCINATION ---
+- No vaccine exists for scabies; prevention relies on hygiene, prompt treatment, and avoiding transmission as described above
+
+--- DIAGNOSIS ---
+- Clinical diagnosis: Based on characteristic itching pattern (worse at night), distribution of rash, and visible burrows
+- Dermoscopy: A handheld magnification device can help visualise mites/burrows
+- Skin scraping with microscopy: Can confirm diagnosis by identifying mites, eggs, or faecal matter under a microscope (not always necessary for typical presentations)
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Topical scabicide medications (e.g., permethrin cream): Applied to the entire body as directed by a doctor — typically left on for a specified time then washed off; may need to repeat after 1-2 weeks
+- Oral medication (e.g., ivermectin): May be used in certain cases, including outbreaks or crusted scabies, under medical supervision
+- ALL household members/close contacts should be treated simultaneously, even if asymptomatic, as advised by a healthcare provider
+- Itching may persist for 2-4 weeks AFTER successful treatment (due to ongoing allergic reaction) — this does NOT necessarily mean treatment failed; antihistamines or mild topical steroids may help with residual itching, as advised by a doctor
+- Secondary bacterial infections (from scratching) may require antibiotics
+- Bedding, clothing, and towels should be washed in hot water and dried on high heat on the day treatment starts
+
+--- WHEN TO SEE A DOCTOR ---
+- Persistent, intense itching, especially worse at night, with a pimple-like rash — get evaluated for scabies and appropriate treatment
+- Multiple family/household members with similar itchy rash
+- Crusted/thick skin lesions in an elderly or immunocompromised person
+- Signs of secondary bacterial skin infection (redness, warmth, pus, fever)
+- Itching persisting more than 4 weeks after completing treatment — may need re-evaluation
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Scabies is common in India, particularly in crowded settings like schools, hostels, slums, and during natural disaster displacement (relief camps)
+- Government dermatology departments at district hospitals provide diagnosis and treatment, including permethrin and ivermectin
+- School health programmes (under Ayushman Bharat/RBSK) can help identify skin conditions including scabies in children for referral
+- Outbreaks in hostels/institutions require coordinated mass treatment approaches, often supported by local health authorities
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is scabies a sign of poor hygiene?
+A: No. Scabies can affect anyone, regardless of personal hygiene — it spreads through close contact, particularly in crowded living situations. It is not a reflection of cleanliness.
+
+Q: Can I get scabies from my pet?
+A: Generally no. Animal mange mites (a similar but different mite species) can occasionally cause temporary, mild itching in humans from brief contact, but they cannot establish a true infestation on human skin (they cannot reproduce there).
+
+Q: Why does the itching continue even after treatment?
+A: It's common for itching to persist for 2-4 weeks after successful treatment because the body's allergic reaction to mite proteins takes time to resolve, even after the mites are killed. This is different from treatment failure. A doctor can advise on managing this residual itching.
+
+Q: Do I need to treat my whole family if only one person has symptoms?
+A: Often, yes — your doctor may recommend treating all household members/close contacts simultaneously, since the incubation period before symptoms appear can be several weeks, and others may be infested without yet showing symptoms. This prevents a cycle of re-infestation.
+
+Q: How do I clean my home to prevent reinfestation?
+A: Wash bedding, clothing, and towels used in the past 3 days in hot water (>50°C) and dry on high heat. Items that can't be washed can be sealed in a plastic bag for 3-7 days, as the mites die without a host. Extensive home fumigation is generally not necessary.
+
+--- IMPORTANT SAFETY NOTE ---
+Scabies is intensely uncomfortable but treatable. This file is for awareness only. If you or a family member has persistent itching (especially worse at night) with a rash, consult a doctor for diagnosis and appropriate treatment — and follow guidance on treating household contacts and washing bedding/clothing to prevent reinfestation. Crusted scabies in elderly or immunocompromised individuals requires prompt medical attention due to its high contagiousness.
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.

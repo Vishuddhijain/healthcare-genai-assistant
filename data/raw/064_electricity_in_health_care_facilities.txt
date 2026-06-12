@@ -1,0 +1,66 @@
+TOPIC: Electricity in health-care facilities
+CATEGORY: Health Systems / Facility Safety
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/electricity-in-health-care-facilities
+LAST UPDATED: 31 August 2023
+
+--- OVERVIEW ---
+Electricity is needed to power the most basic services in health-care facilities, from lighting and communications to clean water supply. Reliable power is also crucial for the medical equipment necessary to safely manage childbirth or to ensure immunization as well as for undertaking most of the routine and emergency procedures. Reliable energy provision – particularly electricity – is a major enabler of universal health coverage. A number of clean and cost-effective energy solutions, such as based on solar photovoltaic systems, are available and rapidly deployable to electrify health-care facilities sustainably and increase their climate resiliency.
+
+Yet, as highlighted in the report Energizing health: accelerating electricity access in health-care facilities , close to 1 billion people in low- and lower-middle-income countries are estimated to be served by health-care facilities without reliable electricity access or with no electricity access at all. In low- and lower-middle-income countries of South Asia and sub-Saharan Africa, approximately 12% and 15% of health-care facilities, respectively, have no access to electricity whatsoever. There is a sharp urban–rural divide: urban health-care facilities often report more access to electricity and more reliable electricity than rural facilities in the same country.
+
+Support, financing and investments need to be scaled up rapidly to accelerate health-care facility electrification. Other key actions include monitoring energy access in health-care facilities more systematically; providing the necessary resources to design and implement clean energy plans, tailored to the needs of the health sector; developing policy and finance schemes to unlock the potential of sustainable energy solutions, and to address the health sector needs.
+
+--- KEY FACTS ---
+- Close to 1 billion people in low- and lower-middle-income countries are estimated to be served by health-care facilities without reliable electricity or with no electricity access at all.
+- Electricity is needed to power critical and life saving medical devices as well as the most basic services such as lighting, communications and clean water supply. Electricity is crucial for the availability and reliability of essential health services, as well as for bettering health, with outcomes such as safe childbirth, vaccination, diagnostic capacity and emergency response.
+- In low- and lower-middle-income countries of South Asia and sub-Saharan Africa, approximately 12% and 15% of health-care facilities, respectively, have no access to electricity.
+- In sub-Saharan Africa, only half of hospitals have reliable electricity access.
+- The energy access challenge is higher for health-care facilities in remote and rural areas.
+
+--- TYPES ---
+- A closer look at other indicators that provide more detailed information on health-care facility electricity supply in subsets of countries show that generators are often not operational and that facilities are often underserved, with energy supply being insufficient to cover all the needs of the facility.
+- Information disclosure
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- The World Bank estimates that US$ 4.9 billion is urgently needed to bring health-care facilities in 63 low- and middle-income countries up to a minimal or intermediate level of electrification to ensure that all the essential health services are covered.
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- Electricity is needed to power critical and life saving medical devices as well as the most basic services such as lighting, communications and clean water supply. Electricity is crucial for the availability and reliability of essential health services, as well as for bettering health, with outcomes such as safe childbirth, vaccination, diagnostic capacity and emergency response.
+- Water, sanitation, hygiene, waste and electricity services in health care facilities: progress on the fundamentals
+- Preventing sexual exploitation
+
+--- ENVIRONMENTAL CONTROL ---
+- WHO facilitates multisector cooperation and coordinated action among health and energy stakeholders to maximize impact and leverage on synergies on the ground. In this framework, WHO serves as Secretariat of the Health and Energy Platform of Action (HEPA) , facilitates the activities of the High-Level Coalition on Health and Energy convened by the WHO Director-General, and plays a crucial role in multi-stakeholder platforms relevant for health and energy, such as the climate change conferences of parties (COPs), UN Energy, and SDG 7 progress tracking.
+- Report: Energizing health: accelerating electricity access in health-care facilities
+- The Global Health Observatory: Electrification of health-care facilities
+- WHO's work on energy and health
+- WHO’s work on health-care facility electrification
+- Water, sanitation, hygiene, waste and electricity services in health care facilities: progress on the fundamentals
+
+--- VACCINATION ---
+- Electricity is needed to power critical and life saving medical devices as well as the most basic services such as lighting, communications and clean water supply. Electricity is crucial for the availability and reliability of essential health services, as well as for bettering health, with outcomes such as safe childbirth, vaccination, diagnostic capacity and emergency response.
+
+--- DIAGNOSIS ---
+- Electricity is needed to power critical and life saving medical devices as well as the most basic services such as lighting, communications and clean water supply. Electricity is crucial for the availability and reliability of essential health services, as well as for bettering health, with outcomes such as safe childbirth, vaccination, diagnostic capacity and emergency response.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- WHO also provides technical support to strengthen professional capacity of health workers at different levels, from central governments to local health centers. This activity aims to increase the ability of the local health sector to design, implement and maintain health-care facility electrification programmes. WHO also works with local stakeholders to strengthen the capacity of health-care facility staff to properly use the facility energy systems and undertake the basic maintenance.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

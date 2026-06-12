@@ -1,0 +1,95 @@
+TOPIC: Congenital disorders
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/birth-defects
+LAST UPDATED: 27 February 2023
+
+--- OVERVIEW ---
+Congenital disorders are also known as congenital abnormalities, congenital malformations or birth defects. They can be defined as structural or functional anomalies (for example, metabolic disorders) that occur during intrauterine life and can be identified prenatally, at birth, or sometimes may only be detected later in infancy, such as hearing defects. Broadly, congenital refers to the existence at or before birth.
+
+The proportion of under-5 deaths due to congenital disorders increases as other causes of under-5 deaths are controlled (fig. 1).
+
+Fig 1: Changes in causes of under 5 deaths as under 5 mortality rates decline
+
+--- KEY FACTS ---
+- An estimated 240 000 newborns die worldwide within 28 days of birth every year due to congenital disorders. Congenital disorders cause a further 170 000 deaths of children between the ages of 1 month and 5 years.
+- Congenital disorders can contribute to long-term disability, which takes a significant toll on individuals, families, health care systems and societies.
+- Nine of ten children born with a serious congenital disorder are in low- and middle-income countries.
+- As neonatal and under-5 mortality rates decline, congenital disorders become a larger proportion of the cause of neonatal and under-5 deaths.
+- The most common severe congenital disorders are heart defects, neural tube defects and Down syndrome.
+- Although congenital disorders may be the result of one or more genetic, infectious, nutritional or environmental factors, it is often difficult to identify the exact causes.
+
+--- TYPES ---
+- Congenital disorders are also known as congenital abnormalities, congenital malformations or birth defects. They can be defined as structural or functional anomalies (for example, metabolic disorders) that occur during intrauterine life and can be identified prenatally, at birth, or sometimes may only be detected later in infancy, such as hearing defects. Broadly, congenital refers to the existence at or before birth.
+- Children with some types of congenital disorders may require long term support including physical therapy, speech therapy, occupational therapy and support from families and community.
+
+--- SYMPTOMS ---
+- Low-income may be an indirect determinant of congenital disorders, with a higher frequency among resource-constrained families and countries. It is estimated that about 94% of severe congenital disorders occur in low- and middle-income countries. An indirect determinant, this higher risk relates to a possible lack of access to sufficient nutritious foods by pregnant women, an increased exposure to agents or factors such as infection and alcohol, or poorer access to health care and screening.
+- Environmental factors including infections
+- Others occur because of environmental factors like maternal infections (syphilis, rubella, Zika), exposure to radiation, certain pollutants, maternal nutritional deficiencies (e.g., iodine, folate deficiency), illness (maternal diabetes) or certain drugs (alcohol, phenytoin).
+- avoidance of travel by pregnant women (and sometimes women of child-bearing age) to regions experiencing outbreaks of infections known to be associated with congenital disorders;
+- screening for infections, especially rubella, varicella and syphilis, and consideration of treatment.
+
+--- WARNING SIGNS ---
+- An estimated 240 000 newborns die worldwide within 28 days of birth every year due to congenital disorders. Congenital disorders cause a further 170 000 deaths of children between the ages of 1 month and 5 years.
+- As neonatal and under-5 mortality rates decline, congenital disorders become a larger proportion of the cause of neonatal and under-5 deaths.
+- The most common severe congenital disorders are heart defects, neural tube defects and Down syndrome.
+- The proportion of under-5 deaths due to congenital disorders increases as other causes of under-5 deaths are controlled (fig. 1).
+- Fig 1: Changes in causes of under 5 deaths as under 5 mortality rates decline
+- Consanguinity (when parents are related by blood) also increases the prevalence of rare genetic congenital disorders and nearly doubles the risk for neonatal and childhood death, intellectual disability and other anomalies.
+
+--- RISK FACTORS ---
+- Causes and risk factors
+- A minority of congenital disorders are caused by genetic abnormalities i.e. chromosomal abnormalities (for example Down syndrome or trisomy 21) or single gene defects (for example cystic fibrosis).
+- Consanguinity (when parents are related by blood) also increases the prevalence of rare genetic congenital disorders and nearly doubles the risk for neonatal and childhood death, intellectual disability and other anomalies.
+- Low-income may be an indirect determinant of congenital disorders, with a higher frequency among resource-constrained families and countries. It is estimated that about 94% of severe congenital disorders occur in low- and middle-income countries. An indirect determinant, this higher risk relates to a possible lack of access to sufficient nutritious foods by pregnant women, an increased exposure to agents or factors such as infection and alcohol, or poorer access to health care and screening.
+- Maternal age is also a risk factor for abnormal intrauterine fetal development. Advanced maternal age increases the risk of chromosomal abnormalities, including Down syndrome.
+- Others occur because of environmental factors like maternal infections (syphilis, rubella, Zika), exposure to radiation, certain pollutants, maternal nutritional deficiencies (e.g., iodine, folate deficiency), illness (maternal diabetes) or certain drugs (alcohol, phenytoin).
+
+--- PREVENTION ---
+- Some congenital disorders can be prevented. Vaccination, adequate intake of folic acid or iodine through fortification of staple foods or supplementation, and adequate care before and during a pregnancy are examples of prevention methods.
+- The proportion of under-5 deaths due to congenital disorders increases as other causes of under-5 deaths are controlled (fig. 1).
+- Preventive public health measures work to decrease the frequency of certain congenital disorders through the removal of risk factors or the reinforcement of protective factors. Important interventions and efforts include:
+- ensuring mothers avoid harmful substances, particularly alcohol and tobacco;
+- avoidance of travel by pregnant women (and sometimes women of child-bearing age) to regions experiencing outbreaks of infections known to be associated with congenital disorders;
+- controlling diabetes prior to and during pregnancy through counselling, weight management, diet and administration of insulin when required;
+
+--- ENVIRONMENTAL CONTROL ---
+- Although congenital disorders may be the result of one or more genetic, infectious, nutritional or environmental factors, it is often difficult to identify the exact causes.
+- Low-income may be an indirect determinant of congenital disorders, with a higher frequency among resource-constrained families and countries. It is estimated that about 94% of severe congenital disorders occur in low- and middle-income countries. An indirect determinant, this higher risk relates to a possible lack of access to sufficient nutritious foods by pregnant women, an increased exposure to agents or factors such as infection and alcohol, or poorer access to health care and screening.
+- Environmental factors including infections
+- Others occur because of environmental factors like maternal infections (syphilis, rubella, Zika), exposure to radiation, certain pollutants, maternal nutritional deficiencies (e.g., iodine, folate deficiency), illness (maternal diabetes) or certain drugs (alcohol, phenytoin).
+- While complex genetic and environmental interactions are proposed, most congenital disorders have unknown causes, including congenital heart defects, cleft lip or palate and club foot.
+
+--- VACCINATION ---
+- Some congenital disorders can be prevented. Vaccination, adequate intake of folic acid or iodine through fortification of staple foods or supplementation, and adequate care before and during a pregnancy are examples of prevention methods.
+- vaccination, especially against the rubella virus, for children and women;
+
+--- DIAGNOSIS ---
+- Health care before and near conception (preconception and peri-conception) includes basic reproductive health practices, as well as medical genetic screening and counselling. Screening can be conducted during the 3 periods listed:
+- Preconception screening:
+- This can be useful to identify those at risk of specific disorders or of passing a disorder onto their children. Screening includes obtaining family histories and carrier screening and is particularly valuable in countries where consanguineous marriage is common.
+- Peri-conception screening:
+- Maternal characteristics may increase risk, and screening results should be used to offer appropriate care, according to risk. This may include screening for young or advanced maternal age, as well as screening for use of alcohol, tobacco or other risks. Ultrasound can be used to screen for Down syndrome and major structural abnormalities during the first trimester, and for severe fetal anomalies during the second trimester. Maternal blood can be screened for placental markers to aid in prediction of risk of chromosomal abnormalities or neural tube defects, or for free fetal DNA to screen for many chromosomal abnormalities. Diagnostic...
+- Screening of newborns is an important step towards detection. This helps to reduce mortality and morbidity from congenital disorders by facilitating earlier referral and the initiation of medial or surgical treatment.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Health care before and near conception (preconception and peri-conception) includes basic reproductive health practices, as well as medical genetic screening and counselling. Screening can be conducted during the 3 periods listed:
+- Preconception screening:
+- This can be useful to identify those at risk of specific disorders or of passing a disorder onto their children. Screening includes obtaining family histories and carrier screening and is particularly valuable in countries where consanguineous marriage is common.
+- Peri-conception screening:
+- Maternal characteristics may increase risk, and screening results should be used to offer appropriate care, according to risk. This may include screening for young or advanced maternal age, as well as screening for use of alcohol, tobacco or other risks. Ultrasound can be used to screen for Down syndrome and major structural abnormalities during the first trimester, and for severe fetal anomalies during the second trimester. Maternal blood can be screened for placental markers to aid in prediction of risk of chromosomal abnormalities or neural tube defects, or for free fetal DNA to screen for many chromosomal abnormalities. Diagnostic...
+- Screening of newborns is an important step towards detection. This helps to reduce mortality and morbidity from congenital disorders by facilitating earlier referral and the initiation of medial or surgical treatment.
+- Early screening for hearing loss provides an opportunity for early correction and allows the possibility of acquiring better language, speech and communication skills. Early screening of newborns for congenital cataract also allows early referral and surgical correction which increases the likelihood of sight.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

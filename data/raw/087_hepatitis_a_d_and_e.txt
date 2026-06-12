@@ -1,0 +1,166 @@
+TOPIC: Hepatitis A, D, and E
+CATEGORY: Communicable / Infectious Disease / Liver
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/hepatitis-a | https://www.who.int/news-room/fact-sheets/detail/hepatitis-d | https://www.who.int/news-room/fact-sheets/detail/hepatitis-e
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Viral hepatitis infections A, D, and E are distinct from Hepatitis B and C (covered in 42_hepatitis_bc.txt). All cause liver inflammation but differ in transmission, severity, and management. Hepatitis A and E are primarily waterborne/foodborne and usually self-limiting. Hepatitis D only occurs in people already infected with Hepatitis B and can cause severe disease.
+
+---
+--- HEPATITIS A ---
+
+--- TYPES ---
+Hepatitis A virus (HAV): Single type. Fecal-oral transmission. Usually self-limiting (no chronic form).
+
+--- KEY FACTS ---
+- Hepatitis A affects approximately 1.5 million people clinically each year globally.
+- India has a high prevalence — most Indians are exposed in childhood (often asymptomatically).
+- Hepatitis A is vaccine-preventable.
+- In areas with poor sanitation, children are commonly infected early and develop lifelong immunity.
+- Hepatitis A does NOT cause chronic liver disease.
+
+--- SYMPTOMS ---
+Incubation: 14–28 days after exposure.
+- Fever
+- Malaise (feeling unwell)
+- Loss of appetite
+- Nausea and vomiting
+- Abdominal pain (right upper quadrant)
+- Dark urine (tea-coloured)
+- Jaundice — yellowing of skin and eyes (appears 1–2 weeks after first symptoms)
+- Clay-coloured stool
+Children under 6: Often have no symptoms. Older children and adults typically have more severe symptoms.
+Fulminant hepatitis A (rare but serious): Rapid liver failure — requires hospitalisation.
+
+--- TRANSMISSION ---
+- Faecal-oral route: Contaminated water or food
+- Raw or undercooked shellfish from contaminated water
+- Close contact with infected person
+- Poor hand hygiene after toilet use
+
+--- RISK FACTORS ---
+- Drinking untreated water or water from unknown sources
+- Eating raw shellfish (oysters, clams) from polluted water
+- Poor sanitation and hygiene
+- Travelling to endemic areas without vaccination
+- People who inject drugs
+
+--- PREVENTION ---
+- Safe water: Drink boiled or treated water; avoid ice of unknown origin.
+- Food safety: Wash hands; cook shellfish thoroughly; avoid raw food from unknown sources.
+- Handwashing: Wash hands with soap after toilet and before meals.
+- Vaccination: Hepatitis A vaccine (2-dose schedule) highly effective. Recommended for travellers to endemic areas, children in high-risk areas, people with chronic liver disease. Available at private clinics; selective availability at government hospitals.
+
+--- ENVIRONMENTAL CONTROL ---
+- Outbreak control: Report hepatitis A clusters to local health authorities.
+- Sewage treatment and clean water supply — the long-term solution.
+
+--- VACCINATION ---
+- Hepatitis A vaccine: 2 doses (0 and 6–12 months). Highly effective (>94% protection). Available at private vaccination centres in India.
+- Post-exposure prophylaxis: Hepatitis A vaccine within 2 weeks of exposure may prevent illness.
+
+--- DIAGNOSIS ---
+- Blood test: Anti-HAV IgM antibody (confirms acute infection).
+- Liver function tests: Elevated bilirubin and liver enzymes.
+
+--- TREATMENT (Awareness Only) ---
+- No specific antiviral treatment for Hepatitis A.
+- Supportive care: Rest, adequate nutrition, fluids.
+- Avoid alcohol and hepatotoxic medications.
+- Most patients recover fully within 2 months.
+- Hospitalisation for severe cases or fulminant hepatitis.
+
+--- WARNING SIGNS ---
+- Prolonged jaundice (more than 4 weeks)
+- Severe vomiting, inability to eat or drink
+- Confusion or altered consciousness
+- Severe abdominal pain
+→ These may indicate fulminant hepatitis — seek emergency care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Any yellowing of eyes or skin (jaundice) — especially with fever and dark urine
+- Dark urine without fever — possible hepatitis
+- Worsening symptoms after initial diagnosis
+
+---
+--- HEPATITIS D ---
+
+--- OVERVIEW ---
+Hepatitis D (delta hepatitis) is caused by the Hepatitis D virus (HDV), a defective virus that requires Hepatitis B virus (HBV) to replicate. HDV only infects people who already have Hepatitis B.
+
+--- KEY FACTS ---
+- Approximately 5% of people with Hepatitis B are co-infected with HDV — about 15 million people globally.
+- HDV co-infection accelerates liver disease — dramatically increases risk of cirrhosis and liver cancer.
+- Preventing Hepatitis B (through vaccination) also prevents Hepatitis D.
+
+--- TRANSMISSION ---
+- Same routes as Hepatitis B: Blood, sexual contact, mother to child.
+
+--- PREVENTION ---
+- Hepatitis B vaccination prevents both HBV and HDV infection — the Hepatitis B vaccine is free under India's UIP.
+- Hepatitis B-infected individuals: Avoid sharing needles, use condoms, do not share personal items.
+
+--- TREATMENT (Awareness Only) ---
+- Pegylated interferon alpha (limited effectiveness) — specialist management at government hospitals.
+- Prevention through HBV vaccination remains the key approach.
+
+---
+--- HEPATITIS E ---
+
+--- OVERVIEW ---
+Hepatitis E is caused by the Hepatitis E virus (HEV). It is primarily waterborne, particularly common after floods and in areas with contaminated water supplies. It is usually self-limiting but poses serious risk to pregnant women.
+
+--- KEY FACTS ---
+- Approximately 20 million HEV infections occur annually; 44,000 deaths.
+- India has the second highest Hepatitis E burden globally.
+- India regularly experiences Hepatitis E outbreaks — commonly after floods or water supply contamination.
+- Hepatitis E is PARTICULARLY DANGEROUS IN PREGNANCY — maternal mortality can reach 20–25% in third trimester.
+- No chronic form in immunocompetent individuals (unlike B and C).
+
+--- SYMPTOMS ---
+Same as Hepatitis A: fever, jaundice, dark urine, abdominal pain. Incubation: 2–9 weeks.
+
+--- TRANSMISSION ---
+- Drinking contaminated water (primary route in India)
+- Eating undercooked pork or wild boar (zoonotic strains in developed countries)
+- Person to person (less common)
+
+--- RISK FACTORS ---
+- Floods and natural disasters contaminating water supply
+- Poor sanitation
+- Pregnancy (high risk of severe disease)
+
+--- PREVENTION ---
+- Safe drinking water — boil or treat water, especially after floods.
+- Good sanitation and hand hygiene.
+- Vaccination: An HEV vaccine (HEV 239) is available in China but not yet globally licensed. Not available in India currently.
+- Post-flood health precautions: Only drink boiled/treated water; avoid street food.
+
+--- WARNING SIGNS (especially in pregnancy) ---
+- Jaundice in a pregnant woman — emergency — seek immediate care.
+- Hepatitis E in pregnancy can cause acute liver failure with very high mortality.
+
+--- WHEN TO SEE A DOCTOR ---
+- Any jaundice — especially in pregnant women or after flood/water contamination exposure.
+- Hepatitis E outbreaks: Report to local health authorities for investigation of water supply.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Hepatitis E outbreaks are commonly reported after floods in India (Bihar, Assam, Odisha, etc.).
+- NVHCP (National Viral Hepatitis Control Programme) includes Hepatitis A and E surveillance.
+- Post-flood public health response always includes hepatitis surveillance and safe water provision.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How is Hepatitis A different from Hepatitis E — both seem the same?
+A: Both are waterborne and cause jaundice. Key differences: Hepatitis E is especially dangerous in pregnancy (very high mortality); Hepatitis A vaccine exists and is effective; Hepatitis A is most common in children in India while Hepatitis E affects all ages.
+
+Q: Can I get Hepatitis D without Hepatitis B?
+A: No. Hepatitis D virus cannot replicate without Hepatitis B. Getting vaccinated against Hepatitis B fully prevents Hepatitis D.
+
+Q: I was jaundiced 2 years ago. Am I immune to Hepatitis A now?
+A: If confirmed Hepatitis A infection, you likely have lifelong immunity to Hepatitis A specifically. You are not immune to other forms of hepatitis. Blood test for anti-HAV IgG confirms past immunity.
+
+--- IMPORTANT SAFETY NOTE ---
+Jaundice (yellow eyes/skin), dark urine, and fever require prompt medical evaluation. Hepatitis E in pregnancy is a medical emergency. Seek care immediately. This information is for awareness only.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

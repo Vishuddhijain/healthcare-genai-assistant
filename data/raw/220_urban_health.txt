@@ -1,0 +1,62 @@
+TOPIC: Urban health
+CATEGORY: Public Health Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/urban-health
+LAST UPDATED: 19 March 2025
+
+--- OVERVIEW ---
+The rising noncommunicable disease burden, the persistent threat of infectious disease outbreaks and an increased risk of violence and injuries are key public health concerns in urban areas. This triple threat includes:
+
+Injuries (including road traffic injury) and interpersonal violence particularly affect children, young adults, older people and the most marginalized groups as a result of poor working and living conditions and a lack of safe transport and infrastructure.
+
+Infectious diseases like COVID-19, tuberculosis, dengue and diarrhoea thrive in poor and overcrowded environments and are closely related to unhealthy housing and poor sanitation and waste management. Poor urban waste management fuels transmission of diseases such as the Zika and Ebola viruses.
+
+--- KEY FACTS ---
+- Over 55% of the world’s population live in urban areas and this is set to rise to 68% by 2050.
+- Almost 40% of urban dwellers have no access to safely managed sanitation services and many lack access to adequate drinking water.
+- An estimated 91% of people in urban areas breathe polluted air.
+- Poorly designed urban transport systems create a range of threats including road traffic injuries, air and noise pollution and barriers to safe physical activity – all leading to higher levels of noncommunicable disease and injuries.
+- Continued urbanization is expected to lead to cities becoming epicentres of disease transmission, including vector-borne diseases.
+
+--- TYPES ---
+- WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic.
+
+--- SYMPTOMS ---
+- Infectious diseases like COVID-19, tuberculosis, dengue and diarrhoea thrive in poor and overcrowded environments and are closely related to unhealthy housing and poor sanitation and waste management. Poor urban waste management fuels transmission of diseases such as the Zika and Ebola viruses.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- The rising noncommunicable disease burden, the persistent threat of infectious disease outbreaks and an increased risk of violence and injuries are key public health concerns in urban areas. This triple threat includes:
+
+--- PREVENTION ---
+- Almost 40% of urban dwellers have no access to safely managed sanitation services and many lack access to adequate drinking water.
+- Poorly designed urban transport systems create a range of threats including road traffic injuries, air and noise pollution and barriers to safe physical activity – all leading to higher levels of noncommunicable disease and injuries.
+- Injuries (including road traffic injury) and interpersonal violence particularly affect children, young adults, older people and the most marginalized groups as a result of poor working and living conditions and a lack of safe transport and infrastructure.
+
+--- ENVIRONMENTAL CONTROL ---
+- Almost 40% of urban dwellers have no access to safely managed sanitation services and many lack access to adequate drinking water.
+- Poorly designed urban transport systems create a range of threats including road traffic injuries, air and noise pollution and barriers to safe physical activity – all leading to higher levels of noncommunicable disease and injuries.
+- Infectious diseases like COVID-19, tuberculosis, dengue and diarrhoea thrive in poor and overcrowded environments and are closely related to unhealthy housing and poor sanitation and waste management. Poor urban waste management fuels transmission of diseases such as the Zika and Ebola viruses.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Infectious diseases like COVID-19, tuberculosis, dengue and diarrhoea thrive in poor and overcrowded environments and are closely related to unhealthy housing and poor sanitation and waste management. Poor urban waste management fuels transmission of diseases such as the Zika and Ebola viruses.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

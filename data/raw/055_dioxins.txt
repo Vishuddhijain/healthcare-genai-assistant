@@ -1,0 +1,71 @@
+TOPIC: Dioxins
+CATEGORY: Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/dioxins-and-their-effects-on-human-health
+LAST UPDATED: 29 November 2023
+
+--- OVERVIEW ---
+Dioxins are environmental pollutants. They belong to the so-called dirty dozen – a group of dangerous chemicals known as persistent organic pollutants (POPs). Dioxins are of concern because of their highly toxic potential. Experiments have shown they affect several organs and systems.
+
+Once dioxins enter the body, they last a long time because of their chemical stability and their ability to be absorbed by fat tissue, where they are then stored in the body. Their half-life in the body is estimated to be 7 to 11 years. In the environment, dioxins tend to accumulate in the food chain. The higher an animal is in the food chain, the higher the concentration of dioxins.
+
+The chemical name for dioxin is 2,3,7,8- tetrachlorodibenzo para dioxin (TCDD). The name dioxins is often used for the family of structurally and chemically related polychlorinated dibenzo para dioxins (PCDDs) and polychlorinated dibenzofurans (PCDFs) . Certain dioxin-like polychlorinated biphenyls (PCBs) with similar toxic properties are also included under the term dioxins. Some 419 types of dioxin-related compounds have been identified but only about 30 of these are considered to have significant toxicity, with TCDD being the most toxic.
+
+--- KEY FACTS ---
+- Dioxins are a group of chemically related compounds that are persistent environmental pollutants (POPs).
+- Dioxins are found throughout the world in the environment and they accumulate in the food chain, mainly in the fatty tissue of animals.
+- More than 90% of human exposure is through food, mainly meat and dairy products, fish and shellfish. Many national authorities have programmes in place to monitor the food supply.
+- Dioxins are highly toxic and can cause reproductive and developmental problems, damage the immune system, interfere with hormones and cause cancer.
+- All people have background exposure to dioxins, which is not expected to affect human health. However, due to the highly toxic potential, efforts are needed to reduce current background exposure.
+- Prevention or reduction of human exposure is best done via source-directed measures, i.e. strict control of industrial processes to reduce formation of dioxins.
+
+--- TYPES ---
+- Prevention or reduction of human exposure is best done via source-directed measures, i.e. strict control of industrial processes to reduce formation of dioxins.
+- Although formation of dioxins is local, environmental distribution is global. The highest levels are found in some soils, sediments and food, especially dairy products, meat, fish and shellfish. Very low levels are found in plants, water and air.
+- Chronic exposure of animals to dioxins has resulted in several types of cancer. TCDD was evaluated by the WHO’s International Agency for Research on Cancer (IARC) in 1997 and 2012. Based on animal and human epidemiology data, TCDD was classified by IARC as a known human carcinogen. However, TCDD does not affect genetic material and there is a level of exposure below which cancer risk would be negligible.
+- The quantitative chemical analysis of dioxins requires sophisticated methods that are available only in a limited number of laboratories around the world. The analysis costs are very high and vary according to the type of sample.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Trimming fat from meat and consuming low fat dairy products may decrease the exposure to dioxin compounds. Also, a balanced diet (including adequate amounts of fruits, vegetables and cereals) will help to avoid excessive exposure from a single source. This is a long-term strategy to reduce body burdens and is probably most relevant for girls and young women to reduce exposure of the developing fetus and when breastfeeding infants later in life. However, the possibility for consumers to reduce their own exposure is limited.
+
+--- PREVENTION ---
+- Proper incineration of contaminated material is the best available method of preventing and controlling exposure to dioxins. It can also destroy PCB-based waste oils. The incineration process requires temperatures over 850 °C. For the destruction of large amounts of contaminated material, temperatures of 1000 °C or more are required.
+- Prevention or reduction of human exposure is best done via source-directed measures, i.e. strict control of industrial processes to reduce formation of dioxins as much as possible. This is the responsibility of national governments. The Codex Alimentarius Commission adopted a Code of Practice for Source Directed Measures to Reduce Contamination of Foods with Chemicals (CAC/RCP 49-2001) in 2001. In 2006 a Code of Practice for the Prevention and Reduction of Dioxin and Dioxin-like PCB Contamination in Food and Feeds (CAC/RCP 62-2006) was adopted.
+- More than 90% of human exposure to dioxins is through the food supply, mainly meat and dairy products, fish and shellfish. Therefore, protecting the food supply is critical. In addition to source-directed measures to reduce dioxin emissions, secondary contamination of the food supply needs to be avoided throughout the food chain. Good controls and practices during primary production, processing, distribution and sale are all essential in the production of safe food. Contaminated animal feed is often the root cause of food contamination.
+- Food and feed contamination monitoring systems must be in place to ensure that tolerance levels are not exceeded. It is the responsibility of feed and food producers to assure safe raw materials and processes during production, and it is the role of national governments to monitor the safety of food supply and to take action to protect public health. When contamination is suspected, countries should have contingency plans to identify, detain and dispose of contaminated feed and food. The affected population should be examined for exposure (for example, measuring the contaminants in blood or human milk) and effects (for example, clinical...
+
+--- ENVIRONMENTAL CONTROL ---
+- Proper incineration of contaminated material is the best available method of preventing and controlling exposure to dioxins. It can also destroy PCB-based waste oils. The incineration process requires temperatures over 850 °C. For the destruction of large amounts of contaminated material, temperatures of 1000 °C or more are required.
+- Prevention or reduction of human exposure is best done via source-directed measures, i.e. strict control of industrial processes to reduce formation of dioxins as much as possible. This is the responsibility of national governments. The Codex Alimentarius Commission adopted a Code of Practice for Source Directed Measures to Reduce Contamination of Foods with Chemicals (CAC/RCP 49-2001) in 2001. In 2006 a Code of Practice for the Prevention and Reduction of Dioxin and Dioxin-like PCB Contamination in Food and Feeds (CAC/RCP 62-2006) was adopted.
+- More than 90% of human exposure to dioxins is through the food supply, mainly meat and dairy products, fish and shellfish. Therefore, protecting the food supply is critical. In addition to source-directed measures to reduce dioxin emissions, secondary contamination of the food supply needs to be avoided throughout the food chain. Good controls and practices during primary production, processing, distribution and sale are all essential in the production of safe food. Contaminated animal feed is often the root cause of food contamination.
+- Food and feed contamination monitoring systems must be in place to ensure that tolerance levels are not exceeded. It is the responsibility of feed and food producers to assure safe raw materials and processes during production, and it is the role of national governments to monitor the safety of food supply and to take action to protect public health. When contamination is suspected, countries should have contingency plans to identify, detain and dispose of contaminated feed and food. The affected population should be examined for exposure (for example, measuring the contaminants in blood or human milk) and effects (for example, clinical...
+- Trimming fat from meat and consuming low fat dairy products may decrease the exposure to dioxin compounds. Also, a balanced diet (including adequate amounts of fruits, vegetables and cereals) will help to avoid excessive exposure from a single source. This is a long-term strategy to reduce body burdens and is probably most relevant for girls and young women to reduce exposure of the developing fetus and when breastfeeding infants later in life. However, the possibility for consumers to reduce their own exposure is limited.
+- The quantitative chemical analysis of dioxins requires sophisticated methods that are available only in a limited number of laboratories around the world. The analysis costs are very high and vary according to the type of sample.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Many countries monitor their food supply for dioxins. This has led to early detection of contamination and has often prevented larger impacts. In many instances dioxin contamination is introduced via contaminated animal feed, e.g. incidences of increased dioxin levels in milk or animal feed were traced back to clay, fat or citrus pulp pellets used in the production of the animal feed.
+- Increasingly, biological (cell- or antibody based) screening methods are being developed, and the use of such methods for food and feed samples is increasingly being validated. Such screening methods allow more analyses at a lower cost, and in case of a positive screening test, confirmation of results must be carried out by more complex chemical analysis.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Extensive stores of PCB-based waste industrial oils, many with high levels of PCDFs, exist throughout the world. Long-term storage and improper disposal of this material may result in dioxin release into the environment and the contamination of human and animal food supplies. PCB-based waste is not easily disposed of without contamination of the environment and human populations. Such material needs to be treated as hazardous waste and is best destroyed by high temperature incineration in specialized facilities.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

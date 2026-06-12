@@ -1,0 +1,77 @@
+TOPIC: Newborn mortality
+CATEGORY: Child Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/newborns-reducing-mortality
+LAST UPDATED: 14 March 2024
+
+--- OVERVIEW ---
+Globally 2.3 million children died in the first 28 days of life in 2022. There are approximately 6500 newborn deaths every day, amounting to 47% of all child deaths under the age of 5 years.
+
+The world has made substantial progress in child survival since 1990. Globally, the number of neonatal deaths declined from 5.0 million in 1990 to 2.3 million in 2022. However, the decline in neonatal mortality from 1990 to 2022 has been slower than that of post-neonatal under-5 mortality. Moreover, the gains have reduced significantly since 2010, and 64 countries will fall short of meeting the Sustainable Development Goals target for neonatal mortality by 2030 unless urgent action is taken.
+
+Children continue to face different chances of survival based on where they are born, with sub-Saharan Africa and southern and central Asia bearing the heaviest burden for newborn deaths. Sub-Saharan Africa had the highest neonatal mortality rate in 2022 at 27 deaths per 1000 live births, followed by central and southern Asia with 21 deaths per 1000 live births. In sub-Saharan Africa the risk of death in the first month of life is 11 times higher than that in the lowest-mortality region, Australia and New Zealand. At country level, NMRs in 2022 ranged from 0.7 death per 1000 live births to 39.4 deaths per 1000 live births, and the risk of dying before the 28th day of life for a child born in the highest-mortality country was about 60 times greater than in the lowest-mortality country.
+
+--- KEY FACTS ---
+- The first month of life is the most vulnerable period for child survival, with 2.3 million newborns dying in 2022.
+- Neonatal deaths have decreased by 44% since 2000. Yet in 2022, nearly half (47%) of all deaths in children under 5 years of age occurred in the newborn period (the first 28 days of life), which is among the most vulnerable periods of life and requires intensified quality intrapartum and newborn care.
+- In 2022, sub-Saharan Africa accounted for 57% (2.8 (2.5–3.3) million) of total under-5 deaths but only 30% of global live births. Sub-Saharan Africa had the highest neonatal mortality rate in the world at 27 deaths per 1000 live births, followed by central and southern Asia, with a neonatal mortality rate of 21 deaths per 1000 live births.
+- Premature birth, birth complications (birth asphyxia/trauma), neonatal infections and congenital anomalies remain the leading causes of neonatal deaths.
+- Children who die within the first 28 days of birth suffer from conditions and diseases associated with lack of quality care at birth or skilled care and treatment immediately after birth and in the first days of life.
+- Women who receive midwife-led continuity of care (MLCC) provided by professional midwives, educated and regulated to internationals standards, are 16% less likely to lose their babies and 24% less likely to experience a pre-term birth.
+
+--- TYPES ---
+- WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic.
+
+--- SYMPTOMS ---
+- Premature birth, birth complications (birth asphyxia/trauma), neonatal infections and congenital anomalies remain the leading causes of neonatal deaths.
+- seek prompt medical care if necessary (danger signs include feeding problems, or if the newborn has reduced activity, difficult breathing, a fever, fits or convulsions, or feels cold);
+- preventive antiretroviral treatment (ART) for mothers and newborns to prevent opportunistic infections;
+- counselling and support to mothers for infant feeding. Community health workers should be aware of the specialized issues around infant feeding. Many HIV-infected newborns are born prematurely and are more susceptible to infections.
+
+--- WARNING SIGNS ---
+- Neonatal deaths have decreased by 44% since 2000. Yet in 2022, nearly half (47%) of all deaths in children under 5 years of age occurred in the newborn period (the first 28 days of life), which is among the most vulnerable periods of life and requires intensified quality intrapartum and newborn care.
+- In 2022, sub-Saharan Africa accounted for 57% (2.8 (2.5–3.3) million) of total under-5 deaths but only 30% of global live births. Sub-Saharan Africa had the highest neonatal mortality rate in the world at 27 deaths per 1000 live births, followed by central and southern Asia, with a neonatal mortality rate of 21 deaths per 1000 live births.
+- Premature birth, birth complications (birth asphyxia/trauma), neonatal infections and congenital anomalies remain the leading causes of neonatal deaths.
+- Globally 2.3 million children died in the first 28 days of life in 2022. There are approximately 6500 newborn deaths every day, amounting to 47% of all child deaths under the age of 5 years.
+- The world has made substantial progress in child survival since 1990. Globally, the number of neonatal deaths declined from 5.0 million in 1990 to 2.3 million in 2022. However, the decline in neonatal mortality from 1990 to 2022 has been slower than that of post-neonatal under-5 mortality. Moreover, the gains have reduced significantly since 2010, and 64 countries will fall short of meeting the Sustainable Development Goals target for neonatal mortality by 2030 unless urgent action is taken.
+
+--- RISK FACTORS ---
+- Most neonatal deaths (75%) occur during the first week of life, and about 1 million newborns die within the first 24 hours. Among neonates, the leading causes of death include premature birth, birth complications (birth asphyxia/trauma), neonatal infections and congenital anomalies, which collectively account for almost 4 in every 10 deaths in children under 5 years of age. It is worth noting that although the rates for the leading causes of neonatal deaths have declined globally since 2000, they accounted for the same proportion of under-5 deaths – 4 in 10 – in 2000 and 2022. Access to and availability of quality health care continues to...
+
+--- PREVENTION ---
+- thermal protection (e. g. promoting skin-to-skin contact between mother and infant);
+- preventive treatment (e. g. immunization BCG and Hepatitis B, vitamin k and ocular prophylaxis).
+- extra attention to hygiene, especially hand washing;
+- preventive antiretroviral treatment (ART) for mothers and newborns to prevent opportunistic infections;
+
+--- ENVIRONMENTAL CONTROL ---
+- Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant.
+
+--- VACCINATION ---
+- preventive treatment (e. g. immunization BCG and Hepatitis B, vitamin k and ocular prophylaxis).
+- bring the baby for timely vaccination according to national schedules.
+
+--- DIAGNOSIS ---
+- Danger signs should be identified as soon as possible in health facilities or at home and the baby referred to the appropriate service for further diagnosis and care.
+- HIV testing and care for exposed infants; and
+
+--- TREATMENT (AWARENESS ONLY) ---
+- All babies should receive the following:
+- thermal protection (e. g. promoting skin-to-skin contact between mother and infant);
+- hygienic umbilical cord and skin care;
+- early and exclusive breastfeeding;
+- assessment for signs of serious health problems or need of additional care (e.g. those that are low-birth-weight, sick or have an HIV-infected mother; and
+- preventive treatment (e. g. immunization BCG and Hepatitis B, vitamin k and ocular prophylaxis).
+- Families should be advised to:
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

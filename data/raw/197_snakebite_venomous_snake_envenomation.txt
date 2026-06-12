@@ -1,0 +1,189 @@
+TOPIC: Snakebite (Venomous Snake Envenomation)
+CATEGORY: Emergency Health / Neglected Tropical Disease / Environmental Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/snakebite-envenomation | NHP India | ICMR | CDC
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Snakebite envenomation is a potentially life-threatening condition that occurs when a venomous snake bites a person and injects venom. It is a neglected tropical disease and a major public health problem in South Asia, particularly India. India has the highest snakebite burden in the world. Snakebite is most common in rural agricultural communities where people work barefoot or in open fields. Prompt treatment with anti-snake venom (ASV) can be life-saving — every minute counts.
+
+--- KEY FACTS ---
+- Approximately 5.4 million people are bitten by snakes annually worldwide; up to 2.7 million envenomations occur.
+- Globally, snakebites cause 81,000–138,000 deaths per year.
+- India accounts for the highest burden: approximately 58,000 deaths per year (WHO 2020 estimates) — roughly 50% of global snakebite deaths.
+- Peak season in India: June–September (monsoon) — snakes displaced by flooding enter human habitations.
+- Most bites occur in rural India — highest burden in Bihar, Jharkhand, Odisha, Uttar Pradesh, Andhra Pradesh, West Bengal.
+- The "Big Four" venomous snakes of India cause the majority of deaths: Indian Cobra, Russell's Viper, Common Krait, Saw-scaled Viper.
+- Anti-Snake Venom (ASV) is the only specific treatment — available FREE at government hospitals.
+- Snakebite is NOT just a rural problem — urban encroachment on snake habitats increases encounters.
+
+--- INDIA'S "BIG FOUR" VENOMOUS SNAKES ---
+1. Indian Cobra (Naja naja) — Neurotoxic + Cytotoxic:
+   - Hood: Iconic spectacled cobra
+   - Venom: Destroys nerve function; also damages local tissue
+   - Signs: Local swelling, drooping eyelids, difficulty swallowing/breathing, generalised weakness
+   - Very common across India
+
+2. Russell's Viper (Daboia russelii) — Hemotoxic + Nephrotoxic:
+   - Distinctive chain-like pattern on brown body
+   - Most dangerous — causes most deaths in India
+   - Venom: Destroys blood clotting; causes internal bleeding, kidney failure
+   - Signs: Severe local pain and swelling, bleeding from gums/bite site, blood in urine, kidney failure
+
+3. Common Krait (Bungarus caeruleus) — Neurotoxic:
+   - Black/white banded; shiny; nocturnal; often bites while sleeping
+   - PAINLESS bite — often not noticed until symptoms develop
+   - Venom: Blocks nerve-muscle transmission → respiratory paralysis → death
+   - Signs: Waking up unable to move, drooping eyelids, respiratory failure — often mistaken for natural death/sleep
+
+4. Saw-scaled Viper (Echis carinatus) — Hemotoxic:
+   - Small, aggressive, makes rasping sound by rubbing scales
+   - Found in dry, rocky areas (Rajasthan, Gujarat, North India)
+   - Venom: Blood clotting disorders, bleeding
+   - Signs: Local pain and swelling, bleeding
+
+--- SYMPTOMS OF SNAKEBITE ENVENOMATION ---
+LOCAL EFFECTS (at bite site — within minutes to hours):
+- Pain and swelling at bite site (most venomous bites, except Krait)
+- Redness and bruising
+- Tissue death/necrosis (Russell's Viper, Cobra)
+- Fang marks (one or two puncture wounds)
+
+SYSTEMIC EFFECTS (vary by venom type):
+
+Neurotoxic envenomation (Cobra, Krait):
+- Drooping eyelids (ptosis) — EARLY WARNING SIGN
+- Double vision (diplopia)
+- Difficulty swallowing, drooling
+- Difficulty speaking (dysarthria)
+- Generalised weakness; unable to lift head
+- Respiratory paralysis — LIFE-THREATENING
+- Krait: May be almost painless; sudden awakening with paralysis
+
+Hemotoxic / Coagulopathic (Russell's Viper, Saw-scaled Viper):
+- Bleeding from bite site, gums, nose, injection sites
+- Blood in urine (haematuria) — dark/red urine
+- Blood in vomit or stool
+- Swelling, blistering of limb
+- Kidney failure (oliguria — reduced urine output)
+
+--- WARNING SIGNS — SEEK EMERGENCY CARE IMMEDIATELY ---
+ANY of these after a snakebite = CALL 112 or rush to nearest hospital:
+- Drooping eyelids (even without pain)
+- Difficulty breathing or swallowing
+- Generalised weakness or inability to move
+- Bleeding from gums, nose, or bite wound
+- Blood in urine, vomit, or stool
+- Rapidly spreading swelling of limb
+- Confusion or altered consciousness
+- Vomiting
+- Waking up unable to move after sleeping (Krait bite)
+
+--- FIRST AID FOR SNAKEBITE ---
+DO:
+1. Keep the person calm and reassured — panic increases heart rate and venom spread
+2. Immobilise the bitten limb as much as possible — keep it at or slightly below heart level
+3. Remove tight clothing, jewellery, watches from the bitten limb (swelling may develop)
+4. Mark the edge of any swelling with a pen and note the time
+5. Carry the person if possible — minimise movement
+6. Get to the nearest hospital/government health facility AS FAST AS POSSIBLE
+7. Try to note the snake's appearance (colour, size, pattern) — do NOT try to catch or kill the snake
+
+DO NOT:
+- Do NOT cut the wound or try to suck out venom — this does NOT work and causes harm
+- Do NOT apply a tourniquet or tight bandage (especially for Viper bites — worsens tissue death)
+- Do NOT apply ice
+- Do NOT apply traditional remedies, herbs, or stones to the wound
+- Do NOT give alcohol, painkillers (NSAIDs), or aspirin — can worsen bleeding
+- Do NOT try to catch or kill the snake — another bite risk
+- Do NOT apply electric shock (no evidence; harmful)
+
+PRESSURE IMMOBILISATION TECHNIQUE (PIM):
+- Recommended ONLY for Cobra and Krait (neurotoxic) bites — NOT for Viper bites
+- Wrap entire limb firmly (not tightly) with a crepe bandage from fingers to shoulder, as if for a sprain
+- Immobilise with a splint
+- Do NOT use PIM for Russell's Viper or Saw-scaled Viper bites
+
+--- RISK FACTORS ---
+- Farming, agricultural work, outdoor labour
+- Walking barefoot or in open sandals
+- Working at night (especially Krait risk)
+- Sleeping on floor
+- Living in rural areas near fields, forests, water bodies
+- Monsoon season flooding
+- Collecting firewood or working with piles of stones
+- Children playing outdoors in high-risk areas
+
+--- PREVENTION ---
+- Wear closed shoes or boots, especially when working in fields
+- Wear thick gloves when moving stones, logs, or debris
+- Use a torch/light when moving at night
+- Sleep on a raised bed with intact mosquito net tucked in (Krait prevention)
+- Keep surroundings clean — remove rat/rodent habitats (snakes follow prey)
+- Avoid areas where snakes may shelter (rock piles, dense vegetation)
+- Do NOT disturb or provoke snakes — most bites occur when snakes are threatened
+- Community education in high-risk villages about snakebite first aid
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Anti-Snake Venom (ASV): The ONLY specific treatment; available FREE at government district hospitals and CHCs
+- India manufactures polyvalent ASV effective against all Big Four snake venoms
+- Must be given by IV infusion under medical supervision (risk of anaphylaxis)
+- Supportive care: Ventilator support for respiratory paralysis, dialysis for kidney failure
+- Neostigmine + atropine: Given for neurotoxic bites (Cobra, Krait) under physician supervision
+- Wound care: Tetanus prophylaxis, surgical debridement for severe necrosis
+
+ASV availability in India:
+- FREE at all government district hospitals, CHCs, some PHCs
+- Brands: VINS Bioproducts, Central Research Institute Kasauli, Bharat Serums
+- ASV works best when given EARLY — within 1–4 hours of envenomation
+
+--- WHEN TO SEE A DOCTOR ---
+- ANY snake bite — even if no immediate symptoms (Krait bites often painless; symptoms delayed)
+- Assume every bite is venomous until proven otherwise
+- Rushed to nearest hospital — government hospitals provide ASV free
+- Do NOT wait for symptoms to worsen before seeking care
+
+--- INDIA-SPECIFIC CONTEXT ---
+- India National Snakebite Management Protocol: Developed by MoHFW for use at all levels of healthcare
+- India has a goal to halve snakebite deaths by 2030 (part of WHO Global Snakebite Initiative)
+- ICMR's National Institute of Traditional Medicine: Studying local treatments; note that only ASV is evidence-based
+- High burden states: Bihar, Jharkhand, Odisha, UP, West Bengal, Andhra Pradesh, Maharashtra, Tamil Nadu
+- Traditional healers/ojhas: Still visited by many rural snakebite patients before hospital — this delay is the leading cause of preventable death
+- Asha workers and community health workers are trained in snakebite first aid under NHM
+- Free ASV at district hospitals — but many rural patients need transport support to reach
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can you suck out snake venom?
+A: No. Sucking venom is ineffective and can introduce bacteria. It can also harm the person doing the sucking. This is a dangerous myth — go directly to a hospital.
+
+Q: Should I kill the snake to show the doctor?
+A: Do NOT try to catch or kill the snake — you may be bitten again. Try to observe and describe the snake's appearance to the doctor. India uses polyvalent ASV that covers all Big Four.
+
+Q: Are all snakes in India venomous?
+A: No. India has ~300 snake species; only about 60 are venomous, and only a handful commonly bite humans. However, non-venomous bites still require wound care. Treat every bite as potentially serious and seek care.
+
+Q: What if the bite is painless — is it still dangerous?
+A: YES. The Common Krait often causes painless bites, especially at night during sleep. Symptoms (drooping eyelids, weakness, paralysis) may appear hours later. Any snakebite should be evaluated medically regardless of pain.
+
+Q: Is traditional treatment effective for snakebite?
+A: No traditional treatment has been proven effective. Only ASV (Anti-Snake Venom) is evidence-based treatment. Delays caused by seeking traditional treatment are the leading cause of preventable snakebite deaths in India.
+
+--- IMPORTANT SAFETY NOTE ---
+Snakebite is a medical emergency. The most important action is to reach a hospital with ASV as quickly as possible. Anti-Snake Venom is available FREE at all district-level government hospitals in India. Every minute of delay increases risk of permanent damage or death. Do not apply tourniquets, cut the wound, suck venom, or apply traditional remedies — these cause harm without benefit. Call 112 for emergency transport if available.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.

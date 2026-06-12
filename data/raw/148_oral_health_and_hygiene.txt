@@ -1,0 +1,168 @@
+TOPIC: Oral Health and Hygiene
+CATEGORY: Non-Communicable Disease (Oral / Dental Health)
+SOURCE: WHO Fact Sheet + NHP India + NHM Oral Health - https://www.who.int/news-room/fact-sheets/detail/oral-health | nhp.gov.in/oral-health
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Oral health is a key indicator of overall health, well-being, and quality of life. Oral diseases are among the most widespread non-communicable diseases, yet largely preventable. In India, over 60–70% of the population has some form of dental disease. The most common oral health problems are dental caries (tooth decay), periodontal (gum) disease, oral cancers, and dental fluorosis. India's high burden of oral cancer — largely due to tobacco and areca nut (betel nut) use — makes oral health particularly significant. Poor oral health is also linked to systemic diseases including diabetes, heart disease, and adverse pregnancy outcomes.
+
+--- COMMON ORAL HEALTH CONDITIONS ---
+
+1. Dental Caries (Tooth Decay):
+The most common oral disease globally. Caused by acid-producing bacteria (Streptococcus mutans) in dental plaque that demineralise tooth enamel.
+Symptoms: Toothache, sensitivity to hot/cold/sweet, visible holes or pits, pain on biting.
+Risk factors: Frequent sugar and refined carbohydrate consumption; poor oral hygiene; inadequate fluoride exposure; dry mouth; night feeding in infants.
+
+2. Periodontal Disease (Gum Disease):
+Infection and inflammation of gums and supporting bone structure.
+- Gingivitis: Mild form; red, swollen, bleeding gums; REVERSIBLE with good oral hygiene
+- Periodontitis: Advanced form; destroys bone and tissue supporting teeth; can lead to tooth loss; IRREVERSIBLE damage
+Symptoms: Bleeding gums (especially while brushing), swollen/red gums, persistent bad breath, gum recession, loose teeth, pain on chewing.
+Risk factors: Poor oral hygiene, smoking, diabetes, pregnancy, stress, certain medications.
+
+3. Dental Fluorosis:
+Occurs from excessive fluoride intake during tooth development (childhood).
+Endemic in several Indian states due to high fluoride in groundwater (Rajasthan, Andhra Pradesh, Telangana, Punjab, Gujarat, Karnataka, UP).
+Ranges from white spots to brown staining and pitting of teeth.
+Prevention: Use low-fluoride or defluoridated water; defluoridation of water supplies.
+
+4. Oral Cancer (see also 15_cancer_awareness.txt):
+India accounts for ~30% of global oral cancers.
+Linked to tobacco (smoking and smokeless), areca nut (supari, gutka), alcohol, and HPV.
+Precancerous lesions: Leukoplakia (white patch), erythroplakia (red patch), Oral Submucous Fibrosis (OSMF).
+Early detection and cessation of tobacco/areca nut use dramatically improve outcomes.
+
+5. Toothache and Dental Abscess:
+- Abscess: Pus-filled infection at root or gum; causes severe pain, swelling, fever
+- Medical emergency if swelling spreads to face, neck, or causes difficulty swallowing/breathing
+
+6. Malocclusion:
+Misaligned teeth and improper bite; can affect chewing, speech, and self-esteem; orthodontic correction available.
+
+7. Dental Trauma:
+Injury to teeth/mouth; common in children and road traffic accidents.
+A knocked-out permanent tooth: Emergency — keep it moist (milk or saline), reimplant within 1 hour if possible, see a dentist immediately.
+
+--- ORAL HYGIENE PRACTICES ---
+Brushing:
+- Brush twice daily — after waking up and before bed (most important)
+- Use a soft-bristled toothbrush; replace every 3 months
+- Use fluoride toothpaste (1000–1500 ppm fluoride for adults; lower concentration for children under 6)
+- Brush for at least 2 minutes; reach all surfaces (outer, inner, chewing surfaces)
+- Use gentle circular motion; avoid aggressive scrubbing (causes gum recession and enamel wear)
+- Clean the tongue: Reduces bacteria and bad breath
+
+Flossing:
+- Floss once daily: Removes plaque and food from between teeth where brush cannot reach
+- Can use interdental brushes or water flossers as alternatives
+
+Diet:
+- Reduce frequency of sugar and refined carbohydrate intake (frequency matters more than quantity)
+- Avoid sugar-sweetened beverages (sodas, packaged juices) — highly cariogenic
+- Drink water — especially fluoridated water; water rinse after meals
+- Eat calcium-rich foods (dairy, ragi, sesame seeds, green leafy vegetables) for strong teeth
+- Include crunchy fruits and vegetables (apples, carrots) — stimulate saliva and help clean teeth
+
+Tobacco and Areca Nut:
+- Quit all forms: Smoking, bidis, gutka, khaini, paan masala, supari
+- Tobacco is the primary driver of gum disease, tooth loss, and oral cancer in India
+- Areca nut (even without tobacco) causes Oral Submucous Fibrosis and oral cancer
+
+Dental Visits:
+- Visit a dentist at least once a year for check-up and professional cleaning (even if no pain)
+- Children: First dental visit at eruption of first tooth or by age 1
+- Professional scaling and polishing removes tartar (hardened plaque) that brushing cannot remove
+
+--- ORAL HEALTH IN SPECIAL SITUATIONS ---
+
+Pregnancy:
+- Hormonal changes increase risk of gum inflammation (pregnancy gingivitis)
+- Poor oral health is associated with preterm birth and low birth weight
+- Dental treatment is safe during pregnancy; inform your dentist
+- Maintain good oral hygiene; schedule dental check-up during pregnancy
+
+Diabetes:
+- Bidirectional relationship: Diabetes worsens periodontal disease; periodontal disease worsens blood sugar control
+- Diabetics need more frequent dental visits; inform dentist of diabetes and medication
+
+Children:
+- Establish oral hygiene habits from infancy (wipe gums with soft cloth)
+- Avoid putting infants to bed with a milk bottle (causes nursing bottle caries)
+- Start using fluoride toothpaste (pea-sized amount) from age 2
+- Apply pit and fissure sealants to back teeth of children (available at government dental clinics)
+- Avoid excessive sugar in children's diet
+
+Elderly:
+- Dry mouth (xerostomia) common due to medications; increases caries risk
+- Denture hygiene important (remove and clean dentures daily; soak overnight)
+- Regular check for oral lesions
+
+--- BAD BREATH (HALITOSIS) ---
+Causes:
+- Poor oral hygiene (most common)
+- Gum disease
+- Dry mouth
+- Certain foods (garlic, onion)
+- Smoking
+- Systemic causes (diabetes, kidney disease, acid reflux, respiratory infections)
+
+Management:
+- Thorough brushing (including tongue)
+- Regular flossing
+- Adequate hydration
+- Dental check-up to rule out gum disease or decay
+- Persistent bad breath despite good hygiene requires medical evaluation
+
+--- WHEN TO SEE A DENTIST ---
+- Toothache or tooth sensitivity
+- Swollen, bleeding, or receding gums
+- Loose teeth or changes in bite
+- White or red patches in mouth; non-healing sores
+- Swelling of face or jaw (dental abscess — urgent)
+- Difficulty chewing, swallowing, or speaking
+- Bad breath despite good oral hygiene
+- Children with delayed tooth eruption or visible decay
+- Routine: At least once a year even without symptoms
+
+--- GOVERNMENT PROGRAMMES ---
+- National Oral Health Programme (NOHP): Preventive and promotive oral health services at government hospitals
+- School Dental Health Programme: Screening and oral health education in schools under NHM
+- Free dental OPDs at government medical college hospitals and district hospitals
+- AYUSH integration: Promotion of traditional practices like oil pulling (as adjunct, not replacement for modern oral care)
+- National Tobacco Cessation Programme: Quit tobacco helpline — 1800-11-2356 (toll-free)
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Pain in the mouth or jaw can sometimes indicate serious conditions. Do not ignore white or red patches in the mouth or non-healing sores — consult a dentist or doctor promptly. All toothache and dental infections should be evaluated by a qualified dentist, not self-managed with painkillers alone.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

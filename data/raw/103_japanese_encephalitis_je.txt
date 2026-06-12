@@ -1,0 +1,112 @@
+TOPIC: Japanese Encephalitis (JE)
+CATEGORY: Communicable / Vector-Borne / Neurological
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis | NVBDCP India
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Japanese Encephalitis (JE) is a viral brain infection caused by the Japanese Encephalitis Virus (JEV), transmitted through the bite of Culex mosquitoes. It is the leading cause of viral encephalitis (brain inflammation) in Asia. India is one of the most affected countries, with regular outbreaks particularly in UP, Bihar, and Assam. JE is preventable through vaccination and mosquito control.
+
+--- TYPES ---
+Japanese Encephalitis Virus (JEV): Single causative agent; 5 genotypes (I–V).
+The virus cycles between Culex mosquitoes and vertebrate hosts (pigs, waterbirds). Humans are dead-end hosts.
+
+--- KEY FACTS ---
+- Approximately 68,000 clinical JE cases occur each year in Asia.
+- Case fatality rate: 20–30% among cases with clinical symptoms.
+- 30–50% of survivors have significant neurological disabilities.
+- India reports approximately 1,500–4,000 cases annually (official data; actual much higher).
+- Most JE cases occur in children under 15.
+- JE is vaccine-preventable — an effective, safe vaccine is available and FREE under India's UIP in endemic districts.
+
+--- SYMPTOMS ---
+Most JEV infections (99%+) have no symptoms or mild illness.
+Of those who develop encephalitis (1 in 250 infections):
+- High fever (sudden onset)
+- Severe headache
+- Neck stiffness (meningism)
+- Altered consciousness or confusion
+- Seizures (very common in children)
+- Tremors, movement abnormalities
+- Coma in severe cases
+- Focal neurological signs (weakness, paralysis)
+
+Acute Encephalitic Syndrome (AES): Umbrella term used in India for fever with neurological signs — JE is one cause. Other causes: enteroviruses, herpes encephalitis, bacterial meningitis.
+
+--- RISK FACTORS ---
+- Living in or travelling to JE-endemic areas (UP, Bihar, Assam, Manipur, parts of South India)
+- Living near rice paddies and pig farms (breeding ground for Culex mosquitoes)
+- Unvaccinated status
+- Children under 15 (highest risk for clinical disease)
+- Outdoor activities in endemic areas during transmission season (monsoon and post-monsoon)
+
+--- PREVENTION ---
+Personal protection (mosquito bite prevention):
+- Sleep under insecticide-treated bed nets (Culex mosquitoes bite at night)
+- Use mosquito repellent (DEET/picaridin) on exposed skin in the evening
+- Wear long-sleeved clothes and trousers in the evening
+- Use mosquito coils, screens, and sprays indoors
+
+Environmental control:
+- Eliminate mosquito breeding sites (standing water)
+- Culex mosquitoes breed in paddy fields — difficult to eliminate; focus on personal protection
+- Indoor residual spraying (IRS) by government during outbreaks
+
+Vaccination (most important prevention):
+- JE vaccine is FREE under India's Universal Immunisation Programme in endemic districts
+- Schedule: 2 doses at 9 months and 16–24 months (SA14-14-2 live attenuated vaccine)
+- Catch-up campaigns conducted in endemic areas
+- Travellers to endemic areas: SA14-14-2 or inactivated JE vaccine (Ixiaro) available at travel clinics
+
+--- ENVIRONMENTAL CONTROL ---
+- Pig vaccination: Reduces JEV reservoir — conducted by animal husbandry departments.
+- Drainage of stagnant water near homes.
+- NVBDCP surveillance of AES/JE cases — mandatory reporting.
+
+--- VACCINATION ---
+JE vaccines available in India:
+1. SA14-14-2 (live attenuated): Free under UIP in endemic districts; single dose effective; widely used in India.
+2. Inactivated JE vaccine (Ixiaro/Jespect): Available for travellers and non-immune adults at private clinics.
+
+--- DIAGNOSIS ---
+- CSF (cerebrospinal fluid) analysis: Elevated white cells, protein; normal glucose.
+- JE-specific IgM antibody: In CSF or serum (most reliable diagnostic test).
+- Neuroimaging (MRI/CT): Shows characteristic lesions in thalamus and basal ganglia in JE.
+- Testing at National Institute of Virology (NIV, Pune) and government reference labs.
+
+--- TREATMENT (Awareness Only) ---
+- No specific antiviral treatment for JE.
+- Supportive care: Manage fever, seizures, raised intracranial pressure.
+- Intensive care for severe cases.
+- Rehabilitation: Physiotherapy, speech therapy, occupational therapy for survivors with neurological deficits.
+- Free treatment at government hospitals in endemic areas.
+
+--- WARNING SIGNS ---
+- Any child in an endemic area with fever and neurological signs (confusion, seizures, neck stiffness) → EMERGENCY
+- Call 112 and go to nearest government hospital immediately
+
+--- WHEN TO SEE A DOCTOR ---
+- Any fever with headache and confusion or seizures — medical emergency
+- Unvaccinated children in endemic areas should be vaccinated promptly
+
+--- INDIA-SPECIFIC CONTEXT ---
+- JE endemic districts: Uttar Pradesh (highest burden), Bihar, Assam, West Bengal, Manipur, Andhra Pradesh, Karnataka, Tamil Nadu, Goa.
+- Gorakhpur Medical College (UP) has been a major focal point for JE management.
+- AES (Acute Encephalitic Syndrome) surveillance: All government hospitals in endemic areas are required to report AES cases.
+- NVBDCP: Coordinates JE vaccination campaigns and vector control.
+- Chandipura virus, Nipah virus: Other causes of encephalitis in India — separate conditions.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is Japanese Encephalitis contagious (does it spread person to person)?
+A: No. JE does NOT spread person to person. It spreads only through Culex mosquito bites. You cannot get JE from a patient with JE.
+
+Q: My child lives in Gorakhpur/UP. Is the JE vaccine available?
+A: Yes. JE vaccine is free under India's UIP for children in endemic districts. Contact your nearest government PHC or Anganwadi centre.
+
+Q: Can adults get Japanese Encephalitis?
+A: Yes, but most adults in endemic areas develop immunity through repeated exposure. Children are most vulnerable to clinical disease. Unimmune adults (travellers, migrants) can be severely affected.
+
+--- IMPORTANT SAFETY NOTE ---
+JE encephalitis is a medical emergency. Fever with neurological signs in a child in an endemic area requires emergency care. Call 112 immediately. This information is for awareness only. Vaccination is free and available in endemic districts.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

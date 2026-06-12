@@ -1,0 +1,65 @@
+TOPIC: Dracunculiasis (Guinea-worm disease)
+CATEGORY: Infectious Disease Awareness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/dracunculiasis-(guinea-worm-disease)
+LAST UPDATED: 30 January 2025
+
+--- OVERVIEW ---
+Dracunculiasis, also called Guinea-worm disease, is a parasitic disease transmitted through contaminated drinking water, causing a painful blister from which a worm slowly emerges. It results from ingesting the parasite Dracunculus medinensis . Although it rarely causes death, infected individuals are often incapacitated for weeks or months. This disease predominantly affects rural, underserved, and remote populations that rely on open, stagnant water sources (e.g., ponds) for drinking-water.
+
+--- KEY FACTS ---
+- Dracunculiasis is a crippling parasitic disease on the verge of eradication, with 13 human cases reported in 2024 (provisional) and 14 in 2023.
+- From the time infection occurs, it takes 10–14 months for the transmission cycle to complete, at which point a mature female worm emerges from the body.
+- Transmission mostly involves drinking stagnant water contaminated by parasite-infected water fleas.
+- Dracunculiasis was endemic in 20 countries (1) in the mid-1980s.
+
+--- TYPES ---
+- WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic.
+
+--- SYMPTOMS ---
+- From the time infection occurs, it takes 10–14 months for the transmission cycle to complete, at which point a mature female worm emerges from the body.
+- Dracunculiasis, also called Guinea-worm disease, is a parasitic disease transmitted through contaminated drinking water, causing a painful blister from which a worm slowly emerges. It results from ingesting the parasite Dracunculus medinensis . Although it rarely causes death, infected individuals are often incapacitated for weeks or months. This disease predominantly affects rural, underserved, and remote populations that rely on open, stagnant water sources (e.g., ponds) for drinking-water.
+- Surveillance and mapping : Locating endemic and at-risk communities; promptly detecting and reporting human or animal infections; and confirming infections in a laboratory.
+
+--- WARNING SIGNS ---
+- Dracunculiasis, also called Guinea-worm disease, is a parasitic disease transmitted through contaminated drinking water, causing a painful blister from which a worm slowly emerges. It results from ingesting the parasite Dracunculus medinensis . Although it rarely causes death, infected individuals are often incapacitated for weeks or months. This disease predominantly affects rural, underserved, and remote populations that rely on open, stagnant water sources (e.g., ponds) for drinking-water.
+
+--- RISK FACTORS ---
+- During the mid-1980s, approximately 3.5 million cases of dracunculiasis occurred in 20 countries worldwide, 17 located in Africa and the remaining 3 in Asia. Subsequent interventions reduced reported cases to fewer than 10 000 in 2007, then further down to 542 in 2012 and 126 in 2014. Since 2015, annual human cases have remained in double digits, declining from 22 in 2015 to 13 (provisional) in 2024. In that same year, 12 villages in Chad (7 cases) and South Sudan (6 cases) accounted for all known human infections. Five countries – Angola, Chad, Ethiopia, Mali, and South Sudan – remain endemic, while Sudan is currently in the...
+- Roughly one year following infection, a blister develops on the lower leg in about 90% of cases, and one or more adult worms emerge alongside a burning sensation. Patients often immerse the affected region in water to relieve pain. This contact enables the worm to expel thousands of larvae into the water, where they are ingested by tiny crustaceans (copepods), commonly known as water fleas. People and certain animals, such as dogs or cats swallow these infected water fleas mostly by drinking contaminated water or by consuming raw or undercooked aquatic hosts harbouring the infective larvae. Although the water fleas die in the stomach, the...
+
+--- PREVENTION ---
+- There is no vaccine or cure for dracunculiasis, but prevention and surveillance measures have brought the disease to the brink of eradication. Essential approaches include:
+- Safe water access : Drilling protected wells or boreholes, promoting the use of cloth or pipe filters in the absence of safe drinking water, and discouraging contact with contaminated sources when worms emerge.
+- Vector control : Regularly applying temephos (Abate®) to stagnant water to kill infected water fleas.
+- Community education : Highlighting the importance of early case detection and reporting, alongside preventing animals from contaminating water, and proper management of aquatic animals’ waste.
+- Interrupting transmission in animals requires enhanced surveillance, early containment of infected animals, proactive tethering, community education, and rigorous vector control.
+
+--- ENVIRONMENTAL CONTROL ---
+- Transmission mostly involves drinking stagnant water contaminated by parasite-infected water fleas.
+- Dracunculiasis, also called Guinea-worm disease, is a parasitic disease transmitted through contaminated drinking water, causing a painful blister from which a worm slowly emerges. It results from ingesting the parasite Dracunculus medinensis . Although it rarely causes death, infected individuals are often incapacitated for weeks or months. This disease predominantly affects rural, underserved, and remote populations that rely on open, stagnant water sources (e.g., ponds) for drinking-water.
+- Safe water access : Drilling protected wells or boreholes, promoting the use of cloth or pipe filters in the absence of safe drinking water, and discouraging contact with contaminated sources when worms emerge.
+- Vector control : Regularly applying temephos (Abate®) to stagnant water to kill infected water fleas.
+- Community education : Highlighting the importance of early case detection and reporting, alongside preventing animals from contaminating water, and proper management of aquatic animals’ waste.
+
+--- VACCINATION ---
+- There is no vaccine or cure for dracunculiasis, but prevention and surveillance measures have brought the disease to the brink of eradication. Essential approaches include:
+
+--- DIAGNOSIS ---
+- Surveillance and mapping : Locating endemic and at-risk communities; promptly detecting and reporting human or animal infections; and confirming infections in a laboratory.
+- Community education : Highlighting the importance of early case detection and reporting, alongside preventing animals from contaminating water, and proper management of aquatic animals’ waste.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

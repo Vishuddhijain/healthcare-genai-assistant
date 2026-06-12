@@ -1,0 +1,102 @@
+TOPIC: Meningitis
+CATEGORY: Communicable Disease (Bacterial/Viral CNS Infection)
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/meningitis
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Meningitis is inflammation of the meninges (membranes surrounding the brain and spinal cord), most commonly caused by bacterial or viral infections, but also by fungi or parasites. Bacterial meningitis is a medical emergency with high mortality (up to 50% if untreated) and significant rates of long-term disability (hearing loss, learning difficulties, seizures) among survivors — affecting roughly 1 in 5 survivors. WHO's "Defeating Meningitis by 2030" roadmap targets elimination of bacterial meningitis epidemics. Major bacterial causes: Neisseria meningitidis (meningococcus), Streptococcus pneumoniae (pneumococcus), Haemophilus influenzae type b (Hib), and Group B Streptococcus (in newborns).
+
+--- TYPES ---
+1. Bacterial meningitis: Most severe; medical emergency; requires immediate antibiotics
+2. Viral meningitis: Usually milder, self-limiting (enteroviruses most common cause)
+3. Fungal meningitis: Rare; occurs mainly in immunocompromised individuals (e.g. cryptococcal meningitis in advanced HIV)
+4. Tuberculous meningitis: Caused by Mycobacterium tuberculosis; subacute onset; significant burden in India
+5. Neonatal meningitis: Group B Streptococcus, E. coli — affects newborns, high mortality/disability risk
+
+--- SYMPTOMS ---
+Classic triad: Fever + headache + neck stiffness (not always all present, especially in infants)
+
+Additional symptoms:
+- Photophobia (sensitivity to light)
+- Nausea and vomiting
+- Altered consciousness, confusion, drowsiness
+- Seizures
+- Petechial/purpuric rash (non-blanching — does not fade with pressure) — characteristic of meningococcal meningitis, a medical emergency
+
+In infants (may lack classic signs):
+- High-pitched cry, irritability, refusing feeds
+- Bulging fontanelle (soft spot)
+- Lethargy, poor tone (floppy baby)
+- Fever or low temperature
+
+--- WARNING SIGNS (EMERGENCY) ---
+- Non-blanching rash (petechiae/purpura) with fever — meningococcal sepsis, call ambulance immediately
+- Severe headache with neck stiffness and fever
+- Altered consciousness or seizures with fever
+- Bulging fontanelle in infant with fever
+- Rapidly progressive symptoms
+
+--- RISK FACTORS ---
+- Age: Infants and young children, elderly at higher risk
+- Crowded living conditions (hostels, military camps, schools)
+- Immunocompromised status (HIV, asplenia, complement deficiencies)
+- Recent respiratory infection
+- TB exposure (for tuberculous meningitis)
+- Unvaccinated status (Hib, pneumococcal, meningococcal vaccines)
+- Cochlear implants, CSF leaks (recurrent bacterial meningitis risk)
+
+--- PREVENTION ---
+Vaccination (most effective):
+- Hib vaccine: Part of Pentavalent vaccine in UIP (6, 10, 14 weeks)
+- Pneumococcal Conjugate Vaccine (PCV): Part of UIP (phased rollout)
+- Meningococcal vaccine: Recommended for travellers to meningitis belt, Hajj/Umrah pilgrims, college dormitory residents, asplenic individuals
+- BCG: Provides some protection against severe TB including TB meningitis in children
+
+Other measures:
+- Prompt treatment of ear/sinus infections (can spread to meninges)
+- TB prevention and treatment (reduces TB meningitis risk)
+- Avoid overcrowding; good ventilation in shared living spaces
+
+--- ENVIRONMENTAL CONTROL ---
+- Outbreak response: Chemoprophylaxis (rifampicin/ciprofloxacin) for close contacts of meningococcal meningitis cases
+- Ventilation in crowded settings (hostels, camps)
+- Surveillance for meningococcal disease clusters
+
+--- VACCINATION ---
+- Hib and PCV: Part of UIP for infants — free
+- Meningococcal vaccine: For high-risk groups (Hajj pilgrims — mandatory; military recruits; asplenic patients) — available privately/through specific programmes
+- BCG: At birth, under UIP
+
+--- DIAGNOSIS ---
+- Lumbar puncture (CSF analysis): Definitive — cell count, glucose, protein, Gram stain, culture
+- CSF PCR: Rapid pathogen identification
+- Blood culture
+- CT scan (sometimes done before LP to exclude raised intracranial pressure)
+- For TB meningitis: CSF AFB smear/culture, GeneXpert, ADA levels, imaging (basal exudates on MRI)
+
+--- TREATMENT (Awareness Only) ---
+- Bacterial meningitis: IMMEDIATE IV antibiotics (empirical, then targeted) — every hour of delay increases mortality; hospital/ICU care
+- Steroids (dexamethasone): Sometimes given with antibiotics to reduce inflammation/complications — doctor decision
+- Viral meningitis: Usually supportive care (rest, fluids, pain relief); most resolve without specific antiviral
+- TB meningitis: Prolonged anti-TB therapy (often longer than pulmonary TB) plus corticosteroids — specialist supervised
+- Fungal meningitis: Antifungal therapy (amphotericin B, fluconazole) — specialist/hospital setting
+- Chemoprophylaxis for close contacts of confirmed meningococcal cases
+
+--- WHEN TO SEE A DOCTOR ---
+- ANY suspected meningitis symptom (fever + headache + neck stiffness, or fever + non-blanching rash, or infant with bulging fontanelle/lethargy/poor feeding) — EMERGENCY, go to hospital immediately
+- Do not wait — bacterial meningitis can be fatal within hours
+
+--- INDIA-SPECIFIC CONTEXT ---
+- TB meningitis remains a significant cause in India given high TB burden — high index of suspicion needed for subacute headache/fever with neurological signs
+- Hib and PCV vaccines reduce bacterial meningitis burden under UIP
+- Meningococcal vaccination mandatory for Hajj/Umrah pilgrims from India
+- Government hospitals provide emergency meningitis management; do not delay seeking care due to cost concerns — treat as emergency
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Bacterial meningitis is a medical emergency — any suspected case requires immediate hospital care. Do not delay seeking treatment. A non-blanching rash with fever in a child is a red flag requiring emergency assessment.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

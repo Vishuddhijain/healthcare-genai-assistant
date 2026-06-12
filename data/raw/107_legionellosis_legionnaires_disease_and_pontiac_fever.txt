@@ -1,0 +1,72 @@
+TOPIC: Legionellosis (Legionnaires' Disease and Pontiac Fever)
+CATEGORY: Communicable Disease (Bacterial / Respiratory)
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/legionellosis
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Legionellosis is caused by Legionella bacteria (mainly L. pneumophila), found naturally in freshwater but multiplying in artificial warm water systems (cooling towers, hot water tanks, humidifiers, spa pools, AC systems). It causes two forms: Legionnaires' disease (severe pneumonia, fatality 5–10%) and Pontiac fever (mild flu-like illness, self-limiting). Not transmitted person-to-person.
+
+--- TYPES ---
+1. Legionnaires' Disease: Severe pneumonia with systemic symptoms
+2. Pontiac Fever: Mild, self-limiting flu-like illness without pneumonia
+
+--- SYMPTOMS ---
+Legionnaires' Disease:
+- High fever (often >40°C), chills, rigors
+- Cough (dry then productive), shortness of breath, chest pain
+- Confusion/delirium (more prominent than typical pneumonia)
+- Diarrhoea, nausea, abdominal pain, muscle aches, headache
+- Incubation: 2–10 days
+
+Pontiac Fever:
+- Fever, chills, muscle aches, headache, fatigue (no pneumonia)
+- Resolves within 2–5 days without treatment
+
+--- WARNING SIGNS ---
+- Severe pneumonia symptoms with confusion in elderly or immunocompromised
+- Recent travel/hotel stay (cooling tower exposure) with pneumonia symptoms
+
+--- RISK FACTORS ---
+- Age >50, smokers, chronic lung disease
+- Immunocompromised individuals (cancer, transplant, steroid use)
+- Recent hospital stay or travel/hotel stay
+- Exposure to cooling towers, spa pools, fountains, poorly maintained AC systems
+
+--- PREVENTION ---
+- Proper maintenance and disinfection of water systems
+- Regular flushing of infrequently-used taps/showers
+- Avoid stagnant water in cooling towers and decorative fountains
+
+--- ENVIRONMENTAL CONTROL ---
+- Hot water systems maintained above 60°C; cold water below 25°C
+- Regular cleaning/disinfection of cooling towers, especially in hospitals, hotels, malls
+- Water system risk assessments for large buildings
+
+--- VACCINATION ---
+- No vaccine available
+
+--- DIAGNOSIS ---
+- Urinary antigen test (rapid, most common)
+- Culture of respiratory secretions on special media
+- PCR testing
+- Chest X-ray/CT: Pneumonia changes
+
+--- TREATMENT (Awareness Only) ---
+- Antibiotics: Azithromycin or fluoroquinolones (doctor prescribed)
+- Hospitalisation usually required for Legionnaires' disease
+- Pontiac fever: Usually resolves without specific treatment
+
+--- WHEN TO SEE A DOCTOR ---
+- Severe pneumonia symptoms, especially with confusion, after travel or hotel stay
+- High fever with breathing difficulty not improving with usual care
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Underdiagnosed in India due to limited testing availability
+- Hospitals and large commercial buildings should maintain cooling tower hygiene per facility guidelines
+- Consider in cases of "atypical pneumonia" not responding to standard antibiotics
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Severe pneumonia with confusion requires urgent medical evaluation. Consult a qualified healthcare provider for diagnosis and treatment.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

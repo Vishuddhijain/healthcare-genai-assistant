@@ -1,0 +1,73 @@
+TOPIC: Marburg Virus Disease
+CATEGORY: Communicable Disease (Viral Haemorrhagic Fever / Zoonotic)
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Marburg virus disease (MVD) is a severe, often fatal viral haemorrhagic fever similar to Ebola, caused by Marburg virus (filovirus family). The natural reservoir is the African fruit bat (Rousettus aegyptiacus). Outbreaks have occurred in Africa (Uganda, Angola, DRC, Guinea, Ghana, Tanzania, Equatorial Guinea, Rwanda) with case fatality rates of 24–88%. Not endemic in India, but global health security preparedness is relevant.
+
+--- TYPES ---
+- Single clinical syndrome with variable severity; no distinct subtypes for clinical purposes
+
+--- SYMPTOMS ---
+Incubation: 2–21 days
+
+- Sudden onset of high fever, severe headache, malaise
+- Severe muscle aches
+- Day 3: Severe watery diarrhoea, abdominal pain and cramping, nausea, vomiting
+- Day 5–7: Haemorrhagic symptoms — bleeding from gums, nose, in vomit/stool; bleeding from injection sites
+- "Ghost-like" appearance: Deep-set eyes, expressionless faces, extreme lethargy
+- Death typically occurs 8–9 days after onset, often with severe blood loss and shock
+
+--- WARNING SIGNS ---
+- Fever with bleeding after travel to/contact with cases in affected African countries
+- Healthcare worker with fever after caring for VHF patient — emergency isolation
+
+--- RISK FACTORS ---
+- Exposure to fruit bat caves/mines (occupational — miners, cave explorers)
+- Contact with infected non-human primates
+- Person-to-person via direct contact with blood/body fluids of infected/deceased persons
+- Healthcare workers without adequate PPE (major outbreak driver)
+- Burial practices involving direct contact with the deceased
+
+--- PREVENTION ---
+- Avoid contact with fruit bats and their habitats (caves, mines) in endemic regions
+- Avoid contact with sick/dead non-human primates
+- Cook animal products (blood, meat) thoroughly before consumption
+- Strict infection prevention and control in healthcare settings (PPE, isolation)
+- Safe burial practices avoiding contact with bodies of suspected/confirmed cases
+
+--- ENVIRONMENTAL CONTROL ---
+- Outbreak response: Contact tracing, isolation of cases, safe and dignified burials
+- Community engagement to change risky behaviours (bushmeat handling, cave visits)
+
+--- VACCINATION ---
+- No licensed vaccine currently available; candidate vaccines in development/trials
+
+--- DIAGNOSIS ---
+- RT-PCR (blood) — confirmatory; BSL-4 laboratory required
+- ELISA antigen-capture
+- All testing requires maximum biosafety precautions
+
+--- TREATMENT (Awareness Only) ---
+- No specific antiviral approved; supportive care is the mainstay
+- Rehydration (oral or IV), maintaining oxygen status and blood pressure
+- Treatment of complicating infections
+- Blood products for severe haemorrhage — hospital/specialist setting only
+- Strict isolation (barrier nursing)
+
+--- WHEN TO SEE A DOCTOR ---
+- Fever with bleeding/haemorrhagic symptoms after travel to affected African countries within 21 days — emergency, declare travel history immediately
+- Any contact with confirmed MVD case followed by fever — immediate medical evaluation
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Not endemic in India; risk is from international travel
+- NCDC and IDSP coordinate response to imported VHF cases
+- International Health Regulations (IHR 2005) reporting obligations for suspected cases
+- Airport health screening may be activated during active outbreaks abroad
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Marburg virus disease is a medical emergency with high fatality. If you develop fever after travel to an affected region or contact with a confirmed case, seek immediate medical care and inform healthcare providers of your travel/exposure history.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

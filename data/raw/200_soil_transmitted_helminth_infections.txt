@@ -1,0 +1,83 @@
+TOPIC: Soil-transmitted helminth infections
+CATEGORY: Communicable Disease
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections
+LAST UPDATED: 18 January 2023
+
+--- OVERVIEW ---
+Soil-transmitted helminth (STH) infections are among the most common infections worldwide with an estimated 1.5 billion infected people or 24% of the world’s population. These infections affect the poorest and most deprived communities with poor access to clean water, sanitation and hygiene in tropical and subtropical areas, with the highest prevalence reported from sub-Saharan Africa, China, South America and Asia. They are transmitted by eggs present in human faeces, which in turn contaminate soil in areas where sanitation is poor. Over 260 million preschool-age children, 654 million school-age children,108 million adolescent girls and 138.8 million pregnant and lactating women live in areas where these parasites are intensively transmitted, and are in need of treatment and preventive interventions.
+
+Globally over 600 million people are estimated to be infected by S. stercoralis ; however, since also this parasite is transmitted in areas where sanitation is poor, its geographical distribution overlaps with the one of the other soil-transmitted helminthiases.
+
+--- KEY FACTS ---
+- Soil-transmitted helminth infections are caused by different species of parasitic worms.
+- They are transmitted by eggs present in human faeces, which contaminate the soil in areas where sanitation is poor.
+- Infected children are nutritionally and physically impaired.
+- For infected girls and women of reproductive age, blood loss exacerbates iron deficiency anaemia and increase the risk of maternal and infant mortality and low birth weight.
+- Control is based on periodical deworming to eliminate infecting worms, health education to prevent re-infection, and improved sanitation to reduce soil contamination with infective eggs.
+- Safe and effective medicines are available to control infection.
+
+--- TYPES ---
+- The main species that infect people are the roundworm ( Ascaris lumbricoides ), the whipworm ( Trichuris trichiura ) and hookworms ( Necator americanus and Ancylostoma duodenale ). These STH species are normally addressed as a group because they need similar diagnostic procedures and respond to the same medicines.
+- Strongyloides stercoralis is an intestinal helminth with peculiar characteristics: the parasite requires different diagnostic methods than other soil-transmitted helminthiases, and for this reason is frequently not identified. In addition, the parasite is not sensitive to albendazole or mebendazole and therefore not impacted by large-scale preventive treatment campaigns targeting other soil-transmitted helminthiases.
+
+--- SYMPTOMS ---
+- Morbidity is related to the number of worms harboured. People with infections of light intensity (few worms) usually do not suffer from the infection. Heavier infections can cause a range of symptoms including intestinal manifestations (diarrhoea and abdominal pain), malnutrition, general malaise and weakness, and impaired growth and physical development.
+- Infections of very high intensity can cause intestinal obstruction that should be treated surgically.
+- S. stercoralis may cause dermatological and gastro-intestinal morbidity and is also known to be associated with chronic malnutrition in children. In case of reduced host immunity, the parasite can cause the hyperinfection/dissemination syndrome that is invariably fatal if not promptly and properly cured and is often fatal despite the treatment.
+
+--- WARNING SIGNS ---
+- Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation.
+
+--- RISK FACTORS ---
+- Soil-transmitted helminths are transmitted by eggs that are passed in the faeces of infected people. Adult worms live in the intestine where they produce thousands of eggs each day. In areas that lack adequate sanitation, these eggs contaminate the soil. This can happen in several ways:
+- eggs that are attached to vegetables are ingested when the vegetables are not carefully cooked, washed or peeled;
+- eggs are ingested from contaminated water sources; and
+- eggs are ingested by children who play in the contaminated soil and then put their hands in their mouths without washing them.
+- In addition, hookworm eggs hatch in the soil, releasing larvae that mature into a form that can actively penetrate the skin. People become infected with hookworm primarily by walking barefoot on the contaminated soil.
+- There is no direct person-to-person transmission, or infection from fresh faeces, because eggs passed in faeces need about 3 weeks to mature in the soil before they become infective.
+- A. lumbricoides, T. trichiura and hookworms do not multiply in the human host; re-infection occurs only as a result of contact with infective stages in the environment. S. stercoralis can reproduce in the host, and in immunocompromised individuals its uncontrolled multiplication can be fatal.
+
+--- PREVENTION ---
+- In 2001, delegates at the World Health Assembly unanimously endorsed a resolution (WHA54.19) urging endemic countries to start seriously tackling worms, specifically schistosomiasis and soil-transmitted helminths.
+- The strategy for control of soil-transmitted helminth infections is to control morbidity through the periodic treatment of at-risk people living in endemic areas. People at risk are:
+- preschool children;
+- school-age children;
+- women of reproductive age (including pregnant women in the second and third trimesters and breastfeeding women); and
+- adults in certain high-risk occupations such as tea-pickers or miners.
+- WHO recommends periodic medicinal treatment (deworming or preventive chemotherapy) without previous individual diagnosis to all at-risk people living in endemic areas. This intervention reduces morbidity by reducing the worm burden. In addition:
+- health and hygiene education reduces transmission and reinfection by encouraging healthy behaviours; and
+
+--- ENVIRONMENTAL CONTROL ---
+- In 2001, delegates at the World Health Assembly unanimously endorsed a resolution (WHA54.19) urging endemic countries to start seriously tackling worms, specifically schistosomiasis and soil-transmitted helminths.
+- The strategy for control of soil-transmitted helminth infections is to control morbidity through the periodic treatment of at-risk people living in endemic areas. People at risk are:
+- preschool children;
+- school-age children;
+- women of reproductive age (including pregnant women in the second and third trimesters and breastfeeding women); and
+- adults in certain high-risk occupations such as tea-pickers or miners.
+
+--- VACCINATION ---
+- Deworming can be easily integrated with child health days or vitamin A supplementation programmes for preschool children, Human Papilloma Vaccine (HPV) programme for adolescent girls or integrated with school health programmes.
+
+--- DIAGNOSIS ---
+- The main species that infect people are the roundworm ( Ascaris lumbricoides ), the whipworm ( Trichuris trichiura ) and hookworms ( Necator americanus and Ancylostoma duodenale ). These STH species are normally addressed as a group because they need similar diagnostic procedures and respond to the same medicines.
+- Strongyloides stercoralis is an intestinal helminth with peculiar characteristics: the parasite requires different diagnostic methods than other soil-transmitted helminthiases, and for this reason is frequently not identified. In addition, the parasite is not sensitive to albendazole or mebendazole and therefore not impacted by large-scale preventive treatment campaigns targeting other soil-transmitted helminthiases.
+- Soil-transmitted helminths are transmitted by eggs that are passed in the faeces of infected people. Adult worms live in the intestine where they produce thousands of eggs each day. In areas that lack adequate sanitation, these eggs contaminate the soil. This can happen in several ways:
+- Hookworms in addition cause chronic intestinal blood loss that can result in anaemia especially in adolescent girls and women of reproductive age.
+- The worms increase malabsorption of nutrients. In addition, roundworm may possibly compete for vitamin A in the intestine.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- The WHO recommended medicines – albendazole (400 mg) and mebendazole (500 mg) – are effective, inexpensive and easy to administer by non-medical personnel (e.g. teachers). They have been through extensive safety testing and have been used in millions of people with few and minor side-effects.
+- Both albendazole and mebendazole are donated to national ministries of health through WHO in all endemic countries for the treatment of all children of school age.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

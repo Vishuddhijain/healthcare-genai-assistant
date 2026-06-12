@@ -1,0 +1,68 @@
+TOPIC: Leprosy (Hansen's Disease)
+CATEGORY: Communicable Disease (Bacterial NTD)
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/leprosy
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Leprosy is a chronic infectious disease caused by Mycobacterium leprae, primarily affecting skin and peripheral nerves. India declared national elimination (<1/10,000) in 2005 but still accounts for ~50–60% of global new cases (~75,000–100,000 annually). It is curable with free Multi-Drug Therapy (MDT).
+
+--- TYPES ---
+1. Paucibacillary (PB) leprosy: Few lesions, less contagious, 6-month MDT
+2. Multibacillary (MB) leprosy: Many lesions, high bacterial load, more contagious, 12-month MDT
+
+--- SYMPTOMS ---
+- Hypopigmented or reddish skin patches with reduced/absent sensation (key feature)
+- Thickened, painful peripheral nerves (ulnar, peroneal, facial nerves)
+- Muscle weakness: foot drop, claw hand, lagophthalmos (eye won't close)
+- Nasal congestion, nosebleeds (MB leprosy)
+- Leonine facies (severe lepromatous cases)
+
+--- WARNING SIGNS ---
+- Sudden inflammation of skin lesions/nerves (Type 1/Reversal reaction) — needs urgent steroids to prevent permanent nerve damage
+- Painful nodules with fever (Type 2/ENL reaction) — needs urgent treatment
+- New numbness or weakness in hands/feet/face — urgent evaluation to prevent disability
+
+--- RISK FACTORS ---
+- Close, prolonged contact with untreated multibacillary leprosy patient
+- Household contacts of leprosy patients
+- Living in endemic areas with limited healthcare access
+
+--- PREVENTION ---
+- BCG vaccination provides partial protection (50–80%)
+- Post-exposure prophylaxis: Single-dose rifampicin (SDR) for close contacts under NLEP
+- Early diagnosis and treatment eliminates infectivity within days
+
+--- ENVIRONMENTAL CONTROL ---
+- Not vector-borne; no environmental vector control needed
+- Active case finding campaigns in endemic districts under NLEP
+
+--- VACCINATION ---
+- BCG vaccine (given at birth under UIP) provides partial cross-protection against leprosy
+
+--- DIAGNOSIS ---
+- Clinical: Hypopigmented anaesthetic patch + thickened nerve
+- Skin slit smear for AFB (multibacillary cases)
+- Skin biopsy for histopathology confirmation
+
+--- TREATMENT (Awareness Only) ---
+- Multi-Drug Therapy (MDT): Rifampicin + Dapsone (± Clofazimine for MB) — FREE at all government facilities
+- PB: 6 months; MB: 12 months
+- Reactions (Type 1/2): Corticosteroids, thalidomide (ENL) — doctor prescribed
+- Disability prevention: Proper footwear, eye care, physiotherapy
+
+--- WHEN TO SEE A DOCTOR ---
+- Any numb skin patch — even a single one — should be evaluated
+- Hand weakness (claw hand), foot drop, or eye not closing fully
+- Sudden severe reaction in existing leprosy patient — emergency
+- Household contact of leprosy patient — for SDR prophylaxis
+
+--- INDIA-SPECIFIC CONTEXT ---
+- National Leprosy Eradication Programme (NLEP): Free MDT at all government health facilities
+- Leprosy is curable — discrimination is being addressed through legal reforms (removal of discriminatory provisions from various Acts)
+- District leprosy offices coordinate case detection and treatment
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for health awareness only. Leprosy is curable and treatment is free at government facilities. Any numb skin patch should be evaluated promptly — early treatment prevents disability. There is no justification for stigma or discrimination.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

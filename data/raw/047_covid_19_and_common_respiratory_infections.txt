@@ -1,0 +1,121 @@
+TOPIC: COVID-19 and Common Respiratory Infections
+CATEGORY: Communicable / Infectious Disease / Respiratory
+SOURCE: WHO - https://www.who.int/health-topics/coronavirus | MoHFW India - mohfw.gov.in
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Respiratory infections range from the common cold and flu (influenza) to more serious illnesses like COVID-19. They primarily affect the nose, throat, windpipe, and lungs. Most mild respiratory infections recover on their own with rest, but some can lead to serious complications especially in vulnerable groups.
+
+--- COVID-19 ---
+COVID-19 is caused by the SARS-CoV-2 coronavirus. It was declared a pandemic in March 2020 and remains in circulation as an endemic virus.
+
+How it spreads:
+- Primarily through respiratory droplets when an infected person coughs, sneezes, talks, or breathes
+- Close contact with an infected person
+- Touching contaminated surfaces and then touching face (less common)
+
+Symptoms:
+- Fever or chills
+- Cough (dry or productive)
+- Fatigue
+- Loss of taste or smell
+- Sore throat
+- Headache
+- Shortness of breath (in moderate to severe cases)
+- Body aches
+
+High-risk groups for severe COVID-19:
+- Elderly adults (especially 60+)
+- People with diabetes, hypertension, heart disease, obesity, or compromised immune systems
+- Pregnant women
+- People who are unvaccinated
+
+Prevention:
+- Stay up to date with COVID-19 vaccinations (CoWIN portal: cowin.gov.in)
+- Wash hands frequently with soap for at least 20 seconds
+- Use hand sanitiser when soap is unavailable
+- Wear a mask in crowded or poorly ventilated areas
+- Maintain physical distance in high-risk settings
+- Ensure good ventilation in indoor spaces
+- Avoid touching eyes, nose, and mouth with unwashed hands
+
+--- INFLUENZA (SEASONAL FLU) ---
+Influenza is a common respiratory infection caused by influenza viruses.
+
+Symptoms (similar to COVID but typically more sudden):
+- Sudden high fever
+- Body aches and muscle pain
+- Cough and sore throat
+- Runny or stuffy nose
+- Headache
+- Fatigue
+- Vomiting/diarrhoea (more common in children)
+
+Prevention:
+- Annual flu vaccine (especially recommended for elderly, children, pregnant women, and healthcare workers)
+- Good respiratory hygiene: cover mouth with elbow when coughing or sneezing
+- Frequent handwashing
+- Stay home when sick to prevent spread
+
+--- COMMON COLD ---
+Caused by various viruses including rhinovirus. Very common, usually mild.
+Symptoms: Runny nose, sneezing, sore throat, mild cough, low-grade fever.
+Recovery: Usually within 7–10 days without any specific treatment.
+Management: Rest, fluids, steam inhalation, and OTC decongestants (consult pharmacist).
+
+--- GENERAL RESPIRATORY HYGIENE ---
+1. Cover your mouth and nose with a bent elbow or tissue when you cough or sneeze.
+2. Dispose of used tissues immediately.
+3. Wash your hands often.
+4. Avoid touching your face.
+5. Stay home if you are sick.
+6. Keep indoor spaces well-ventilated.
+
+--- WHEN TO SEE A DOCTOR ---
+Seek medical attention if you have:
+- Difficulty breathing or shortness of breath
+- Persistent chest pain or pressure
+- Confusion or difficulty staying awake
+- Bluish lips or face
+- Fever above 104°F (40°C) that does not come down
+- Worsening symptoms after initially feeling better
+- Symptoms in infants, elderly, pregnant women, or people with chronic diseases
+
+EMERGENCY: Call 112 for severe breathing difficulty.
+
+--- VACCINATION (INDIA) ---
+COVID-19 vaccines are available free at government health centres.
+Check your nearest vaccination centre: cowin.gov.in or call 1075 (health helpline).
+
+--- IMPORTANT SAFETY NOTE ---
+Do not take antibiotics for viral infections like cold, flu, or COVID-19 — they are ineffective and increase antibiotic resistance. Always consult a doctor for appropriate treatment.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- DIAGNOSIS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

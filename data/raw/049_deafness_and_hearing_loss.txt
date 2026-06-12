@@ -1,0 +1,128 @@
+TOPIC: Deafness and Hearing Loss
+CATEGORY: Sensory Health / Disability
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Hearing loss refers to a partial or total inability to hear. It can affect one or both ears and varies from mild to profound (deafness). Hearing loss impacts communication, education, employment, and quality of life. Over 1 billion young people are at risk of hearing loss due to unsafe listening practices. Most hearing loss is preventable.
+
+--- KEY FACTS ---
+- Over 1.5 billion people globally live with some degree of hearing loss.
+- By 2050, over 2.5 billion people are projected to have some degree of hearing loss.
+- In India, approximately 63 million people suffer from significant auditory impairment.
+- 60% of childhood hearing loss is due to preventable causes.
+- 1 billion young people aged 12–35 are at risk of hearing loss due to exposure to loud sounds.
+- Untreated hearing loss costs the global economy an estimated $980 billion annually.
+
+--- TYPES AND CAUSES ---
+1. Conductive hearing loss: Sound cannot pass through outer/middle ear.
+   Causes: Earwax blockage, fluid in middle ear, ear infections, perforated eardrum.
+   Often treatable.
+
+2. Sensorineural hearing loss: Damage to inner ear (cochlea) or auditory nerve.
+   Causes: Ageing (presbycusis), noise exposure, genetic conditions, certain medications.
+   Often permanent, but hearing aids or cochlear implants help.
+
+3. Mixed: Combination of both types.
+
+Common causes in India:
+- Ear infections (otitis media) in children — leading preventable cause
+- Noise-induced hearing loss (occupational noise, loud music, firecrackers)
+- Congenital (from birth) — birth asphyxia, jaundice, rubella
+- Ageing (natural decline in hearing with age)
+- Ototoxic medications (aminoglycoside antibiotics like streptomycin — common in TB treatment)
+- Earwax impaction
+- Trauma
+
+--- SIGNS OF HEARING LOSS ---
+In adults:
+- Difficulty understanding speech, especially in noisy environments
+- Frequently asking others to repeat themselves
+- Listening to TV or music at high volume
+- Ringing in ears (tinnitus)
+- Difficulty hearing on the phone
+- Withdrawing from conversations
+
+In children (early detection is critical):
+- Infant not startling at loud sounds by 1 month
+- Not recognising voice of parents by 3 months
+- Not turning towards sounds by 6 months
+- Not saying any words by 12 months
+- Delayed speech development
+- Not responding when called by name
+
+--- NOISE-INDUCED HEARING LOSS (NIHL) PREVENTION ---
+Very common and entirely preventable:
+- Keep earphone/headphone volume below 60% of maximum
+- Follow the 60/60 rule: 60% volume for no more than 60 minutes at a time
+- Use noise-cancelling headphones (reduces need to raise volume)
+- Wear ear protection (earplugs/earmuffs) in loud workplaces and at concerts
+- Reduce time near firecrackers — they can permanently damage hearing
+- Factories and construction sites must provide ear protection under Indian law
+
+--- EAR CARE ---
+- Do not insert objects into ears (cotton buds, keys, hairpins) — damages ear canal and pushes wax deeper
+- Earwax is natural and protective; it usually comes out on its own. If blocked, a doctor can safely remove it.
+- Keep ears dry — moisture promotes infections. Dry ears after swimming or bathing.
+- Treat ear pain or discharge promptly — do not delay, as infections can cause permanent damage.
+
+--- DIAGNOSIS ---
+- Pure tone audiometry: standard hearing test
+- Otoscopy: examination of ear canal
+- Tympanometry: tests middle ear function
+- OAE (Otoacoustic emissions) and ABR: used for newborn screening
+Universal Newborn Hearing Screening (UNHS) is recommended — available at major government hospitals.
+
+--- MANAGEMENT ---
+- Hearing aids: Effective for most hearing loss. Available through government programme ADIP (Assistance to Disabled Persons) — free for eligible individuals.
+- Cochlear implants: For severe to profound sensorineural hearing loss. Covered under PM-JAY for eligible patients.
+- Sign language: Indian Sign Language (ISL) — important communication tool for deaf community.
+- Lip-reading and speech therapy for children with hearing loss.
+
+--- INDIA-SPECIFIC PROGRAMME ---
+- NPPCD (National Programme for Prevention and Control of Deafness): Free hearing tests, hearing aids, and surgery at government hospitals.
+- ADIP Scheme: Free hearing aids for people with disability below poverty line.
+- RBSK (Rashtriya Bal Swasthya Karyakram): Screening children for hearing loss at birth and during school years.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is cotton bud cleaning safe for ears?
+A: No. Cotton buds push wax deeper, can damage the eardrum, and cause infections. The ear is self-cleaning. Use cotton buds only on the outer ear opening.
+
+Q: Can hearing loss from earphones be reversed?
+A: Noise-induced hearing loss is generally permanent. Prevention is key. Lower your volume and limit listening time.
+
+Q: At what age does hearing naturally decline?
+A: Age-related hearing loss (presbycusis) typically begins around 60 years and is gradual. Regular hearing checks from age 60 are recommended.
+
+--- IMPORTANT SAFETY NOTE ---
+Ear pain, sudden hearing loss, or discharge from the ear should be evaluated by a doctor promptly. Sudden hearing loss is a medical emergency requiring immediate attention.
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.

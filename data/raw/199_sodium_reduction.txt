@@ -1,0 +1,62 @@
+TOPIC: Sodium reduction
+CATEGORY: Preventive Care and Wellness
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/sodium-reduction
+LAST UPDATED: 11 May 2026
+
+--- OVERVIEW ---
+The burden of unhealthy diets constitutes a major public health and development challenge worldwide. Urgent action is required to modify the over-production and over-consumption of foods and beverages that do not have a healthy nutritional profile, mainly industry manufactured food. Of greatest concern is excess consumption of sodium, sugars and unhealthy fats, particularly trans -fatty acids (trans fats) and saturated fatty acids, and low consumption of whole grains, pulses, vegetables, and fruits . In many high-income countries, and increasingly in low- and middle-income countries, a significant proportion of sodium in the diet comes from processed foods.
+
+An estimated 1.7 million deaths each year were associated with consuming too much sodium in 2023, a well-established cause of raised blood pressure and increased risk of cardiovascular disease.
+
+Reducing sodium intake is one of the most cost-effective ways to improve health and reduce the burden of noncommunicable diseases, as it can avert many cardiovascular events and deaths at very low total programme costs. WHO recommends several sodium-related best buy policies as practical steps that countries can take to prevent cardiovascular disease and its associated costs. These include lowering sodium content in foods; implementing front-of-pack labelling ; mass media campaigns; and public food procurement and service .
+
+--- KEY FACTS ---
+- Refer to the WHO fact sheet for the latest global key facts and estimates.
+
+--- TYPES ---
+- Sodium and chloride are the main components of regular table salt, but sodium can be found in other forms and is also found naturally in a variety of foods such as milk, meat, and shellfish. It is often found in high amounts in processed foods such as breads, processed meat, and snack foods, as well as in condiments (e.g., soy and fish sauce).
+- reformulate food products to contain less sodium and set target levels for the amount of sodium in foods and meals;
+- Information disclosure
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- An estimated 1.7 million deaths each year were associated with consuming too much sodium in 2023, a well-established cause of raised blood pressure and increased risk of cardiovascular disease.
+- Reducing sodium intake is one of the most cost-effective ways to improve health and reduce the burden of noncommunicable diseases, as it can avert many cardiovascular events and deaths at very low total programme costs. WHO recommends several sodium-related best buy policies as practical steps that countries can take to prevent cardiovascular disease and its associated costs. These include lowering sodium content in foods; implementing front-of-pack labelling ; mass media campaigns; and public food procurement and service .
+
+--- RISK FACTORS ---
+- An estimated 1.7 million deaths each year were associated with consuming too much sodium in 2023, a well-established cause of raised blood pressure and increased risk of cardiovascular disease.
+- In 2011, world leaders committed to reducing people’s exposure to unhealthy diets. The commitment was made through a Political Declaration of the High-level Meeting of the United Nations General Assembly on the Prevention and Control of NCDs .
+
+--- PREVENTION ---
+- For adults, WHO recommends less than 2000 mg/day of sodium (equivalent to less than 5 g/day salt), or just under a teaspoon.
+- For children aged 2–15 years, WHO recommends adjusting the adult dose downward based on their energy requirements. This recommendation for children does not address the period of exclusive breastfeeding (0–6 months) or complementary feeding with continued breastfeeding (6–24 months).
+- If choosing to use table salt, WHO suggests replacing regular table salt with lower-sodium salt substitutes that contain potassium.
+- All salt that is consumed should be iodized ( fortified with iodine ), which is essential for healthy brain development in the foetus and young child and optimizing mental function in general.
+
+--- ENVIRONMENTAL CONTROL ---
+- establish a supportive environment in public institutions such as hospitals, schools, workplaces and nursing homes to provide lower sodium options;
+- In 2011, world leaders committed to reducing people’s exposure to unhealthy diets. The commitment was made through a Political Declaration of the High-level Meeting of the United Nations General Assembly on the Prevention and Control of NCDs .
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

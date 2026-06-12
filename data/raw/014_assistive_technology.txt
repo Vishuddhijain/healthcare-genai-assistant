@@ -1,0 +1,60 @@
+TOPIC: Assistive technology
+CATEGORY: Disability and Rehabilitation
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/assistive-technology
+LAST UPDATED: 2 January 2024
+
+--- OVERVIEW ---
+Assistive technology is an umbrella term for assistive products and their related systems and services.
+
+Assistive products help maintain or improve an individual’s functioning related to cognition, communication, hearing, mobility, self-care and vision, thus enabling their health, well-being, inclusion and participation.
+
+Improving access to assistive technology can contribute to the achievement of the Sustainable Development Goals and to ensuring that no one is left behind. This is through enabling the inclusion and participation of assistive technology users in their family, community and all areas of society, including the political, economic and social spheres.
+
+--- KEY FACTS ---
+- Assistive products can range from physical products such as wheelchairs, glasses, prosthetic limbs, white canes, and hearing aids to digital solutions such as speech recognition or time management software and captioning.
+- Most people who use assistive technology use more than one product, making integrated services important.
+- Globally, more than 2.5 billion people need one or more assistive products.
+- With an ageing global population and a rise in noncommunicable diseases, an estimated 3.5 billion people will need assistive technology by 2050.
+- In many countries, most people who need assistive technology do not have access to it.
+
+--- TYPES ---
+- ‘Leaving no one behind’ means ensuring people with disabilities, the older population, those affected by chronic diseases and everyone who needs assistive technology are included in society and able to live healthy and dignified lives.
+
+--- SYMPTOMS ---
+- Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease.
+
+--- WARNING SIGNS ---
+- provision of appropriate wheelchairs facilitates mobility, improving individuals’ access to education and employment while reducing healthcare costs due to a reduction in secondary complications such as pressure sores and contractures;
+
+--- RISK FACTORS ---
+- Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment.
+
+--- PREVENTION ---
+- therapeutic footwear for diabetes reduces the incidence of foot ulcers, preventing amputations and the associated impact on individuals and burden on health-care systems; and
+- timely provision of assistive technology for older people can improve their independence and safety as well as enable them to live at home for as long as possible.
+- Ensure safe, effective and affordable assistive products.
+
+--- ENVIRONMENTAL CONTROL ---
+- Develop enabling environments that benefit everyone involved in assistive technology.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care.
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.

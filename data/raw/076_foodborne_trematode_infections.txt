@@ -1,0 +1,124 @@
+TOPIC: Foodborne Trematode Infections
+CATEGORY: Communicable / Parasitic Disease / Food Safety
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections
+LAST UPDATED: 2024
+
+--- OVERVIEW ---
+Foodborne trematodes (flukes) are parasitic worms acquired by eating contaminated raw or undercooked fish, crustaceans, or aquatic vegetables. The four major foodborne trematodes are Clonorchis sinensis (liver fluke), Opisthorchis species (liver fluke), Paragonimus species (lung fluke), and Fasciola species (liver fluke). They are a major cause of preventable illness in Asia, including parts of India.
+
+--- TYPES ---
+1. Liver flukes (Clonorchis sinensis, Opisthorchis viverrini/felineus):
+   - Infect the bile ducts of the liver.
+   - Acquired from eating raw or undercooked freshwater fish.
+   - Can cause cholangiocarcinoma (bile duct cancer) with chronic infection.
+2. Lung flukes (Paragonimus spp.):
+   - Infect the lungs.
+   - Acquired from eating raw or undercooked crabs and crayfish.
+   - Symptoms mimic tuberculosis — important differential diagnosis in India.
+3. Intestinal flukes (Fasciolopsis buski):
+   - Infect the intestines.
+   - Acquired from eating raw aquatic vegetables (water chestnuts, water spinach).
+   - Common in parts of East and Southeast Asia.
+4. Fasciola hepatica/gigantica (sheep/cattle liver fluke):
+   - Acquired from eating raw watercress or other aquatic plants contaminated with metacercariae.
+   - Found in animals; humans infected incidentally.
+
+--- KEY FACTS ---
+- An estimated 56 million people globally are infected with foodborne trematodes.
+- At least 7,000 deaths occur annually.
+- Northeast India has reported cases of Paragonimus (lung fluke) — often misdiagnosed as TB.
+- Most infections are preventable by cooking food thoroughly.
+- Chronic liver fluke infection significantly increases the risk of bile duct cancer.
+
+--- SYMPTOMS ---
+Early/Acute phase:
+- Fever, fatigue, abdominal pain
+- Nausea, loss of appetite
+- Hives or rash (allergic response to migrating larvae)
+- Liver enlargement (tender)
+
+Chronic phase (liver flukes):
+- Recurrent abdominal pain (right upper quadrant)
+- Jaundice (yellowing of eyes/skin)
+- Cholangitis (bile duct infection — fever, jaundice, pain)
+- Liver cirrhosis and bile duct cancer (very long-term)
+
+Lung fluke (Paragonimus):
+- Chronic cough (may produce blood-stained sputum — mimics TB)
+- Chest pain
+- Difficulty breathing
+NOTE: Often misdiagnosed as pulmonary TB in India. Always consider in patients from endemic areas who eat raw crustaceans.
+
+--- RISK FACTORS ---
+- Eating raw or undercooked freshwater fish, crabs, crayfish, or snails
+- Eating raw aquatic vegetables (water chestnuts, water spinach, watercress)
+- Living in or travelling to endemic areas (Northeast India, Southeast Asia, East Asia)
+- Communities with fish-eating traditions
+
+--- PREVENTION ---
+Food safety (most important):
+- Cook freshwater fish, crabs, and crayfish thoroughly (internal temperature ≥70°C)
+- Do not eat raw or marinated freshwater seafood
+- Wash aquatic vegetables thoroughly; cook them — do not eat raw
+- Avoid cross-contamination between raw fish and other foods
+- Wash hands before and after handling raw fish/seafood
+
+Environmental control:
+- Proper sanitation and sewage management prevent contamination of water bodies
+- Avoid using untreated human or animal faeces as fertiliser for aquatic vegetables
+- Safe disposal of animal faeces (cattle, sheep) prevents Fasciola contamination
+
+Vaccination: No vaccine available. Prevention through food safety.
+
+--- DIAGNOSIS ---
+- Stool examination (microscopy for eggs) — gold standard
+- Sputum examination (for Paragonimus)
+- Blood tests: Eosinophilia (elevated eosinophils) is a clue
+- Serological tests (antibody tests) available at reference laboratories
+- Imaging: Liver ultrasound, CT scan (for liver/bile duct changes)
+- Important: Always consider foodborne trematodes in patients with eosinophilia and history of eating raw freshwater food
+
+--- TREATMENT (Awareness Only) ---
+- Praziquantel: Drug of choice for most foodborne trematode infections — highly effective, given under doctor supervision.
+- Triclabendazole: For Fasciola infections.
+- Both drugs available at government hospitals for eligible patients.
+- Never self-medicate — correct diagnosis is essential first.
+
+--- WARNING SIGNS ---
+- Coughing blood in a patient who does not respond to TB treatment and eats raw crustaceans — consider Paragonimus.
+- Jaundice with right upper abdominal pain — possible liver fluke complication.
+- Recurrent cholangitis — rule out liver fluke infection.
+
+--- WHEN TO SEE A DOCTOR ---
+- Any person from Northeast India or Southeast Asia with chronic cough not responding to TB treatment
+- Jaundice with abdominal pain
+- Elevated eosinophils on blood test with history of eating raw fish/seafood
+- Abdominal pain and fever after eating raw aquatic food
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Paragonimus westermani is reported from Northeast India (Arunachal Pradesh, Nagaland, Meghalaya) and is often misdiagnosed as pulmonary TB.
+- Fasciola gigantica (bovine liver fluke) causes sporadic human infections in India.
+- Opisthorchis/Clonorchis: Less common in India compared to Southeast Asia but cases reported.
+- Awareness in medical community is critical for correct diagnosis.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can I get infected by eating thoroughly cooked fish?
+A: No. Thorough cooking (70°C internally) destroys all trematode larvae. Proper cooking is the best prevention.
+
+Q: Is sushi from freshwater fish safe to eat?
+A: Raw freshwater fish carries risk of fluke infection. Saltwater/marine fish sushi carries different risks (Anisakis). In India, avoid eating raw freshwater fish.
+
+Q: Is a trematode infection the same as a worm infection?
+A: Trematodes (flukes) are a type of flatworm (platyhelminth) — different from roundworms (nematodes) or tapeworms (cestodes). All are parasitic worms but belong to different classes.
+
+--- IMPORTANT SAFETY NOTE ---
+This information is for awareness only. Foodborne trematode infection requires diagnosis and treatment by a qualified doctor. Do not self-treat. Always cook freshwater fish and aquatic vegetables thoroughly.
+
+--- ENVIRONMENTAL CONTROL ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- VACCINATION ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional.

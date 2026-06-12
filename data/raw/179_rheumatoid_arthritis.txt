@@ -1,0 +1,79 @@
+TOPIC: Rheumatoid arthritis
+CATEGORY: Musculoskeletal Health
+SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/rheumatoid-arthritis
+LAST UPDATED: 28 June 2023
+
+--- OVERVIEW ---
+Rheumatoid arthritis (RA) is a chronic disease that causes inflammation around the body and commonly presents with pain in the joints.
+
+Untreated, RA can cause severe damage to the joints and their surrounding tissue. It can lead to heart, lung or nervous system problems.
+
+Common symptoms include chronic pain, stiffness, tenderness, heat and swelling in the joints. RA can make it hard to move and perform daily activities.
+
+--- KEY FACTS ---
+- In 2019, 18 million people worldwide were living with rheumatoid arthritis.
+- About 70% of people living with rheumatoid arthritis are women, and 55% are older than 55 years.
+- 13 million people with rheumatoid arthritis experience severity levels (moderate or severe) that could benefit from rehabilitation.
+- While rheumatoid arthritis is a systemic autoimmune disease that affects multiple body systems, the joints of hands, wrists, feet, ankles, knees, shoulders and elbows are most often affected.
+
+--- TYPES ---
+- Rheumatoid arthritis (RA) is a chronic disease that causes inflammation around the body and commonly presents with pain in the joints.
+- Common symptoms include chronic pain, stiffness, tenderness, heat and swelling in the joints. RA can make it hard to move and perform daily activities.
+- RA is chronic and may worsen over time without treatment. It can lead to severe damage to the joint and surrounding tissue. It can also affect the heart, lung and nervous systems.
+- The symptoms can worsen over time and spread to more joints including the knees, elbows or shoulders. RA can make it hard to perform daily activities like writing, holding objects with the hands, walking and climbing stairs.
+
+--- SYMPTOMS ---
+- Rheumatoid arthritis causes inflammation and pain in one or more joints. It can happen in most joints, but it’s most common in the small joints of the hands, wrists and feet.
+- RA is chronic and may worsen over time without treatment. It can lead to severe damage to the joint and surrounding tissue. It can also affect the heart, lung and nervous systems.
+- Early signs and symptoms:
+- swelling or redness in one or more joints, usually in a symmetrical pattern (e.g., both hands or both feet).
+- The symptoms can worsen over time and spread to more joints including the knees, elbows or shoulders. RA can make it hard to perform daily activities like writing, holding objects with the hands, walking and climbing stairs.
+- People with RA often feel fatigue and general malaise (e.g., fever, poor sleep quality, loss of appetite) and may experience depressive symptoms.
+- Pain and difficulty moving can lead to problems with sexual function and intimate relationships. Trouble moving easily can cause lower physical fitness and lead to loss of independence, inability to work, reduced well-being and mental health problems.
+
+--- WARNING SIGNS ---
+- 13 million people with rheumatoid arthritis experience severity levels (moderate or severe) that could benefit from rehabilitation.
+- Untreated, RA can cause severe damage to the joints and their surrounding tissue. It can lead to heart, lung or nervous system problems.
+- If diagnosed timely, symptoms and disease progression can be controlled with pharmacological treatment, and optimal functioning can be maintained through rehabilitation (including the use of assistive products). In cases with severe joint damage, surgical procedures, including joint replacement, may help to restore movement or manage pain, and maintain physical function.
+- RA is chronic and may worsen over time without treatment. It can lead to severe damage to the joint and surrounding tissue. It can also affect the heart, lung and nervous systems.
+- In severe cases, orthopaedic surgery can reduce pain and restore movement. Rehabilitation is essential to achieve the best outcomes following surgery.
+
+--- RISK FACTORS ---
+- The typical onset of the disease occurs in adults in their sixties. Women are two-to-three times more often affected than men. The prevalence of rheumatoid arthritis is higher in industrialized countries, which may be explained by demographics (higher average age), exposures to environmental toxins and lifestyle risk factors, and under-diagnosis in low-and-middle-income countries.
+- The specific causes for the disease are still unknown, but several modifiable lifestyle-associated (smoking, obesity) and non-modifiable (genetics, female gender, age) risk factors have been identified.
+
+--- PREVENTION ---
+- Several key prevention strategies have been proposed to prevent rheumatoid arthritis and control the disease progression. In particular, reducing exposure to inhaled silica, dusts and occupational risks, and lifestyle related behaviours (e.g., prevention of/stop smoking, healthy nutrition, physical activity, maintaining a normal body weight, maintaining good dental hygiene) play an important role. Some evidence also suggests breastfeeding may be protective to the mother.
+
+--- ENVIRONMENTAL CONTROL ---
+- Several key prevention strategies have been proposed to prevent rheumatoid arthritis and control the disease progression. In particular, reducing exposure to inhaled silica, dusts and occupational risks, and lifestyle related behaviours (e.g., prevention of/stop smoking, healthy nutrition, physical activity, maintaining a normal body weight, maintaining good dental hygiene) play an important role. Some evidence also suggests breastfeeding may be protective to the mother.
+
+--- VACCINATION ---
+- No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice.
+
+--- DIAGNOSIS ---
+- If diagnosed timely, symptoms and disease progression can be controlled with pharmacological treatment, and optimal functioning can be maintained through rehabilitation (including the use of assistive products). In cases with severe joint damage, surgical procedures, including joint replacement, may help to restore movement or manage pain, and maintain physical function.
+- The typical onset of the disease occurs in adults in their sixties. Women are two-to-three times more often affected than men. The prevalence of rheumatoid arthritis is higher in industrialized countries, which may be explained by demographics (higher average age), exposures to environmental toxins and lifestyle risk factors, and under-diagnosis in low-and-middle-income countries.
+- Early diagnosis and management can reduce symptoms, slow the disease and prevent disability. In some cases, the disease can go into remission.
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Rheumatoid arthritis is not curable. Management of rheumatoid arthritis often involves different health workers, who contribute to a rehabilitative strategy tailored to a person’s needs and preferences.
+- Early diagnosis and management can reduce symptoms, slow the disease and prevent disability. In some cases, the disease can go into remission.
+- Therapeutic approaches help to improve and maintain joint mobility and muscle strength, to reduce and cope with pain, and to increase exercise capacity and the ability to perform daily activities.
+- Assistive technologies (e.g., orthosis, assistive products for self-care) help people to protect their joints and to perform meaningful activities independently.
+- Medicines to reduce inflammation, pain and swelling may include:
+- non-steroidal anti-inflammatory drugs (NSAIDs)
+- disease-modifying antirheumatic drugs (DMARDs)
+
+--- WHEN TO SEE A DOCTOR ---
+- Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.
+- Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.
+- For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.
+- Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.
+- Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally.
+
+--- IMPORTANT SAFETY NOTE ---
+This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
