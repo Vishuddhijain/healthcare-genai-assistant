@@ -120,18 +120,13 @@ This approach was selected because the healthcare documents are already organize
 * Data Source Identification
 * Healthcare Data Collection
 * Knowledge Base Organization
-* JSON Schema Design
+* Structured JSON Validation
 * Metadata Design
 * Private GitHub Repository Setup
 * RAG Architecture Selection
 * Chunking Strategy Selection
 
 ### In Progress
-
-* Data Cleaning Pipeline
-* Llama-Based Data Structuring
-* Metadata Generation
-* Structured JSON Validation
 * Chunk Generation
 
 ### Planned
