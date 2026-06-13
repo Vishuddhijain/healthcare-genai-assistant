@@ -1,0 +1,105 @@
+{
+  "doc_id": "who_gonorrhoea_and_sexually_transmitted_infections_stis_080",
+  "title": "Gonorrhoea and Sexually Transmitted Infections (STIs)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/gonorrhoea-(neisseria-gonorrhoeae-infection)",
+  "topic": "Gonorrhoea and Sexually Transmitted Infections (STIs)",
+  "category": "Communicable / Sexually Transmitted Infection",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Gonorrhoea is a common sexually transmitted infection (STI) caused by the bacterium Neisseria gonorrhoeae. It infects the genitals, rectum, and throat. If untreated, it causes serious complications including infertility. Drug-resistant gonorrhoea (multi-drug resistant) is an emerging global health crisis. STIs in general are extremely common, largely underreported in India, and largely preventable.\n\n- 82 million new gonorrhoea infections occur globally each year.\n- India is among countries with significant gonorrhoea burden, though data is limited.\n- Gonorrhoea is the second most common bacterial STI globally (after chlamydia).\n- Drug-resistant gonorrhoea (including extensively drug-resistant strains) is a growing crisis — some strains are untreatable with current antibiotics.\n- Untreated gonorrhoea causes infertility, pelvic inflammatory disease (PID), and increased HIV transmission risk.\n- Many gonorrhoea infections — especially in women — have no symptoms.\n- Gonorrhoea can be passed from mother to newborn during delivery, causing neonatal eye infection (ophthalmia neonatorum) and blindness.\n\nQ: Can gonorrhoea go away on its own without treatment?\nA: No. Gonorrhoea does not resolve on its own. Without treatment, it causes serious complications (infertility, PID) and continues to spread to others.\n\nQ: If I have no symptoms, do I still need to get tested?\nA: Yes. Many people — especially women — have no symptoms. If you have had unprotected sex, testing is important. Untreated asymptomatic gonorrhoea still causes complications and spreads to partners.\n\nQ: Is gonorrhoea the same as a urinary tract infection?\nA: No. Both cause burning urination but have different causes and treatments. Gonorrhoea is a bacterial STI. UTIs are usually caused by gut bacteria (E. coli) and are not sexually transmitted. A doctor's test differentiates them.\n\nQ: Will my doctor tell anyone I have gonorrhoea?\nA: Gonorrhoea diagnosis is confidential. Healthcare providers may advise you to notify partners, but they will not disclose your identity to others.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for awareness only. STI diagnosis and treatment must be done by a qualified healthcare professional. Testing and treatment are free and confidential at government ICTCs. Never self-medicate. Call NACO helpline 1097 for confidential support.",
+    "types": [
+      "Major STIs (covered in this file and cross-referenced):",
+      "Gonorrhoea (this file)",
+      "Chlamydia (see 65_chlamydia.txt)",
+      "Syphilis — bacterial STI",
+      "Herpes (HSV) — see 110_herpes_simplex.txt",
+      "HPV (Human Papillomavirus) — see 118_hpv_cancer.txt",
+      "HIV — see 20_hiv_aids.txt",
+      "Hepatitis B — see 42_hepatitis_bc.txt",
+      "Trichomoniasis — parasitic STI"
+    ],
+    "symptoms": [
+      "In men:",
+      "Burning sensation during urination",
+      "White, yellow, or green penile discharge",
+      "Painful or swollen testicles (epididymitis)",
+      "Some men have no symptoms",
+      "In women (often absent or mild):",
+      "Increased vaginal discharge (yellowish)",
+      "Burning during urination",
+      "Pelvic pain",
+      "Bleeding between periods",
+      "Many women have NO symptoms — infection discovered only on testing",
+      "Rectal infection (both sexes):",
+      "Anal itching, discharge, or soreness",
+      "Often no symptoms",
+      "Throat infection:",
+      "Sore throat, but usually no symptoms",
+      "Neonatal gonorrhoea (newborn from infected mother):",
+      "Eye redness and discharge within 2–5 days of birth",
+      "Can cause permanent blindness if untreated",
+      "Routine eye drops at birth prevent this"
+    ],
+    "warning_signs": [
+      "Penile discharge or burning urination in men — see a doctor promptly.",
+      "Pelvic inflammatory disease (PID) in women: severe lower abdominal pain, fever, discharge — emergency.",
+      "Newborn with eye redness/discharge — emergency eye care needed.",
+      "Any STI symptoms — do not delay, do not ignore."
+    ],
+    "risk_factors": [
+      "Unprotected sexual intercourse (vaginal, anal, oral)",
+      "Multiple sexual partners",
+      "Previous STI",
+      "Young age (15–24 years highest rates)",
+      "Men who have sex with men (MSM)",
+      "Partner with untreated gonorrhoea"
+    ],
+    "prevention": [
+      "Use condoms consistently and correctly — every time, for every sexual encounter.",
+      "Regular STI testing for sexually active individuals, especially with new or multiple partners.",
+      "Mutual monogamy with a tested, uninfected partner reduces risk.",
+      "Avoid douching (women) — disrupts natural protective flora.",
+      "Neonatal eye prophylaxis at birth (erythromycin or tetracycline eye drops) — routine in India."
+    ],
+    "environmental_control": [
+      "Partner notification and treatment: When diagnosed with gonorrhoea, all recent sexual partners must be informed and tested.",
+      "Contact tracing by health authorities reduces community spread."
+    ],
+    "vaccination": [
+      "No vaccine available for gonorrhoea currently.",
+      "HPV and Hepatitis B vaccines protect against other STIs."
+    ],
+    "diagnosis": [
+      "NAAT (Nucleic Acid Amplification Test) — most sensitive test; available at ICTC centres.",
+      "Gram stain and culture of discharge — available at government hospitals.",
+      "All people with an STI should also be tested for HIV and syphilis.",
+      "Free STI testing at ICTCs (Integrated Counselling and Testing Centres) — all government hospitals.",
+      "Testing is confidential."
+    ],
+    "treatment_awareness_only": [
+      "Gonorrhoea is treated with dual antibiotic therapy (ceftriaxone + azithromycin) — doctor-prescribed.",
+      "Drug-resistant strains may require different regimens — culture and sensitivity testing essential.",
+      "Complete the full treatment course.",
+      "Sexual partners must also be treated simultaneously.",
+      "Retest 7 days after treatment to confirm cure.",
+      "NEVER self-medicate for gonorrhoea — contributes to drug resistance.",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Any discharge from genitals, rectum, or unusual sores",
+      "Burning urination without urinary tract infection explanation",
+      "Lower abdominal pain in women with sexual activity history",
+      "After unprotected sex with unknown partner — get tested",
+      "If a sexual partner has been diagnosed with gonorrhoea"
+    ],
+    "india_specific_context": [
+      "Stigma around STIs is a major barrier to testing and treatment in India.",
+      "Free STI diagnosis and treatment at all ICTCs and STI/RTI clinics at government hospitals under NACP (National AIDS Control Programme).",
+      "NACO STI helpline: 1097 (confidential)",
+      "Condoms available free from ASHA workers and government hospitals.",
+      "Multi-drug resistant gonorrhoea cases are being reported in India — underscoring the need to avoid self-medication."
+    ]
+  }
+}

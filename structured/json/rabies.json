@@ -1,0 +1,80 @@
+{
+  "doc_id": "who_rabies_172",
+  "title": "Rabies",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/rabies",
+  "topic": "Rabies",
+  "category": "Communicable Disease",
+  "last_updated": "5 June 2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Rabies is a vaccine-preventable, zoonotic, viral disease affecting the central nervous system. In up to 99% of the human rabies cases, dogs are responsible for virus transmission. Children between the age of 5 and 14 years are frequent victims.\n\nRabies infects mammals, including dogs, cats, livestock and wildlife.\n\nRabies spreads to people and animals via saliva, usually through bites , scratches, or direct contact with mucosa (e.g. eyes, mouth, or open wounds). Once clinical symptoms appear, rabies is virtually 100% fatal.\n\n- Rabies is a serious public health problem in over 150 countries and territories, mainly in Asia and Africa. It is a viral, zoonotic, neglected tropical disease that causes tens of thousands of deaths annually, with 40% being children under 15.\n- Dog bites and scratches cause 99% of the human rabies cases, and can be prevented through dog vaccination and bite prevention.\n- Once the virus infects the central nervous system and clinical symptoms appear, rabies is fatal in 100% of cases.\n- However, rabies deaths are preventable with prompt post exposure prophylaxis (PEP) by stopping the virus from reaching the central nervous system. PEP consists of thorough wound washing, administration of a course of human rabies vaccine and, when indicated, rabies immunoglobulins (RIG).\n- If a person is bitten or scratched by a potentially rabid animal, they should immediately and always seek PEP care.\n- WHO and its global partners aim to end human deaths from dog-mediated rabies through a comprehensive One Health approach promoting mass dog vaccination, ensuring access to PEP, health worker training, improved surveillance, and bite prevention through community awareness.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "There are two forms of rabies:",
+      "Paralytic rabies accounts for about 20% of the total number of human cases. This form of rabies runs a less dramatic and usually longer course than the furious form. Muscles gradually become paralysed, starting from the wound site. A coma slowly develops and eventually death occurs. The paralytic form of rabies is often misdiagnosed, contributing to the under-reporting of the disease.",
+      "Post-exposure prophylaxis (PEP) is the emergency response to a rabies exposure. This prevents the virus from entering the central nervous system. A well performed wound risk assessment and PEP protocol consists of:"
+    ],
+    "symptoms": [
+      "The incubation period for rabies is typically 2–3 months but may vary from one week to one year, depending on factors such as the location of virus entry and the viral load. Initial symptoms of rabies include generic signs like fever, pain and unusual or unexplained tingling, pricking, or burning sensations at the wound site. As the virus moves to the central nervous system, progressive and fatal inflammation of the brain and spinal cord develops. Clinical rabies in people can be managed but very rarely cured, and not without severe neurological deficits.",
+      "There are two forms of rabies:",
+      "Furious rabies results in hyperactivity, excitable behaviour, hallucinations, lack of coordination, hydrophobia (fear of water) and aerophobia (fear of drafts or of fresh air). Death occurs after a few days due to cardio-respiratory arrest.",
+      "Paralytic rabies accounts for about 20% of the total number of human cases. This form of rabies runs a less dramatic and usually longer course than the furious form. Muscles gradually become paralysed, starting from the wound site. A coma slowly develops and eventually death occurs. The paralytic form of rabies is often misdiagnosed, contributing to the under-reporting of the disease."
+    ],
+    "warning_signs": [
+      "Rabies is a serious public health problem in over 150 countries and territories, mainly in Asia and Africa. It is a viral, zoonotic, neglected tropical disease that causes tens of thousands of deaths annually, with 40% being children under 15.",
+      "However, rabies deaths are preventable with prompt post exposure prophylaxis (PEP) by stopping the virus from reaching the central nervous system. PEP consists of thorough wound washing, administration of a course of human rabies vaccine and, when indicated, rabies immunoglobulins (RIG).",
+      "WHO and its global partners aim to end human deaths from dog-mediated rabies through a comprehensive One Health approach promoting mass dog vaccination, ensuring access to PEP, health worker training, improved surveillance, and bite prevention through community awareness.",
+      "Rabies is present on all continents except Antarctica. Globally there are an estimated 59 000 deaths from rabies annually; however, due to underreporting, documented case numbers often differ from the estimate.",
+      "Human deaths following exposure to foxes, raccoons, skunks, and other wild mammals are very rare, and bites from rodents are not known to transmit rabies.",
+      "Furious rabies results in hyperactivity, excitable behaviour, hallucinations, lack of coordination, hydrophobia (fear of water) and aerophobia (fear of drafts or of fresh air). Death occurs after a few days due to cardio-respiratory arrest."
+    ],
+    "risk_factors": [
+      "Depending on the severity of exposure, administration of a full PEP course is recommended as follows:",
+      "NB: Category II and III exposures require human rabies vaccination."
+    ],
+    "prevention": [
+      "Dog bites and scratches cause 99% of the human rabies cases, and can be prevented through dog vaccination and bite prevention.",
+      "However, rabies deaths are preventable with prompt post exposure prophylaxis (PEP) by stopping the virus from reaching the central nervous system. PEP consists of thorough wound washing, administration of a course of human rabies vaccine and, when indicated, rabies immunoglobulins (RIG).",
+      "WHO and its global partners aim to end human deaths from dog-mediated rabies through a comprehensive One Health approach promoting mass dog vaccination, ensuring access to PEP, health worker training, improved surveillance, and bite prevention through community awareness.",
+      "Rabies is a vaccine-preventable, zoonotic, viral disease affecting the central nervous system. In up to 99% of the human rabies cases, dogs are responsible for virus transmission. Children between the age of 5 and 14 years are frequent victims.",
+      "Rabies, a neglected tropical diseases (NTD), predominantly affecting marginalized populations. Although effective human vaccines and immunoglobulins exist for rabies, these are often inaccessible or unaffordable to those in need.",
+      "Over 29 million people worldwide receive human rabies vaccine annually."
+    ],
+    "environmental_control": [
+      "Depending on the severity of exposure, administration of a full PEP course is recommended as follows:",
+      "NB: Category II and III exposures require human rabies vaccination."
+    ],
+    "vaccination": [
+      "WHO recommends that all human rabies vaccines comply with WHO standards .",
+      "Deployment of poor-quality rabies vaccines has led to public health failures in several countries.",
+      "As detailed in the guidance on PEP administration , WHO recommends moving from intramuscular (IM) to intradermal (ID) administration of human rabies vaccines.",
+      "Intradermal administration reduces the amount of necessary vaccine and number of doses, therefore reducing costs by 60–80% , without compromising safety or efficacy.",
+      "Fewer doses also promote patient compliance with the recommended regimen."
+    ],
+    "diagnosis": [
+      "Currently there are no WHO-approved diagnostic tools for detecting rabies infection before the onset of clinical disease.",
+      "Clinical diagnosis of rabies is difficult without a reliable history of contact with a rabid animal or specific symptoms of hydrophobia or aerophobia.",
+      "Accurate risk assessment is crucial for deciding on PEP administration.",
+      "Once symptoms emerge, and death is inevitable, offering comprehensive and compassionate palliative care is recommended.",
+      "Postmortem confirmation of rabies infection is done by various diagnostic techniques that detect whole viruses, viral antigens, or nucleic acids in infected tissues (brain, skin or saliva) (Laboratory techniques in rabies Vol. 1 and Vol. 2 ).",
+      "Where possible, the biting animal should be tested."
+    ],
+    "treatment_awareness_only": [
+      "If a person is bitten or scratched by a potentially rabid animal, they should immediately and always seek PEP care.",
+      "WHO and its global partners aim to end human deaths from dog-mediated rabies through a comprehensive One Health approach promoting mass dog vaccination, ensuring access to PEP, health worker training, improved surveillance, and bite prevention through community awareness.",
+      "The global cost of rabies is estimated to be around US$ 8.6 billion per year including lost lives and livelihoods, medical care and associated costs, as well as uncalculated psychological trauma.",
+      "Once symptoms emerge, and death is inevitable, offering comprehensive and compassionate palliative care is recommended.",
+      "Note that PrEP does not replace the need for PEP. Any person exposed to a suspected rabid animal should still seek post exposure care."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "doc_id": "who_trypanosomiasis_human_african_sleeping_sickness_214",
+  "title": "Trypanosomiasis, human African (sleeping sickness)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness)",
+  "topic": "Trypanosomiasis, human African (sleeping sickness)",
+  "category": "Communicable Disease",
+  "last_updated": "2 May 2023",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Human African trypanosomiasis, also known as sleeping sickness, is a vector-borne parasitic disease. It is caused by protozoans of the genus Trypanosoma , transmitted to humans by bites of tsetse flies (glossina) which have acquired the parasites from infected humans or animals.\n\nTsetse flies inhabit sub-Saharan Africa and only certain species transmit the disease. Rural populations which depend on agriculture, fishing, animal husbandry or hunting are the most exposed. In many regions where tsetse flies are found, HAT is not. The disease has a focal distribution ranging from single villages to entire regions, and the incidence can vary from one village to the next.\n\n- Human African trypanosomiasis (HAT) is caused by protozoan parasites transmitted by infected tsetse flies. It is endemic in sub-Saharan Africa. Without treatment, HAT is generally fatal.\n- Most exposed people live in rural areas and depend on agriculture, fishing, animal husbandry or hunting.\n- HAT takes 2 forms, depending on the subspecies of the infecting parasite: Trypanosoma brucei gambiense (92% of reported cases) and Trypanosoma brucei rhodesiense (8%).\n- Sustained control efforts have reduced the number of new cases by 97% in the last 20 years.\n- Diagnosis and treatment are complex and require specific skills.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "HAT takes 2 forms, depending on the parasite subspecies:",
+      "Trypanosoma brucei gambiense, found in 24 countries of west and central Africa, currently accounts for 92% of reported cases and causes a chronic illness. A person can be infected for months or even years without major signs or symptoms. When evident symptoms emerge, often the disease is advanced with the central nervous system already affected.",
+      "Trypanosoma brucei rhodesiense , found in 13 countries of eastern and southern Africa accounts for 8% of reported cases and causes an acute disease. First signs and symptoms emerge a few weeks or months after infection. The disease develops rapidly with multi-organ invasion, including the brain.",
+      "American trypanosomiasis, or Chagas disease , occurs mainly in Latin America. It is caused by a different Trypanosoma subgenus, transmitted by another vector and the disease characteristics are very different from HAT."
+    ],
+    "symptoms": [
+      "HAT is mostly transmitted through tsetse flies. Other possible transmission ways are:",
+      "mother-to-child: trypanosomes can cross the placenta and infect the fetus;",
+      "mechanical transmission by other blood-sucking insects is possible, although its epidemiological impact is likely marginal;",
+      "accidental infection in laboratories via pricks with contaminated needles; and",
+      "transmission through sexual contact has been reported once.",
+      "Initially the trypanosomes multiply in subcutaneous tissue, blood and lymph. This is called haemo-lymphatic or first stage, which entails bouts of fever, headache, enlarged lymph nodes, joint pains and itching.",
+      "Later the parasites cross the blood-brain barrier into the central nervous system causing the meningo-encephalitic or second stage. Generally this is when more obvious signs and symptoms of HAT appear: behaviour changes, confusion, sensory disturbances and poor coordination. Sleep cycle disturbance, which gives the disease its name, is a prominent feature. Without treatment, HAT is usually fatal although rare cases of self-cure have been reported."
+    ],
+    "warning_signs": [
+      "Fexinidazole, oral: in first stage and non-severe second stage. To ensure efficacy, intake after a solid meal and under supervision of trained medical staff is required."
+    ],
+    "risk_factors": [
+      "Human African trypanosomiasis (HAT) is caused by protozoan parasites transmitted by infected tsetse flies. It is endemic in sub-Saharan Africa. Without treatment, HAT is generally fatal.",
+      "Human African trypanosomiasis, also known as sleeping sickness, is a vector-borne parasitic disease. It is caused by protozoans of the genus Trypanosoma , transmitted to humans by bites of tsetse flies (glossina) which have acquired the parasites from infected humans or animals.",
+      "American trypanosomiasis, or Chagas disease , occurs mainly in Latin America. It is caused by a different Trypanosoma subgenus, transmitted by another vector and the disease characteristics are very different from HAT.",
+      "After continued control efforts, HAT occurrence reached a historic low under 2000 cases in 2017 and under 1000 cases in 2018, remaining below that threshold as of 2022. The population at risk estimated for the period 2016–2020 was 55 million people, with only 3 million at moderate-high risk.",
+      "HAT is mostly transmitted through tsetse flies. Other possible transmission ways are:",
+      "accidental infection in laboratories via pricks with contaminated needles; and"
+    ],
+    "prevention": [
+      "Sustained control efforts have reduced the number of new cases by 97% in the last 20 years.",
+      "The efforts of WHO, national control programmes, bilateral cooperation and nongovernmental organizations during the 1990s and early 2000s reversed the curve, and the WHO Neglected Tropical Diseases Roadmap targeted for 2020 its elimination as a public health problem, and for 2030 the interruption of transmission (zero case).",
+      "After continued control efforts, HAT occurrence reached a historic low under 2000 cases in 2017 and under 1000 cases in 2018, remaining below that threshold as of 2022. The population at risk estimated for the period 2016–2020 was 55 million people, with only 3 million at moderate-high risk.",
+      "Early diagnosis is important to avoid progressing to the neurological stage with more complex and risky treatment.",
+      "Eflornithine, intravenous: much safer than melarsoprol, only effective in gambiense-HAT. It is generally co-administered with nifurtimox (Nifurtimox-eflornithine combination therapy, NECT) but can be used also as monotherapy. The administration is complex.",
+      "Nifurtimox, oral: in second stage, only as a component of NECT, which is a shorter treatment with four-times fewer eflornithine infusions, safer and more effective than eflornithine alone. WHO supplies NECT free of charge to endemic countries in a kit containing all the material needed for its administration."
+    ],
+    "environmental_control": [
+      "accidental infection in laboratories via pricks with contaminated needles; and"
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis involves 3 steps:",
+      "screening for potential infection using serological tests (only available for T. b.gambiense ) and clinical examination;",
+      "confirmation by observing microscopically the parasite in body fluids; and",
+      "staging the disease progression via clinical examination and analysis of cerebrospinal fluid obtained by lumbar puncture, if needed.",
+      "Early diagnosis is important to avoid progressing to the neurological stage with more complex and risky treatment.",
+      "The long, relatively asymptomatic first stage of gambiense -HAT is one of the reasons why active screening of exposed populations is done, to detect cases at an early stage and remove them as reservoir. Exhaustive screening requires a major investment in human and material resources. In Africa such resources are often scarce, particularly in remote areas. Hence, some infected individuals may die before they can ever be diagnosed and treated."
+    ],
+    "treatment_awareness_only": [
+      "The treatment choice depends on the disease form and the disease stage. The earlier the disease is treated, the better the prospect of cure. The assessment of treatment outcome requires follow up for up to 24 months with clinical assessment and laboratory exams including sometimes of cerebrospinal fluid, because parasites may remain viable and reproduce the disease many months after treatment.",
+      "Treatment in the second stage requires drugs that cross the blood–brain barrier.",
+      "All anti-trypanosomals are donated to WHO by the manufacturers and distributed for free to endemic countries. New WHO treatment guidelines for gambiense-HAT were issued in 2019. Six drugs are used:",
+      "Pentamidine, intramuscular: in first stage, generally well tolerated by patients.",
+      "Eflornithine, intravenous: much safer than melarsoprol, only effective in gambiense-HAT. It is generally co-administered with nifurtimox (Nifurtimox-eflornithine combination therapy, NECT) but can be used also as monotherapy. The administration is complex.",
+      "Nifurtimox, oral: in second stage, only as a component of NECT, which is a shorter treatment with four-times fewer eflornithine infusions, safer and more effective than eflornithine alone. WHO supplies NECT free of charge to endemic countries in a kit containing all the material needed for its administration.",
+      "Fexinidazole, oral: in first stage and non-severe second stage. To ensure efficacy, intake after a solid meal and under supervision of trained medical staff is required."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

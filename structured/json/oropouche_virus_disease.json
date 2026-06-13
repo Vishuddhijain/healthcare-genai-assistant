@@ -1,0 +1,60 @@
+{
+  "doc_id": "who_oropouche_virus_disease_149",
+  "title": "Oropouche virus disease",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/oropouche-virus-disease",
+  "topic": "Oropouche virus disease",
+  "category": "Communicable Disease",
+  "last_updated": "22 October 2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Oropouche virus disease is caused by the Oropouche virus (OROV) that can cause fever, headache, joint pain, muscle pain, chills, nausea, vomiting and rash. Most people recover on their own, but the disease can cause severe symptoms in some patients.\n\nOROV is a segmented single-stranded RNA virus belonging to the family Peribunyaviridae, genus Orthobunyavirus , which was first identified in 1955 in Vega de Oropouche, Trinidad and Tobago.\n\nThe virus is transmitted to people through the bite of an infected insect, usually biting midges but also possibly by mosquitoes. It is thus referred to as an arthropod-borne virus (arbovirus). Prior to late 2023, reported cases of Oropouche virus disease were limited to South America, mostly near the Amazon rainforest, and the Caribbean. However, since December 2023, cases have been detected in other areas and have become more severe. In 2024, outbreaks have been documented outbreaks in nonendemic areas, two fatal cases with confirmed infection, and the possibility of mothers transmitting the disease to their babies while pregnant.\n\n- Oropouche virus disease (also known as Oropouche fever) is a febrile illness, from which patients typically recover quickly, that is caused by the Oropouche virus, which is spread to humans through the bites of infected biting midges, and possibly of some mosquitoes.\n- The Oropouche virus is present mostly in South America and the Caribbean, but since December 2023 more cases were reported, totalling over 10 000 cases in 2024, including from areas in the region where it was not previously detected.\n- Symptoms of Oropouche virus disease are similar to those that occur in other diseases, such as dengue and chikungunya, and the cause of infection is often misdiagnosed.\n- In 2024 concerns arose about possible complications of Oropouche virus infection including two deaths in previously healthy infected adults, and of possible negative outcomes of infection during pregnancy with associated fetal death, miscarriage, and microcephaly in newborns, that requires further investigation and research.\n- No specific treatments or vaccines are available for Oropouche virus disease, and patients should receive supportive care.\n- Infections can be prevented mainly through vector control and personal protective measures against insect bites, including use of meshed bed nets, chemical insecticides, protective clothing, and insect repellents is recommended.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic."
+    ],
+    "symptoms": [
+      "The incubation period (the time from the bite of an infected insect to first symptoms) of the Oropouche virus is typically 3 to 10 days. Symptoms of disease include fever, headache, joint pain (arthralgia), muscle pain (myalgia), chills, nausea, vomiting and rash.",
+      "Most cases recover completely within 7 days after the onset of symptoms. However, recovery can take weeks in some patients, and severe complications like aseptic meningitis may occasionally occur. Though deaths from OROV infection were not previously described, in 2024 there were two reports of deaths in previously healthy young adults with Oropouche virus infection."
+    ],
+    "warning_signs": [
+      "The understanding of complications from Oropouche virus disease is limited. Occasionally, aseptic meningitis may occur.",
+      "Recently, there were reports from Brazil describing five cases of possible Oropouche virus transmission during pregnancy (four stillbirth and one spontaneous miscarriage) as well as four cases of newborns with microcephaly detected via retrospective investigations. Despite the detection of viral RNA by reverse transcription polymerase chain reaction (RT-PCR) testing of fetal tissues, it cannot be concluded that OROV infection was the cause of fetal deaths, and investigations are still ongoing."
+    ],
+    "risk_factors": [
+      "The Oropouche virus is primarily transmitted to humans through the bite of Culicoides paraensis midges. Culex quinquefasciatus, Coquillettidia venezuelensis and Aedes serratus mosquitoes can also act as possible vectors (8) . The virus is believed to circulate in both a sylvatic cycle in forested areas, and in an urban epidemic cycle between insects and people. In the sylvatic cycle, non-human primates, sloths and perhaps birds serve as vertebrate hosts, although a definitive arthropod vector has not been identified.",
+      "Further studies are underway to better understand the insect vectors and transmission cycles in the current outbreaks.",
+      "Previously, there had been no confirmed reports of human-to-human transmission. However, there were reports in Brazil in 2024 of possible fetal infection with Oropouche virus, transmitted from mothers infected during pregnancy."
+    ],
+    "prevention": [
+      "There is no vaccine available to prevent Oropouche virus disease. Vector control and personal protective measures are key in reducing the spread of the virus.",
+      "Standard bed nets are less effective against the biting midge, as these insects are small and can pass through the netting. In contrast, fine mesh bed nets and chemical insecticides used as residual spray on internal and external walls of infested premises have been shown to be effective.",
+      "Personal protective measures, such as wearing protective clothing and using insect repellents containing DEET, IR3535 or icaridin, are recommended to minimize the risk of infection."
+    ],
+    "environmental_control": [
+      "There is no vaccine available to prevent Oropouche virus disease. Vector control and personal protective measures are key in reducing the spread of the virus.",
+      "Standard bed nets are less effective against the biting midge, as these insects are small and can pass through the netting. In contrast, fine mesh bed nets and chemical insecticides used as residual spray on internal and external walls of infested premises have been shown to be effective.",
+      "Personal protective measures, such as wearing protective clothing and using insect repellents containing DEET, IR3535 or icaridin, are recommended to minimize the risk of infection."
+    ],
+    "vaccination": [
+      "No specific treatments or vaccines are available for Oropouche virus disease, and patients should receive supportive care.",
+      "There is no vaccine available to prevent Oropouche virus disease. Vector control and personal protective measures are key in reducing the spread of the virus."
+    ],
+    "diagnosis": [
+      "Given the similar clinical presentation to other arboviruses like dengue and chikungunya, Oropouche virus disease is often unrecognized or misdiagnosed.",
+      "Diagnosis of Oropouche virus disease is made by reverse transcription polymerase chain reaction (RT-PCR) and real-time RT-PCR (9) . Serologic assays can be used to aid diagnosis; however, they should be conducted by highly trained personnel and in laboratories equipped with appropriate containment facilities. There are no available commercial diagnostic or rapid tests based on antigens or immunoassays (e.g. ELISA, immunochromatography) available."
+    ],
+    "treatment_awareness_only": [
+      "There is no specific treatment available for Oropouche virus disease. Treatment is primarily supportive and focuses on relieving symptoms."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

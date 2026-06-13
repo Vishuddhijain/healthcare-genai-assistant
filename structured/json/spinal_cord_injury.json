@@ -1,0 +1,80 @@
+{
+  "doc_id": "who_spinal_cord_injury_201",
+  "title": "Spinal cord injury",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury",
+  "topic": "Spinal cord injury",
+  "category": "Emergency Awareness / Injury Prevention",
+  "last_updated": "16 April 2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "The term spinal cord injury (SCI) refers to damage to the spinal cord resulting from trauma (e.g. from falls and road traffic injuries) or non-traumatic causes like tumors, degenerative and vascular conditions, infections, toxins or birth defects.\n\nThe extent of SCI related impairment depends on injury severity and location in the spinal cord. SCI results in complete or incomplete loss of sensory and/or motor functions below injury level. In paraplegia arm functions are preserved; in tetraplegia they are affected. Autonomic nervous system dysfunction affecting diverse functions can occur at any level of injury.\n\nInappropriate management of SCI related impairments and secondary conditions often causes premature mortality.\n\n- Globally, over 15 million people are living with spinal cord injury (SCI).\n- Most SCI cases are due to trauma, including falls, road traffic injuries or violence, and are thus preventable.\n- People with SCI are at risk of developing debilitating and even life-threatening secondary conditions, which can cause premature mortality.\n- SCI is associated with lower school enrolment and economic participation rates, carrying substantial individual and societal costs.\n- Effective prevention, treatment, rehabilitation, and ongoing health care are essential to alleviate the global burden of SCI.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "SCI can diminish the capacity to perform daily activities, including walking, using one’s hands, physiological emptying of bowel/bladder or washing and dressing oneself. Limitations are compounded by misconceptions, negative attitudes and physical barriers to basic mobility, restricting independence and full societal participation. SCI is a major cause of long-term disability, accounting for over 4.5 million years of life lived with disability (YLDs) in 2021.",
+      "Importantly, many restrictions in performing activities and participating in meaningful life areas do not result from the condition itself, but from insufficient or inadequate medical care, rehabilitation and assistive technologies access, a high economic burden, and from barriers in the physical, social and policy environments. For example, globally, only 5–35% have wheelchair access.",
+      "Timely access to prehospital management, emergency and acute care and rehabilitation is essential to ensure survival and restore optimal levels of functioning, aimed at minimizing long-term disability. Long-term management is indispensable to maintain functioning and to prevent secondary conditions and premature mortality. Essential measures include the following:",
+      "acute care (including surgical intervention) appropriate to injury type and severity, degree of instability, presence of neural compression, and in accordance with the person’s and their family’s wishes;"
+    ],
+    "symptoms": [
+      "Depending on injury severity and location, people with SCI can experience",
+      "partial or complete loss of sensory and/or motor functions (including respiratory muscle functions)",
+      "bowel, bladder and sexual dysfunction",
+      "dysregulation of blood pressure, heart rate, and/or body temperature.",
+      "SCI is often associated with a risk of developing complications, including debilitating and potentially life-threatening secondary conditions, such as",
+      "urinary tract infections",
+      "respiratory complications",
+      "autonomic dysreflexia"
+    ],
+    "warning_signs": [
+      "SCI is often associated with a risk of developing complications, including debilitating and potentially life-threatening secondary conditions, such as",
+      "respiratory complications",
+      "access to ongoing health care to detect and manage complications and reduce risks of secondary conditions; and",
+      "However, people with more severe SCI often require ongoing care and support provided largely by informal carers. Challenges for carers include stress, role strain, financial burden, social isolation, lack of community services and bereavement in the event of loss of loved ones. Caring for a person with SCI may affect the carer’s own health, well-being and social relationships. Effective carer support and self-care interventions for health can significantly alleviate carer strain and enhance quality of care and participation of people with SCI."
+    ],
+    "risk_factors": [
+      "Global estimates suggest that in 2021, approximately 15.4 million people were living with SCI.",
+      "Males are more commonly affected by SCI than females, with consistently higher prevalence and YLDs attributed to this demographic.",
+      "Life expectancy in people with SCI strongly correlates with neurological impairment and preventable secondary conditions. People with SCI often die earlier because of health system factors such as insufficient access to or poor quality health services. For people with SCI, the in‑hospital mortality rate is nearly three times higher in low- and middle-income countries than in high-income countries.",
+      "Misconceptions, negative attitudes and mobility barriers prevent many individuals from full societal participation. Children with SCI are less likely than their peers to start school, and once enrolled, less likely to advance. Adults with SCI face similar barriers to economic participation, with unemployment rates exceeding 60%.",
+      "Many people with SCI, their carers and families face substantial social and economic consequences. While existing data limit global cost estimates of SCI, its economic burden is significant. Indirect costs (for example, lost earnings) often exceed direct costs, which are highest in the first year after SCI onset, with much of the cost borne by people with SCI.",
+      "Traumatic SCIs from falls and road traffic accidents are the leading cause of SCI, followed by violence (including self-harm and attempted suicide) and work or sports-related injuries. Emergencies can also result in surges in SCI. Earthquakes, for example, can cause increases in SCI due to blunt trauma; conflicts may cause surges in penetrating injuries. Non-traumatic SCIs are also increasing, specifically in ageing populations, given increases in non-communicable diseases such as tumors, degenerative and vascular conditions that can cause spinal cord damage.",
+      "Effective interventions are available to prevent many causes of traumatic SCI. These include improvements in road infrastructure, vehicles and people’s road behaviors to avoid road traffic accidents, window guards to prevent falls, policies to thwart the harmful use of alcohol and access to firearms to reduce violence, and domestic violence and suicide prevention strategies (including equitable mental health services). Prevention of non-traumatic SCI includes early diagnosis and treatment of the underlying health condition.",
+      "The prevention, early diagnosis and treatment of SCI related secondary conditions are essential to increase life expectancy."
+    ],
+    "prevention": [
+      "Traumatic SCIs from falls and road traffic accidents are the leading cause of SCI, followed by violence (including self-harm and attempted suicide) and work or sports-related injuries. Emergencies can also result in surges in SCI. Earthquakes, for example, can cause increases in SCI due to blunt trauma; conflicts may cause surges in penetrating injuries. Non-traumatic SCIs are also increasing, specifically in ageing populations, given increases in non-communicable diseases such as tumors, degenerative and vascular conditions that can cause spinal cord damage.",
+      "Effective interventions are available to prevent many causes of traumatic SCI. These include improvements in road infrastructure, vehicles and people’s road behaviors to avoid road traffic accidents, window guards to prevent falls, policies to thwart the harmful use of alcohol and access to firearms to reduce violence, and domestic violence and suicide prevention strategies (including equitable mental health services). Prevention of non-traumatic SCI includes early diagnosis and treatment of the underlying health condition.",
+      "The prevention, early diagnosis and treatment of SCI related secondary conditions are essential to increase life expectancy."
+    ],
+    "environmental_control": [
+      "Importantly, many restrictions in performing activities and participating in meaningful life areas do not result from the condition itself, but from insufficient or inadequate medical care, rehabilitation and assistive technologies access, a high economic burden, and from barriers in the physical, social and policy environments. For example, globally, only 5–35% have wheelchair access."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Effective interventions are available to prevent many causes of traumatic SCI. These include improvements in road infrastructure, vehicles and people’s road behaviors to avoid road traffic accidents, window guards to prevent falls, policies to thwart the harmful use of alcohol and access to firearms to reduce violence, and domestic violence and suicide prevention strategies (including equitable mental health services). Prevention of non-traumatic SCI includes early diagnosis and treatment of the underlying health condition.",
+      "The prevention, early diagnosis and treatment of SCI related secondary conditions are essential to increase life expectancy.",
+      "access to ongoing health care to detect and manage complications and reduce risks of secondary conditions; and"
+    ],
+    "treatment_awareness_only": [
+      "Timely access to prehospital management, emergency and acute care and rehabilitation is essential to ensure survival and restore optimal levels of functioning, aimed at minimizing long-term disability. Long-term management is indispensable to maintain functioning and to prevent secondary conditions and premature mortality. Essential measures include the following:",
+      "timely, appropriate pre-hospital management: quick recognition of suspected SCI, rapid evaluation and initiation of injury management, including spine immobilization, as needed;",
+      "acute care (including surgical intervention) appropriate to injury type and severity, degree of instability, presence of neural compression, and in accordance with the person’s and their family’s wishes;",
+      "access to acute, post-acute and ongoing multidisciplinary rehabilitation including mental health services to address the existing impairments and optimize functioning, independence, community integration including vocational reintegration, and overall well-being;",
+      "access to assistive products that enable people to perform everyday activities they otherwise couldn’t are essential to increase functioning and independency;",
+      "access to ongoing health care to detect and manage complications and reduce risks of secondary conditions; and",
+      "specialized knowledge on SCI and skills among medical care and rehabilitation providers."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

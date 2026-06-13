@@ -1,0 +1,75 @@
+{
+  "doc_id": "who_diabetes_054",
+  "title": "Diabetes",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+  "topic": "Diabetes",
+  "category": "Non-Communicable Disease (NCD)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin, or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood sugar. Uncontrolled diabetes leads to hyperglycaemia (raised blood sugar), which over time causes serious damage to the heart, blood vessels, eyes, kidneys, and nerves.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for awareness purposes only. Diabetes management, medication, and insulin dosage must be handled by a qualified medical professional. Do not self-diagnose or self-medicate.",
+    "types": [
+      "Type 1 Diabetes: The pancreas produces little or no insulin by itself. It requires daily insulin administration. The cause is not fully known and currently cannot be prevented.",
+      "Type 2 Diabetes: The most common type. The body becomes resistant to insulin or doesn't make enough. It is largely the result of excess body weight and physical inactivity. It is preventable through lifestyle changes.",
+      "Gestational Diabetes: Hyperglycaemia that develops during pregnancy with blood glucose levels above normal. It increases risk of complications during pregnancy and for both mother and child later in life."
+    ],
+    "symptoms": [
+      "Type 1 symptoms (may appear suddenly):",
+      "Excessive urination (polyuria)",
+      "Excessive thirst (polydipsia)",
+      "Constant hunger",
+      "Unexplained weight loss",
+      "Vision changes",
+      "Fatigue",
+      "Type 2 symptoms are similar but often less marked or absent for years. Many people are diagnosed late, after complications have already arisen."
+    ],
+    "warning_signs": [
+      "Heart disease and stroke (50% of people with diabetes die of cardiovascular disease)",
+      "Blindness (diabetic retinopathy is a leading cause of blindness)",
+      "Kidney failure (diabetes is among the leading causes)",
+      "Nerve damage (neuropathy), especially in the feet",
+      "Lower limb amputation",
+      "Increased risk of infections",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Overweight or obesity",
+      "Physical inactivity",
+      "Unhealthy diet (high sugar, refined carbohydrates)",
+      "Family history of diabetes",
+      "Age (risk increases after 45)",
+      "High blood pressure",
+      "Abnormal cholesterol levels",
+      "History of gestational diabetes",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Achieve and maintain a healthy body weight",
+      "Be physically active (at least 30 minutes of regular, moderate-intensity activity on most days)",
+      "Eat a healthy diet — avoid sugar and saturated fats; increase intake of fruits, vegetables, and whole grains",
+      "Avoid tobacco use",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "If you experience frequent urination, unusual thirst, or unexplained weight loss, consult a doctor.",
+      "Diabetes is diagnosed through blood tests. Early diagnosis prevents complications.",
+      "People with diabetes should have regular check-ups for eyes, kidneys, and feet."
+    ],
+    "india_specific_context": [
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "doc_id": "who_salmonella_non_typhoidal_186",
+  "title": "Salmonella (non-typhoidal)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/salmonella-(non-typhoidal)",
+  "topic": "Salmonella (non-typhoidal)",
+  "category": "Public Health Awareness",
+  "last_updated": "20 February 2018",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Salmonellosis is a disease caused by the bacteria Salmonella . It is usually characterized by acute onset of fever, abdominal pain, diarrhoea, nausea and sometimes vomiting.\n\nThe onset of disease symptoms occurs 6–72 hours (usually 12–36 hours) after ingestion of Salmonella , and illness lasts 2–7 days.\n\nSymptoms of salmonellosis are relatively mild and patients will make a recovery without specific treatment in most cases. However, in some cases, particularly in children and elderly patients, the associated dehydration can become severe and life-threatening.\n\n- Salmonella is 1 of 4 key global causes of diarrhoeal diseases.\n- Most cases of salmonellosis are mild; however, sometimes it can be life-threatening. The severity of the disease depends on host factors and the serotype of Salmonella.\n- Antimicrobial resistance is a global public health concern and Salmonella is one of the microorganisms in which some resistant serotypes have emerged, affecting the food chain.\n- Basic food hygiene practices, such as \"cook thoroughly\", are recommended as a preventive measure against salmonellosis.\n- Salmonella is a gram negative rods genus belonging to the Enterobacteriaceae family. Within 2 species, Salmonella bongori and Salmonella enterica , over 2500 different serotypes or serovars have been identified to date. Salmonella is a ubiquitous and hardy bacteria that can survive several weeks in a dry environment and several months in water.\n- While all serotypes can cause disease in humans, a few are host-specific and can reside in only one or a few animal species: for example, Salmonella enterica serotype Dublin in cattle and Salmonella enterica serotype Choleraesuis in pigs. When these particular serotypes cause disease in humans, it is often invasive and can be life-threatening. Most serotypes, however, are present in a wide range of hosts. Typically, such serotypes cause gastroenteritis, which is often uncomplicated and does not need treatment, but disease can be severe in the young, the elderly, and patients with weakened immunity. This group features Salmonella enterica...\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Most cases of salmonellosis are mild; however, sometimes it can be life-threatening. The severity of the disease depends on host factors and the serotype of Salmonella.",
+      "Antimicrobial resistance is a global public health concern and Salmonella is one of the microorganisms in which some resistant serotypes have emerged, affecting the food chain.",
+      "Salmonella is a gram negative rods genus belonging to the Enterobacteriaceae family. Within 2 species, Salmonella bongori and Salmonella enterica , over 2500 different serotypes or serovars have been identified to date. Salmonella is a ubiquitous and hardy bacteria that can survive several weeks in a dry environment and several months in water.",
+      "Salmonellosis is a disease caused by the bacteria Salmonella . It is usually characterized by acute onset of fever, abdominal pain, diarrhoea, nausea and sometimes vomiting."
+    ],
+    "symptoms": [
+      "Salmonella is 1 of 4 key global causes of diarrhoeal diseases.",
+      "Salmonellosis is a disease caused by the bacteria Salmonella . It is usually characterized by acute onset of fever, abdominal pain, diarrhoea, nausea and sometimes vomiting.",
+      "The onset of disease symptoms occurs 6–72 hours (usually 12–36 hours) after ingestion of Salmonella , and illness lasts 2–7 days.",
+      "Symptoms of salmonellosis are relatively mild and patients will make a recovery without specific treatment in most cases. However, in some cases, particularly in children and elderly patients, the associated dehydration can become severe and life-threatening.",
+      "Treatment in severe cases is electrolyte replacement (to provide electrolytes, such as sodium, potassium and chloride ions, lost through vomiting and diarrhoea) and rehydration.",
+      "National and regional surveillance systems on foodborne diseases are important means to know and follow the situation of these diseases and also to detect and respond to salmonellosis and other enteric infections in early stages, and thus to prevent them from further spreading."
+    ],
+    "warning_signs": [
+      "Symptoms of salmonellosis are relatively mild and patients will make a recovery without specific treatment in most cases. However, in some cases, particularly in children and elderly patients, the associated dehydration can become severe and life-threatening.",
+      "Treatment in severe cases is electrolyte replacement (to provide electrolytes, such as sodium, potassium and chloride ions, lost through vomiting and diarrhoea) and rehydration."
+    ],
+    "risk_factors": [
+      "Salmonella bacteria are widely distributed in domestic and wild animals. They are prevalent in food animals such as poultry, pigs, and cattle; and in pets, including cats, dogs, birds, and reptiles such as turtles.",
+      "Salmonella can pass through the entire food chain from animal feed, primary production, and all the way to households or food-service establishments and institutions.",
+      "Salmonellosis in humans is generally contracted through the consumption of contaminated food of animal origin (mainly eggs, meat, poultry, and milk), although other foods, including green vegetables contaminated by manure, have been implicated in its transmission.",
+      "Person-to-person transmission can also occur through the faecal-oral route.",
+      "Human cases also occur where individuals have contact with infected animals, including pets. These infected animals often do not show signs of disease."
+    ],
+    "prevention": [
+      "Prevention requires control measures at all stages of the food chain, from agricultural production, to processing, manufacturing and preparation of foods in both commercial establishments and at home.",
+      "Preventive measures for Salmonella in the home are similar to those used against other foodborne bacterial diseases (see recommendations for food handlers below).",
+      "The contact between infants/young children and pet animals that may be carrying Salmonella (such as cats, dogs, and turtles) needs careful supervision.",
+      "National and regional surveillance systems on foodborne diseases are important means to know and follow the situation of these diseases and also to detect and respond to salmonellosis and other enteric infections in early stages, and thus to prevent them from further spreading."
+    ],
+    "environmental_control": [
+      "Salmonella is a gram negative rods genus belonging to the Enterobacteriaceae family. Within 2 species, Salmonella bongori and Salmonella enterica , over 2500 different serotypes or serovars have been identified to date. Salmonella is a ubiquitous and hardy bacteria that can survive several weeks in a dry environment and several months in water.",
+      "Salmonellosis in humans is generally contracted through the consumption of contaminated food of animal origin (mainly eggs, meat, poultry, and milk), although other foods, including green vegetables contaminated by manure, have been implicated in its transmission.",
+      "Avoid ice unless it is made from safe water.",
+      "use safe water and raw materials.",
+      "Evaluate and manage risks from irrigation water."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Although large Salmonella outbreaks usually attract media attention, 60–80% of all salmonellosis cases are not recognized as part of a known outbreak and are classified as sporadic cases, or are not diagnosed as such at all.",
+      "National and regional surveillance systems on foodborne diseases are important means to know and follow the situation of these diseases and also to detect and respond to salmonellosis and other enteric infections in early stages, and thus to prevent them from further spreading."
+    ],
+    "treatment_awareness_only": [
+      "Treatment in severe cases is electrolyte replacement (to provide electrolytes, such as sodium, potassium and chloride ions, lost through vomiting and diarrhoea) and rehydration.",
+      "Routine antimicrobial therapy is not recommended for mild or moderate cases in healthy individuals. This is because antimicrobials may not completely eliminate the bacteria and may select for resistant strains, which subsequently can lead to the drug becoming ineffective. However, health risk groups such as infants, the elderly, and immunocompromised patients may need to receive antimicrobial therapy. Antimicrobials are also administered if the infection spreads from the intestine to other body parts. Because of the global increase of antimicrobial resistance, treatment guidelines should be reviewed on a regular basis taking into account..."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "who_syphilis_207",
+  "title": "Syphilis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+  "topic": "Syphilis",
+  "category": "Sexual Health / STI Awareness",
+  "last_updated": "29 May 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Syphilis is a preventable and curable bacterial sexually transmitted infection (STI). If untreated, it can cause serious health issues.\n\nMany people with syphilis do not have symptoms or do not notice them.\n\nSyphilis is transmitted during oral, vaginal and anal sex, in pregnancy and through blood transfusion. Syphilis in pregnancy may lead to stillbirth, newborn death and babies born with syphilis (congenital syphilis).\n\n- Most infections are asymptomatic or unrecognized.\n- WHO estimates that 8 million adults between 15 and 49 years old acquired syphilis in 2022.\n- Syphilis in pregnancy, when not treated, treated late or treated with the incorrect antibiotic, results in 50−80% of cases with adverse birth outcomes.\n- Key populations such as gay men and other men who have sex with men are disproportionately affected.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic."
+    ],
+    "symptoms": [
+      "Many people with syphilis do not notice any symptoms. They can also go unnoticed by healthcare providers. Untreated, syphilis lasts many years. Syphilis has several stages.",
+      "Primary syphilis (first stage):",
+      "usually lasts around 21 days",
+      "a round, painless, usually hard sore (chancre) appears on the genitals, anus or elsewhere",
+      "the chancre may not be noticed and will heal in 3–10 days",
+      "progresses to the second stage if untreated.",
+      "Syphilis can be transmitted through chancres if they are not properly covered by a condom during sexual contact.",
+      "Secondary syphilis:"
+    ],
+    "warning_signs": [
+      "Without treatment, the tertiary phase of syphilis may lead to several complications decades after infection. At this stage, syphilis can affect multiple organs and systems, including brain, nerves, eyes, liver, heart, blood vessels, bones and joints. Tertiary syphilis can also cause death."
+    ],
+    "risk_factors": [
+      "Syphilis is transmitted during oral, anal or vaginal sex through contact with infectious lesions, and also during pregnancy through the placenta. Transmission typically occurs during early stages of the disease, i.e., up to 2 years after infection."
+    ],
+    "prevention": [
+      "Syphilis is a preventable disease.",
+      "Using condoms consistently and correctly is the best way to prevent syphilis and many other STIs. Syphilis can also spread through contact with other areas of the body not covered by a condom, including genitals, anus and mouth.",
+      "People at higher risk of infection should be tested at least once a year.",
+      "Pregnant women should be tested for syphilis at the first prenatal care visit and treated right away if the test result is positive. Congenital syphilis can only be prevented by diagnosing and treating the mother with penicillin.",
+      "People diagnosed with syphilis should notify their sexual partners to prevent new infections."
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Syphilis diagnosis is based on the person’s clinical and sexual history, physical examination, laboratory testing and sometimes radiology, as symptoms are not common or noticeable.",
+      "Syphilis is caused by the bacterium Treponema pallidum . Laboratory tests for syphilis include direct detection of T. pallidum through a microscope or indirect methods such as blood tests. Rapid tests are also available and can provide results in minutes, facilitating immediate treatment initiation.",
+      "Identifying asymptomatic infection through laboratory or rapid tests and providing adequate treatment of positive cases will prevent further transmission and complications, as well as adverse pregnancy outcomes, including congenital syphilis."
+    ],
+    "treatment_awareness_only": [
+      "Syphilis is treatable and curable. People who suspect they may have syphilis should speak to their health-care provider.",
+      "The early stage of syphilis is treated with a benzathine penicillin (BPG) injection. BPG is the first line treatment for syphilis and the only WHO-recommended treatment for pregnant women with syphilis. As second line treatment, doctors may also use doxycycline, ceftriaxone or azithromycin, which are antibiotic medicines.",
+      "BPG is also used to treat later stages of syphilis, but more doses are required. Doses are usually given once per week for three weeks, including when it is not possible to identify the stage of infection.",
+      "BPG is the only medicine that can prevent syphilis from being passed from a mother to baby. Babies born with syphilis (congenital syphilis), or babies whose mother had untreated syphilis, need to be treated right away to avoid serious health problems."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

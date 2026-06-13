@@ -1,0 +1,65 @@
+{
+  "doc_id": "who_post_covid_19_condition_long_covid_162",
+  "title": "Post COVID-19 condition (long COVID)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)",
+  "topic": "Post COVID-19 condition (long COVID)",
+  "category": "Public Health Awareness",
+  "last_updated": "26 February 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "COVID-19 can lead to serious long-term effects, known as post COVID-19 condition (PCC). It is also commonly referred to as long COVID. Post COVID-19 condition is characterized by a range of symptoms which usually start within 3 months of the initial COVID-19 illness and last at least 2 months. PCC can affect a person’s ability to perform daily activities such as work or household chores and restrict social participation.\n\n- Most patients with COVID-19 recover fully, but some develop post COVID-19 condition with medium- to long-term effects on one or more body systems.\n- Approximately 6 in every 100 people who have COVID-19 develop post COVID-19 condition.\n- While data are limited, the chance of developing post COVID-19 condition appears to be lower now than earlier in the pandemic. However, the virus is still circulating widely, and every new infection is associated with a risk.\n- Fatigue, breathlessness, muscle or joint pain, and impaired sleep are common symptoms of post-COVID-19 condition.\n- WHO is working to develop clinical practice guidelines for management of post COVID-19 condition.\n- Health-care providers can guide patients on self-management of symptoms and offer medication for symptom relief or referral for rehabilitation services as needed.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "COVID-19 can lead to serious long-term effects, known as post COVID-19 condition (PCC). It is also commonly referred to as long COVID. Post COVID-19 condition is characterized by a range of symptoms which usually start within 3 months of the initial COVID-19 illness and last at least 2 months. PCC can affect a person’s ability to perform daily activities such as work or household chores and restrict social participation.",
+      "Anyone who was infected with SARS-CoV-2 can develop post COVID-19 condition. Some people have higher risk. These include women, older adults, smokers, those who are overweight or obese or have pre-existing chronic health problems. Repeated infections and severe COVID-19 needing hospitalization or ICU admission also increase the risk (4) . We see higher numbers of post COVID-19 condition sufferers among people with disabilities, and where health disparity and access to health care is a problem.",
+      "Research is ongoing to better understand what causes post COVID-19 condition. Almost any organ can be affected, including the heart and blood vessels, lungs, nervous system, gut and endocrine (hormone) system. In those with post COVID-19 condition, researchers have found evidence of persistence of SARS-CoV2 virus in the body, of altered immune responses and autoimmunity, and of formation of microscopic blood clots (micro-thrombosis), among other problems.",
+      "Impaired sleep, depression and anxiety also occur (5) . These symptoms might persist from their initial illness or develop after their recovery. Symptoms can be mild to severely debilitating, and affect someone’s capacity to work, perform their daily activities or do exercise."
+    ],
+    "symptoms": [
+      "Over 200 different symptoms have been reported by people with post COVID-19 condition. Common symptoms include:",
+      "aches and pains in muscles or joints",
+      "feeling breathless",
+      "difficulty in thinking or concentrating",
+      "alterations in taste.",
+      "Impaired sleep, depression and anxiety also occur (5) . These symptoms might persist from their initial illness or develop after their recovery. Symptoms can be mild to severely debilitating, and affect someone’s capacity to work, perform their daily activities or do exercise.",
+      "With increasing understanding of post COVID-19 condition, some clinical patterns have become clearer. There are symptoms which tend to occur together, for example dizziness, palpitations, light-headedness on standing, and exercise intolerance (related to postural orthostatic tachycardia syndrome), symptoms of post exertional malaise, or myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).",
+      "Other medical conditions can occur more often than usual after having COVID-19. These include kidney impairment, heart disease, stroke, diabetes and mental health disorders, among other conditions."
+    ],
+    "warning_signs": [
+      "Anyone who was infected with SARS-CoV-2 can develop post COVID-19 condition. Some people have higher risk. These include women, older adults, smokers, those who are overweight or obese or have pre-existing chronic health problems. Repeated infections and severe COVID-19 needing hospitalization or ICU admission also increase the risk (4) . We see higher numbers of post COVID-19 condition sufferers among people with disabilities, and where health disparity and access to health care is a problem.",
+      "Impaired sleep, depression and anxiety also occur (5) . These symptoms might persist from their initial illness or develop after their recovery. Symptoms can be mild to severely debilitating, and affect someone’s capacity to work, perform their daily activities or do exercise."
+    ],
+    "risk_factors": [
+      "Millions of people have been affected with post COVID-19 condition since the beginning of the pandemic (1) . Global estimates indicate that 6 in 100 people with COVID-19 develop post COVID-19 condition. Estimates largely come from people who suffered COVID-19 early in the pandemic (in the first two years), and there is a very large variation in estimates.",
+      "More recent research shows the chances of developing post COVID-19 condition have reduced, but these data are limited and mostly from high-income countries (3) . However, the SARS-CoV-2 virus, the virus that causes COVID-19 is widely circulating and post COVID-19 condition remains a substantial threat and ongoing challenge to global public health.",
+      "Anyone who was infected with SARS-CoV-2 can develop post COVID-19 condition. Some people have higher risk. These include women, older adults, smokers, those who are overweight or obese or have pre-existing chronic health problems. Repeated infections and severe COVID-19 needing hospitalization or ICU admission also increase the risk (4) . We see higher numbers of post COVID-19 condition sufferers among people with disabilities, and where health disparity and access to health care is a problem.",
+      "Research is ongoing to better understand what causes post COVID-19 condition. Almost any organ can be affected, including the heart and blood vessels, lungs, nervous system, gut and endocrine (hormone) system. In those with post COVID-19 condition, researchers have found evidence of persistence of SARS-CoV2 virus in the body, of altered immune responses and autoimmunity, and of formation of microscopic blood clots (micro-thrombosis), among other problems."
+    ],
+    "prevention": [
+      "People can be reinfected with SARS-CoV-2 multiple times. Each time, they have a risk of developing post COVID-19 condition. Therefore, risk reduction with preventive measures such as the use of masks, personal hygiene and ventilation in high-risk situations continues to be important. Receiving two doses of vaccination appears to reduce the likelihood chance of developing post COVID-19 condition."
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "People can be reinfected with SARS-CoV-2 multiple times. Each time, they have a risk of developing post COVID-19 condition. Therefore, risk reduction with preventive measures such as the use of masks, personal hygiene and ventilation in high-risk situations continues to be important. Receiving two doses of vaccination appears to reduce the likelihood chance of developing post COVID-19 condition."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "The individual needs of patients with post COVID-19 condition vary. At the present time, there remains limited research on treatments and a lack of large studies to understand the most effective treatments. However, doctors and their patients may make individualized treatment decisions based on knowledge from similar medical conditions. Health-care providers may offer medications for symptomatic relief as needed. Additionally, newly diagnosed medical problems occurring after COVID-19 frequently have well-established treatments, for example kidney disease or stroke. Many symptoms and functional impairment can be managed effectively by...",
+      "Education about the importance of quality rest and sleep and skills training on energy conservation techniques can help patients manage their symptoms better. Health-care providers can discuss with patients about self-management strategies to respond promptly to a flare-up or relapse, such as identifying possible triggers, temporarily reducing activity levels, monitoring symptoms over time, and not returning to usual activity levels until the flare-up has resolved. Use of assistive devices and environmental modifications at work and home may be needed in some instances."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

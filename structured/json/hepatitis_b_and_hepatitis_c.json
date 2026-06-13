@@ -1,0 +1,112 @@
+{
+  "doc_id": "who_hepatitis_b_and_hepatitis_c_088",
+  "title": "Hepatitis B and Hepatitis C",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
+  "topic": "Hepatitis B and Hepatitis C",
+  "category": "Communicable / Infectious Disease / Liver Disease",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Hepatitis means inflammation of the liver. Viral hepatitis — caused by hepatitis viruses A, B, C, D, and E — is a major global health concern. Hepatitis B and C are the most serious, causing chronic liver disease, cirrhosis, and liver cancer. Hepatitis B is vaccine-preventable. Hepatitis C is now curable. Together, they cause 1.1 million deaths per year globally.\n\nQ: Is Hepatitis B curable?\nA: Not currently curable, but manageable. Antiviral treatment keeps the virus suppressed and prevents liver damage. With treatment, people with Hepatitis B can live normal lives.\n\nQ: Is Hepatitis C curable?\nA: Yes! DAA drugs cure Hepatitis C in 8–12 weeks with over 95% success rate. Free treatment is available at government hospitals in India under NVHCP.\n\nQ: If I was vaccinated for Hepatitis B, do I need a booster?\nA: The standard 3-dose course given in childhood provides long-lasting (likely lifelong) protection. Boosters are not routinely recommended for immunocompetent individuals.\n\nQ: Can I donate blood if I have Hepatitis B or C?\nA: No. You are permanently deferred from blood donation if positive for Hepatitis B or C.\n\nQ: Can Hepatitis B spread from eating at the same table or sharing utensils?\nA: No. Hepatitis B does not spread through food, water, shared utensils, or casual contact. It spreads through blood and bodily fluids only.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for awareness only. Testing, diagnosis, and treatment of hepatitis must be done under a doctor's supervision. Free services are available at government hospitals under NVHCP.",
+    "types": [
+      "Key facts:",
+      "Hepatitis B (HBV) affects approximately 296 million people globally.",
+      "India has approximately 40 million people with chronic Hepatitis B.",
+      "Hepatitis B causes liver cirrhosis and hepatocellular carcinoma (liver cancer).",
+      "Hepatitis B vaccine is safe, effective, and FREE under India's Universal Immunisation Programme.",
+      "Effective treatment can suppress the virus and prevent liver damage.",
+      "How it spreads:",
+      "Sexual contact with an infected person (unprotected)",
+      "Sharing needles, syringes, or other drug-injection equipment",
+      "Mother to child during childbirth (perinatal transmission) — the most common route in Asia",
+      "Unsafe medical or dental procedures with contaminated instruments",
+      "Blood transfusion (now rare — blood is screened in India)",
+      "Sharing razors or toothbrushes with infected person",
+      "Does NOT spread through:",
+      "Hugging, kissing, sharing food/water, coughing/sneezing, mosquito bites",
+      "Symptoms:",
+      "Most people with acute Hepatitis B have mild or no symptoms.",
+      "Acute symptoms (if present): fatigue, nausea, loss of appetite, yellowing of eyes/skin (jaundice), dark urine, abdominal pain.",
+      "Chronic Hepatitis B: Often silent for years or decades. Symptoms appear only when liver is severely damaged.",
+      "Chronic infection can lead to: cirrhosis (liver scarring), liver failure, liver cancer.",
+      "Who is at risk for chronic infection:",
+      "Infants infected at birth: 90% develop chronic infection.",
+      "Children infected 1–5 years: 25–50% develop chronic infection.",
+      "Adults infected: Only 5–10% develop chronic infection.",
+      "→ This is why vaccinating infants at birth is critical.",
+      "Prevention:",
+      "Hepatitis B vaccine: 3-dose series. FREE at birth under India's UIP (0-6-14 weeks schedule).",
+      "Adults not vaccinated: 3-dose vaccine available at government hospitals.",
+      "Use condoms during sexual contact.",
+      "Never share needles, syringes, razors, or toothbrushes.",
+      "Ensure medical/dental instruments are properly sterilised.",
+      "Pregnant women should be tested — if positive, baby receives HBIG (Hepatitis B Immunoglobulin) at birth.",
+      "Diagnosis and treatment:",
+      "HBsAg blood test (Hepatitis B surface antigen) detects infection.",
+      "HBV DNA test measures viral load.",
+      "Liver function tests and ultrasound assess liver health.",
+      "Treatment: Antiviral medications (tenofovir, entecavir) — suppress virus, reduce liver damage.",
+      "Treatment available at government hospitals; free for eligible patients under NVHCP.",
+      "Key facts:",
+      "Hepatitis C (HCV) affects approximately 50 million people globally.",
+      "India has approximately 6–12 million people with HCV infection.",
+      "70–80% of people with acute HCV develop chronic infection.",
+      "Hepatitis C is now CURABLE with direct-acting antivirals (DAAs) in 8–12 weeks (95%+ cure rate).",
+      "There is currently no vaccine for Hepatitis C.",
+      "How it spreads:",
+      "Sharing needles and equipment for injecting drugs (most common route globally)",
+      "Unsafe medical/dental/tattoo/piercing procedures with contaminated instruments",
+      "Blood transfusions before blood screening was implemented",
+      "Mother to child (less common than HBV)",
+      "Sexual contact (less common than HBV)",
+      "Symptoms:",
+      "80% of people with acute Hepatitis C have NO symptoms.",
+      "Chronic HCV infection is often called the \"silent epidemic\" — most people are unaware.",
+      "When symptoms occur: fatigue, nausea, jaundice (yellowing of skin/eyes).",
+      "Long-term effects: cirrhosis, liver failure, liver cancer.",
+      "Diagnosis and treatment:",
+      "Anti-HCV antibody test: Initial screening test.",
+      "HCV RNA PCR test: Confirms active infection.",
+      "Cure: Direct-acting antivirals (DAAs like sofosbuvir/daclatasvir) — 8–12 week course, 95%+ cure rate.",
+      "Free treatment available in India: National Viral Hepatitis Control Programme (NVHCP) provides free DAA treatment at government hospitals.",
+      "Find nearest NVHCP centre: mohfw.gov.in",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "India's NVHCP aims to eliminate viral hepatitis by 2030 (Sustainable Development Goal).",
+      "Free testing for Hepatitis B and C at government hospitals.",
+      "Free treatment for Hepatitis C with DAA drugs (cure rate >95%).",
+      "Free Hepatitis B treatment for eligible patients.",
+      "Call 1800-11-0123 (health helpline) for NVHCP information.",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

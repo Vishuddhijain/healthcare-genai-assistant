@@ -1,0 +1,109 @@
+{
+  "doc_id": "who_rotavirus_infection_183",
+  "title": "Rotavirus Infection",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/rotavirus",
+  "topic": "Rotavirus Infection",
+  "category": "Communicable Disease / Vaccine-Preventable Disease / Child Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Rotavirus is the leading cause of severe diarrhoeal disease in infants and young children worldwide. It causes inflammation of the stomach and intestines (gastroenteritis), leading to severe watery diarrhoea, vomiting, and fever, which can quickly result in dehydration — especially dangerous in young children. Rotavirus is highly contagious but vaccine-preventable. The Rotavirus vaccine is part of India's Universal Immunisation Programme (UIP), significantly reducing severe diarrhoea-related hospitalisations and deaths in children.\n\n- Rotavirus is the most common cause of severe diarrhoea in children under 5 years globally.\n- Nearly all children worldwide are infected with rotavirus at least once by age 5, but vaccination prevents severe disease.\n- Before vaccine introduction, rotavirus caused a significant proportion of diarrhoea-related deaths in children under 5 in India.\n- Rotavirus vaccine was introduced into India's UIP in 2016 and has been progressively expanded to cover the entire country.\n- Rotavirus spreads very easily — even a tiny amount of virus can cause infection, and it can survive on surfaces for days.\n- Diarrhoeal disease remains one of the leading causes of death in children under 5 in India — rotavirus vaccination is a key prevention tool alongside ORS, zinc, and improved sanitation.\n\nQ: If my child is vaccinated, can they still get rotavirus diarrhoea?\nA: Yes, vaccination significantly reduces the risk of SEVERE rotavirus disease and hospitalisation, but it doesn't provide 100% protection against all diarrhoea. Vaccinated children who do get rotavirus typically have much milder illness.\n\nQ: Is rotavirus the same as \"food poisoning\"?\nA: No. Rotavirus is a specific virus causing gastroenteritis, distinct from bacterial food poisoning (e.g., from contaminated food with bacteria like Salmonella). However, both cause diarrhoea and vomiting, and ORS is important for both.\n\nQ: Should I stop breastfeeding if my baby has diarrhoea?\nA: No — continue breastfeeding. Breast milk provides hydration, nutrition, and some protective factors. Stopping feeding can worsen malnutrition and dehydration. Offer ORS in addition to continued feeding as advised by a healthcare provider.\n\nQ: How long does rotavirus diarrhoea last?\nA: Typically 3-8 days, though it can vary. The main concern during this time is preventing dehydration through ORS, continued feeding, and zinc supplementation, and seeking care if warning signs of dehydration develop.\n\nQ: Can adults get rotavirus?\nA: Yes, though it's much more common and severe in young children. Adults, especially caregivers of infected children, can get milder rotavirus infections. Good hand hygiene helps reduce household spread.\n\n--- IMPORTANT SAFETY NOTE ---\nRotavirus diarrhoea can cause life-threatening dehydration quickly in young children, but it is preventable through vaccination (free under India's UIP) and manageable with ORS and zinc. Watch for signs of dehydration and seek immediate medical care if they appear. Never withhold feeding from a child with diarrhoea, and never give antibiotics for viral diarrhoea without medical advice. ORS and zinc are available free at government health facilities and through ASHA workers.",
+    "types": [
+      "Rotavirus has multiple strains (genotypes), with G1, G2, G3, G4, G9, and G12 (in combination with various P types) being among the most common circulating globally and in India",
+      "Vaccines provide broad protection across multiple strains, though strain diversity is monitored through surveillance"
+    ],
+    "symptoms": [
+      "Onset: Usually 1-3 days after exposure",
+      "Severe, watery diarrhoea (often the most prominent symptom) — can occur many times per day",
+      "Vomiting (often precedes or accompanies diarrhoea)",
+      "Fever",
+      "Abdominal pain/cramping",
+      "Loss of appetite",
+      "Duration: Typically 3-8 days, though can be longer in young infants or immunocompromised children",
+      "KEY CONCERN: Rapid dehydration due to fluid loss from diarrhoea and vomiting — this is what makes rotavirus dangerous, not the infection itself"
+    ],
+    "warning_signs": [
+      "In infants and young children, watch for signs of dehydration:",
+      "Decreased urination (fewer wet diapers, dark yellow urine)",
+      "Dry mouth and tongue",
+      "No tears when crying",
+      "Sunken eyes",
+      "Sunken soft spot (fontanelle) in infants",
+      "Lethargy, unusual sleepiness, or irritability",
+      "Skin that doesn't bounce back quickly when gently pinched (poor skin turgor)",
+      "Rapid breathing or heart rate",
+      "Cold hands/feet",
+      "SEVERE DEHYDRATION = MEDICAL EMERGENCY:",
+      "Very lethargic or unconscious",
+      "Unable to drink or keep fluids down",
+      "Sunken eyes and very dry mouth",
+      "No urination for many hours",
+      "Cold extremities with weak/rapid pulse",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Children under 5 years, especially under 2 (highest risk of severe disease)",
+      "Unvaccinated children",
+      "Daycare/crowded settings (easy spread among young children)",
+      "Malnutrition (worsens outcomes of diarrhoeal episodes)",
+      "Lack of access to clean water and sanitation",
+      "Winter/cooler months: Rotavirus often shows seasonal peaks (varies by region in India)",
+      "Faecal-oral route: Primary mode — virus from an infected person's stool can contaminate hands, surfaces, food, and water",
+      "Highly contagious: Very small amounts of virus can cause infection",
+      "Can survive on surfaces and hands for extended periods, and is relatively resistant to common hand sanitisers (soap and water washing is more effective)",
+      "Contaminated toys, surfaces in daycare/healthcare settings are common transmission points"
+    ],
+    "prevention": [
+      "Vaccination (most effective prevention):",
+      "Rotavirus vaccine: Oral vaccine, part of India's UIP",
+      "Given in early infancy (before 6 months for first dose, per schedule) — significantly reduces severe rotavirus diarrhoea and related hospitalisations",
+      "Hygiene measures (reduce spread, though vaccination remains most effective since virus is hard to eliminate by hygiene alone):",
+      "Handwashing with soap, especially after diaper changes and before food preparation",
+      "Proper disposal of diapers and faecal matter",
+      "Cleaning and disinfecting surfaces, especially in childcare settings",
+      "Safe drinking water and food hygiene",
+      "Continued breastfeeding:",
+      "Breastfeeding provides some protective benefits and helps maintain hydration/nutrition during illness"
+    ],
+    "environmental_control": [
+      "Improved water, sanitation, and hygiene (WASH) reduces overall diarrhoeal disease burden, complementing vaccination",
+      "Safe disposal of child faeces (use of toilets, not open defecation) — Swachh Bharat Mission contributes to reducing transmission",
+      "Clean drinking water sources (Jal Jeevan Mission)"
+    ],
+    "vaccination": [
+      "Rotavirus vaccine (oral): Given at 6, 10, and 14 weeks of age as part of UIP (some states use a 2-dose schedule with different vaccine products; follow your local health worker's guidance)",
+      "FREE at all government health centres",
+      "Safe and effective — significantly reduces severe rotavirus gastroenteritis and related hospitalisations",
+      "Even vaccinated children can occasionally get rotavirus diarrhoea, but illness is typically much milder",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Usually clinical diagnosis based on symptoms (acute watery diarrhoea and vomiting in a young child), especially during known rotavirus season",
+      "Stool antigen tests: Can confirm rotavirus infection, available at some laboratories/hospitals",
+      "Diagnosis primarily guides public health surveillance; clinical management focuses on treating dehydration regardless of confirmed cause"
+    ],
+    "treatment_awareness_only": [
+      "Oral Rehydration Solution (ORS): The cornerstone of treatment — replaces fluids and electrolytes lost through diarrhoea/vomiting; available FREE at government health facilities and through ASHA workers",
+      "Zinc supplementation: Recommended for children with diarrhoea (10-14 days) — reduces duration and severity of diarrhoea episodes and future risk",
+      "Continued feeding: Continue breastfeeding/age-appropriate feeding during and after illness — do NOT withhold food",
+      "IV fluids: For severe dehydration requiring hospitalisation",
+      "Antibiotics are NOT effective against rotavirus (it is a virus) — and are not recommended for viral diarrhoea",
+      "Anti-diarrhoeal medications are generally NOT recommended for young children with acute diarrhoea"
+    ],
+    "when_to_see_a_doctor": [
+      "Any signs of dehydration listed above",
+      "Diarrhoea with blood (suggests a different cause — bacterial dysentery — needs evaluation)",
+      "High fever along with diarrhoea",
+      "Vomiting that prevents the child from keeping down ORS or fluids",
+      "Diarrhoea lasting more than a few days without improvement",
+      "Any infant under 6 months with diarrhoea — lower threshold for seeking care due to higher dehydration risk"
+    ],
+    "india_specific_context": [
+      "Rotavirus vaccine: Introduced into India's UIP starting 2016, now available nationwide — FREE at government health centres",
+      "ORS and zinc: Distributed through ASHA workers and Anganwadi centres as part of diarrhoea management; \"ORS-Zinc corner\" initiatives in many states",
+      "Intensified Diarrhoea Control Fortnight (IDCF): Annual government campaign (usually during summer/monsoon) to promote ORS and zinc use and reduce diarrhoea deaths",
+      "Swachh Bharat Mission and Jal Jeevan Mission: Address sanitation and water access, reducing overall diarrhoeal disease burden including rotavirus transmission"
+    ]
+  }
+}

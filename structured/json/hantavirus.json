@@ -1,0 +1,77 @@
+{
+  "doc_id": "who_hantavirus_082",
+  "title": "Hantavirus",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/hantavirus",
+  "topic": "Hantavirus",
+  "category": "Communicable Disease",
+  "last_updated": "6 May 2026",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Hantaviruses belong to the family Hantaviridae , within the order Bunyavirales . Each hantavirus is typically associated with a specific rodent reservoir species, in which the virus causes long‑term infection without apparent illness.\n\nAlthough many hantavirus species have been identified worldwide, only a limited number are known to cause human disease.\n\nHantaviruses present in North, Central and South America are known to cause HCPS. The Andes virus is part of this family and is known to cause limited human-to-human transmission among close and prolonged contacts, primarily in Argentina and Chile.\n\n- Hantaviruses are a group of viruses carried by rodents that can cause severe disease in humans.\n- People usually get infected through contact with infected rodents or their urine, droppings or saliva.\n- Infection with hantaviruses can cause a range of illnesses, including severe disease and death.\n- In the Americas, hantaviruses can cause hantavirus cardiopulmonary syndrome (HCPS), a severe respiratory illness, with a case fatality rate up to 50%.\n- Andes virus, found in South America, is a currently known hantavirus for which limited human‑to‑human transmission among contacts has been documented.\n- In Europe and Asia, hantaviruses cause haemorrhagic fever with renal syndrome (HFRS).\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Hantaviruses belong to the family Hantaviridae , within the order Bunyavirales . Each hantavirus is typically associated with a specific rodent reservoir species, in which the virus causes long‑term infection without apparent illness.",
+      "Although many hantavirus species have been identified worldwide, only a limited number are known to cause human disease.",
+      "Hantaviruses present in North, Central and South America are known to cause HCPS. The Andes virus is part of this family and is known to cause limited human-to-human transmission among close and prolonged contacts, primarily in Argentina and Chile.",
+      "Hantaviruses found in Europe and Asia are known to cause haemorrhagic fever with HFRS. Human-to-human transmission has not been documented in this part of the world."
+    ],
+    "symptoms": [
+      "In humans, symptoms usually begin between one and eight weeks after exposure, depending on the type of virus, and typically include fever, headache, muscle aches and gastrointestinal symptoms such as abdominal pain, nausea or vomiting.",
+      "In HCPS, the disease may progress rapidly to cough, shortness of breath, accumulation of fluid in the lungs and shock.",
+      "In HFRS, later stages may include low blood pressure, bleeding disorders and kidney failure."
+    ],
+    "warning_signs": [
+      "Hantaviruses are a group of viruses carried by rodents that can cause severe disease in humans.",
+      "Infection with hantaviruses can cause a range of illnesses, including severe disease and death.",
+      "In the Americas, hantaviruses can cause hantavirus cardiopulmonary syndrome (HCPS), a severe respiratory illness, with a case fatality rate up to 50%.",
+      "While there is no specific treatment that cures hantavirus diseases, early supportive medical care is key to improve survival and focuses on close clinical monitoring and management of respiratory, cardiac and kidney complications. Prevention depends largely on reducing contacts between people and infected rodents.",
+      "In HCPS, the disease may progress rapidly to cough, shortness of breath, accumulation of fluid in the lungs and shock.",
+      "In HFRS, later stages may include low blood pressure, bleeding disorders and kidney failure."
+    ],
+    "risk_factors": [
+      "Transmission of hantaviruses to humans occurs from contact with contaminated urine, droppings or saliva of infected rodents. Infection may also occur, although less commonly, through rodent bites. Activities that involve contact with rodents such as cleaning enclosed or poorly ventilated spaces, farming, forestry work and sleeping in rodent-infested dwellings increase exposure risk.",
+      "To date, human-to-human transmission has been documented only for Andes virus in the Americas and remains uncommon. When it occurs, transmission between people has been associated with close and prolonged contact, particularly among household members or intimate partners, and appears most likely during the early phase of illness, when the virus is more transmissible."
+    ],
+    "prevention": [
+      "Preventing hantavirus infection depends primarily on reducing contacts between people and rodents. Effective measures include:",
+      "keeping homes and workplaces clean",
+      "sealing openings that allow rodents to enter buildings",
+      "storing food securely",
+      "using safe cleaning practices in areas contaminated by rodents",
+      "avoiding dry sweeping or vacuuming rodent droppings",
+      "dampening of contaminated areas before cleaning",
+      "strengthening hand hygiene practices."
+    ],
+    "environmental_control": [
+      "Preventing hantavirus infection depends primarily on reducing contacts between people and rodents. Effective measures include:",
+      "keeping homes and workplaces clean",
+      "sealing openings that allow rodents to enter buildings",
+      "storing food securely",
+      "using safe cleaning practices in areas contaminated by rodents",
+      "avoiding dry sweeping or vacuuming rodent droppings"
+    ],
+    "vaccination": [
+      "There is no licenced specific antiviral treatment or vaccine for hantavirus infection. Care is supportive and focuses on close clinical monitoring and management of respiratory, cardiac and kidney complications. Early access to intensive care, when clinically indicated, improves outcomes, particularly for patients with hantavirus cardiopulmonary syndrome."
+    ],
+    "diagnosis": [
+      "Early diagnosis of hantavirus infection can be challenging because early symptoms are common with other febrile or respiratory illnesses, such as influenza, COVID-19, viral pneumonia, leptospirosis, dengue or sepsis. A careful patient history is therefore essential, with particular attention to possible rodent exposure, occupational and environmental risks, travel history, and contact with known cases in areas where hantaviruses are present.",
+      "Laboratory confirmation relies on serological testing to detect hantavirus-specific IgM antibodies or rising IgG titres, as well as molecular methods such as reverse transcription polymerase chain reaction (RT-PCR) during the acute phase of illness, when viral RNA may be detectable in blood.",
+      "Samples collected from patients are a biohazard risk; laboratory testing on non-inactivated samples should be conducted under maximum biological containment conditions. All non-inactivated biological specimens should be packaged using the triple packaging system when transported nationally and internationally."
+    ],
+    "treatment_awareness_only": [
+      "There is no licenced specific antiviral treatment or vaccine for hantavirus infection. Care is supportive and focuses on close clinical monitoring and management of respiratory, cardiac and kidney complications. Early access to intensive care, when clinically indicated, improves outcomes, particularly for patients with hantavirus cardiopulmonary syndrome.",
+      "Available evidence indicates that the risk of health-care associated transmission of hantavirus, including Andes virus, is very low when appropriate infection prevention and control measures are applied. In health-care environments, standard precautions should be applied for all patients, including hand hygiene, environmental cleaning and safe handling of blood and body fluids.",
+      "For suspected or confirmed hantavirus infection, use of standard precautions combined with transmission-based precautions during provision of care is advised. For aerosol-generating procedures, airborne precautions should be used. Early recognition of suspected cases, prompt isolation, and consistent adherence to recommended infection prevention and control measures remain essential to protect health-care personnel."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

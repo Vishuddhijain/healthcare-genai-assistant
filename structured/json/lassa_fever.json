@@ -1,0 +1,70 @@
+{
+  "doc_id": "who_lassa_fever_105",
+  "title": "Lassa Fever",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/lassa-fever",
+  "topic": "Lassa Fever",
+  "category": "Communicable Disease (Viral Haemorrhagic Fever / Zoonotic)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Lassa fever is an acute viral haemorrhagic fever caused by Lassa virus (an arenavirus), endemic in West Africa (Nigeria, Sierra Leone, Liberia, Guinea). The natural reservoir is the Mastomys (multimammate) rat. WHO estimates 100,000–300,000 infections and ~5,000 deaths annually in West Africa. Not endemic in India, but global health security frameworks require preparedness for imported cases.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Lassa fever is not endemic in India but travel-related importation risk exists. Declare travel history to healthcare providers. Consult a qualified healthcare provider for any suspected exposure.",
+    "types": [
+      "Mild/asymptomatic infection (~80% of cases)",
+      "Severe Lassa fever with haemorrhagic and neurological complications (~20% of cases)"
+    ],
+    "symptoms": [
+      "Gradual onset fever, fatigue, malaise, headache",
+      "Sore throat, cough, nausea, vomiting, diarrhoea, abdominal pain",
+      "Chest and back pain, facial oedema",
+      "Bleeding from gums, nose, eyes (severe cases)",
+      "Tremors, encephalitis, altered consciousness",
+      "Hearing loss in 25% of survivors (often permanent)"
+    ],
+    "warning_signs": [
+      "Bleeding from any mucosal surface with fever",
+      "Confusion or seizures with fever",
+      "Fever after travel to West Africa within last 21 days — report immediately"
+    ],
+    "risk_factors": [
+      "Contact with food/items contaminated by rat urine/faeces",
+      "Inhalation of aerosolised rat excreta",
+      "Person-to-person via blood/body fluids (healthcare settings — major risk)",
+      "Travel to/residence in endemic West African countries"
+    ],
+    "prevention": [
+      "Store food in rodent-proof containers; rodent control",
+      "Avoid contact with rodents/excreta",
+      "Strict infection prevention and control (PPE) in healthcare settings for suspected cases",
+      "Travellers: avoid contact with rodents in endemic areas"
+    ],
+    "environmental_control": [
+      "Community sanitation to reduce Mastomys rat populations",
+      "Proper waste disposal away from living areas",
+      "Rodent-proofing of homes (seal gaps, store grains safely)"
+    ],
+    "vaccination": [
+      "No licensed vaccine currently available; candidates in clinical trials"
+    ],
+    "diagnosis": [
+      "RT-PCR (blood/urine) — reference labs only, BSL-4 precautions",
+      "ELISA for IgM/IgG antibodies",
+      "All suspect samples handled as Category A bioterrorism agents"
+    ],
+    "treatment_awareness_only": [
+      "Ribavirin (antiviral) — most effective if started within 6 days of illness; hospital/IV use only",
+      "Supportive care: IV fluids, dialysis if renal failure, management of bleeding",
+      "Strict isolation and barrier nursing",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Fever with bleeding after travel to West Africa within 21 days — seek immediate care, declare travel history",
+      "Healthcare workers exposed to suspected case — seek prophylaxis advice"
+    ],
+    "india_specific_context": [
+      "Not endemic in India; NCDC (ncdc.gov.in) and IDSP handle imported VHF cases",
+      "International Health Regulations (IHR 2005) require reporting of suspect imported cases",
+      "Report to NCDC Emergency Operations Centre: 011-23978046"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "doc_id": "who_obesity_and_lifestyle_diseases_142",
+  "title": "Obesity and Lifestyle Diseases",
+  "source_name": "WHO Fact Sheet + NHP India + ICMR",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+  "topic": "Obesity and Lifestyle Diseases",
+  "category": "Non-Communicable Disease (Metabolic / Lifestyle)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Obesity is a complex chronic condition defined by excessive body fat accumulation that poses a risk to health. India is the third most obese country in the world, with over 135 million obese individuals. India is undergoing a rapid \"nutrition transition\" — rising incomes, urbanisation, sedentary jobs, and ultra-processed food consumption have driven a dramatic increase in obesity alongside persistent undernutrition. Obesity is a major risk factor for heart disease, type 2 diabetes, certain cancers, hypertension, fatty liver disease, and sleep apnoea.\n\n- Overweight (BMI ≥ 23 kg/m² for Indians; global cut-off ≥ 25 kg/m²): Excess body weight for height\n- Obesity (BMI ≥ 25 kg/m² for Indians; global cut-off ≥ 30 kg/m²): Significant excess fat\n- NOTE: Indian and South Asian populations develop metabolic complications at lower BMI than Western populations — hence Indian-specific cut-offs are used\n- Central (abdominal) obesity: More dangerous metabolically; defined as waist circumference >90 cm in Indian men, >80 cm in Indian women\n- Body Mass Index (BMI) = weight (kg) ÷ height (m)²\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Obesity is a medical condition — not a personal failure. Do not pursue crash diets or extreme weight loss measures without medical supervision, as they can be harmful. Always consult a qualified healthcare provider or registered dietitian for personalised guidance.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Obesity itself:",
+      "Increased body weight and BMI (above thresholds)",
+      "Large waist circumference",
+      "Shortness of breath on mild exertion",
+      "Excessive sweating",
+      "Fatigue and low energy",
+      "Snoring or sleep disturbances",
+      "Joint pain (knees, hips, lower back)",
+      "Skin problems (skin folds, heat rash, fungal infections in skin folds)",
+      "Metabolic complications to watch for:",
+      "Polyuria, polydipsia, fatigue (diabetes)",
+      "Headaches, dizziness (hypertension)",
+      "Chest pain or palpitations (cardiovascular)",
+      "Fatigue, right upper abdominal discomfort (fatty liver)",
+      "Excessive daytime sleepiness, witnessed apnoea (sleep apnoea)",
+      "Irregular or absent periods, acne, facial hair (PCOS)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Obesity increases risk of and often co-exists with:",
+      "Type 2 Diabetes: Insulin resistance driven by excess adipose tissue (especially visceral/abdominal fat)",
+      "Hypertension (high blood pressure): Extra body mass increases cardiac workload",
+      "Cardiovascular disease: Atherosclerosis, heart attack, stroke",
+      "Non-Alcoholic Fatty Liver Disease (NAFLD): Excess fat deposited in liver; can progress to cirrhosis",
+      "Obstructive Sleep Apnoea (OSA): Excess tissue around airway causes breathing pauses during sleep",
+      "Dyslipidaemia: Elevated LDL, triglycerides; reduced HDL",
+      "Polycystic Ovary Syndrome (PCOS): Hormonal disorder affecting women; worsened by obesity",
+      "Certain cancers: Breast (post-menopausal), colon, endometrium, kidney, oesophageal",
+      "Osteoarthritis: Excess weight damages knee, hip, and lower back joints",
+      "Psychological impacts: Depression, anxiety, low self-esteem, social stigma",
+      "Dietary:",
+      "High consumption of ultra-processed foods (packaged snacks, instant noodles, fast food)",
+      "Excessive sugar-sweetened beverages (sodas, packaged juices, chai with excess sugar)",
+      "Large portion sizes",
+      "Eating out frequently",
+      "High consumption of refined carbohydrates (white rice, maida-based foods)",
+      "Activity:",
+      "Sedentary occupation (desk work, IT sector)",
+      "Screen time (TV, mobile, computer)",
+      "Lack of physical activity or structured exercise",
+      "Urban lifestyle with reduced incidental activity",
+      "Other factors:",
+      "Genetic predisposition",
+      "Hormonal conditions (hypothyroidism, Cushing's syndrome, PCOS)",
+      "Certain medications (steroids, antidepressants, antipsychotics)",
+      "Sleep deprivation (disrupts hunger hormones)",
+      "Stress (increases cortisol and comfort eating)",
+      "Childhood obesity (strong predictor of adult obesity)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Diet:",
+      "Eat a balanced diet: Plenty of vegetables, fruits, whole grains, legumes (dal, chana, rajma), lean protein",
+      "Reduce refined carbohydrates and added sugars",
+      "Limit ultra-processed and packaged foods",
+      "Reduce consumption of sugar-sweetened beverages; drink water",
+      "Control portion sizes — use smaller plates",
+      "Limit eating out; prefer home-cooked meals",
+      "Eat mindfully — slowly, without screens",
+      "Traditional Indian foods (ragi, jowar, bajra rotis; dal; sabzi) are generally healthier than highly processed alternatives",
+      "Physical Activity:",
+      "Adults: At least 150–300 minutes of moderate-intensity aerobic activity per week (brisk walking, cycling, swimming)",
+      "Muscle-strengthening activities (bodyweight, yoga, resistance training): 2 or more days per week",
+      "Reduce sedentary time: Take breaks from sitting every hour; walk when possible",
+      "Children: At least 60 minutes of moderate-to-vigorous activity daily",
+      "Behaviour and Lifestyle:",
+      "Sleep 7–9 hours per night",
+      "Manage stress (yoga, meditation, physical activity, social connection)",
+      "Set realistic weight loss goals (0.5–1 kg per week is sustainable)",
+      "Seek support from family, community, or a registered dietitian/healthcare provider",
+      "Medical Management (doctor supervised):",
+      "Dietary and physical activity counselling",
+      "Pharmacotherapy: Certain medications available for obesity management under medical supervision",
+      "Bariatric surgery: For severe obesity (BMI ≥32.5 kg/m² with metabolic disease in Indians) unresponsive to lifestyle changes — specialist decision",
+      "Simple, widely validated screening tool:",
+      "Waist circumference should be less than half of height",
+      "Example: Person 160 cm tall should have waist under 80 cm",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "BMI above 23 kg/m² (overweight) or 25 kg/m² (obese) — Indian cut-offs",
+      "Waist circumference above Indian cut-offs",
+      "Symptoms of diabetes, hypertension, or other associated conditions",
+      "Struggling to lose weight despite lifestyle changes",
+      "Irregular periods, hair loss, or acne in women (PCOS)",
+      "Excessive daytime sleepiness (sleep apnoea)",
+      "Family history of metabolic disease"
+    ],
+    "india_specific_context": [
+      "National Programme for NCD Prevention and Control (NPNCD): Free BMI/waist measurement and metabolic screening at government HWCs",
+      "Eat Right India campaign (FSSAI): fssai.gov.in/eat-right-india",
+      "Fit India Movement: fitindia.gov.in — promoting physical activity and lifestyle change",
+      "Food safety labelling: FSSAI mandates nutritional labelling on packaged foods; reading labels helps make healthier choices"
+    ]
+  }
+}

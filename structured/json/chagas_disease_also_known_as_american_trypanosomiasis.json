@@ -1,0 +1,76 @@
+{
+  "doc_id": "who_chagas_disease_also_known_as_american_trypanosomiasis_031",
+  "title": "Chagas disease (also known as American trypanosomiasis)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/chagas-disease-(american-trypanosomiasis)",
+  "topic": "Chagas disease (also known as American trypanosomiasis)",
+  "category": "Infectious Disease Awareness",
+  "last_updated": "8 April 2026",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Chagas disease is caused by the infection of a protozoan parasite ( Trypanosoma cruzi ). However, this condition is the result of a complex health problem typical of neglected tropical diseases and socially- and environmentally-determined diseases. A missed or late diagnosis with absent or incomplete treatment and follow-up can transform this infection into a life-threatening condition.\n\nApproximately 8 million people worldwide are estimated to be infected with T. cruzi , leading to more than 10 000 deaths every year, and more than 100 million people are considered at risk of infection. Although a condition of increasing global presence, Chagas disease is found mainly in endemic areas of 21 continental Latin American countries (1) , where transmission has been largely related to the presence of the insect vector. In the last years, congenital transmission became the main route for transmission worldside, with over 10 000 new cases annually.\n\nChagas disease is named after Carlos Chagas, a Brazilian physician and researcher who on 14 April 1909 diagnosed the disease in a person for the first time. Today, 14 April marks World Chagas Disease Day.\n\n- Refer to the WHO fact sheet for the latest global key facts and estimates.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Chagas disease is caused by the infection of a protozoan parasite ( Trypanosoma cruzi ). However, this condition is the result of a complex health problem typical of neglected tropical diseases and socially- and environmentally-determined diseases. A missed or late diagnosis with absent or incomplete treatment and follow-up can transform this infection into a life-threatening condition.",
+      "development of information, education and communication materials and activities, contextualized for the different scenarios and actors, and based on a One Health approach;",
+      "The medical care cost of patients with chronic cardiac, digestive, neurologic or mixed forms of the disease has been calculated to be >80% higher than the cost of spraying residual insecticide to control vectors and prevent infection.",
+      "National information systems are essential to monitor the number of acute and chronic cases and the active transmission routes. However, they are only in place in 6 out of the 44 countries that have reported cases so far."
+    ],
+    "symptoms": [
+      "Chagas disease presents in two phases. The initial acute phase lasts for about two months after infection. Although a high number of parasites can circulate in the blood, in most cases symptoms are absent or mild and non-specific (fever, headache, enlarged lymph glands, pallor, muscle pain, difficulty in breathing, swelling, and abdominal or chest pain). Much less frequently, people bitten by a triatomine bug show characteristic first visible signs, which can be either a skin lesion (chagoma) or a purplish swelling of the lids of one eye (Romaña’s sign).",
+      "During the chronic phase, the parasites are hidden mainly in the heart and digestive muscles. One to three decades after infection, up to a third of patients suffer from cardiac disorders and up to 1 in 10 suffer from digestive (typically enlargement of the oesophagus or colon), neurological or mixed alterations. In later years these patients may experience the damage to the nervous system and muscles of the heart and digestive system, leading to cardiac arrhythmias, progressive heart failure, and sudden death, among other clinical manifestations and complications."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "In Latin America, T. cruzi parasites have been mainly transmitted by contact with faeces/urine of infected blood-sucking triatomine bugs. These bugs typically live in the wall or roof cracks of homes and surrounding structures, such as chicken coops, pens and warehouses, in rural or suburban areas. Normally they hide during the day and become active at night when they feed on animal and human blood. They usually bite an exposed area of skin such as the face, and defecate or urinate close to the bite. The parasites enter the body when the person instinctively smears the bug’s dejections into the itching bite, other skin breaks, the eyes or...",
+      "T. cruzi can also be transmitted all over the world:",
+      "during pregnancy or childbirth;",
+      "through blood or blood product transfusion;",
+      "through transplants of some organs (such as heart or kidney); and",
+      "through laboratory accidents."
+    ],
+    "prevention": [
+      "The large number of triatomine bug species and wild animals (reservoirs) infected with T. cruzi throughout the Americas mean that the infection cannot be eradicated. Instead, the public health targets are elimination of the transmission to humans, early health-care access and life-long follow up of the infected people.",
+      "There is no vaccine to prevent Chagas disease. Vector control, reducing interaction between humans and vector insects, has been the most effective method of prevention in Latin America. Blood screening is necessary to prevent infection through congenital transmission, transfusion, and organ transplantation, and to increase detection and care of the affected population all over the world.",
+      "Depending on the geographical area, WHO recommends the following approaches to prevention and control:",
+      "development of information, education and communication materials and activities, contextualized for the different scenarios and actors, and based on a One Health approach;",
+      "screening of newborns and other children of infected mothers;",
+      "screening of blood donors;",
+      "testing of organ, tissue or cell donors and receivers;",
+      "early access to diagnosis, treatment and follow;"
+    ],
+    "environmental_control": [
+      "The large number of triatomine bug species and wild animals (reservoirs) infected with T. cruzi throughout the Americas mean that the infection cannot be eradicated. Instead, the public health targets are elimination of the transmission to humans, early health-care access and life-long follow up of the infected people.",
+      "There is no vaccine to prevent Chagas disease. Vector control, reducing interaction between humans and vector insects, has been the most effective method of prevention in Latin America. Blood screening is necessary to prevent infection through congenital transmission, transfusion, and organ transplantation, and to increase detection and care of the affected population all over the world.",
+      "Depending on the geographical area, WHO recommends the following approaches to prevention and control:",
+      "development of information, education and communication materials and activities, contextualized for the different scenarios and actors, and based on a One Health approach;",
+      "screening of newborns and other children of infected mothers;",
+      "screening of blood donors;"
+    ],
+    "vaccination": [
+      "There is no vaccine to prevent Chagas disease. Vector control, reducing interaction between humans and vector insects, has been the most effective method of prevention in Latin America. Blood screening is necessary to prevent infection through congenital transmission, transfusion, and organ transplantation, and to increase detection and care of the affected population all over the world."
+    ],
+    "diagnosis": [
+      "Chagas disease is caused by the infection of a protozoan parasite ( Trypanosoma cruzi ). However, this condition is the result of a complex health problem typical of neglected tropical diseases and socially- and environmentally-determined diseases. A missed or late diagnosis with absent or incomplete treatment and follow-up can transform this infection into a life-threatening condition.",
+      "Chagas disease is named after Carlos Chagas, a Brazilian physician and researcher who on 14 April 1909 diagnosed the disease in a person for the first time. Today, 14 April marks World Chagas Disease Day.",
+      "Chagas disease was once entirely confined to continental rural areas of the Americas. Due to socioenvironmental changes and increased population mobility, most infected people now live in urban settings, and the infection has been detected in 44 countries (including Canada, the United States of America, and many European and some Western Pacific, African and Eastern Mediterranean countries).",
+      "through laboratory accidents.",
+      "There is no vaccine to prevent Chagas disease. Vector control, reducing interaction between humans and vector insects, has been the most effective method of prevention in Latin America. Blood screening is necessary to prevent infection through congenital transmission, transfusion, and organ transplantation, and to increase detection and care of the affected population all over the world."
+    ],
+    "treatment_awareness_only": [
+      "Chagas disease can be treated with benznidazole or nifurtimox. Both medicines kill the parasite and are fully effective in curing the disease if given early, in the acute phase, including in case of congenital transmission. Their efficacy diminishes, however, the longer a person has been infected; also, adverse reactions are more frequent and potentially severe in older age. Treatment is also indicated for patients in whom infection has been reactivated (for example, due to immunosuppression), and during the early chronic phase, including for girls and women of childbearing age (before or after pregnancy) to prevent congenital transmission.",
+      "Adults with infection, especially those with no symptoms, should be offered treatment because antiparasitic medicines can also prevent or curb disease progression. In other cases, the potential benefits in preventing or delaying the development of Chagas disease should be weighed against the duration of treatment (up to 2 months) and possible adverse reactions (occurring in up to 40% of adults). Benznidazole and nifurtimox should not be administered to pregnant women or people with kidney or liver failure. Nifurtimox is also contraindicated for people with a background of neurological or psychiatric disorders. Additionally, life-lasting..."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

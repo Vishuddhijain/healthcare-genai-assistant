@@ -1,0 +1,55 @@
+{
+  "doc_id": "who_biodiversity_017",
+  "title": "Biodiversity",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/biodiversity",
+  "topic": "Biodiversity",
+  "category": "Environmental Health",
+  "last_updated": "18 February 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Biodiversity, the variability among living organisms from all sources, underpins all life on Earth. This includes diversity within species, between species and across ecosystems, representing the genetic makeup of plants, animals, microorganisms and the complexity of ecosystems.\n\nHealthy communities are sustained by well-functioning ecosystems, which provide critical services such as clean air, fresh water, natural medicines and food security. These ecosystems also regulate diseases and help stabilize the climate. For example, forests absorb over 2.6 billion tonnes of CO2 annually, contributing to climate regulation and reducing the incidence of diseases linked to pollution. However, biodiversity loss is accelerating at an unprecedented rate, with approximately 1 million species at risk of extinction, threatening these vital services and exacerbating public health risks globally.\n\n- More than 75% of global food crops rely on pollinators, contributing US$ 235–577 billion annually to global agricultural output.\n- Over 50% of modern medicines are derived from natural sources, including antibiotics from fungi and painkillers from plant compounds.\n- Forests store 80% of terrestrial biodiversity, absorbing approximately 2.6 billion tonnes of carbon dioxide annually, helping mitigate climate change.\n- Invasive alien species contribute to 60% of species extinctions, causing US$ 423 billion in global economic damage each year.\n- Healthy ecosystems provide 75% of global freshwater resources, with wetlands playing a key role in water purification. However, since 1970, 35% of wetlands have been lost.\n- Indigenous Peoples, representing an estimated 6% of the global population, are crucial stakeholders and rights holders in the conservation and sustainable management of biodiversity. They manage over 38 million square kilometres of land globally, which includes nearly 40% of all protected areas.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "WHO does not list separate types/forms for this topic in the extracted fact-sheet text, or types are not central to public awareness for this topic."
+    ],
+    "symptoms": [
+      "Over 50% of modern medicines are derived from natural sources, including antibiotics from fungi and painkillers from plant compounds."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Ecosystems such as forests and wetlands act as natural carbon sinks, absorbing CO2 and regulating global temperatures. The destruction of these ecosystems accelerates climate change , leading to increased heatwaves, floods, and other climate-related health risks, including heat-stress, malnutrition, and the spread of vector-borne diseases like malaria and dengue."
+    ],
+    "prevention": [
+      "Indigenous Peoples, representing an estimated 6% of the global population, are crucial stakeholders and rights holders in the conservation and sustainable management of biodiversity. They manage over 38 million square kilometres of land globally, which includes nearly 40% of all protected areas.",
+      "Biodiversity supports key ecosystem services like soil fertility, natural pest control, pollination and water regulation. Preserving biodiversity in agricultural landscapes promotes sustainable food systems capable of producing nutritious food with minimal environmental impact."
+    ],
+    "environmental_control": [
+      "Healthy ecosystems provide 75% of global freshwater resources, with wetlands playing a key role in water purification. However, since 1970, 35% of wetlands have been lost.",
+      "Biodiversity loss and ecosystem degradation are becoming major health concerns. When ecosystems are disrupted, services like clean air, water, and food can be affected. Additionally, we lose valuable natural resources – like plants and animals – that may hold untapped benefits for health and medicine.",
+      "Biodiversity supports key ecosystem services like soil fertility, natural pest control, pollination and water regulation. Preserving biodiversity in agricultural landscapes promotes sustainable food systems capable of producing nutritious food with minimal environmental impact."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Over 50% of modern medicines are derived from natural sources, including antibiotics from fungi and painkillers from plant compounds.",
+      "Significant medical and pharmacological discoveries are made through greater understanding of the Earth's biodiversity. Biological diversity of microorganisms, flora and fauna provides extensive benefits for biological, health, and pharmacological sciences. It is also the source of traditional and complementary medicines .",
+      "Biodiversity loss and ecosystem degradation are becoming major health concerns. When ecosystems are disrupted, services like clean air, water, and food can be affected. Additionally, we lose valuable natural resources – like plants and animals – that may hold untapped benefits for health and medicine."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "doc_id": "who_noncommunicable_diseases_ncds_overview_139",
+  "title": "Noncommunicable Diseases (NCDs) — Overview",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases",
+  "topic": "Noncommunicable Diseases (NCDs) — Overview",
+  "category": "Non-Communicable Disease / Preventive Health / Public Health Policy",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Noncommunicable diseases (NCDs), also called chronic diseases, are conditions that are not passed from person to person and tend to be of long duration. The four main types are cardiovascular diseases (heart attacks, stroke), cancers, chronic respiratory diseases (asthma, COPD), and diabetes. NCDs are driven by four shared modifiable risk factors: tobacco use, unhealthy diet, physical inactivity, and harmful use of alcohol. In India, NCDs now account for the majority of deaths — a major shift from a few decades ago when communicable diseases dominated. India's National Programme for Prevention and Control of NCDs (NP-NCD) provides free screening at government health centres.\n\n- NCDs kill 43 million people globally each year (74% of all deaths worldwide).\n- In India, NCDs account for approximately 66% of all deaths (ICMR-NCDIR estimates).\n- The four main NCDs are: cardiovascular diseases, cancers, chronic respiratory diseases, and diabetes.\n- 17 million NCD deaths globally occur in people under 70 (\"premature\" deaths); 86% of these are in low- and middle-income countries.\n- Four shared behavioural risk factors drive most NCDs: tobacco use, unhealthy diet, physical inactivity, harmful alcohol use.\n- Air pollution is now recognised as a major NCD risk factor.\n- Most NCDs are preventable and manageable through lifestyle changes and early detection.\n- India's Ayushman Bharat Health and Wellness Centres provide free NCD screening for hypertension, diabetes, and common cancers (oral, breast, cervical).\n\nQ: Are NCDs only a problem for older people?\nA: No. While risk increases with age, NCDs increasingly affect younger people due to lifestyle factors — early-onset diabetes and hypertension are rising in India among people in their 20s and 30s.\n\nQ: Can NCDs be reversed?\nA: Some conditions (like prediabetes, early hypertension, fatty liver) can be reversed or significantly improved with lifestyle changes. Others (like established diabetes or COPD) are managed rather than cured, but progression can be slowed significantly.\n\nQ: Where can I get free NCD screening in India?\nA: At Ayushman Bharat Health and Wellness Centres (AB-HWCs), available in most communities. Ask your local ASHA worker or visit the nearest PHC/sub-centre for free blood pressure, blood sugar, and cancer screening.\n\nQ: Why are NCDs called the \"silent epidemic\"?\nA: Because conditions like hypertension, diabetes, and early-stage cancers often have no symptoms for years while causing internal damage. Regular screening is the only way to catch them early.\n\n--- IMPORTANT SAFETY NOTE ---\nNCDs are largely preventable through lifestyle changes and manageable through early detection and consistent treatment. This file is for general awareness. For diagnosis, treatment plans, or medication adjustments, consult a qualified doctor. Free screening and essential medicines for hypertension and diabetes are available at Ayushman Bharat Health and Wellness Centres across India.",
+    "types": [
+      "Cardiovascular diseases (CVDs): Heart attacks, stroke, hypertension, heart failure — leading cause of NCD deaths globally and in India",
+      "Cancers: Oral, breast, cervical, lung, colorectal, and others",
+      "Chronic respiratory diseases: Asthma, COPD",
+      "Diabetes: Type 1, Type 2, gestational",
+      "Other major NCDs: Chronic kidney disease, mental health disorders, musculoskeletal conditions (osteoarthritis, osteoporosis), neurological conditions (dementia, epilepsy)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Because NCDs are often \"silent\" for years, regular screening is essential. General red-flag symptoms include:",
+      "Unexplained weight loss",
+      "Persistent fatigue",
+      "Chronic cough or breathlessness",
+      "Chest pain or palpitations",
+      "Persistent high blood pressure readings",
+      "Frequent thirst, urination, or unexplained hunger (diabetes warning signs)",
+      "Lumps, unusual bleeding, or non-healing sores (cancer warning signs)",
+      "Joint pain and stiffness affecting daily activities",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Chest pain/pressure radiating to arm, jaw, or back — possible heart attack — call 112",
+      "Sudden weakness, facial droop, slurred speech — possible stroke — call 112",
+      "Severe difficulty breathing — possible COPD/asthma exacerbation or heart failure",
+      "Blood sugar crisis: confusion, fainting, seizures (severe hypo/hyperglycaemia)",
+      "Coughing blood or unexplained rapid weight loss — possible cancer/TB — urgent evaluation",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Behavioural (modifiable):",
+      "Tobacco use (smoked and smokeless)",
+      "Unhealthy diet (high salt, sugar, saturated/trans fat; low fruit/vegetable intake)",
+      "Physical inactivity",
+      "Harmful use of alcohol",
+      "Metabolic risk factors (intermediate outcomes of behavioural factors):",
+      "Raised blood pressure (hypertension)",
+      "Overweight/obesity",
+      "Raised blood glucose (diabetes/prediabetes)",
+      "Raised cholesterol (dyslipidaemia)",
+      "Environmental:",
+      "Air pollution (indoor and outdoor)",
+      "Occupational exposures (dust, chemicals)",
+      "Urbanisation and sedentary lifestyles",
+      "Rising consumption of processed and ultra-processed foods",
+      "Increasing tobacco and alcohol use among youth",
+      "Ageing population (NCD risk increases with age)",
+      "Family history/genetic predisposition",
+      "Low health literacy and delayed screening",
+      "Poverty — NCDs push families into catastrophic health expenditure (NCDs are both a cause and consequence of poverty)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "WHO \"Best Buys\" for NCD prevention (cost-effective interventions):",
+      "Tobacco control: Taxation, smoke-free laws, plain packaging, cessation support",
+      "Reduce salt intake: Population-level salt reduction in processed foods",
+      "Reduce harmful alcohol use: Taxation, advertising restrictions, minimum legal age",
+      "Promote physical activity: Public awareness, infrastructure (parks, cycling tracks)",
+      "Reduce trans fat in food supply",
+      "Vaccination: HPV (cervical cancer), Hepatitis B (liver cancer)",
+      "Early detection: Cervical, breast, oral cancer screening; hypertension and diabetes screening",
+      "Individual-level prevention:",
+      "Eat a balanced diet rich in fruits, vegetables, whole grains; limit salt, sugar, and saturated/trans fats",
+      "Engage in at least 150 minutes of moderate physical activity per week",
+      "Avoid all tobacco products",
+      "Limit or avoid alcohol",
+      "Maintain healthy body weight",
+      "Get regular health check-ups, especially after age 30"
+    ],
+    "environmental_control": [
+      "Reduce exposure to outdoor and indoor air pollution (use clean cooking fuels — PMUY/Ujjwala Yojana)",
+      "Workplace safety measures to reduce occupational NCD risk factors",
+      "Urban planning that supports walking, cycling, and access to green spaces",
+      "Food environment policies: front-of-pack labelling, restricting unhealthy food marketing to children"
+    ],
+    "vaccination": [
+      "HPV vaccine: Prevents cervical cancer — recommended for girls aged 9–14 in India (introduced in several state UIPs)",
+      "Hepatitis B vaccine: Prevents liver cancer caused by chronic HBV infection — part of India's UIP",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Ayushman Bharat Health and Wellness Centres (AB-HWCs): Free population-based screening for hypertension, diabetes, oral, breast, and cervical cancers for adults 30+",
+      "Community Health Officers conduct door-to-door screening camps in many states",
+      "Basic tests: Blood pressure measurement, blood glucose (fasting/random), BMI calculation, oral/breast/cervical cancer visual screening",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "NCDs require long-term management, not a one-time cure",
+      "Free essential medicines for hypertension and diabetes available at AB-HWCs and government PHCs under NP-NCD",
+      "Treatment combines lifestyle modification with medication as prescribed by a doctor",
+      "Regular follow-up and adherence to medication is critical — do not stop medicines without medical advice"
+    ],
+    "when_to_see_a_doctor": [
+      "Get screened for blood pressure, blood sugar, and BMI annually after age 30 (free at AB-HWCs)",
+      "Any of the emergency warning signs listed above",
+      "Family history of heart disease, diabetes, or cancer — discuss earlier/more frequent screening with a doctor",
+      "Persistent symptoms (cough >3 weeks, unexplained weight loss, lumps, abnormal bleeding) — do not delay evaluation"
+    ],
+    "india_specific_context": [
+      "National Programme for Prevention and Control of NCDs (NP-NCD): Integrates NCD prevention into primary healthcare across India",
+      "Ayushman Bharat Health and Wellness Centres (AB-HWCs): 1.5+ lakh centres providing free NCD screening and essential medicines",
+      "Population Based Screening (PBS): Government targets for hypertension, diabetes, and three cancers (oral, breast, cervical)",
+      "Eat Right India (FSSAI): Campaign to reduce salt, sugar, and trans fat in diets",
+      "Fit India Movement: Promotes physical activity nationwide",
+      "ICMR-NCDIR (National Centre for Disease Informatics and Research): Tracks NCD burden through population-based cancer and NCD risk factor surveys",
+      "PMUY (Ujjwala Yojana): Provides clean cooking gas to reduce indoor air pollution-related NCDs"
+    ]
+  }
+}

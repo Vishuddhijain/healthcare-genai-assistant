@@ -1,0 +1,121 @@
+{
+  "doc_id": "who_heat_and_health_heatstroke_and_heat_related_illness_086",
+  "title": "Heat and Health / Heatstroke and Heat-Related Illness",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
+  "topic": "Heat and Health / Heatstroke and Heat-Related Illness",
+  "category": "Environmental Health / Emergency / Climate Change Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Extreme heat is one of the deadliest weather phenomena and a growing public health threat due to climate change. India experiences severe heat waves annually, particularly in April–June. Heat-related illnesses range from heat cramps and heat exhaustion to life-threatening heatstroke. Vulnerable populations — elderly, outdoor workers, infants, and those with chronic illness — are at greatest risk. Heat illness is almost entirely preventable.\n\n- Heat is the leading cause of weather-related death globally.\n- India has experienced increasingly severe heat waves — temperatures above 45°C recorded annually in northern and central India.\n- Over 6,500 people died in heat waves in India between 1992–2015 (official data; actual number likely much higher).\n- Climate change is making heat waves more frequent, longer, and more intense.\n- Outdoor labourers, farmers, the elderly, and people without access to fans/AC are most at risk.\n- Heatstroke mortality can exceed 50% if treatment is delayed.\n\nQ: How much water should I drink during a heat wave?\nA: At least 8–10 glasses (2–2.5 litres) per day, more if working outdoors or sweating heavily. Drink before you feel thirsty. Add a pinch of salt and sugar to water if electrolytes are lost.\n\nQ: Is raw mango panna good for heat?\nA: Yes. Kairi (raw mango) panna is a traditional Indian cooling drink that helps replace electrolytes and prevent heat exhaustion. It is widely recommended by health authorities in India.\n\nQ: What is the difference between heat exhaustion and heatstroke?\nA: Heat exhaustion: heavy sweating, weakness, normal or slightly elevated temperature — manageable with cooling and hydration. Heatstroke: temperature ≥40°C, confusion or unconsciousness, hot dry skin — life-threatening emergency requiring 112.\n\n--- IMPORTANT SAFETY NOTE ---\nHeatstroke is a life-threatening emergency. Call 112 immediately. Begin cooling while waiting for help. This information is for public awareness and first-line response only.",
+    "types": [
+      "Heat cramps: Painful muscle spasms, usually in legs or abdomen, during or after exertion in heat.",
+      "Heat exhaustion: Heavy sweating, weakness, dizziness, nausea, headache, cool/pale/moist skin, rapid weak pulse. Body temperature normal or slightly elevated. Can progress to heatstroke.",
+      "Heatstroke: Medical emergency. Body temperature ≥40°C (104°F). Hot, dry skin (classic) or sweating (exertional). Confusion, loss of consciousness, seizures. Organ failure can occur. FATAL if untreated.",
+      "Heat syncope: Sudden fainting due to reduced blood flow to brain in heat.",
+      "Heat oedema: Swelling of hands, feet, ankles in heat.",
+      "Prickly heat (miliaria): Skin rash from blocked sweat glands."
+    ],
+    "symptoms": [
+      "Heat Exhaustion:",
+      "Heavy sweating",
+      "Cold, pale, clammy skin",
+      "Weakness and fatigue",
+      "Dizziness or fainting",
+      "Nausea or vomiting",
+      "Headache",
+      "Rapid, weak pulse",
+      "Body temperature may be normal or up to 39°C",
+      "Heatstroke (EMERGENCY):",
+      "High body temperature ≥40°C (104°F)",
+      "Hot skin — may be dry (classic heatstroke) or moist (exertional)",
+      "Confusion, altered mental status, slurred speech",
+      "Unconsciousness or seizures",
+      "Rapid, strong pulse",
+      "Nausea and vomiting",
+      "→ CALL 112 IMMEDIATELY — heatstroke is life-threatening"
+    ],
+    "warning_signs": [
+      "Confusion, altered behaviour in someone who has been in the heat",
+      "Collapse",
+      "Seizures",
+      "Hot, dry skin (dangerous heatstroke sign)",
+      "→ All of these = CALL 112 IMMEDIATELY"
+    ],
+    "risk_factors": [
+      "Outdoor work in direct sun (farmers, construction workers, MNREGA workers)",
+      "Elderly age (reduced ability to regulate body temperature)",
+      "Infants and young children",
+      "Chronic illness (heart disease, diabetes, kidney disease)",
+      "Obesity",
+      "Dehydration",
+      "Alcohol use (impairs thermoregulation)",
+      "Certain medications (diuretics, beta-blockers, antipsychotics)",
+      "Poor housing (no fan or cooler, tin/asbestos roofs)",
+      "Urban heat island effect (cities are hotter than rural areas)"
+    ],
+    "prevention": [
+      "Personal protection:",
+      "Stay hydrated: Drink water regularly even if not thirsty — at least 1 glass every hour during heat.",
+      "Wear lightweight, loose, light-coloured cotton clothing.",
+      "Stay out of the sun during peak hours (11 AM – 4 PM).",
+      "Use umbrella, hat, or dupatta when going out.",
+      "Stay in cool, shaded, or air-conditioned places during peak heat.",
+      "Use wet cloth on neck, wrists, and forehead to cool down.",
+      "Avoid strenuous physical activity outdoors during peak heat.",
+      "Never leave children, elderly, or pets in a parked vehicle.",
+      "Drinks and diet:",
+      "Drink ORS, lassi, buttermilk, nimbu pani, coconut water — replenish electrolytes.",
+      "Avoid alcohol and caffeinated drinks during heat (cause dehydration).",
+      "Eat light, cooling foods — cucumber, curd, watermelon, raw mango (kairi) panna.",
+      "At-risk population protection:",
+      "Check on elderly neighbours and relatives during heat waves.",
+      "Ensure outdoor workers have adequate water, rest, and shade (legal obligation of employers).",
+      "Cool infants with tepid sponging; avoid bundling in heat."
+    ],
+    "environmental_control": [
+      "National Action Plan on Heat-Related Illness: India's NDMA has guidelines for heat action plans.",
+      "State Heat Action Plans: Maharashtra, Rajasthan, Gujarat, Odisha, and other states operate heat response systems.",
+      "Cool rooms/cooling centres: Government institutions (hospitals, schools) open as cooling centres during heat waves.",
+      "IMD (India Meteorological Department) issues heat wave alerts — follow official alerts."
+    ],
+    "vaccination": [
+      "No vaccine for heat illness. Influenza vaccine is recommended for vulnerable populations."
+    ],
+    "diagnosis": [
+      "Heatstroke: Clinical diagnosis — high core body temperature (rectal temperature preferred) with neurological symptoms.",
+      "Blood tests: Electrolytes, kidney function, liver function, clotting — assess organ damage.",
+      "ECG: Assess cardiac involvement."
+    ],
+    "treatment_awareness_only": [
+      "Heat Exhaustion:",
+      "Move to cool place immediately",
+      "Remove excess clothing",
+      "Cool with cool water, fan, wet cloth",
+      "Give cool water or ORS to drink if conscious",
+      "If no improvement in 30 minutes — go to hospital",
+      "Heatstroke (EMERGENCY — call 112):",
+      "Move immediately to cool place",
+      "Remove clothing",
+      "Apply ice packs to neck, armpits, and groin",
+      "Fan while spraying cool water on body",
+      "Do NOT give fluids to an unconscious person (aspiration risk)",
+      "Rapid cooling is the life-saving intervention — don't wait for the hospital",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Any symptoms of heat exhaustion not resolving with rest and cooling",
+      "All cases of suspected heatstroke — emergency",
+      "Elderly person unwell during heat wave — lower threshold to seek care"
+    ],
+    "india_specific_context": [
+      "Heat Action Plans operational in: Ahmedabad, Nagpur, Pune, Bhubaneswar, Lucknow, and other cities.",
+      "NDMA Heat Wave Guidelines: ndma.gov.in",
+      "IMD heat wave alerts: imd.gov.in or Mausam app",
+      "Loo (hot, dry wind): Extremely dangerous dust-laden wind in North India during summer (April–June) — avoid direct exposure; stay indoors.",
+      "MNREGA workers and daily wage labourers are among the most vulnerable — employers must provide shade, water, rest periods.",
+      "NIMHANS summer heat awareness: Heat also worsens mental health conditions."
+    ]
+  }
+}

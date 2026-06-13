@@ -1,0 +1,84 @@
+{
+  "doc_id": "who_nipah_virus_137",
+  "title": "Nipah virus",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/nipah-virus",
+  "topic": "Nipah virus",
+  "category": "Communicable Disease",
+  "last_updated": "29 January 2026",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Nipah virus is a zoonotic virus, usually transmitted from animals to humans, but can also be transmitted through contaminated food or directly between people.\n\nNipah virus was first identified in 1998 during an outbreak among pig farmers in Malaysia. In 1999, an outbreak was reported in Singapore following the importation of sick pigs from Malaysia. No new outbreaks have been reported from Malaysia or Singapore since 1999. In 2001, Nipah virus infection outbreaks were detected in India and Bangladesh. In Bangladesh, outbreaks have been reported almost every year since. In India, outbreaks are periodically reported in several parts of the country, including the latest one in 2026.\n\nIn 2014, an outbreak was reported in the Philippines with no new cases since then.\n\n- Refer to the WHO fact sheet for the latest global key facts and estimates.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "In past outbreaks of Nipah involving pig farms, several measures were implemented to reduce transmission including: routine and thorough cleaning and disinfection of farms; quarantining animal premises in the case of suspected cases; culling of infected animals, with close supervision of burial or incineration of carcasses; and restricting or banning the movement of animals from infected farms to other areas. For more information, see the World Organization for Animal Health (WOAH) webpage on Nipah virus infection."
+    ],
+    "symptoms": [
+      "The incubation period – that is the time from infection to the onset of symptoms – ranges from 3 to 14 days. In some rare cases incubation of up to 45 days has been reported.",
+      "For some people, Nipah virus infection may be asymptomatic. However, most people develop a fever, and symptoms involving the brain (such as headache or confusion), and/or the lungs (such as difficulty breathing or cough). Other organs can also be affected. Frequent other symptoms include chills, fatigue, drowsiness, dizziness, vomiting and diarrhoea.",
+      "Severe disease can occur in any patient but is particularly associated with people presenting with neurological symptoms, with progression to brain swelling (encephalitis) and, frequently, death. Careful supportive care and monitoring during this period is critical.",
+      "Most people who survive make a full recovery, but long-term neurologic conditions have been reported in approximately 1 in 5 people who recovered from the disease."
+    ],
+    "warning_signs": [
+      "Transmission of the virus to humans can occur from direct contact with infected animals like bats, pigs or horses, and by consuming fruits or fruit products, such as raw date palm juice, contaminated by infected fruit bats. The virus can also cause severe disease in farming animals such as pigs.",
+      "For some people, Nipah virus infection may be asymptomatic. However, most people develop a fever, and symptoms involving the brain (such as headache or confusion), and/or the lungs (such as difficulty breathing or cough). Other organs can also be affected. Frequent other symptoms include chills, fatigue, drowsiness, dizziness, vomiting and diarrhoea.",
+      "Severe disease can occur in any patient but is particularly associated with people presenting with neurological symptoms, with progression to brain swelling (encephalitis) and, frequently, death. Careful supportive care and monitoring during this period is critical.",
+      "While there are no specific treatments for Nipah, early diagnosis will promote early supportive care. For all severe viral infections, high-quality supportive medical care can prevent deaths, and includes:",
+      "identifying any complications (brain swelling, pneumonia, other organ damage);"
+    ],
+    "risk_factors": [
+      "Fruit bats from the Pteropodidae family are considered the natural host of Nipah virus and are present in different parts of Asia and in Australia. African fruit bats of the genus Eidolon , family Pteropodidae, have been found to have antibodies against Nipah and Hendra viruses, indicating that these viruses might also be present within the geographic distribution of Pteropodidae bats in Africa.",
+      "Infection with Nipah virus does not appear to cause disease in fruit bats.",
+      "Transmission of the virus to humans can occur from direct contact with infected animals like bats, pigs or horses, and by consuming fruits or fruit products, such as raw date palm juice, contaminated by infected fruit bats. The virus can also cause severe disease in farming animals such as pigs.",
+      "Nipah virus can also spread between people. It has been reported in health-care settings and among family and caregivers of sick people through close contact. In health facilities, the risk of spread can increase in overcrowded, poorly ventilated hospital environments with inadequate implementation of infection prevention and control measures (such as the use of personal protective equipment, cleaning and disinfection, and hand hygiene).",
+      "Raising awareness of the risk factors for infection and on measures people can take to protect themselves and prevent transmission is critical. WHO recommends taking measures as noted below.",
+      "Reducing the risk of bat-to-human transmission",
+      "Efforts to prevent transmission should first focus on decreasing bat access to date palm sap and other fresh food products. Keeping bats away from sap collection sites by using protective coverings may be helpful. Freshly collected date palm juice should be boiled, and fruits should be thoroughly washed and peeled before consumption. Fruits with any sign of bat bites should be discarded.",
+      "Reducing the risk of animal-to-human transmission"
+    ],
+    "prevention": [
+      "Raising awareness of the risk factors for infection and on measures people can take to protect themselves and prevent transmission is critical. WHO recommends taking measures as noted below.",
+      "Reducing the risk of bat-to-human transmission",
+      "Efforts to prevent transmission should first focus on decreasing bat access to date palm sap and other fresh food products. Keeping bats away from sap collection sites by using protective coverings may be helpful. Freshly collected date palm juice should be boiled, and fruits should be thoroughly washed and peeled before consumption. Fruits with any sign of bat bites should be discarded.",
+      "Reducing the risk of animal-to-human transmission",
+      "Gloves and other protective clothing should be worn while handling sick animals such as pigs or horses, and during slaughtering and culling procedures. In areas where the virus is present, when establishing new pig farms, considerations should be given to the presence of fruit bats in the area and in general, pig feed and pig sheds should be protected against bats when feasible.",
+      "Controlling Nipah virus in pigs",
+      "In past outbreaks of Nipah involving pig farms, several measures were implemented to reduce transmission including: routine and thorough cleaning and disinfection of farms; quarantining animal premises in the case of suspected cases; culling of infected animals, with close supervision of burial or incineration of carcasses; and restricting or banning the movement of animals from infected farms to other areas. For more information, see the World Organization for Animal Health (WOAH) webpage on Nipah virus infection.",
+      "Reducing the risk of human-to-human transmission"
+    ],
+    "environmental_control": [
+      "WHO advises health-care workers to implement standard precautions for infection prevention and control at all times, for all patients:",
+      "suspected or confirmed cases of Nipah virus infection should be placed in a single-patient room;",
+      "when caring for patients, WHO advises the use of contact and droplet precautions including a well-fitting medical mask, eye protection, a fluid-resistant gown, and examination gloves;",
+      "airborne precautions should be implemented during aerosol-generating procedures, including placing the patient in an airborne-infection isolation room and using a fit-tested filtering facepiece respirator instead of a medical mask; and",
+      "for family members and caregivers visiting patients with suspected or confirmed Nipah virus, similar precautions should be applied.",
+      "WHO continues to monitor any upcoming new evidence to ensure recommendations remain up-to-date."
+    ],
+    "vaccination": [
+      "There are currently no approved drugs or vaccines for Nipah virus infection. WHO has identified Nipah virus infection as a priority disease for the WHO Research and Development Blueprint . A range of candidate products are under different stages of development."
+    ],
+    "diagnosis": [
+      "It is difficult to distinguish Nipah from other infectious diseases, or other causes of encephalitis or pneumonia, without laboratory testing. The main diagnostic test is real time polymerase chain reaction (RT-PCR) of respiratory samples, blood or cerebrospinal fluid (a spinal tap). Blood antibody detection via enzyme-linked immunosorbent assay (ELISA) may also be used.",
+      "Samples collected from patients are a biohazard risk. Laboratory testing on non-inactivated samples should be conducted under maximum biological containment conditions.",
+      "Samples taken from people and animals with suspected Nipah virus infection should be handled by trained staff working in suitably equipped laboratories."
+    ],
+    "treatment_awareness_only": [
+      "While there are no specific treatments for Nipah, early diagnosis will promote early supportive care. For all severe viral infections, high-quality supportive medical care can prevent deaths, and includes:",
+      "identifying any complications (brain swelling, pneumonia, other organ damage);",
+      "personalizing treatment to account for patients’ other health conditions;",
+      "treating with oxygen when required;",
+      "applying specific organ support therapies as needed (such as ventilation, renal dialysis); and",
+      "ensuring adequate rehydration and nutrition with frequent monitoring.",
+      "There are currently no approved drugs or vaccines for Nipah virus infection. WHO has identified Nipah virus infection as a priority disease for the WHO Research and Development Blueprint . A range of candidate products are under different stages of development."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

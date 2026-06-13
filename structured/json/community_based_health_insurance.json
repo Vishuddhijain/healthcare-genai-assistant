@@ -1,0 +1,55 @@
+{
+  "doc_id": "who_community_based_health_insurance_043",
+  "title": "Community-based health insurance",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/community-based-health-insurance-CBHI",
+  "topic": "Community-based health insurance",
+  "category": "Health Systems / Government Schemes",
+  "last_updated": "31 March 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "CBHI is a form of micro health insurance, which is an overarching term for health insurance targeted to low-income people. The specific feature of CBHIs is the community involvement in driving its setup and in its management.\n\nSmall, voluntary CBHI schemes are generally characterized by the following institutional design features.\n\nPooling of health risks and of funds occurs within a community or a group of people who share common characteristics, such as geographical location or occupation.\n\n- Refer to the WHO fact sheet for the latest global key facts and estimates.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "CBHI is a form of micro health insurance, which is an overarching term for health insurance targeted to low-income people. The specific feature of CBHIs is the community involvement in driving its setup and in its management.",
+      "Although CBHIs in the traditional model are one way to organize community initiatives, they cannot be expected to provide a major source of funding or coverage. Financial protection arrangements based on mandatory or automatic coverage funded from general government revenue that subsidizes those unable to pay have shown more potential to reach UHC goals than voluntary, contribution-financed schemes. Some countries with CBHI schemes have taken action and transformed their CBHI model towards a national scheme.",
+      "One key approach to reforming CBHIs is to increase the re-distributive capacity of the system. For such a reform to realize its potential, however, it must be set within an overall vision of health financing that aligns pooling with the other health financing functions.",
+      "Information disclosure"
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Pooling of health risks and of funds occurs within a community or a group of people who share common characteristics, such as geographical location or occupation.",
+      "Membership premiums are often a flat rate and independent of individual health risks."
+    ],
+    "prevention": [
+      "Although CBHIs in the traditional model are one way to organize community initiatives, they cannot be expected to provide a major source of funding or coverage. Financial protection arrangements based on mandatory or automatic coverage funded from general government revenue that subsidizes those unable to pay have shown more potential to reach UHC goals than voluntary, contribution-financed schemes. Some countries with CBHI schemes have taken action and transformed their CBHI model towards a national scheme.",
+      "Preventing sexual exploitation"
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Community based health insurance: how can it contribute to progress towards UHC? Voluntary health insurance: potentials and limits to moving towards universal health coverage WHO global health expenditure database Health financing country diagnostic: a foundation for national strategy development"
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "doc_id": "who_human_t_lymphotropic_virus_1_094",
+  "title": "Human T-lymphotropic virus-1",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1",
+  "topic": "Human T-lymphotropic virus-1",
+  "category": "Communicable Disease",
+  "last_updated": "24 December 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Human T-lymphotropic virus-1 (HTLV-1) is a retrovirus which causes a chronic lifelong infection in humans. Its transmission happens through breast feeding, sexual contact, needle sharing and unsafe blood transfusions. It causes a range of clinical manifestations including poor functioning immune system (immunosuppression), inflammation of the eye (uveitis) and skin (dermatitis), and pneumonia (pneumonitis). HTLV-1 may lead to cancer in some people (adult T-cell leukaemia/lymphoma) and various neurological complications such as myelopathy (HTLV-1 associated myelopathy, also called spastic paraparesis).\n\n- Human T-lymphotropic virus type 1 (HTLV-1) is a sexually transmitted infection and retrovirus which causes a chronic lifelong infection in humans.\n- HTLV-1 is primarily transmitted through sexual contact, breastfeeding, and needle sharing and unsafe blood transfusion.\n- The most common clinical presentations include general immune imbalance, making individuals more susceptible to infections; uveitis; dermatitis, pneumonitis, adult T-cell leukemia, and HTLV-1 associated myelopathy also known as tropical spastic paraparesis.\n- The current estimates of the total number of people living with HTLV-1 infection ranged from 5 million to 10 million in 2012.\n- It affects more women than men, though the reasons for this are not well understood.\n- There is no effective treatment for HTLV-1 and emphasis is placed on detection and prevention.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Human T-lymphotropic virus type 1 (HTLV-1) is a sexually transmitted infection and retrovirus which causes a chronic lifelong infection in humans.",
+      "HTLV-1 can cause a form of blood cancer called adult T-cell leukaemia or lymphoma. People may present with lymphadenopathy, hepatosplenomegaly, hypercalcaemia through involvement of the skin, lung, bones and other organs.",
+      "formula feeding instead of breastfeeding to prevent mother to child transmission in women living with HTLV;"
+    ],
+    "symptoms": [
+      "Most people with HTLV-1 infection do not have symptoms. About 5–10% of people with HTLV-1 will develop a recognized associated clinical condition, namely HAM and ATL. Other clinical manifestations may be uveitis, dermatitis and pneumonitis.",
+      "HTLV-1 can cause a form of blood cancer called adult T-cell leukaemia or lymphoma. People may present with lymphadenopathy, hepatosplenomegaly, hypercalcaemia through involvement of the skin, lung, bones and other organs.",
+      "HTLV-1 can also cause a progressive disease of the nervous system called either HTLV-1 associated myelopathy (HAM) or tropical spastic paraparesis (TSP). This is a chronic inflammatory disease of the central nervous system, characterized by progressive spastic weakness of the lower limbs, lower back pain and bowel and bladder dysfunction. Clinical findings can include muscle weakness, hyperreflexia and clonus in the lower limbs, along with extensor plantar response and a spastic gait. The lifetime risk among people with HTLV-1 infection of developing ATL is estimated at 5% and of HAM/TSP at 2%."
+    ],
+    "warning_signs": [
+      "Most people with HTLV-1 infection do not have symptoms. About 5–10% of people with HTLV-1 will develop a recognized associated clinical condition, namely HAM and ATL. Other clinical manifestations may be uveitis, dermatitis and pneumonitis.",
+      "HTLV-1 can cause a form of blood cancer called adult T-cell leukaemia or lymphoma. People may present with lymphadenopathy, hepatosplenomegaly, hypercalcaemia through involvement of the skin, lung, bones and other organs.",
+      "HTLV-1 can also cause a progressive disease of the nervous system called either HTLV-1 associated myelopathy (HAM) or tropical spastic paraparesis (TSP). This is a chronic inflammatory disease of the central nervous system, characterized by progressive spastic weakness of the lower limbs, lower back pain and bowel and bladder dysfunction. Clinical findings can include muscle weakness, hyperreflexia and clonus in the lower limbs, along with extensor plantar response and a spastic gait. The lifetime risk among people with HTLV-1 infection of developing ATL is estimated at 5% and of HAM/TSP at 2%."
+    ],
+    "risk_factors": [
+      "HTLV-1 is primarily transmitted through sexual contact, breastfeeding, needle sharing and unsafe blood transfusion. Mother-to-child transmission occurs primarily through breastfeeding at a rate of around 20–30%, with shorter durations of breastfeeding associated with lower rates of transmission.",
+      "Women are more frequently affected by HTLV than men for reasons that are not well-understood. This might reflect higher efficiency of male to female transmission but could also be due to other biological factors. HTLV-1 has been detected in cervical secretions and semen, but higher lymphocyte counts may be present in the semen enhancing transmission.",
+      "Transfusion of cellular blood products from a person with HTLV-1 infection carries a high risk of transmission, as does solid organ transplantation. However, transfusion of cell-free plasma carries a low or no risk of transmission.",
+      "HTLV-1 can be transmitted through needle sharing, which poses a significant risk for spreading the infection. Sharing needles is a common route of transmission for HTLV-1, especially among people who inject drugs. To reduce the risk of HTLV-1 transmission, it is crucial to avoid sharing needles and to adhere to safe injection practices."
+    ],
+    "prevention": [
+      "Public health strategies and interventions that could prevent HTLV-1 transmission include:",
+      "formula feeding instead of breastfeeding to prevent mother to child transmission in women living with HTLV;",
+      "breast milk freeze thaw method and leukoreduction are considered in some settings;",
+      "condom use will reduce the risk of sexual transmission;",
+      "needle exchange programmes; and",
+      "screening blood donations for HTLV-1.",
+      "It is important to increase public awareness to support these interventions and to ensure diagnostic capacity is available in high-prevalence settings to screen and diagnose people living with HTLV-1.",
+      "There is currently no vaccine for HTLV-1, although development of a vaccine is considered feasible. No candidate HTLV-1 vaccine has proceeded to a clinical trial with an efficacy endpoint so far."
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "There is currently no vaccine for HTLV-1, although development of a vaccine is considered feasible. No candidate HTLV-1 vaccine has proceeded to a clinical trial with an efficacy endpoint so far."
+    ],
+    "diagnosis": [
+      "Diagnosing HTLV-1 can be challenging. The diagnosis of HTLV-1 infection is usually made by testing for HTLV-1 antibodies in blood samples using enzyme-linked immunoassay. No single test can provide a definitive HTLV-1 diagnosis. A combination of tests is needed. The second test may detect antibodies to different HTLV-1 proteins (for example, western blotting and line immunoassay) or may detect proviral DNA integrated into the host cell genome (using polymerase chain reaction (PCR)). This combined approach is important to confirm HTLV-1 infection and to differentiate between HTLV-1 and other less common and less pathogenic types of HTLV,..."
+    ],
+    "treatment_awareness_only": [
+      "There is currently no treatment for HTLV-1 infection. Treatment focuses on managing associated conditions and includes corticosteroids, immune modulating drugs, chemotherapy and transplantation."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

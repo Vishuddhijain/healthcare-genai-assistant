@@ -1,0 +1,84 @@
+{
+  "doc_id": "who_sexually_transmitted_infections_stis_193",
+  "title": "Sexually transmitted infections (STIs)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
+  "topic": "Sexually transmitted infections (STIs)",
+  "category": "Sexual Health / STI Awareness",
+  "last_updated": "10 September 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "More than 30 different bacteria, viruses and parasites are known to be transmitted through sexual contact, including vaginal, anal and oral sex. Some STIs can also be transmitted from mother-to-child during pregnancy, childbirth and breastfeeding, and unsafe blood transfusion. Eight pathogens are linked to the greatest incidence of STIs. Of these, 4 are currently curable: syphilis, gonorrhoea, chlamydia and trichomoniasis. The other 4 are viral infections: hepatitis B, herpes simplex virus (HSV), HIV and human papillomavirus (HPV).\n\nIn addition, emerging outbreaks of new infections that can be acquired by sexual contact such as mpox, Shigella sonnei , Neisseria meningitidis , Ebola and Zika, as well as re-emergence of neglected STIs such as lymphogranuloma venereum. These herald increasing challenges in the provision of adequate services for STIs prevention and control.\n\n- More than 1 million curable sexually transmitted infections (STIs) are acquired every day worldwide in people 15–49 years old, the majority of which are asymptomatic.\n- In 2020 there were an estimated 374 million new infections in people 15–49 years with 1 of 4 curable STIs: chlamydia, gonorrhoea, syphilis and trichomoniasis.\n- An estimated 8 million adults between 15 and 49 years old were infected with syphilis in 2022.\n- An estimated 520 million people aged 15–49 years (13%) worldwide have herpes simplex virus type 2 (HSV-2) infection, the main cause of genital herpes.\n- Human papillomavirus (HPV) infection is associated with over 311 000 cervical cancer deaths each year.\n- 1.1 million pregnant women were estimated to be infected with syphilis in 2022, resulting in over 390 000 adverse birth outcomes.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "An estimated 520 million people aged 15–49 years (13%) worldwide have herpes simplex virus type 2 (HSV-2) infection, the main cause of genital herpes.",
+      "Mother-to-child transmission of STIs can result in stillbirth, neonatal death, low-birth weight and prematurity, sepsis, neonatal conjunctivitis and congenital deformities."
+    ],
+    "symptoms": [
+      "More than 1 million curable sexually transmitted infections (STIs) are acquired every day worldwide in people 15–49 years old, the majority of which are asymptomatic.",
+      "In 2020 there were an estimated 374 million new infections in people 15–49 years with 1 of 4 curable STIs: chlamydia, gonorrhoea, syphilis and trichomoniasis.",
+      "An estimated 520 million people aged 15–49 years (13%) worldwide have herpes simplex virus type 2 (HSV-2) infection, the main cause of genital herpes.",
+      "Human papillomavirus (HPV) infection is associated with over 311 000 cervical cancer deaths each year.",
+      "More than 30 different bacteria, viruses and parasites are known to be transmitted through sexual contact, including vaginal, anal and oral sex. Some STIs can also be transmitted from mother-to-child during pregnancy, childbirth and breastfeeding, and unsafe blood transfusion. Eight pathogens are linked to the greatest incidence of STIs. Of these, 4 are currently curable: syphilis, gonorrhoea, chlamydia and trichomoniasis. The other 4 are viral infections: hepatitis B, herpes simplex virus (HSV), HIV and human papillomavirus (HPV).",
+      "In addition, emerging outbreaks of new infections that can be acquired by sexual contact such as mpox, Shigella sonnei , Neisseria meningitidis , Ebola and Zika, as well as re-emergence of neglected STIs such as lymphogranuloma venereum. These herald increasing challenges in the provision of adequate services for STIs prevention and control."
+    ],
+    "warning_signs": [
+      "Human papillomavirus (HPV) infection is associated with over 311 000 cervical cancer deaths each year.",
+      "STIs have a direct impact on sexual and reproductive health through stigmatization, infertility, cancers and pregnancy complications and can increase the risk of HIV.",
+      "Mother-to-child transmission of STIs can result in stillbirth, neonatal death, low-birth weight and prematurity, sepsis, neonatal conjunctivitis and congenital deformities.",
+      "In 2022, hepatitis B resulted in an estimated 1.1 million deaths, mostly from cirrhosis and hepatocellular carcinoma (primary liver cancer)."
+    ],
+    "risk_factors": [
+      "STIs have a profound impact on sexual and reproductive health worldwide.",
+      "More than 1 million curable STIs are acquired every day. In 2020, WHO estimated 374 million new infections with 1 of 4 STIs: chlamydia (129 million), gonorrhoea (82 million), syphilis (7.1 million) and trichomoniasis (156 million). More than 520 million people were estimated to be living with genital herpes in 2020, and an estimated 300 million women have an HPV infection, the primary cause of cervical cancer and anal cancer among men who have sex with men. In addition, updated WHO estimates that 254 million people were living with chronic hepatitis B in 2022.",
+      "STIs can have serious consequences beyond the immediate impact of the infection itself.",
+      "STIs like herpes, gonorrhoea and syphilis can increase the risk of HIV acquisition.",
+      "Mother-to-child transmission of STIs can result in stillbirth, neonatal death, low-birth weight and prematurity, sepsis, neonatal conjunctivitis and congenital deformities.",
+      "HPV infection causes cervical and other cancers.",
+      "In 2022, hepatitis B resulted in an estimated 1.1 million deaths, mostly from cirrhosis and hepatocellular carcinoma (primary liver cancer).",
+      "STIs such as gonorrhoea and chlamydia are major causes of pelvic inflammatory disease and infertility in women."
+    ],
+    "prevention": [
+      "When used correctly and consistently, condoms offer one of the most effective methods of protection against STIs, including HIV. Although highly effective, condoms do not offer protection for STIs that cause extra-genital ulcers (i.e., syphilis or genital herpes). When possible, condoms should be used in all vaginal, oral and anal sex.",
+      "Safe and highly effective vaccines are available for 2 viral STIs: hepatitis B and HPV. These vaccines have represented major advances in STI prevention. To eliminate cervical cancer as a public health problem globally, high coverage targets for HPV vaccination, screening and treatment of precancerous lesions, and management of cancer must be reached by 2030 and maintained at this high level for decades.",
+      "The development of vaccines against STIs are a major priority to control STIs worldwide. Currently there is mounting evidence suggesting that the vaccine to prevent meningitis (MenB) provides some cross-protection against gonorrhoea. WHO is closely monitoring the results of ongoing studies to gather evidence. Vaccine candidates against herpes simplex virus, chlamydia and gonorrhoea are in early clinical development, while those against syphilis and trichomoniasis are still in the pre-clinical phase.",
+      "WHO is currently working on recommendations for the use of doxycycline as post-exposure prophylaxis (also known as Doxy-PEP) for selected bacterial STIs for some populations at higher risk of infection. Other biomedical interventions to prevent some STIs include adult voluntary medical male circumcision, microbicides, and partner treatment.",
+      "STIs are often asymptomatic. When symptoms occur, they can be non-specific.",
+      "Accurate diagnostic tests for STIs (using molecular technology) are widely used in high-income countries. These are especially useful for the diagnosis of asymptomatic infections. However, they are largely unavailable in low- and middle-income countries (LMICs) for chlamydia and gonorrhoea. Even in countries where testing is available, it is often expensive and not widely accessible. In addition, the time it takes for results to be received is often long. As a result, follow-up can be impeded and care or treatment can be incomplete.",
+      "On the other hand, inexpensive, rapid tests are available for syphilis, hepatitis B and HIV. The rapid syphilis test and rapid dual HIV/syphilis tests are used in many resource-limited settings.",
+      "Several other rapid tests are under development and have the potential to improve STI diagnosis and treatment, especially in resource-limited settings."
+    ],
+    "environmental_control": [
+      "WHO is currently working on recommendations for the use of doxycycline as post-exposure prophylaxis (also known as Doxy-PEP) for selected bacterial STIs for some populations at higher risk of infection. Other biomedical interventions to prevent some STIs include adult voluntary medical male circumcision, microbicides, and partner treatment."
+    ],
+    "vaccination": [
+      "Safe and highly effective vaccines are available for 2 viral STIs: hepatitis B and HPV. These vaccines have represented major advances in STI prevention. To eliminate cervical cancer as a public health problem globally, high coverage targets for HPV vaccination, screening and treatment of precancerous lesions, and management of cancer must be reached by 2030 and maintained at this high level for decades.",
+      "The development of vaccines against STIs are a major priority to control STIs worldwide. Currently there is mounting evidence suggesting that the vaccine to prevent meningitis (MenB) provides some cross-protection against gonorrhoea. WHO is closely monitoring the results of ongoing studies to gather evidence. Vaccine candidates against herpes simplex virus, chlamydia and gonorrhoea are in early clinical development, while those against syphilis and trichomoniasis are still in the pre-clinical phase."
+    ],
+    "diagnosis": [
+      "More than 30 different bacteria, viruses and parasites are known to be transmitted through sexual contact, including vaginal, anal and oral sex. Some STIs can also be transmitted from mother-to-child during pregnancy, childbirth and breastfeeding, and unsafe blood transfusion. Eight pathogens are linked to the greatest incidence of STIs. Of these, 4 are currently curable: syphilis, gonorrhoea, chlamydia and trichomoniasis. The other 4 are viral infections: hepatitis B, herpes simplex virus (HSV), HIV and human papillomavirus (HPV).",
+      "Safe and highly effective vaccines are available for 2 viral STIs: hepatitis B and HPV. These vaccines have represented major advances in STI prevention. To eliminate cervical cancer as a public health problem globally, high coverage targets for HPV vaccination, screening and treatment of precancerous lesions, and management of cancer must be reached by 2030 and maintained at this high level for decades.",
+      "Accurate diagnostic tests for STIs (using molecular technology) are widely used in high-income countries. These are especially useful for the diagnosis of asymptomatic infections. However, they are largely unavailable in low- and middle-income countries (LMICs) for chlamydia and gonorrhoea. Even in countries where testing is available, it is often expensive and not widely accessible. In addition, the time it takes for results to be received is often long. As a result, follow-up can be impeded and care or treatment can be incomplete.",
+      "On the other hand, inexpensive, rapid tests are available for syphilis, hepatitis B and HIV. The rapid syphilis test and rapid dual HIV/syphilis tests are used in many resource-limited settings.",
+      "Several other rapid tests are under development and have the potential to improve STI diagnosis and treatment, especially in resource-limited settings."
+    ],
+    "treatment_awareness_only": [
+      "Effective treatment is currently available for several STIs.",
+      "Three bacterial (chlamydia, gonorrhoea and syphilis) and one parasitic STIs (trichomoniasis) are generally curable with existing single-dose regimens of antibiotics.",
+      "For herpes and HIV, the most effective medications available are antivirals that can modulate the course of the disease, though they cannot cure the disease.",
+      "For hepatitis B, antivirals can help fighting the virus and slowing damage to the liver.",
+      "AMR of STIs – in particular gonorrhoea – has increased rapidly in recent years and has reduced treatment options. The Gonococcal AMR Surveillance Programme (GASP) has shown high rates of resistance to many antibiotics including quinolone, azithromycin and extended-spectrum cephalosporins, a last-line treatment.",
+      "AMR for other STIs, like Mycoplasma genitalium , also exist but are not systematically monitored.",
+      "LMICs rely on identifying consistent, easily recognizable signs and symptoms to guide treatment, without the use of laboratory tests. This approach – syndromic management – often relies on clinical algorithms and allows health workers to diagnose a specific infection based on observed syndromes (e.g., vaginal/urethral discharge, anogenital ulcers, etc). Syndromic management is simple, assures rapid, same-day treatment, and avoids expensive or unavailable diagnostic tests for patients with symptoms. However, this approach results in overtreatment and missed treatment as the majority of STIs are asymptomatic. Thus, WHO recommends countries..."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

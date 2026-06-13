@@ -1,0 +1,115 @@
+{
+  "doc_id": "who_postpartum_haemorrhage_pph_164",
+  "title": "Postpartum Haemorrhage (PPH)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/maternal-mortality",
+  "topic": "Postpartum Haemorrhage (PPH)",
+  "category": "Maternal Health / Emergency Awareness / Women's Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Postpartum haemorrhage (PPH) is excessive bleeding after childbirth and is one of the leading causes of maternal death worldwide and in India. It can occur after vaginal delivery or caesarean section, most commonly within 24 hours of birth (primary PPH), but can also occur up to 6 weeks postpartum (secondary PPH). PPH is largely preventable and treatable with timely medical intervention — most deaths occur due to delays in recognition, transport to a facility, or access to blood and emergency obstetric care. India's institutional delivery programmes (JSY, JSSK) aim to ensure women deliver in facilities equipped to manage PPH.\n\n- PPH is defined as blood loss of 500 mL or more after vaginal birth, or 1000 mL or more after caesarean section, within 24 hours of birth.\n- PPH is one of the top causes of maternal death globally and in India, alongside hypertensive disorders and sepsis.\n- Most PPH deaths occur within hours of delivery — rapid recognition and treatment are critical (\"the first hour\" is key).\n- Active management of the third stage of labour (giving oxytocin immediately after birth) significantly reduces PPH risk.\n- Institutional delivery (in a hospital/health facility with skilled birth attendants) dramatically reduces PPH mortality compared to home births.\n- India's Janani Suraksha Yojana (JSY) and Janani Shishu Suraksha Karyakram (JSSK) promote free institutional delivery, including free transport, drugs, and blood transfusion if needed.\n\nQ: Is PPH preventable?\nA: Yes, to a large extent. Active management of the third stage of labour (giving oxytocin immediately after birth), delivering in a facility with skilled attendants, and treating anaemia during pregnancy significantly reduce PPH risk and improve outcomes if it occurs.\n\nQ: How quickly can PPH become dangerous?\nA: Very quickly — significant blood loss can occur within minutes, and a woman can go into shock rapidly. This is why PPH is considered one of the most time-critical obstetric emergencies, and why delivering at a facility equipped to respond immediately is so important.\n\nQ: Can PPH happen after a caesarean section too?\nA: Yes. PPH can occur after both vaginal delivery and caesarean section. The threshold for caesarean (1000 mL) is higher than for vaginal delivery (500 mL) because some blood loss is expected during surgery.\n\nQ: What is JSSK and how does it help with PPH?\nA: Janani Shishu Suraksha Karyakram (JSSK) ensures that pregnant women delivering at government facilities receive free care, including free blood transfusion if PPH occurs, free drugs, and free referral transport — removing financial barriers to life-saving emergency care.\n\nQ: Is bleeding normal after delivery?\nA: Some bleeding (lochia) is normal after delivery and gradually decreases over days to weeks. However, soaking through a pad in under 15 minutes, passing large clots, or feeling dizzy/faint is NOT normal and requires immediate medical attention.\n\n--- IMPORTANT SAFETY NOTE ---\nPostpartum haemorrhage is a leading cause of maternal death but is largely preventable and treatable with prompt care. ALWAYS deliver at a healthcare facility with skilled birth attendants. If you or someone you know experiences heavy bleeding after delivery — at any time, including weeks later — seek emergency medical care immediately; do not wait. Free emergency obstetric care, blood transfusion, and transport are available at government facilities under JSSK.",
+    "types": [
+      "Primary PPH: Occurs within 24 hours of delivery — most common and most dangerous due to rapid blood loss",
+      "Secondary PPH: Occurs between 24 hours and 6 weeks after delivery — often due to retained placental tissue or infection",
+      "Causes of PPH (the \"4 Ts\"):",
+      "Tone: Uterine atony (failure of the uterus to contract after delivery) — most common cause (70%)",
+      "Tissue: Retained placenta or placental fragments",
+      "Trauma: Tears or lacerations of the birth canal, cervix, or uterus (including uterine rupture)",
+      "Thrombin: Coagulation disorders (clotting problems) — pre-existing or pregnancy-related (e.g., severe pre-eclampsia with clotting abnormalities)"
+    ],
+    "symptoms": [
+      "Heavy vaginal bleeding that soaks through pads quickly, continuously, or in large clots",
+      "Bleeding that does not slow down after delivery of the placenta",
+      "Signs of shock:",
+      "Rapid heart rate (tachycardia)",
+      "Low blood pressure (hypotension)",
+      "Dizziness, fainting, or feeling faint when sitting/standing",
+      "Pale, cold, clammy skin",
+      "Confusion, restlessness, or decreased consciousness",
+      "Rapid, shallow breathing",
+      "Uterus feels soft/not firm on abdominal examination (sign of uterine atony)",
+      "For secondary PPH: Heavy bleeding, foul-smelling discharge, fever (suggests infection/retained tissue) in the days/weeks after delivery",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "CALL FOR EMERGENCY HELP / GO TO HOSPITAL IMMEDIATELY IF, after delivery:",
+      "Bleeding that soaks more than one pad in 15 minutes, or continuous heavy bleeding",
+      "Passing large blood clots",
+      "Feeling dizzy, faint, or like you might pass out",
+      "Rapid heartbeat, cold/clammy skin, confusion",
+      "Bleeding that doesn't stop or significantly slows after the placenta is delivered",
+      "Heavy bleeding with fever or foul-smelling discharge days/weeks after delivery (secondary PPH)",
+      "THIS IS A TIME-CRITICAL EMERGENCY — every minute matters. Do not wait to \"see if it stops.\"",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Prolonged or rapid labour",
+      "Multiple pregnancy (twins/triplets) — overdistended uterus",
+      "Large baby (macrosomia) or excess amniotic fluid (polyhydramnios)",
+      "Previous PPH in a prior delivery",
+      "Pre-eclampsia/eclampsia (hypertensive disorders of pregnancy)",
+      "Placenta praevia or placental abruption",
+      "Prolonged use of oxytocin during labour induction/augmentation",
+      "Caesarean delivery (higher risk than vaginal in some contexts)",
+      "Anaemia (worsens impact of even moderate blood loss — highly relevant in India given high anaemia prevalence among pregnant women)",
+      "Grand multiparity (many previous pregnancies)",
+      "Infection (chorioamnionitis)",
+      "Retained placenta or placental fragments",
+      "Clotting disorders"
+    ],
+    "prevention": [
+      "Active Management of the Third Stage of Labour (AMTSL):",
+      "Administration of oxytocin (or other uterotonic) immediately after birth — single most effective intervention to prevent PPH",
+      "Controlled cord traction",
+      "Uterine massage after placental delivery",
+      "Treating anaemia during pregnancy:",
+      "Iron-folic acid (IFA) supplementation throughout pregnancy (under Anaemia Mukt Bharat programme)",
+      "Treating severe anaemia before delivery reduces complications from blood loss",
+      "Institutional delivery:",
+      "Delivering in a facility with skilled birth attendants, access to uterotonics, and blood transfusion services dramatically reduces PPH mortality",
+      "JSY incentivises institutional delivery; JSSK provides free delivery, drugs, diagnostics, transport, and blood",
+      "Antenatal care (ANC):",
+      "Identifying high-risk pregnancies (placenta praevia, previous PPH, anaemia) and planning delivery at an appropriate facility level"
+    ],
+    "environmental_control": [
+      "Ensuring delivery facilities are stocked with uterotonic drugs (oxytocin, misoprostol)",
+      "Availability of blood transfusion services or referral linkages (Blood Storage Units at FRUs — First Referral Units)",
+      "Functional referral transport (108/102 ambulance services) for timely transfer to higher facilities if PPH occurs",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not directly applicable to PPH; however, maternal vaccinations (Tdap, influenza) and overall good maternal health (including anaemia prevention) reduce overall pregnancy risk and improve resilience to blood loss"
+    ],
+    "diagnosis": [
+      "Clinical assessment: Estimating blood loss, checking uterine tone (firm vs. soft/boggy), examining for tears/lacerations, checking placenta for completeness",
+      "Vital signs monitoring: Blood pressure, pulse, oxygen saturation — early signs of shock can precede dramatic visible blood loss",
+      "Blood tests: Haemoglobin, blood typing/crossmatching (in anticipation of transfusion need)",
+      "Ultrasound: May be used to check for retained placental tissue in secondary PPH"
+    ],
+    "treatment_awareness_only": [
+      "Uterotonic drugs: Oxytocin (first-line), misoprostol, ergometrine — given to contract the uterus",
+      "Uterine massage: Manual stimulation to help the uterus contract",
+      "IV fluids and blood transfusion: To replace lost blood volume — available at facilities with blood storage units",
+      "Bimanual uterine compression, balloon tamponade: Procedures performed by trained healthcare providers for ongoing bleeding",
+      "Surgical intervention (in severe cases): Repair of tears, removal of retained tissue, and in extreme cases, surgical procedures to control bleeding (including, rarely, hysterectomy as a life-saving measure)",
+      "Tranexamic acid: May be given to reduce bleeding in some cases, under medical supervision"
+    ],
+    "when_to_see_a_doctor": [
+      "ALWAYS deliver at a healthcare facility with skilled birth attendants — this is the single most important step for PPH prevention and management",
+      "Any heavy bleeding after delivery (soaking pads quickly, large clots, dizziness) — this is an EMERGENCY; call 108/102 ambulance or go to the nearest facility immediately",
+      "Heavy bleeding, fever, or foul discharge in the weeks after delivery (possible secondary PPH/infection) — seek care promptly",
+      "Women with known risk factors (previous PPH, anaemia, multiple pregnancy) should discuss delivery planning with their healthcare provider during antenatal visits",
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "Janani Suraksha Yojana (JSY): Cash incentive scheme to promote institutional delivery, especially for women below poverty line and in low-performing states",
+      "Janani Shishu Suraksha Karyakram (JSSK): Provides free delivery (including caesarean), free drugs and consumables, free diagnostics, free blood transfusion, and free transport (including referral transport) for all pregnant women in government facilities",
+      "Anaemia Mukt Bharat: National programme to reduce anaemia prevalence among pregnant women through IFA supplementation — directly reduces PPH severity",
+      "108/102 Ambulance services: Free emergency transport for pregnant women to facilities",
+      "First Referral Units (FRUs): Designated facilities equipped for comprehensive emergency obstetric care, including blood storage",
+      "LaQshya (Labour Room Quality Improvement Initiative): Government initiative to improve quality of care in labour rooms, including PPH management protocols",
+      "High maternal mortality states (UP, Bihar, MP, Rajasthan, etc.) have intensified focus on PPH prevention through training and facility strengthening"
+    ]
+  }
+}

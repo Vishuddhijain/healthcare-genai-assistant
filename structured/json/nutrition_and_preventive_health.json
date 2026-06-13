@@ -1,0 +1,108 @@
+{
+  "doc_id": "who_nutrition_and_preventive_health_141",
+  "title": "Nutrition and Preventive Health",
+  "source_name": "WHO Healthy Diet Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+  "topic": "Nutrition and Preventive Health",
+  "category": "Wellness / Preventive Care",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Good nutrition is a foundation of good health. A healthy diet helps protect against malnutrition, non-communicable diseases like diabetes, heart disease, stroke, and certain cancers. Unhealthy diet and lack of physical activity are leading global risks to health.\n\n--- IMPORTANT SAFETY NOTE ---\nGeneral dietary advice is provided for awareness only. Specific diet plans for chronic conditions must be prescribed by a qualified nutritionist or doctor.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Iron deficiency anemia: Very common, especially in women and children. Eat iron-rich foods: green leafy vegetables, pulses, dates, jaggery, meat. Vitamin C (lemon, amla) helps absorb iron.",
+      "Vitamin D deficiency: Common in India despite sunshine. Get 15–20 minutes of morning sunlight daily. Food sources: eggs, fatty fish, fortified milk.",
+      "Iodine deficiency: Prevented by using iodised salt.",
+      "Vitamin B12 deficiency: Common in vegetarians. Sources: dairy, eggs. Supplements if needed (consult doctor).",
+      "Calcium deficiency: Important for bones. Sources: milk, curd, paneer, ragi, sesame seeds.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "EAT PLENTY OF FRUITS AND VEGETABLES",
+      "Aim for at least 5 portions (400g total) of fruits and vegetables per day",
+      "Reduces risk of heart disease, stroke, and certain cancers",
+      "Include a variety — different colours provide different nutrients",
+      "Choose fresh, seasonal, local produce when possible",
+      "REDUCE SALT INTAKE",
+      "Limit salt to less than 5 grams (about 1 teaspoon) per day",
+      "Excess salt is a major cause of hypertension and stroke",
+      "Avoid adding extra salt to cooked food",
+      "Read food labels — many packaged foods have high hidden salt",
+      "LIMIT SUGAR",
+      "Reduce free sugars to less than 10% of total energy intake (ideally less than 5%)",
+      "Avoid sugary drinks (sodas, packaged juices, energy drinks)",
+      "Avoid processed sweets, cakes, and biscuits",
+      "Excess sugar leads to weight gain, dental problems, and diabetes",
+      "REDUCE UNHEALTHY FATS",
+      "Avoid trans fats (found in fried/processed foods, margarine, bakery products)",
+      "Limit saturated fats (found in red meat, butter, ghee, cream, cheese)",
+      "Use unsaturated fats (found in fish, avocado, nuts, olive oil, sunflower oil)",
+      "Trans fats increase risk of heart disease; replace with unsaturated fats",
+      "EAT ENOUGH PROTEIN",
+      "Include pulses (dal, rajma, chana), legumes, nuts, seeds",
+      "Eggs, fish, and lean poultry are good sources",
+      "Plant-based proteins are healthier and more sustainable",
+      "STAY HYDRATED",
+      "Drink 8–10 glasses (2–2.5 litres) of water daily",
+      "Water is the best drink — avoid sugary or carbonated drinks",
+      "Increase intake in hot weather or during physical activity",
+      "WHO recommends for adults (18–64 years):",
+      "At least 150–300 minutes of moderate-intensity aerobic activity per week (e.g., brisk walking, cycling)",
+      "OR at least 75–150 minutes of vigorous-intensity activity per week (e.g., running, sports)",
+      "Muscle-strengthening activities (exercises involving major muscle groups) at least 2 days per week",
+      "For children (5–17 years):",
+      "At least 60 minutes of moderate to vigorous physical activity per day",
+      "Limit sedentary time (screen time, sitting)",
+      "Benefits of regular physical activity:",
+      "Reduces risk of heart disease, Type 2 diabetes, and several cancers",
+      "Helps maintain healthy weight",
+      "Improves mental health and mood",
+      "Strengthens bones and muscles",
+      "Improves sleep quality",
+      "Body Mass Index (BMI) is used to assess weight status:",
+      "Below 18.5: Underweight",
+      "18.5–24.9: Normal (healthy)",
+      "25–29.9: Overweight",
+      "30 and above: Obese",
+      "For Indian adults, a BMI above 23 increases risk of lifestyle diseases.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "If you have diabetes, hypertension, or kidney disease — diet changes must be doctor-supervised",
+      "For significant unexplained weight loss or gain",
+      "If you suspect a nutritional deficiency",
+      "For children's nutritional concerns",
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "Under Ayushman Bharat Health & Wellness Centres, free screenings include:",
+      "Blood pressure check",
+      "Blood sugar test (diabetes screening)",
+      "BMI / obesity screening",
+      "Cancer screening (oral, cervical, breast) for eligible age groups",
+      "Find your nearest HWC: nhp.gov.in or call Ayushman Bharat helpline: 14555",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

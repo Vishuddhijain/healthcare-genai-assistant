@@ -1,0 +1,103 @@
+{
+  "doc_id": "who_covid_19_and_common_respiratory_infections_047",
+  "title": "COVID-19 and Common Respiratory Infections",
+  "source_name": "WHO",
+  "source_url": "https://www.who.int/health-topics/coronavirus",
+  "topic": "COVID-19 and Common Respiratory Infections",
+  "category": "Communicable / Infectious Disease / Respiratory",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Respiratory infections range from the common cold and flu (influenza) to more serious illnesses like COVID-19. They primarily affect the nose, throat, windpipe, and lungs. Most mild respiratory infections recover on their own with rest, but some can lead to serious complications especially in vulnerable groups.\n\n--- IMPORTANT SAFETY NOTE ---\nDo not take antibiotics for viral infections like cold, flu, or COVID-19 — they are ineffective and increase antibiotic resistance. Always consult a doctor for appropriate treatment.",
+    "types": [
+      "COVID-19 is caused by the SARS-CoV-2 coronavirus. It was declared a pandemic in March 2020 and remains in circulation as an endemic virus.",
+      "How it spreads:",
+      "Primarily through respiratory droplets when an infected person coughs, sneezes, talks, or breathes",
+      "Close contact with an infected person",
+      "Touching contaminated surfaces and then touching face (less common)",
+      "Symptoms:",
+      "Fever or chills",
+      "Cough (dry or productive)",
+      "Fatigue",
+      "Loss of taste or smell",
+      "Sore throat",
+      "Headache",
+      "Shortness of breath (in moderate to severe cases)",
+      "Body aches",
+      "High-risk groups for severe COVID-19:",
+      "Elderly adults (especially 60+)",
+      "People with diabetes, hypertension, heart disease, obesity, or compromised immune systems",
+      "Pregnant women",
+      "People who are unvaccinated",
+      "Prevention:",
+      "Stay up to date with COVID-19 vaccinations (CoWIN portal: cowin.gov.in)",
+      "Wash hands frequently with soap for at least 20 seconds",
+      "Use hand sanitiser when soap is unavailable",
+      "Wear a mask in crowded or poorly ventilated areas",
+      "Maintain physical distance in high-risk settings",
+      "Ensure good ventilation in indoor spaces",
+      "Avoid touching eyes, nose, and mouth with unwashed hands",
+      "Influenza is a common respiratory infection caused by influenza viruses.",
+      "Symptoms (similar to COVID but typically more sudden):",
+      "Sudden high fever",
+      "Body aches and muscle pain",
+      "Cough and sore throat",
+      "Runny or stuffy nose",
+      "Headache",
+      "Fatigue",
+      "Vomiting/diarrhoea (more common in children)",
+      "Prevention:",
+      "Annual flu vaccine (especially recommended for elderly, children, pregnant women, and healthcare workers)",
+      "Good respiratory hygiene: cover mouth with elbow when coughing or sneezing",
+      "Frequent handwashing",
+      "Stay home when sick to prevent spread",
+      "Caused by various viruses including rhinovirus. Very common, usually mild. Symptoms: Runny nose, sneezing, sore throat, mild cough, low-grade fever. Recovery: Usually within 7–10 days without any specific treatment. Management: Rest, fluids, steam inhalation, and OTC decongestants (consult pharmacist).",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Cover your mouth and nose with a bent elbow or tissue when you cough or sneeze.",
+      "Dispose of used tissues immediately.",
+      "Wash your hands often.",
+      "Avoid touching your face.",
+      "Stay home if you are sick.",
+      "Keep indoor spaces well-ventilated.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "COVID-19 vaccines are available free at government health centres. Check your nearest vaccination centre: cowin.gov.in or call 1075 (health helpline).",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical attention if you have:",
+      "Difficulty breathing or shortness of breath",
+      "Persistent chest pain or pressure",
+      "Confusion or difficulty staying awake",
+      "Bluish lips or face",
+      "Fever above 104°F (40°C) that does not come down",
+      "Worsening symptoms after initially feeling better",
+      "Symptoms in infants, elderly, pregnant women, or people with chronic diseases",
+      "EMERGENCY: Call 112 for severe breathing difficulty."
+    ],
+    "india_specific_context": [
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

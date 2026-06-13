@@ -1,0 +1,81 @@
+{
+  "doc_id": "who_lead_poisoning_106",
+  "title": "Lead Poisoning",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health",
+  "topic": "Lead Poisoning",
+  "category": "Environmental Health / Toxicology",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Lead is a toxic metal with no safe level of exposure, especially for children, causing irreversible neurodevelopmental damage. WHO estimates lead exposure causes ~21.7 million DALYs lost globally. In India, ICMR studies show widespread elevated blood lead levels in children, linked to battery recycling, leaded paint, and spice adulteration.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. There is no safe lead level for children. If exposure is suspected, consult a doctor for blood lead testing and source elimination.",
+    "types": [
+      "Acute lead poisoning: High-dose exposure causing encephalopathy (rare, emergency)",
+      "Chronic lead poisoning: Low-level ongoing exposure causing cumulative neurological and organ damage (most common form)"
+    ],
+    "symptoms": [
+      "Children:",
+      "Reduced IQ, learning and memory problems",
+      "Behavioural issues (hyperactivity, aggression)",
+      "Delayed development, hearing loss, anaemia, reduced growth",
+      "Abdominal pain, constipation, loss of appetite",
+      "Adults:",
+      "Hypertension, kidney damage, peripheral neuropathy (wrist drop)",
+      "Reduced fertility, miscarriage risk",
+      "Cognitive decline (occupational exposure)"
+    ],
+    "warning_signs": [
+      "Acute encephalopathy: Severe abdominal pain (lead colic), seizures, delirium, coma — MEDICAL EMERGENCY",
+      "Unexplained learning/behavioural issues in child living near industrial sites"
+    ],
+    "risk_factors": [
+      "Informal lead-acid battery recycling (major India source)",
+      "Lead-based paint in older buildings (India banned >90ppm in 2016)",
+      "Adulterated spices (turmeric, chilli with lead chromate)",
+      "Kohl/surma/sindoor cosmetics containing lead",
+      "Occupational exposure (battery, smelting, painting, plumbing)",
+      "Imported toys/jewellery with high lead content"
+    ],
+    "prevention": [
+      "Avoid kohl/surma/sindoor near children and pregnant women",
+      "Buy spices from reputable, tested sources",
+      "Damp-mop floors (not dry sweep) in older painted homes",
+      "Wash children's hands frequently, especially before meals",
+      "Avoid unverified imported toys for young children",
+      "Adequate dietary calcium, iron, Vitamin C reduces lead absorption"
+    ],
+    "environmental_control": [
+      "Enforce Lead Paint Rules 2016 (90 ppm limit)",
+      "Relocate informal battery recycling away from residential areas",
+      "Worker PPE (respirators, gloves) and no eating at worksite",
+      "FSSAI spice testing for adulteration"
+    ],
+    "vaccination": [
+      "Not applicable; no vaccine for lead poisoning"
+    ],
+    "diagnosis": [
+      "Blood Lead Level (BLL): >5 µg/dL in children warrants source investigation; >45 µg/dL needs chelation",
+      "Erythrocyte protoporphyrin (screening)",
+      "X-ray long bones: \"Lead lines\" in chronic high exposure children"
+    ],
+    "treatment_awareness_only": [
+      "Remove from exposure source (primary step)",
+      "Nutritional support (calcium, iron, Vitamin C)",
+      "Chelation therapy (DMSA oral, EDTA/Dimercaprol IV for severe cases) — hospital, specialist-only",
+      "Educational support for affected children",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Child near battery recycling/old painted building with learning/behaviour problems",
+      "Suspected ingestion of lead-containing paint, cosmetics, or medicines",
+      "Occupational lead workers — periodic blood lead testing",
+      "Abdominal pain/weakness with known lead exposure"
+    ],
+    "india_specific_context": [
+      "ICMR studies show elevated BLLs in children in Delhi, Mumbai, Kolkata and industrial belts",
+      "Spice adulteration with lead chromate remains a FSSAI enforcement priority",
+      "Informal battery recycling exposes millions of workers/communities",
+      "Surma/kajal use remains common — public awareness campaigns needed"
+    ]
+  }
+}

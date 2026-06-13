@@ -1,0 +1,51 @@
+{
+  "doc_id": "who_deliberate_events_050",
+  "title": "Deliberate events",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/deliberate-events",
+  "topic": "Deliberate events",
+  "category": "Emergency Preparedness",
+  "last_updated": "2 April 2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Deliberate events (DEs) are malicious acts with the intention to cause harm to the target. Traditionally, DEs involve the release or use of hazardous substances such as chemicals, biological agents, toxins or radio-nuclear materials (CBRN), while emerging threats include disinformation, misuse of digital, cyber means (for example, cyber-attacks disrupting critical health infrastructures) and other new technologies. DEs can occur on a small scale, for example poisoning an individual, or a large scale, such as the release of CBRN material to kill, make sick, or injure large populations, initiate larger scale epidemics, or severely damage the environment. A disinformation campaign may accompany DEs to create fear, panic, distrust, discrimination and psychological trauma.\n\n- Deliberate events (DEs) are malicious acts with the intention to cause harm. The scope includes traditional chemical, biological and radio-nuclear agents and emerging threats such as cyber-attacks and dis-information campaigns.\n- DEs may be announced or occur covertly with uncertainty or ambiguity as to the cause or whether the cause was deliberate.\n- The scale of consequence of DEs could vary widely – from DEs aimed at individuals or small groups of people with minor or major impacts to DEs that cause mass casualties and cascading consequences of potentially public health emergencies of international concern.\n- Addressing DEs involves both health and security dimensions. When a DE is suspected, response efforts will have to balance medical, public health, epidemiological and humanitarian response efforts with criminal and forensic investigations involving national and/or international authorities across multiple agencies, requiring coordination across a range of actors, resources and capacities.\n- The Biological Weapons Convention (BWC) prohibits the development, production, acquisition, transfer, stockpiling and use of biological and toxin weapons.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Deliberate events (DEs) are malicious acts with the intention to cause harm. The scope includes traditional chemical, biological and radio-nuclear agents and emerging threats such as cyber-attacks and dis-information campaigns."
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "DEs involve both health and security dimensions. In conflict or war, key health infrastructure or CBRN facilities can be deliberately damaged, contaminated or destroyed with widespread consequences. Geopolitical shifts and conflicts create new circumstances for DEs. In addition to these traditional agents, emerging threats include disinformation and the misuse of cyber and technology means, with direct or indirect consequences on human health (fear, mistrust, major psychological impacts, delay in access to care, etc.). Scientific advances and access to technological and digital tools have increased the potential risks of high-consequence...",
+      "Uncertainty about exposure to a deliberately released agent is likely to increase fear, anxiety and panic amongst the general public. Preparedness, training and education, risk communication and debriefing aimed at mitigating psychological consequences are important to consider for ensuring the mental health of front-line workers and affected populations."
+    ],
+    "prevention": [
+      "Use standard public-health prevention: timely health advice, safe hygiene practices, vaccination where recommended, risk reduction, and following local public-health guidance."
+    ],
+    "environmental_control": [
+      "Uncertainty about exposure to a deliberately released agent is likely to increase fear, anxiety and panic amongst the general public. Preparedness, training and education, risk communication and debriefing aimed at mitigating psychological consequences are important to consider for ensuring the mental health of front-line workers and affected populations."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

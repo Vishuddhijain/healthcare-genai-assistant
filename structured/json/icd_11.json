@@ -1,0 +1,70 @@
+{
+  "doc_id": "who_icd_11_096",
+  "title": "ICD-11",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/icd-11",
+  "topic": "ICD-11",
+  "category": "Public Health Awareness",
+  "last_updated": "10 February 2022",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "ICD–11 is the international standard for systematic recording, reporting, analysis, interpretation and comparison of mortality and morbidity data. This 11 th revision is the result of an unprecedented collaboration with clinicians, statisticians, classification and IT experts from around the world, making it useable by these groups, as well as by coders.\n\nICD–11 allows countries to count and identify their most pressing health issues by using an up-to-date and clinically relevant classification system. Health conditions and accidents are assigned ICD–11 codes, resulting in data that can be used by governments to design effective public health policies, and measure their impact, or used for clinical recording.\n\nFor the first time, ICD is fully electronic, currently providing access to 17 000 diagnostic categories, with over 100 000 medical diagnostic index terms. The index-based search algorithm interprets more than 1.6 million terms. ICD–11 is easy to install and use online or offline, using free 'container' software.\n\n- The global standard for health data, clinical documentation and statistical aggregation.\n- Multiple uses, including primary care\n- Thoroughly and scientifically updated, and designed for use in a digital world.\n- State-of-the-art technology reduces the costs of training and implementation.\n- Multilingual design facilitates global use while the proposal platform allows stakeholder participation in keeping ICD–11 up-to-date.\n- Countries have already commenced preparing for implementation of ICD–11, with both English and Spanish versions online.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "ICD is part of the WHO Family of International Health Related Classifications (WHOFIC).",
+      "ICD, the International Classification for Health Interventions (ICHI) and the International Classification for Functioning, Disability and Health (ICF) are the core classifications that are complemented by Classifications for Nursing, Primary Care or Medicaments (ATC/DDD).",
+      "Primary care has been incorporated in ICD-11, and the Medicaments, as well as cancer histopathology (ICD-O), have been embedded in ICD-11",
+      "[1] The Global Antimicrobial Resistance Surveillance System (GLASS)",
+      "[2] WHO International Nonproprietary Names (INN) facilitate the identification of pharmaceutical substances or active pharmaceutical ingredients. Each INN is a unique name that is globally recognised and is public property. A nonproprietary name is also known as a generic name.",
+      "Eastern Mediterranean"
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "More clinically relevant coding for complications of diabetes.",
+      "In the cause of death coding, ICD-11 facilitates the transition from ICD-10, and the ICD Startup Mortality List (SMoL)."
+    ],
+    "risk_factors": [
+      "Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment."
+    ],
+    "prevention": [
+      "ICD–11 is a vast improvement on previous revisions. It reflects critical advances in science and medicine, aligning classification with the latest knowledge of disease treatment and prevention. There is more meaningful clinical content than ICD–10.",
+      "Codes for full documentation of patient safety, in line with the WHO patient safety framework",
+      "The creation of extension codes allows flexible addition of detail relevant for clinical documentation, and device or substance safety. Extension codes provide for the recording of medicaments with WHO INN [2] and WHO Medical Device nomenclature, as well as documenting the severity of conditions, anatomy or histopathology.",
+      "Meaningful data for prevention, resourcing or evaluation are best produced with a standardised classification that is based on the latest medical and scientific knowledge.",
+      "ICD–11 is flexible in the level of detail captured, it can be adapted to the primary care setting, for surveillance of rare conditions, to generate adverse event reporting inpatient quality and safety management, and to the use of casemix for reimbursement and resource allocation is possible.",
+      "Preventing sexual exploitation"
+    ],
+    "environmental_control": [
+      "A significant feature of ICD–11 is the improved ease and accuracy of coding requiring less user training than ever before, together with the availability of online and offline functioning. ICD–11 is digital health ready, for use in multiple IT-environments, with a new API. It is presented together with a suite of web services, including multilingual support and in-built user guidance."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "For the first time, ICD is fully electronic, currently providing access to 17 000 diagnostic categories, with over 100 000 medical diagnostic index terms. The index-based search algorithm interprets more than 1.6 million terms. ICD–11 is easy to install and use online or offline, using free 'container' software.",
+      "ICD–11 is a vast improvement on previous revisions. It reflects critical advances in science and medicine, aligning classification with the latest knowledge of disease treatment and prevention. There is more meaningful clinical content than ICD–10.",
+      "New core chapters include 'Diseases of the immune system’, 'Sleep-wake disorders’, and 'Conditions related to sexual health’. New supplementary chapters and sections permit the assessment of functioning, and the optional recording of traditional medicine diagnoses.",
+      "Codes for common skin cancers basalioma, and melanoma subtypes. Classification of heart valve diseases and pulmonary hypertension, now matching current diagnostic and treatment capacity.",
+      "Meaningful data for prevention, resourcing or evaluation are best produced with a standardised classification that is based on the latest medical and scientific knowledge."
+    ],
+    "treatment_awareness_only": [
+      "Multiple uses, including primary care",
+      "ICD–11 is a vast improvement on previous revisions. It reflects critical advances in science and medicine, aligning classification with the latest knowledge of disease treatment and prevention. There is more meaningful clinical content than ICD–10.",
+      "New core chapters include 'Diseases of the immune system’, 'Sleep-wake disorders’, and 'Conditions related to sexual health’. New supplementary chapters and sections permit the assessment of functioning, and the optional recording of traditional medicine diagnoses.",
+      "All concepts for recording and reporting in primary care are included.",
+      "Codes for common skin cancers basalioma, and melanoma subtypes. Classification of heart valve diseases and pulmonary hypertension, now matching current diagnostic and treatment capacity.",
+      "ICD–10 is scientifically and technologically outdated; it is missing content for several de-facto uses of ICD, like primary care or clinical decisions."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

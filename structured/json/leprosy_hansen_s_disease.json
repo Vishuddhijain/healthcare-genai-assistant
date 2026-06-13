@@ -1,0 +1,69 @@
+{
+  "doc_id": "who_leprosy_hansen_s_disease_109",
+  "title": "Leprosy (Hansen's Disease)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/leprosy",
+  "topic": "Leprosy (Hansen's Disease)",
+  "category": "Communicable Disease (Bacterial NTD)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Leprosy is a chronic infectious disease caused by Mycobacterium leprae, primarily affecting skin and peripheral nerves. India declared national elimination (<1/10,000) in 2005 but still accounts for ~50–60% of global new cases (~75,000–100,000 annually). It is curable with free Multi-Drug Therapy (MDT).\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Leprosy is curable and treatment is free at government facilities. Any numb skin patch should be evaluated promptly — early treatment prevents disability. There is no justification for stigma or discrimination.",
+    "types": [
+      "Paucibacillary (PB) leprosy: Few lesions, less contagious, 6-month MDT",
+      "Multibacillary (MB) leprosy: Many lesions, high bacterial load, more contagious, 12-month MDT"
+    ],
+    "symptoms": [
+      "Hypopigmented or reddish skin patches with reduced/absent sensation (key feature)",
+      "Thickened, painful peripheral nerves (ulnar, peroneal, facial nerves)",
+      "Muscle weakness: foot drop, claw hand, lagophthalmos (eye won't close)",
+      "Nasal congestion, nosebleeds (MB leprosy)",
+      "Leonine facies (severe lepromatous cases)"
+    ],
+    "warning_signs": [
+      "Sudden inflammation of skin lesions/nerves (Type 1/Reversal reaction) — needs urgent steroids to prevent permanent nerve damage",
+      "Painful nodules with fever (Type 2/ENL reaction) — needs urgent treatment",
+      "New numbness or weakness in hands/feet/face — urgent evaluation to prevent disability"
+    ],
+    "risk_factors": [
+      "Close, prolonged contact with untreated multibacillary leprosy patient",
+      "Household contacts of leprosy patients",
+      "Living in endemic areas with limited healthcare access"
+    ],
+    "prevention": [
+      "BCG vaccination provides partial protection (50–80%)",
+      "Post-exposure prophylaxis: Single-dose rifampicin (SDR) for close contacts under NLEP",
+      "Early diagnosis and treatment eliminates infectivity within days"
+    ],
+    "environmental_control": [
+      "Not vector-borne; no environmental vector control needed",
+      "Active case finding campaigns in endemic districts under NLEP"
+    ],
+    "vaccination": [
+      "BCG vaccine (given at birth under UIP) provides partial cross-protection against leprosy"
+    ],
+    "diagnosis": [
+      "Clinical: Hypopigmented anaesthetic patch + thickened nerve",
+      "Skin slit smear for AFB (multibacillary cases)",
+      "Skin biopsy for histopathology confirmation"
+    ],
+    "treatment_awareness_only": [
+      "Multi-Drug Therapy (MDT): Rifampicin + Dapsone (± Clofazimine for MB) — FREE at all government facilities",
+      "PB: 6 months; MB: 12 months",
+      "Reactions (Type 1/2): Corticosteroids, thalidomide (ENL) — doctor prescribed",
+      "Disability prevention: Proper footwear, eye care, physiotherapy",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Any numb skin patch — even a single one — should be evaluated",
+      "Hand weakness (claw hand), foot drop, or eye not closing fully",
+      "Sudden severe reaction in existing leprosy patient — emergency",
+      "Household contact of leprosy patient — for SDR prophylaxis"
+    ],
+    "india_specific_context": [
+      "National Leprosy Eradication Programme (NLEP): Free MDT at all government health facilities",
+      "Leprosy is curable — discrimination is being addressed through legal reforms (removal of discriminatory provisions from various Acts)",
+      "District leprosy offices coordinate case detection and treatment"
+    ]
+  }
+}

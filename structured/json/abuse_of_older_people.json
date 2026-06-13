@@ -1,0 +1,59 @@
+{
+  "doc_id": "who_abuse_of_older_people_002",
+  "title": "Abuse of older people",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/abuse-of-older-people",
+  "topic": "Abuse of older people",
+  "category": "Public Health Awareness",
+  "last_updated": "15 June 2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Abuse of older people is an important public health problem. A 2017 review of 52 studies in 28 countries from diverse regions estimated that over the past year 1 in 6 people (15.7%) aged 60 years and older were subjected to some form of abuse (1) . Although rigorous data are limited, the review provides prevalence estimates of the proportion of older people affected by different types of abuse (see Table 1). Data on the extent of the problem in institutions such as hospitals, nursing homes and other long-term care facilities are scarce. However, a review of recent studies on abuse of older people in institutional settings (2) indicates that 64.2% of staff reported perpetrating some form of abuse in the past year.\n\nTable 1: Systematic reviews and meta-analyses\n\nAbuse of older people in community settings.\n\n- Around 1 in 6 people 60 years and older experienced some form of abuse in community settings during the past year.\n- Rates of abuse of older people are high in institutions such as nursing homes and long-term care facilities, with 2 in 3 staff reporting that they have committed abuse in the past year.\n- Rates of abuse of older people have increased during the COVID-19 pandemic.\n- Abuse of older people can lead to serious physical injuries and long-term psychological consequences.\n- Abuse of older people is predicted to increase as many countries are experiencing rapidly ageing populations.\n- The global population of people aged 60 years and older will more than double, from 900 million in 2015 to about 2 billion in 2050.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Around 1 in 6 people 60 years and older experienced some form of abuse in community settings during the past year.",
+      "The abuse of older people, also known as elder abuse, is a single or repeated act, or lack of appropriate action, occurring within any relationship where there is an expectation of trust, which causes harm or distress to an older person. This type of violence constitutes a violation of human rights and includes physical, sexual, psychological and emotional abuse; financial and material abuse; abandonment; neglect; and serious loss of dignity and respect."
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Abuse of older people can have serious physical and mental health, financial, and social consequences, including, for instance, physical injuries, premature mortality, depression, cognitive decline, financial devastation and placement in nursing homes. For older people, the consequences of abuse can be especially serious and recovery may take longer."
+    ],
+    "risk_factors": [
+      "Abuse of older people is an important public health problem. A 2017 review of 52 studies in 28 countries from diverse regions estimated that over the past year 1 in 6 people (15.7%) aged 60 years and older were subjected to some form of abuse (1) . Although rigorous data are limited, the review provides prevalence estimates of the proportion of older people affected by different types of abuse (see Table 1). Data on the extent of the problem in institutions such as hospitals, nursing homes and other long-term care facilities are scarce. However, a review of recent studies on abuse of older people in institutional settings (2) indicates...",
+      "Table 1: Systematic reviews and meta-analyses",
+      "Abuse of older people in community settings.",
+      "Abuse of older people in institutional settings.",
+      "Reported by older adults",
+      "Reported by older adults and their proxies",
+      "64.2% or 2 in 3 staff",
+      "Psychological abuse:"
+    ],
+    "prevention": [
+      "Many strategies have been tried to prevent and respond to abuse of older people, but evidence for the effectiveness of most of these interventions is limited at present. Strategies considered most promising include caregiver interventions, which provide services to relieve the burden of caregiving; money management programmes for older adults vulnerable to financial exploitation; helplines and emergency shelters; and multi-disciplinary teams, as the responses required often cut across many systems, including criminal justice, health care, mental health care, adults protective services and long-term care.",
+      "In some countries, the health sector has taken a leading role in raising public concern about abuse of older people, while in others the social welfare sector has taken the lead. Globally, too little is known about elder abuse and how to prevent it, particularly in developing countries."
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

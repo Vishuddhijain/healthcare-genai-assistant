@@ -1,0 +1,109 @@
+{
+  "doc_id": "who_family_planning_and_contraception_071",
+  "title": "Family Planning and Contraception",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception",
+  "topic": "Family Planning and Contraception",
+  "category": "Reproductive Health / Public Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Family planning allows people and couples to plan whether and when to have children. Access to safe, voluntary, and effective contraception is a fundamental human right and a key component of public health. In India, family planning services are provided free at all government health facilities. Unintended pregnancy is a major health risk — especially for young women and those with health conditions.\n\n- An estimated 257 million women globally have an unmet need for family planning.\n- Safe contraception prevents unintended pregnancies, reduces maternal mortality, and improves child health.\n- India's National Family Planning Programme provides free contraceptives at all government health centres.\n- Contraceptive use has increased significantly in India, but unmet need remains especially in rural areas.\n- All methods have different effectiveness, benefits, and side effects — a healthcare provider should guide choice.\n\nIf pregnant unintentionally:\n- Medical Termination of Pregnancy (MTP) Act 2021: Legal abortion in India up to 20 weeks (24 weeks in special cases — rape, fetal abnormality, disability).\n- Safe abortion services are available at government hospitals — free for eligible patients.\n- Unsafe abortions cause significant maternal mortality. Always use registered medical facilities.\n- Consult a doctor promptly for unintended pregnancy.\n\nQ: Is the morning-after pill an abortion pill?\nA: No. Emergency contraceptive pills prevent fertilisation or implantation — they do not terminate an existing pregnancy. They are most effective when taken as soon as possible after unprotected sex.\n\nQ: Does using contraception affect future fertility?\nA: No. All reversible methods (pills, condoms, IUDs, injections) — fertility returns after stopping. Even after long-term use.\n\nQ: Are condoms 100% effective?\nA: No contraceptive is 100% effective. Condoms used correctly and consistently are about 98% effective. They are the only method that also protects against STIs.\n\nQ: Is vasectomy better or worse than tubectomy?\nA: Vasectomy is simpler, safer, faster, and has fewer complications. Both are equally effective. Men are encouraged to consider vasectomy — it should be a shared responsibility.\n\n--- IMPORTANT SAFETY NOTE ---\nAll contraceptive methods, especially hormonal methods and IUDs, should be selected with guidance from a healthcare provider. This information is for awareness only. Free counselling and services are available at government health centres.",
+    "types": [
+      "BARRIER METHODS:",
+      "Male condom:",
+      "Also protects against STIs (the only contraceptive that does this)",
+      "Available FREE at government hospitals, PHCs, and through ASHA workers",
+      "Correct and consistent use is essential for effectiveness",
+      "Available also at pharmacies",
+      "Female condom:",
+      "Worn inside the vagina; also protects against STIs",
+      "Available at some government facilities",
+      "HORMONAL METHODS (require medical consultation):",
+      "Oral contraceptive pills (OCPs):",
+      "Taken daily; highly effective when taken correctly",
+      "Free at government PHCs",
+      "Not recommended for women who smoke and are over 35, or those with certain health conditions",
+      "Need medical guidance for appropriate type and dosage",
+      "Injectable contraceptive (DMPA/Antara):",
+      "Injection given every 3 months by a health worker",
+      "Free at government health centres under Antara Programme",
+      "No daily pill to remember; confidential",
+      "Implant (Implanon):",
+      "Small rod inserted under skin of upper arm; lasts 3 years",
+      "Highly effective; reversible",
+      "Available at selected government hospitals",
+      "INTRAUTERINE DEVICES (IUDs):",
+      "Copper-T (Cu-IUD):",
+      "Small T-shaped device placed inside the uterus by a trained provider",
+      "Highly effective for 5–10 years; reversible",
+      "FREE at government hospitals",
+      "Also works as emergency contraception if inserted within 5 days of unprotected sex",
+      "Hormonal IUS (Mirena):",
+      "Available in private sector",
+      "EMERGENCY CONTRACEPTION:",
+      "Emergency contraceptive pill (ECP):",
+      "Taken within 72 hours of unprotected sex (the sooner, the more effective)",
+      "Available over the counter at pharmacies (no prescription needed)",
+      "NOT a regular method of contraception — does not protect against STIs",
+      "Also known as \"morning-after pill\" or iPill/Unwanted 72",
+      "PERMANENT METHODS (Sterilisation):",
+      "Female sterilisation (tubectomy/laparoscopy):",
+      "Permanent; suitable for women who have completed their family",
+      "FREE at government hospitals; compensation provided under Mission Parivar Vikas",
+      "Male sterilisation (vasectomy):",
+      "Safe, simple, minor surgical procedure",
+      "FREE at government hospitals",
+      "Less invasive and faster recovery than female sterilisation",
+      "Significantly underutilised in India compared to female sterilisation",
+      "Fertility awareness methods (tracking menstrual cycle): Require careful training; less reliable",
+      "Not recommended as primary method for those who want to avoid pregnancy reliably",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "The right method depends on:",
+      "Whether pregnancy is desired in the future (reversibility needed?)",
+      "Frequency of sexual activity",
+      "Health conditions and medications",
+      "Tolerance of hormonal methods",
+      "Whether STI protection is also needed (only condoms protect against STIs)",
+      "Consult an ASHA worker, ANM (Auxiliary Nurse Midwife), or doctor for personalised guidance.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "To choose a contraceptive method",
+      "If experiencing side effects from a current method",
+      "If missed pills or concerns about contraceptive failure",
+      "Emergency contraception needed",
+      "Planning pregnancy — pre-conception counselling"
+    ],
+    "india_specific_context": [
+      "India's flagship family planning programme for high-fertility districts:",
+      "Free contraceptives at all levels of health system",
+      "Cash incentive for sterilisation to compensate for loss of wages",
+      "ASHA workers provide doorstep counselling and contraceptive supply",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "doc_id": "who_brucellosis_024",
+  "title": "Brucellosis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis",
+  "topic": "Brucellosis",
+  "category": "Infectious Disease Awareness",
+  "last_updated": "29 July 2020",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Brucellosis is found globally and is a reportable disease in most countries. It affects people of all ages and both sexes. In the general population, most cases are caused by the consumption of raw milk or its derivatives such as fresh cheese. Most of these cases are from sheep and goat products.\n\nThe disease is also considered an occupational hazard for people who work in the livestock sector. People who work with animals and are in contact with blood, placenta, foetuses and uterine secretions have an increased risk of contracting the disease. This method of transmission primarily affects farmers, butchers, hunters, veterinarians and laboratory personnel.\n\nWorldwide, Brucella melitensis is the most prevalent species causing human brucellosis, owing in part to difficulties in immunizing free-ranging goats and sheep.\n\n- Brucellosis is found globally and is a reportable disease in most countries\n- The disease causes flu-like symptoms, including fever, weakness, malaise and weight loss\n- Person-to-person transmission is rare\n- Brucellosis is a bacterial disease caused by various Brucella species, which mainly infect cattle, swine, goats, sheep and dogs\n- Brucellosis is a bacterial disease caused by various Brucella species, which mainly infect cattle, swine, goats, sheep and dogs. Humans generally acquire the disease through direct contact with infected animals, by eating or drinking contaminated animal products or by inhaling airborne agents. Most cases are caused by ingesting unpasteurized milk or cheese from infected goats or sheep.\n- Brucellosis is one of the most widespread zoonoses transmitted by animals and in endemic areas, human brucellosis has serious public health consequences. Expansion of animal industries and urbanization, and the lack of hygienic measures in animal husbandry and in food handling, partly account for brucellosis remaining a public health hazard.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Brucellosis typically causes flu-like symptoms, including fever, weakness, malaise and weight loss. However, the disease may present in many atypical forms. In many patients the symptoms are mild and, therefore, the diagnosis may not be considered. The incubation period of the disease can be highly variable, ranging from 1 week to 2 months, but usually 2–4 weeks."
+    ],
+    "symptoms": [
+      "The disease causes flu-like symptoms, including fever, weakness, malaise and weight loss",
+      "Brucellosis typically causes flu-like symptoms, including fever, weakness, malaise and weight loss. However, the disease may present in many atypical forms. In many patients the symptoms are mild and, therefore, the diagnosis may not be considered. The incubation period of the disease can be highly variable, ranging from 1 week to 2 months, but usually 2–4 weeks."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Brucellosis is found globally and is a reportable disease in most countries. It affects people of all ages and both sexes. In the general population, most cases are caused by the consumption of raw milk or its derivatives such as fresh cheese. Most of these cases are from sheep and goat products.",
+      "The disease is also considered an occupational hazard for people who work in the livestock sector. People who work with animals and are in contact with blood, placenta, foetuses and uterine secretions have an increased risk of contracting the disease. This method of transmission primarily affects farmers, butchers, hunters, veterinarians and laboratory personnel.",
+      "Worldwide, Brucella melitensis is the most prevalent species causing human brucellosis, owing in part to difficulties in immunizing free-ranging goats and sheep.",
+      "Human-to-human transmission is very rare."
+    ],
+    "prevention": [
+      "Prevention of brucellosis is based on surveillance and the prevention of risk factors. The most effective prevention strategy is the elimination of infection in animals. Vaccination of cattle, goats and sheep is recommended in enzootic areas with high prevalence rates. Serological or other testing and culling can also be effective in areas with low prevalence. In countries where eradication in animals through vaccination or elimination of infected animals is not feasible, prevention of human infection is primarily based on raising awareness, food-safety measures, occupational hygiene and laboratory safety.",
+      "Pasteurization of milk for direct consumption and for creating derivatives such as cheese is an important step to preventing transmission from animals to humans. Education campaigns about avoiding unpasteurized milk products can be effective, as well as policies on its sale.",
+      "In agricultural work and meat-processing, protective barriers and correct handling and disposal of afterbirths, animal carcasses and internal organs is an important prevention strategy."
+    ],
+    "environmental_control": [
+      "Prevention of brucellosis is based on surveillance and the prevention of risk factors. The most effective prevention strategy is the elimination of infection in animals. Vaccination of cattle, goats and sheep is recommended in enzootic areas with high prevalence rates. Serological or other testing and culling can also be effective in areas with low prevalence. In countries where eradication in animals through vaccination or elimination of infected animals is not feasible, prevention of human infection is primarily based on raising awareness, food-safety measures, occupational hygiene and laboratory safety.",
+      "Pasteurization of milk for direct consumption and for creating derivatives such as cheese is an important step to preventing transmission from animals to humans. Education campaigns about avoiding unpasteurized milk products can be effective, as well as policies on its sale.",
+      "In agricultural work and meat-processing, protective barriers and correct handling and disposal of afterbirths, animal carcasses and internal organs is an important prevention strategy."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "The disease is also considered an occupational hazard for people who work in the livestock sector. People who work with animals and are in contact with blood, placenta, foetuses and uterine secretions have an increased risk of contracting the disease. This method of transmission primarily affects farmers, butchers, hunters, veterinarians and laboratory personnel.",
+      "Brucellosis typically causes flu-like symptoms, including fever, weakness, malaise and weight loss. However, the disease may present in many atypical forms. In many patients the symptoms are mild and, therefore, the diagnosis may not be considered. The incubation period of the disease can be highly variable, ranging from 1 week to 2 months, but usually 2–4 weeks."
+    ],
+    "treatment_awareness_only": [
+      "Brucellosis typically causes flu-like symptoms, including fever, weakness, malaise and weight loss. However, the disease may present in many atypical forms. In many patients the symptoms are mild and, therefore, the diagnosis may not be considered. The incubation period of the disease can be highly variable, ranging from 1 week to 2 months, but usually 2–4 weeks.",
+      "Treatment options include doxycycline 100 mg twice a day for 45 days, plus streptomycin 1 g daily for 15 days. The main alternative therapy is doxycycline at 100 mg, twice a day for 45 days, plus rifampicin at 15mg/kg/day (600-900mg) for 45 days. Experience suggests that streptomycin may be substituted with gentamicin 5mg/kg/daily for 7–10 days, but no study directly comparing the two regimes is currently available. The optimal treatment for pregnant women, neonates and children under 8 is not yet determined; for children, options include trimethoprim/sulfamethoxazole (co-trimoxazole) combined with an aminoglycoside (streptomycin,..."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

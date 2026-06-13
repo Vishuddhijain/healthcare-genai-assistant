@@ -1,0 +1,143 @@
+{
+  "doc_id": "who_kidney_disease_awareness_ckd_and_acute_kidney_injury_104",
+  "title": "Kidney Disease Awareness (CKD and Acute Kidney Injury)",
+  "source_name": "WHO + NHP India + ISN",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/chronic-kidney-disease",
+  "topic": "Kidney Disease Awareness (CKD and Acute Kidney Injury)",
+  "category": "Non-Communicable Disease (Nephrology)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Kidney (renal) disease is a growing public health crisis in India. The kidneys perform essential functions: filtering waste and excess fluid from blood, regulating blood pressure, balancing electrolytes, and producing hormones for red blood cell production and bone health. Chronic Kidney Disease (CKD) — defined as reduced kidney function or structural damage for >3 months — affects an estimated 17% of adults in India (SEEK study). India adds approximately 220,000 new end-stage renal disease (ESRD) patients annually, of whom only a fraction receive dialysis or transplantation due to cost and access barriers. Diabetes and hypertension are the top two causes of CKD in India and globally.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Kidney disease is often asymptomatic in early stages — regular screening is the only way to detect it early. Do not self-medicate with painkillers or herbal medicines without medical advice. Kidney function can deteriorate rapidly without warning in some conditions — always consult a qualified nephrologist or physician for diagnosis and management.",
+    "types": [
+      "Chronic Kidney Disease (CKD):",
+      "Progressive, irreversible decline in kidney function over months to years",
+      "Staged by GFR (Glomerular Filtration Rate): G1 (>90, normal/high) → G5 (<15, kidney failure)",
+      "Often silent until late stages — called the \"silent killer\"",
+      "Acute Kidney Injury (AKI):",
+      "Sudden decline in kidney function over hours to days",
+      "Potentially reversible if identified and treated promptly",
+      "Causes in India: Dehydration (diarrhoea, heatstroke), severe infections (sepsis, leptospirosis, malaria, dengue), NSAIDs/painkillers, contrast dye, snake bite, crush injury",
+      "End-Stage Kidney Disease (ESKD) / Kidney Failure (CKD G5):",
+      "Requires renal replacement therapy: dialysis (haemodialysis or peritoneal dialysis) or kidney transplantation",
+      "Kidney transplantation is the best treatment for quality of life and survival",
+      "Hard deposits of minerals and salts inside kidneys",
+      "Common in India (hot climate, dietary factors, dehydration)",
+      "Types: Calcium oxalate (most common), uric acid, struvite, cystine",
+      "Symptoms: Severe flank/back pain, blood in urine, nausea, frequent urination",
+      "Small stones often pass on their own with adequate hydration",
+      "Larger stones require medical intervention (lithotripsy, ureteroscopy, surgery)",
+      "Prevention: High fluid intake (>2.5 litres/day), dietary modifications as advised by doctor"
+    ],
+    "symptoms": [
+      "Early CKD — often NO symptoms. Detected only through blood/urine tests.",
+      "As CKD progresses:",
+      "Fatigue and weakness",
+      "Decreased urine output or changes in urine (frothy/foamy urine = proteinuria, blood in urine = haematuria, frequent night urination)",
+      "Swelling of feet, ankles, and legs (oedema)",
+      "Puffiness around eyes (especially in the morning)",
+      "High blood pressure that is difficult to control",
+      "Nausea and vomiting",
+      "Loss of appetite",
+      "Itching (pruritus)",
+      "Muscle cramps",
+      "Shortness of breath (fluid in lungs)",
+      "Difficulty concentrating",
+      "Pale skin and anaemia (kidneys produce less erythropoietin)",
+      "AKI symptoms:",
+      "Decreased or absent urine output",
+      "Swelling",
+      "Confusion",
+      "Nausea and fatigue",
+      "May be part of a broader severe illness (sepsis, dengue, snakebite)"
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Primary causes (leading to CKD):",
+      "Diabetes mellitus — the leading cause in India; affects ~40% of CKD patients",
+      "Hypertension (high blood pressure) — second leading cause; both cause and effect of CKD",
+      "Glomerulonephritis (immune-mediated kidney inflammation) — more common in India than in Western countries; often linked to infections (streptococcal, hepatitis B, malaria, HIV)",
+      "Obstruction: Kidney stones, enlarged prostate — can cause CKD if prolonged",
+      "Chronic recurrent infections: Repeated UTIs, tuberculosis of kidney",
+      "Polycystic kidney disease: Inherited; multiple cysts destroy kidney tissue",
+      "Lupus and autoimmune conditions",
+      "Other risk factors:",
+      "Prolonged NSAID use (ibuprofen, diclofenac, aspirin) — extremely common and under-recognised in India; painkillers are nephrotoxic",
+      "Ayurvedic/herbal medications with heavy metals (lead, mercury, arsenic) — documented cause of CKD in India",
+      "Occupational exposure to heavy metals (chromium, lead, cadmium)",
+      "Dehydration (manual labourers in heat — linked to CKD of unknown cause / CKDu)",
+      "Recurrent kidney stones",
+      "Family history of kidney disease",
+      "Smoking and obesity"
+    ],
+    "prevention": [
+      "Control primary risk factors:",
+      "Maintain blood sugar within target range (HbA1c <7% for most diabetics)",
+      "Control blood pressure (target <130/80 mmHg; or <125/75 mmHg in CKD with proteinuria)",
+      "Annual kidney function testing (serum creatinine, eGFR, urine albumin-creatinine ratio) for all diabetics and hypertensives — mandatory for early detection",
+      "Medication safety:",
+      "Avoid self-medication with NSAIDs/painkillers (ibuprofen, diclofenac, ketorolac) — use sparingly and under medical supervision",
+      "Be cautious with Ayurvedic/herbal medicines — ensure they are certified metal-free",
+      "Always inform doctors of ALL medications (including OTC and herbal) when kidney disease is a concern",
+      "Hydration:",
+      "Adequate fluid intake (approx. 2–3 litres/day for healthy adults) — helps prevent kidney stones and UTIs",
+      "Avoid severe dehydration (manual labour in heat; during illness)",
+      "Diet (for those at risk — consult doctor for individualised advice):",
+      "Reduce salt intake (<5 g/day)",
+      "Moderate protein intake (excessive protein may stress damaged kidneys)",
+      "Maintain healthy weight",
+      "Avoid high-oxalate foods if history of calcium oxalate stones (spinach, nuts, tea, chocolate — in moderation)"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Serum creatinine and eGFR (estimated GFR): Measures filtering capacity",
+      "Urine albumin-creatinine ratio (ACR) / dipstick for protein: Detects early kidney damage",
+      "Urine routine and microscopy: Detects blood, infection, casts",
+      "Kidney ultrasound: Assesses size, structure, stones, obstruction",
+      "Renal biopsy: Definitive diagnosis of glomerulonephritis and other specific diseases",
+      "Screening recommendation:",
+      "All adults with diabetes or hypertension: Annual creatinine/eGFR and urine protein test",
+      "Any adult with family history of CKD: Baseline screening"
+    ],
+    "treatment_awareness_only": [
+      "CKD management:",
+      "Treat underlying cause (diabetes, hypertension management is paramount)",
+      "ACE inhibitors or ARBs (BP medications): Reduce proteinuria and slow CKD progression — doctor prescribed",
+      "SGLT2 inhibitors (newer diabetes drugs): Shown to protect kidneys — doctor prescribed",
+      "Diet modification: Lower salt, controlled protein (nephrologist-guided)",
+      "Treat complications: Anaemia (erythropoietin injections), bone disease, fluid overload",
+      "Avoid nephrotoxic drugs",
+      "CKD G5 (kidney failure): Dialysis or kidney transplantation",
+      "Dialysis in India:",
+      "Haemodialysis: 3× per week, 3–4 hours per session at a dialysis centre",
+      "Pradhan Mantri National Dialysis Programme (PMNDP): Free/subsidised dialysis at government hospitals for BPL beneficiaries",
+      "PMJAY (Ayushman Bharat): Covers dialysis and kidney transplantation for eligible beneficiaries",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Frothy/foamy or blood-tinged urine",
+      "Persistent swelling of face or legs",
+      "Unexplained fatigue or anaemia",
+      "Difficult-to-control high blood pressure",
+      "Decreased urine output",
+      "Severe flank/back pain (kidney stone)",
+      "Diabetic or hypertensive? Get annual kidney function tests even without symptoms",
+      "Prolonged/regular NSAID use — get kidney function checked"
+    ],
+    "india_specific_context": [
+      "Pradhan Mantri National Dialysis Programme (PMNDP): Free dialysis at government hospitals",
+      "Ayushman Bharat PM-JAY: Covers kidney transplantation (listed procedure)",
+      "National Organ and Tissue Transplant Organisation (NOTTO): Facilitates deceased donor organ donation; notto.mohfw.gov.in",
+      "To register as organ donor: notto.mohfw.gov.in/index.php/donor-registration",
+      "Indian Society of Nephrology (ISN) awareness campaigns: theisn.org",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

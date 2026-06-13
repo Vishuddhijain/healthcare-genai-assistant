@@ -1,0 +1,97 @@
+{
+  "doc_id": "who_malnutrition_115",
+  "title": "Malnutrition",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/malnutrition",
+  "topic": "Malnutrition",
+  "category": "Nutritional Health (Non-Communicable / Public Health)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Malnutrition refers to deficiencies, excesses, or imbalances in a person's intake of energy and/or nutrients. It encompasses both undernutrition (stunting, wasting, underweight, micronutrient deficiencies) and overnutrition (overweight, obesity, diet-related NCDs). India faces a \"double burden\" — high rates of child undernutrition coexisting with rising obesity and lifestyle diseases. NFHS-5 data shows 35% of Indian children under 5 are stunted, 19% wasted, and 32% underweight, while adult obesity is rising rapidly.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Severe Acute Malnutrition is a medical emergency requiring immediate referral to a Nutrition Rehabilitation Centre. Regular growth monitoring through Anganwadi centres helps catch malnutrition early. Consult ASHA, ANM, or Anganwadi worker for nutrition support.",
+    "types": [
+      "Undernutrition:",
+      "Stunting (low height-for-age): Chronic undernutrition",
+      "Wasting (low weight-for-height): Acute undernutrition",
+      "Underweight (low weight-for-age): Combination",
+      "Severe Acute Malnutrition (SAM): Life-threatening; requires therapeutic feeding",
+      "Micronutrient-related malnutrition (\"hidden hunger\"): Deficiencies in iron, Vitamin A, iodine, zinc, folate",
+      "Overweight and obesity: Excess body fat with NCD risk",
+      "Diet-related NCDs: Conditions linked to poor diet (diabetes, CVD, certain cancers)"
+    ],
+    "symptoms": [
+      "Undernutrition:",
+      "Visible wasting (thin limbs, prominent ribs)",
+      "Stunted growth (short for age)",
+      "Bilateral pitting oedema (kwashiorkor)",
+      "Fatigue, weakness, poor concentration",
+      "Frequent infections (weakened immunity)",
+      "Delayed wound healing",
+      "Hair and skin changes (kwashiorkor)",
+      "Micronutrient deficiencies:",
+      "Iron deficiency: Fatigue, pallor (see Anaemia)",
+      "Vitamin A deficiency: Night blindness, dry eyes, increased infection susceptibility",
+      "Iodine deficiency: Goitre, developmental delays (cretinism in severe maternal deficiency)",
+      "Zinc deficiency: Poor growth, impaired immunity, delayed wound healing",
+      "Overnutrition: See Obesity topic for symptoms"
+    ],
+    "warning_signs": [
+      "MUAC (Mid-Upper Arm Circumference) <11.5 cm in children 6–59 months — Severe Acute Malnutrition, needs immediate referral",
+      "Bilateral pitting oedema in a child — SAM, medical emergency",
+      "Rapid, unexplained weight loss in any age group",
+      "Child not meeting growth milestones on Anganwadi growth chart"
+    ],
+    "risk_factors": [
+      "Poverty and food insecurity",
+      "Poor infant and young child feeding practices",
+      "Recurrent infections (diarrhoea, pneumonia, worm infestations)",
+      "Inadequate maternal nutrition (low birth weight babies)",
+      "Poor sanitation and hygiene (WASH)",
+      "Early marriage/adolescent pregnancy",
+      "Lack of dietary diversity"
+    ],
+    "prevention": [
+      "Exclusive breastfeeding for 6 months; continued breastfeeding to 2 years",
+      "Timely, adequate, safe, and diverse complementary feeding from 6 months",
+      "Micronutrient supplementation: Vitamin A, IFA (Iron-Folic Acid), zinc for diarrhoea",
+      "Deworming (National Deworming Day): Albendazole for children 1–19 years, twice yearly",
+      "Growth monitoring at Anganwadi centres",
+      "Dietary diversity: Include cereals, pulses, vegetables, fruits, dairy, and where possible eggs/meat"
+    ],
+    "environmental_control": [
+      "WASH improvements (safe water, sanitation, hygiene) reduce infection-related malnutrition",
+      "Food fortification: Iodised salt, fortified rice/wheat flour, fortified edible oil (Vitamin A/D)"
+    ],
+    "vaccination": [
+      "Full immunisation reduces infections that worsen malnutrition",
+      "Measles vaccination particularly important (measles severely worsens nutritional status)"
+    ],
+    "diagnosis": [
+      "Anthropometry: Weight, height/length, MUAC compared to WHO growth standards",
+      "Z-scores: Weight-for-age, height-for-age, weight-for-height",
+      "Clinical signs: Bilateral pitting oedema, visible severe wasting",
+      "Blood tests: Haemoglobin (anaemia), micronutrient levels where indicated"
+    ],
+    "treatment_awareness_only": [
+      "SAM: Therapeutic feeding at Nutrition Rehabilitation Centres (NRCs); Ready-to-Use Therapeutic Food (RUTF) for community-based management",
+      "MAM: Supplementary feeding through ICDS/Anganwadi",
+      "Micronutrient deficiencies: Targeted supplementation (Vitamin A, IFA, zinc) under medical/programme guidance",
+      "Treatment of underlying infections accompanying malnutrition",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Child not gaining weight on Anganwadi growth chart",
+      "Visible wasting or leg swelling in a child",
+      "MUAC measurement in red zone",
+      "Any child appearing significantly smaller/thinner than peers of same age",
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "POSHAN Abhiyaan (National Nutrition Mission): Targets reduction of stunting, underweight, anaemia, low birth weight",
+      "ICDS/Anganwadi centres: Growth monitoring, supplementary nutrition, referral for SAM",
+      "Nutrition Rehabilitation Centres (NRCs): Government facilities for SAM management",
+      "National Food Security Act: PDS (ration shops) provide subsidised food grains",
+      "Mid-Day Meal Scheme (PM POSHAN): School nutrition for children"
+    ]
+  }
+}

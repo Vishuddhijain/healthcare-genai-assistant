@@ -1,0 +1,73 @@
+{
+  "doc_id": "who_colorectal_cancer_041",
+  "title": "Colorectal cancer",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/colorectal-cancer",
+  "topic": "Colorectal cancer",
+  "category": "Cancer Awareness",
+  "last_updated": "13 February 2026",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Colorectal cancer affects the colon (large intestine) or rectum and is one of the most common cancers worldwide. It can cause severe illness and premature death, particularly when diagnosed at advanced stages. The risk of colorectal cancer increases with age, with most cases occurring in people over 50 years, although several countries are reporting rising incidence among younger adults(1). Common symptoms include diarrhoea or constipation, blood in the stool, abdominal pain, unexplained weight loss, fatigue and low iron levels, but many people have no symptoms in the early stages.\n\nIn 2022, an estimated 1.9 million new cases of colorectal cancer and more than 900 000 deaths occurred worldwide, making it the second leading cause of cancer-related death. Incidence rates were highest in Europe and in Australia and New Zealand, while mortality rates were highest in Eastern Europe. Incidence and mortality have declined in several high-income countries, mainly due to earlier detection. Prognosis strongly depends on the stage at diagnosis, with substantially higher survival for cancers detected early.\n\n- Colorectal cancer is the third most common cancer worldwide, accounting for approximately 10% of all cancer cases.\n- It is the second leading cause of cancer-related deaths worldwide.\n- It predominantly affects individuals aged 50 and above, though there is a rising burden among adults 30–50 years old in some settings.\n- Several lifestyle factors contribute to the development of colorectal cancer such as a high intake of processed meats and low intake of fruits and vegetables, a sedentary lifestyle, obesity, smoking, and alcohol consumption.\n- The incidence and impact of colorectal cancer can be significantly reduced by adopting a healthy lifestyle, avoiding risk factors, and monitoring symptoms to enable timely diagnosis and treatment.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "personal history: previous colorectal cancer or certain types of polyps; and",
+      "iron deficiency anaemia due to chronic bleeding.",
+      "Early-stage colorectal cancer is primarily treated with surgical removal of the tumour and nearby lymph nodes. Depending on tumour location, this may involve colectomy or proctectomy, sometimes with temporary or permanent stoma formation. Adjuvant chemotherapy may be recommended for patients at higher risk of recurrence, and neoadjuvant therapy or radiotherapy is commonly used for rectal cancer to reduce tumour size. Regular follow-up and surveillance after treatment are essential."
+    ],
+    "symptoms": [
+      "Colorectal cancer often has no or mild symptoms in the early stages. When symptoms occur, they may include:",
+      "changes in bowel habits such as diarrhoea, constipation, or narrowing of the stool;",
+      "blood in the stool (bright red or dark and tar-like);",
+      "abdominal cramps, pain or bloating that won’t go away;",
+      "unexplained weight loss that is sudden and losing weight without trying;",
+      "persistent fatigue; and",
+      "iron deficiency anaemia due to chronic bleeding.",
+      "People who suspect they may have colorectal cancer should speak to their health-care provider right away."
+    ],
+    "warning_signs": [
+      "It is the second leading cause of cancer-related deaths worldwide.",
+      "iron deficiency anaemia due to chronic bleeding."
+    ],
+    "risk_factors": [
+      "Factors that increase the risk of colorectal cancer include:",
+      "lifestyle factors: diets high in processed and red meat and low in fruits and vegetables, physical inactivity, overweight and obesity, tobacco use and alcohol consumption;",
+      "family history and genetics: a family history of colorectal cancer or inherited conditions such as Lynch syndrome or familial adenomatous polyposis (FAP);",
+      "personal history: previous colorectal cancer or certain types of polyps; and",
+      "age: risk increases markedly after age 50 though can occur at a younger age."
+    ],
+    "prevention": [
+      "Colorectal cancer can be prevented through a healthy lifestyle and early detection(2). Key prevention measures include:",
+      "eating a healthy diet rich in fruits and vegetables;",
+      "keeping an active lifestyle;",
+      "maintaining a healthy body weight;",
+      "limiting alcohol consumption;",
+      "avoiding exposure to environmental risk factors."
+    ],
+    "environmental_control": [
+      "avoiding exposure to environmental risk factors."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Early diagnosis programmes can reduce delays in receiving care after symptom onset. Treatments are more likely to cure the disease in the early stages. In settings with organized screening programmes, regular screening is the most effective way to detect colorectal cancer early and prevent the disease through the identification and removal of precancerous lesions. Screening has been shown to reduce both incidence and mortality.",
+      "Diagnostic methods for colorectal cancer include physical examination, imaging (such as abdominal ultrasound, computed tomography scans, and magnetic resonance imaging), examination of the inside of the colon using colonoscopy or sigmoidoscopy, taking a sample of tissue (biopsy) for histopathology examination, and molecular testing to identify specific genetic mutations or biomarkers to guide the best treatment option.",
+      "People with a family history of colorectal cancer or inherited cancer syndromes may benefit from genetic counselling and tailored screening strategies."
+    ],
+    "treatment_awareness_only": [
+      "Treatment depends on the stage of disease, tumour characteristics and the person’s overall health.",
+      "radiotherapy (radiation)",
+      "Multidisciplinary teams are essential for optimal care, and supportive care plays a key role in managing symptoms, relieving pain and improving quality of life for patients and their families."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "doc_id": "who_cancer_awareness_general_oral_cancer_028",
+  "title": "Cancer Awareness (General + Oral Cancer)",
+  "source_name": "WHO Fact Sheet + ICMR + NHP India",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/cancer",
+  "topic": "Cancer Awareness (General + Oral Cancer)",
+  "category": "Non-Communicable Disease (Oncology)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Cancer is a group of diseases characterised by the uncontrolled growth and spread of abnormal cells. It can affect almost any part of the body. India records approximately 1.4 million new cancer cases annually (ICMR NCRP data), with the most common cancers in India being oral/head and neck (in men), breast (in women), cervix, lung, and stomach. India has a particularly high burden of oral cancer due to widespread tobacco and betel nut (areca nut) use. Cancer is the second leading cause of death globally after cardiovascular disease. Early detection significantly improves outcomes.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Cancer screening and diagnosis must be performed by qualified medical professionals. Early detection saves lives. If you notice any warning signs, do not delay seeking medical advice. Do not attempt to self-diagnose.",
+    "types": [
+      "Men:",
+      "Oral and head & neck cancer (most common; strongly linked to tobacco/betel nut)",
+      "Lung cancer (smoking, air pollution)",
+      "Stomach cancer",
+      "Colorectal cancer",
+      "Prostate cancer",
+      "Women:",
+      "Breast cancer (most common cancer in women)",
+      "Cervical cancer (second most common; caused by HPV)",
+      "Ovarian cancer",
+      "Colorectal cancer",
+      "Thyroid cancer",
+      "India accounts for nearly one-third of global oral cancer cases. It is the most common cancer in Indian men.",
+      "Risk Factors:",
+      "Tobacco use: Smoking (cigarettes, bidis), smokeless tobacco (gutka, khaini, zarda, mawa)",
+      "Betel nut (supari) and betel quid (paan) use — even without tobacco, areca nut is carcinogenic",
+      "Alcohol consumption (especially combined with tobacco)",
+      "HPV infection (HPV-16)",
+      "Chronic irritation (ill-fitting dentures, sharp teeth)",
+      "Poor oral hygiene",
+      "Warning Signs of Oral Cancer (SEVEN WARNING SIGNS — memorise):",
+      "A white or red patch inside the mouth (leukoplakia / erythroplakia)",
+      "A sore or ulcer that does not heal within 3 weeks",
+      "A lump, thickening, or rough spot in the mouth, lip, or throat",
+      "Difficulty chewing, swallowing, or moving the jaw or tongue",
+      "Numbness of the tongue or other areas of the mouth",
+      "Swelling in the jaw that makes dentures fit poorly",
+      "Persistent pain in the ear without hearing loss",
+      "Oral Submucous Fibrosis (OSMF):",
+      "A precancerous condition common among areca nut chewers",
+      "Symptoms: Burning sensation, reduced mouth opening, stiffness inside cheeks",
+      "Requires immediate medical attention and cessation of areca nut use",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "CAUTION mnemonic:",
+      "Change in bowel or bladder habits",
+      "A sore that does not heal",
+      "Unusual bleeding or discharge",
+      "Thickening or lump in the breast or elsewhere",
+      "Indigestion or difficulty swallowing",
+      "Obvious change in a wart or mole",
+      "Nagging cough or hoarseness",
+      "Other warning signs:",
+      "Unexplained weight loss",
+      "Persistent fatigue",
+      "Unexplained pain",
+      "Night sweats with fever",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Tobacco use (smoking and smokeless): Linked to cancers of lung, oral cavity, throat, oesophagus, stomach, bladder, kidney, pancreas, cervix",
+      "Alcohol: Increases risk of oral, throat, liver, breast, colorectal cancers",
+      "Overweight and obesity: Linked to breast, colorectal, endometrial, kidney, oesophageal cancers",
+      "Physical inactivity",
+      "Unhealthy diet (low in fruits and vegetables, high in red/processed meat)",
+      "Infections: HPV (cervical, oral), Hepatitis B and C (liver), H. pylori (stomach), HIV",
+      "Radiation (UV from sun, X-rays, occupational exposure)",
+      "Environmental and occupational carcinogens (asbestos, arsenic, benzene)",
+      "Family history and genetic predisposition",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Stop tobacco and areca nut use (single most impactful action for Indians)",
+      "Limit or avoid alcohol",
+      "Maintain healthy weight through diet and exercise",
+      "Eat a diet rich in fruits, vegetables, and whole grains",
+      "Protect skin from excessive sun exposure",
+      "HPV vaccination for girls aged 9–14 (and catch-up for older women up to 45) — prevents cervical cancer",
+      "Hepatitis B vaccination — prevents liver cancer",
+      "Regular cancer screening (see below)"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Early detection dramatically improves survival rates.",
+      "Breast Cancer:",
+      "Self-breast examination monthly (after period ends each month)",
+      "Clinical breast examination by a doctor annually (women above 40)",
+      "Mammography: Recommended for women above 40–50 years (consult doctor)",
+      "Cervical Cancer:",
+      "Pap smear (cervical cytology): Recommended every 3 years for women 21–65 years who are sexually active",
+      "HPV DNA test: Recommended every 5 years (preferred in India's new guidelines)",
+      "Free screening available at government hospitals under NPCDCS programme",
+      "Oral Cancer:",
+      "Self-examination of mouth monthly (look for white/red patches, non-healing ulcers, lumps)",
+      "Clinical oral examination at every dental visit or at government health camps",
+      "Colorectal Cancer:",
+      "Stool occult blood test and colonoscopy for those above 45–50 with risk factors",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Any persistent unexplained symptom lasting more than 2–3 weeks",
+      "White or red patch or non-healing ulcer in the mouth",
+      "Lump in the breast, neck, armpit, or groin",
+      "Unexplained weight loss or prolonged fatigue",
+      "Abnormal bleeding (from any body part)",
+      "For screening: Proactively, even without symptoms, especially if you have risk factors"
+    ],
+    "india_specific_context": [
+      "National Programme for Non-Communicable Diseases (NPNCD) / NPCDCS: Free cancer screening at district hospitals and CHCs",
+      "Ayushman Bharat Health and Wellness Centres (HWCs): Conduct population-level screening for oral, breast, and cervical cancers",
+      "PMJAY (Pradhan Mantri Jan Arogya Yojana): Covers treatment costs for many cancer types for eligible beneficiaries",
+      "National Cancer Grid (NCG): Network of cancer centres across India for standardised treatment",
+      "Tata Memorial Centre and AIIMS cancer centres: National centres of excellence",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "doc_id": "who_psoriasis_170",
+  "title": "Psoriasis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/psoriasis",
+  "topic": "Psoriasis",
+  "category": "Non-Communicable Disease / Skin Condition / Autoimmune Disease",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Psoriasis is a chronic, non-communicable autoimmune disease that affects the skin, causing red, scaly, itchy patches called plaques. It occurs when the immune system mistakenly speeds up skin cell production, causing cells to build up on the skin's surface. Psoriasis can also affect joints (psoriatic arthritis) and is associated with increased risk of other conditions like cardiovascular disease, diabetes, and depression. While there is no cure, psoriasis can be effectively managed with treatment, and most people can lead full, active lives.\n\n- Psoriasis affects approximately 60 million people globally; estimates suggest 2-3% of the world's population.\n- It can begin at any age but most commonly appears between ages 15-35, with another peak in older adulthood.\n- Psoriasis is NOT contagious — it cannot be spread through touch, sharing items, or close contact.\n- Up to 30% of people with psoriasis develop psoriatic arthritis, which can cause joint damage if untreated.\n- Psoriasis has a significant impact on quality of life and mental health — rates of depression and anxiety are higher among people with psoriasis.\n- Psoriasis is associated with increased risk of cardiovascular disease, metabolic syndrome, diabetes, and obesity — making it important to manage as part of overall health.\n- World Psoriasis Day: 29 October — raises global awareness.\n\nQ: Is psoriasis contagious?\nA: No. Psoriasis is an autoimmune condition, not an infection. It cannot be spread through touch, sharing clothes, towels, swimming pools, or any other form of contact.\n\nQ: Will psoriasis go away on its own?\nA: Psoriasis is a chronic condition that typically requires ongoing management. It often follows a pattern of flares and remissions — periods of improvement do occur, sometimes for long stretches, but the underlying tendency usually remains. Treatment helps control symptoms and reduce flares.\n\nQ: Can diet affect psoriasis?\nA: Some people find that certain foods or alcohol trigger flares, though this varies by individual. Maintaining a healthy weight is beneficial, as obesity is linked to more severe psoriasis. There's no single \"psoriasis diet,\" but a generally healthy, balanced diet supports overall management.\n\nQ: Is psoriasis just a \"skin problem\"?\nA: No. Psoriasis is a systemic condition associated with increased risk of psoriatic arthritis, cardiovascular disease, diabetes, obesity, and mental health conditions like depression and anxiety. Comprehensive care addresses the whole person, not just the skin.\n\nQ: Can psoriasis affect children?\nA: Yes, though it's less common than in adults. Guttate psoriasis, often triggered by strep throat, is more commonly seen in children and young adults.\n\n--- IMPORTANT SAFETY NOTE ---\nPsoriasis is a chronic but manageable condition — not contagious and not a reflection of poor hygiene. This file is for awareness only. If you have persistent scaly skin patches, joint symptoms, or psoriasis affecting your quality of life, consult a dermatologist for diagnosis and a personalised treatment plan. Widespread skin redness/peeling with fever requires emergency care. Mental health support is an important part of psoriasis care — do not hesitate to seek it.",
+    "types": [
+      "Plaque psoriasis (most common, ~80-90%): Raised, red patches covered with silvery-white scales, typically on elbows, knees, scalp, and lower back",
+      "Guttate psoriasis: Small, drop-shaped lesions, often triggered by streptococcal throat infection; more common in children and young adults",
+      "Pustular psoriasis: White pustules (blisters of non-infectious pus) surrounded by red skin; can be localised or widespread (a medical emergency in severe generalised form)",
+      "Erythrodermic psoriasis: Widespread, fiery redness covering most of the body — rare but serious, can be life-threatening, requires urgent medical care",
+      "Inverse (flexural) psoriasis: Smooth, red patches in skin folds (armpits, groin, under breasts) — worsened by friction and sweating",
+      "Nail psoriasis: Pitting, discoloration, thickening, or separation of nails from the nail bed",
+      "Scalp psoriasis: Red, itchy areas with silvery-white scales on the scalp, can extend beyond hairline",
+      "Psoriatic arthritis: Joint pain, stiffness, and swelling, often affecting fingers, toes, and spine; can occur with or without visible skin psoriasis",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Skin symptoms:",
+      "Red patches of skin covered with thick, silvery scales",
+      "Dry, cracked skin that may bleed",
+      "Itching, burning, or soreness",
+      "Thickened, pitted, or ridged nails",
+      "Swollen and stiff joints (if psoriatic arthritis is present)",
+      "Common locations: Elbows, knees, scalp, lower back, palms, soles, nails — but can affect any part of the body",
+      "Pattern:",
+      "Often appears in cycles — flares (worsening) for weeks/months, followed by periods of remission (improvement)",
+      "Can be triggered or worsened by certain factors (see below)"
+    ],
+    "warning_signs": [
+      "Erythrodermic psoriasis: Widespread red, peeling skin covering most of the body, often with fever and chills — this is a medical emergency requiring hospitalisation",
+      "Generalised pustular psoriasis: Widespread pustules with fever, chills, severe illness — medical emergency",
+      "Severe joint pain, swelling, and stiffness with skin psoriasis — possible psoriatic arthritis, needs prompt evaluation to prevent joint damage",
+      "Signs of skin infection in psoriasis plaques (increasing redness, warmth, pus, pain, fever)",
+      "Sudden worsening of psoriasis with systemic symptoms (fever, feeling very unwell)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Risk factors:",
+      "Family history of psoriasis (genetic component)",
+      "Age 15-35 most common onset, but can occur at any age",
+      "Obesity",
+      "Smoking",
+      "Certain medications (lithium, beta-blockers, antimalarials)",
+      "HIV infection (can trigger or worsen psoriasis)",
+      "Common triggers for flares:",
+      "Stress",
+      "Skin injury (cuts, scrapes, sunburn, vaccinations — \"Koebner phenomenon\")",
+      "Infections, especially streptococcal throat infections (can trigger guttate psoriasis)",
+      "Cold, dry weather",
+      "Certain medications",
+      "Alcohol consumption",
+      "Smoking",
+      "Hormonal changes",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "There is no way to prevent psoriasis itself (it has a genetic/immune basis), but flares and severity can be reduced by:",
+      "Managing stress through relaxation techniques, exercise, adequate sleep",
+      "Avoiding skin injury and trauma where possible",
+      "Treating infections promptly (especially streptococcal throat infections)",
+      "Limiting alcohol consumption",
+      "Quitting smoking",
+      "Maintaining a healthy weight",
+      "Moisturising skin regularly to prevent dryness and cracking",
+      "Avoiding known personal triggers"
+    ],
+    "environmental_control": [
+      "Moderate sun exposure can help some people (UV light can reduce psoriasis plaques) — but avoid sunburn, which can trigger flares",
+      "Use mild, fragrance-free soaps and moisturisers",
+      "Avoid harsh skin products and excessive scratching",
+      "Maintain humidity in dry climates/seasons (winter often worsens psoriasis)",
+      "Wear breathable, soft fabrics to reduce friction on affected areas"
+    ],
+    "vaccination": [
+      "No vaccine for psoriasis itself",
+      "People on certain systemic treatments (biologics, immunosuppressants) for psoriasis should discuss vaccination schedules with their doctor, as some live vaccines may need to be avoided or timed carefully",
+      "Routine vaccinations (including influenza, COVID-19) are generally recommended unless contraindicated by specific treatments — consult your doctor"
+    ],
+    "diagnosis": [
+      "Clinical examination: Diagnosis is usually made based on the characteristic appearance and distribution of skin lesions",
+      "Skin biopsy: Occasionally performed to confirm diagnosis or rule out other skin conditions",
+      "Assessment for psoriatic arthritis: Joint examination, and sometimes imaging (X-ray, ultrasound, MRI) if joint symptoms are present",
+      "Screening for associated conditions: Blood pressure, blood sugar, cholesterol (due to increased cardiovascular/metabolic risk)"
+    ],
+    "treatment_awareness_only": [
+      "Topical treatments (for mild-moderate psoriasis):",
+      "Corticosteroid creams/ointments",
+      "Vitamin D analogues",
+      "Moisturisers (emollients) — essential for all severity levels to reduce dryness and scaling",
+      "Phototherapy:",
+      "Controlled exposure to UV light (UVB, PUVA) under medical supervision — available at dermatology departments of government hospitals",
+      "Systemic treatments (for moderate-severe psoriasis or psoriatic arthritis):",
+      "Oral medications (methotrexate, cyclosporine, acitretin) — require monitoring for side effects",
+      "Biologic therapies: Target specific immune pathways; highly effective for severe disease — availability and cost may vary; increasingly available in India through dermatology/rheumatology specialists",
+      "General management:",
+      "Regular moisturising is important for all patients",
+      "Avoid scratching and picking at plaques",
+      "Treatment plans are individualised based on severity, affected areas, and associated conditions (like psoriatic arthritis)"
+    ],
+    "when_to_see_a_doctor": [
+      "Any new, persistent, scaly skin rash — for diagnosis and to differentiate from other skin conditions (eczema, fungal infections)",
+      "Joint pain, swelling, or stiffness in someone with psoriasis (possible psoriatic arthritis) — early treatment prevents joint damage",
+      "Widespread redness/peeling of skin with fever — EMERGENCY (erythrodermic or pustular psoriasis)",
+      "Psoriasis significantly affecting quality of life, sleep, or mental health — effective treatments are available",
+      "Before starting any new systemic treatment — for appropriate monitoring"
+    ],
+    "india_specific_context": [
+      "Dermatology departments at government medical colleges and district hospitals provide diagnosis, topical treatments, and phototherapy",
+      "IADVL (Indian Association of Dermatologists, Venereologists and Leprologists): Professional body providing guidelines for psoriasis management in India",
+      "Mental health support: Psoriasis-related stigma and visible skin lesions can significantly affect mental health and social participation — counselling support should be considered alongside dermatological treatment",
+      "Climate considerations: India's diverse climate means psoriasis may worsen in cold, dry winters in northern India, while humidity in some regions may help"
+    ]
+  }
+}

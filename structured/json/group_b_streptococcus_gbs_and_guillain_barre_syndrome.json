@@ -1,0 +1,111 @@
+{
+  "doc_id": "who_group_b_streptococcus_gbs_and_guillain_barre_syndrome_081",
+  "title": "Group B Streptococcus (GBS) and Guillain-Barré Syndrome",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/group-b-streptococcus-(gbs)",
+  "topic": "Group B Streptococcus (GBS) and Guillain-Barré Syndrome",
+  "category": "Infectious Disease / Neurological / Maternal and Child Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Group B Streptococcus (GBS) — also known as Streptococcus agalactiae — is a bacterium that commonly colonises the gut and genital tract of healthy adults without causing illness. However, in newborns, elderly people, and immunocompromised individuals, it can cause life-threatening infections including sepsis, meningitis, and pneumonia. GBS is the leading cause of neonatal sepsis and meningitis globally.\n\n- GBS colonises the gastrointestinal and genital tracts of 10–30% of healthy adults.\n- GBS causes approximately 319,000 newborn cases and 90,000 deaths annually.\n- In India, GBS is a significant but underreported cause of neonatal sepsis and meningitis.\n- Transmission to baby occurs mainly during labour and delivery from a colonised mother.\n- Early-onset GBS disease (within 7 days of birth) is the most common and dangerous form.\n\n(Note: This GBS is a different condition from Group B Streptococcus above)\n\nGuillain-Barré Syndrome (GBS) is a rare neurological disorder in which the immune system mistakenly attacks the peripheral nervous system. It typically follows an infection (respiratory or gastrointestinal) and causes progressive muscle weakness that can lead to paralysis. Most people recover fully, though recovery can take weeks to years. GBS is a medical emergency.\n\n- GBS affects approximately 1–2 per 100,000 people per year globally.\n- It is the most common cause of acute flaccid paralysis worldwide (after polio elimination).\n- It can occur at any age but is most common in adults.\n- Most GBS cases are triggered by an infection (Campylobacter jejuni, influenza, COVID-19, Zika virus).\n- 80% of people recover and are able to walk without aid within 6 months.\n- About 5% die from complications (breathing failure, infections).\n\nQ: Is GBS contagious?\nA: No. GBS itself is not contagious. The triggering infections (like Campylobacter gastroenteritis) can spread, but GBS is the immune system's abnormal response — it cannot be transmitted person to person.\n\nQ: Will I fully recover from GBS?\nA: Most people (about 80%) recover fully or nearly fully, though it can take months to years. About 15% have lasting weakness. Physiotherapy is crucial.\n\nQ: Can COVID-19 vaccine cause GBS?\nA: The risk is extremely small (4–7 extra cases per million doses for adenoviral vector vaccines). The risk of severe COVID-19 and death is far greater without vaccination. Current mRNA vaccines have no confirmed GBS signal.\n\n--- IMPORTANT SAFETY NOTE ---\nGBS is a medical emergency. Rapid progressive weakness requires immediate emergency care. Call 112 if someone develops sudden weakness or difficulty breathing. This information is for awareness only.",
+    "types": [
+      "AIDP (Acute Inflammatory Demyelinating Polyneuropathy): Most common form in India and globally. Attacks myelin sheath.",
+      "AMAN (Acute Motor Axonal Neuropathy): Common in Asia including India. Attacks axons directly. Associated with Campylobacter infection.",
+      "Miller Fisher Syndrome: Rare variant with eye muscle weakness, loss of coordination, and absent reflexes."
+    ],
+    "symptoms": [
+      "In newborns (early onset — within 7 days):",
+      "Fever or low temperature",
+      "Grunting, rapid breathing, poor feeding",
+      "Irritability or lethargy",
+      "Seizures (meningitis)",
+      "Pale or bluish skin",
+      "→ MEDICAL EMERGENCY — call 112 immediately",
+      "In newborns (late onset — 7 days to 3 months):",
+      "Fever and irritability",
+      "Meningitis signs (bulging fontanelle, stiff neck)",
+      "Poor feeding",
+      "In adults (elderly, immunocompromised):",
+      "Pneumonia, bloodstream infection, skin and joint infections",
+      "Early signs (days to weeks after infection):",
+      "Tingling or prickling sensation in fingers, toes, ankles, wrists",
+      "Weakness starting in the legs, spreading upward",
+      "Unsteady gait, difficulty walking",
+      "Difficulty with facial movements (talking, chewing, swallowing)",
+      "Double vision or inability to move eyes",
+      "Severe pain (deep aching in back, legs)",
+      "Low or high blood pressure, heart rate changes",
+      "Severe/emergency signs:",
+      "Weakness spreading to chest muscles → breathing difficulty",
+      "Inability to swallow (aspiration risk)",
+      "Complete paralysis (in severe cases)",
+      "→ CALL 112 — GBS can progress to respiratory failure within hours"
+    ],
+    "warning_signs": [
+      "Tingling in hands and feet followed by weakness — seek emergency care.",
+      "Rapid worsening of weakness — medical emergency.",
+      "Difficulty breathing, swallowing, or speaking in a person with GBS — call 112 immediately."
+    ],
+    "risk_factors": [
+      "Maternal GBS colonisation (major risk for newborn)",
+      "Premature birth (<37 weeks)",
+      "Prolonged rupture of membranes (>18 hours before delivery)",
+      "Fever during labour",
+      "Previous infant with GBS disease",
+      "Elderly age",
+      "Immunocompromised status (diabetes, HIV, cancer)",
+      "Recent infection (1–4 weeks before onset): especially Campylobacter gastroenteritis (diarrhoea), respiratory infections, COVID-19, Zika, CMV, EBV.",
+      "Very rarely associated with certain vaccines (historical association with 1976 swine flu vaccine — modern vaccines have extremely low risk)."
+    ],
+    "prevention": [
+      "Intrapartum antibiotic prophylaxis (IAP): Penicillin given to GBS-positive mothers during labour prevents early-onset GBS in babies. This is the standard of care.",
+      "Maternal GBS screening (vaginal/rectal swab) at 35–37 weeks of pregnancy.",
+      "Screening and IAP are available at government hospitals.",
+      "GBS vaccine: Currently in development — not yet widely available.",
+      "No specific prevention for GBS.",
+      "Preventing triggering infections (handwashing, food safety, clean water) reduces risk.",
+      "Campylobacter (a major trigger): Cook poultry thoroughly; handwashing after raw meat handling."
+    ],
+    "environmental_control": [
+      "Prompt diagnosis and treatment reduce complications.",
+      "Intensive care availability is critical for patients with respiratory involvement."
+    ],
+    "vaccination": [
+      "Vaccines do NOT cause GBS in any meaningful way — the very rare historical association is outweighed enormously by the protection vaccines provide.",
+      "COVID-19 vaccines (particularly adenoviral vector vaccines) have a very small signal for GBS (4–7 extra cases per million doses) — far outweighed by COVID-19 risks."
+    ],
+    "diagnosis": [
+      "Maternal: Vaginal and rectal swab culture at 35–37 weeks of pregnancy.",
+      "Neonatal: Blood culture, cerebrospinal fluid (CSF) culture, complete blood count.",
+      "Clinical diagnosis: Progressive ascending weakness after infection.",
+      "Nerve conduction studies: Show slowed nerve conduction or axonal damage.",
+      "CSF analysis: Elevated protein with normal cell count (albuminocytological dissociation).",
+      "Anti-ganglioside antibodies: Useful in AMAN variant."
+    ],
+    "treatment_awareness_only": [
+      "Penicillin or ampicillin — effective for most GBS infections.",
+      "Newborn sepsis requires hospitalisation and IV antibiotics — urgent.",
+      "Meningitis requires intensive care.",
+      "Intravenous Immunoglobulin (IVIG): Most common treatment — given over 5 days.",
+      "Plasmapheresis (plasma exchange): Alternative effective treatment.",
+      "Supportive care: Intensive care monitoring, mechanical ventilation if needed, physiotherapy.",
+      "Physiotherapy: Critical for recovery — long-term rehabilitation often required.",
+      "Both treatments available at government tertiary hospitals.",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Pregnant woman at 35–37 weeks: Ask about GBS screening.",
+      "Newborn with fever, poor feeding, breathing difficulty, or lethargy — EMERGENCY.",
+      "Elderly or immunocompromised person with fever and signs of infection — see a doctor promptly.",
+      "---",
+      "Any progressive weakness of limbs, especially after recent gastroenteritis or respiratory infection — go to emergency department immediately.",
+      "GBS can progress rapidly — do not wait."
+    ],
+    "india_specific_context": [
+      "GBS is regularly reported in India, particularly AMAN variant after Campylobacter infections from contaminated poultry.",
+      "Treatment (IVIG, plasmapheresis) is available at government medical colleges and tertiary hospitals.",
+      "Respiratory support (ventilators) is critical — refer to tertiary hospital promptly."
+    ]
+  }
+}

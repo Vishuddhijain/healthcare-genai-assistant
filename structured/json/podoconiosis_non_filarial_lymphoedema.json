@@ -1,0 +1,53 @@
+{
+  "doc_id": "who_podoconiosis_non_filarial_lymphoedema_159",
+  "title": "Podoconiosis (non-filarial lymphoedema)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/podoconiosis-(non-filarial-lymphoedema)",
+  "topic": "Podoconiosis (non-filarial lymphoedema)",
+  "category": "Public Health Awareness",
+  "last_updated": "1 May 2023",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Podoconiosis is a non-infectious geochemical leg swelling (lymphoedema) caused by long-term exposure of bare feet to irritant soils. It is responsible for an estimated 4 million cases of lymphoedema in highland tropical and sub-tropical areas of 17 countries in Africa, Central and South America and South and South-East Asia.\n\nPodoconiosis affects poor, remote, subsistence farming communities and, by affecting livelihoods, it traps these communities in poverty. Women and girls are both more likely to contract podoconiosis and more likely to suffer from its social and economic consequences.\n\nInterventions include prevention of contact with the soil through consistent wearing of shoes from an early age and daily foot washing. Treatment using a holistic lymphoedema management package has been demonstrated to decrease swelling, disability and incidence of acute attacks, improve quality of life, and can be readily mainstreamed into government community health services.\n\n- Podoconiosis affects an estimated 4 million people across 17 countries worldwide.\n- Podoconiosis affects people of all ages and genders, but women and girls are disproportionately impacted.\n- Podoconiosis causes avoidable disability through swollen, deformed feet and lower legs and painful acute attacks that render patients bedbound for 3–5 days each episode.\n- Prevention is through avoiding contact with irritant soil by wearing footwear, covering house floors and paving roads.\n- Treatment is low-cost and simple, benefitting the poorest patients the most.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Podoconiosis causes avoidable disability through swollen, deformed feet and lower legs and painful acute attacks that render patients bedbound for 3–5 days each episode.",
+      "Interventions include prevention of contact with the soil through consistent wearing of shoes from an early age and daily foot washing. Treatment using a holistic lymphoedema management package has been demonstrated to decrease swelling, disability and incidence of acute attacks, improve quality of life, and can be readily mainstreamed into government community health services."
+    ],
+    "symptoms": [
+      "The early symptoms of podoconiosis include a burning sensation and itching on the back of the feet. Skin thickening is accompanied by papillomatous growths around the sides of the feet and the heel. Reversible foot and lower leg oedema (swelling) later becomes fixed and gradually progresses up the leg. Swelling is bilateral but often asymmetrical and the swelling is mostly limited to below the knees. Nodules and maceration between toes are common."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Globally, there is evidence of podoconiosis in 17 countries (12 in Africa, 3 in Latin America and 2 in Asia). Tropical African countries bear the highest disease burden with about 1.5 million people living with podoconiosis in Ethiopia, a further 40 000 in Cameroon, 9000 in Kenya and 7000 in Rwanda.",
+      "Podoconiosis is common among remote rural communities, in particular those dependent on subsistence farming and lacking access to footwear or water to wash the feet. The average age at first noticing leg swelling is 25 years, and the disease is common up to the sixth decade. The disease is more common in women: a recent meta-analysis concluded that the likelihood of podoconiosis among women was 1.15 times greater than among men.",
+      "Podoconiosis is a condition that is jointly influenced by genetic and environmental factors. No biological agent has been identified. There is an association between podoconiosis and areas of the genome often involved in T-cell mediated inflammatory responses, and an exaggerated helper T-cell response has been demonstrated in the lymph nodes of affected people. Although ecological evidence over several decades has linked red clay soils to podoconiosis, the exact causative agent within the soil remains unknown. Studies have suggested a role for smectite clays or certain elements including zirconium, aluminium and beryllium."
+    ],
+    "prevention": [
+      "The key strategies for podoconiosis control are prevention of contact with irritant soil (primary prevention) and lymphoedema morbidity management (secondary and tertiary prevention). Evidence from the past 5 years suggests that podoconiosis is amenable to public health interventions such as footwear and hygiene-based morbidity management, which reduce acute clinical episodes. Controlling podoconiosis is achievable given the absence of a biological agent or vector also needing control, the relatively small global scale of the problem, and the safe means of podoconiosis prevention and control."
+    ],
+    "environmental_control": [
+      "The key strategies for podoconiosis control are prevention of contact with irritant soil (primary prevention) and lymphoedema morbidity management (secondary and tertiary prevention). Evidence from the past 5 years suggests that podoconiosis is amenable to public health interventions such as footwear and hygiene-based morbidity management, which reduce acute clinical episodes. Controlling podoconiosis is achievable given the absence of a biological agent or vector also needing control, the relatively small global scale of the problem, and the safe means of podoconiosis prevention and control."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Treatment of podoconiosis is currently based on lymphoedema management (foot hygiene, compression, exercises and elevation), psychosocial and mental health support, and use of shoes to reduce exposure to irritant soil. Surgical removal of large nodules can be achieved with satisfactory healing rates, allowing patients to use custom designed shoes. The effectiveness and cost-effectiveness of a holistic physical and mental health care package for people with lymphoedema caused by lymphatic filariasis, leprosy or podoconiosis (mainstreamed into routine primary health care services in Ethiopia) has been demonstrated. Expert patients (patients..."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

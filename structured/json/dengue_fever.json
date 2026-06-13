@@ -1,0 +1,95 @@
+{
+  "doc_id": "who_dengue_fever_052",
+  "title": "Dengue Fever",
+  "source_name": "WHO Fact Sheet + NHP India",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+  "topic": "Dengue Fever",
+  "category": "Communicable Disease (Vector-Borne)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Dengue is a mosquito-borne viral infection caused by the dengue virus (DENV), transmitted by Aedes aegypti and Aedes albopictus mosquitoes. It is one of the most rapidly spreading vector-borne diseases globally. India records among the highest dengue burden in Southeast Asia, with cases peaking during and after monsoon season (July–November). Most infections are mild, but a subset progresses to severe dengue (dengue haemorrhagic fever), which can be fatal if not treated promptly.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Do not self-diagnose or self-medicate. Dengue can deteriorate rapidly — always consult a qualified healthcare provider if you suspect dengue, especially if warning signs are present.",
+    "types": [
+      "Mild Dengue Fever: High fever with pain; self-limiting in most cases.",
+      "Dengue with Warning Signs: Abdominal pain, persistent vomiting, mucosal bleeding, fluid accumulation — requires close medical monitoring.",
+      "Severe Dengue (Dengue Haemorrhagic Fever / Dengue Shock Syndrome): Severe plasma leaking, severe bleeding, and organ impairment. Medical emergency."
+    ],
+    "symptoms": [
+      "Classic symptoms (appear 4–10 days after infective mosquito bite):",
+      "Sudden high fever (40°C / 104°F)",
+      "Severe headache",
+      "Pain behind the eyes (retro-orbital pain)",
+      "Severe muscle and joint pain (\"breakbone fever\")",
+      "Nausea and vomiting",
+      "Swollen glands",
+      "Characteristic skin rash (appears 2–5 days after fever onset)",
+      "Low platelet count (thrombocytopenia)",
+      "Warning signs (seek emergency care immediately):",
+      "Severe abdominal pain or tenderness",
+      "Persistent vomiting",
+      "Rapid breathing",
+      "Bleeding gums or nose",
+      "Blood in vomit or stool",
+      "Restlessness or lethargy",
+      "Extreme fatigue or irritability",
+      "Pale, cold, or clammy skin"
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Living in or travelling to tropical/subtropical regions",
+      "Monsoon and post-monsoon season (stagnant water breeding sites)",
+      "Previous dengue infection (second infection with different serotype increases severe dengue risk)",
+      "Urban and semi-urban dense populations",
+      "Poor sanitation and open water storage"
+    ],
+    "prevention": [
+      "Mosquito bite prevention:",
+      "Use mosquito repellents (DEET-based or picaridin-based) on exposed skin",
+      "Wear long-sleeved clothing, especially during early morning and evening",
+      "Use mosquito nets (especially for infants, elderly, and pregnant women)",
+      "Install window and door screens",
+      "Environmental control (eliminate breeding sites):",
+      "Empty, clean, or cover water containers (coolers, flower pots, tyres, buckets) at least once a week",
+      "Ensure proper disposal of waste and containers that collect rainwater",
+      "Use larvicides in water storage containers where emptying is not possible",
+      "Community fogging during outbreaks (government-led)",
+      "Vaccination:",
+      "Dengvaxia (CYD-TDV) vaccine is available but recommended only for individuals with prior confirmed dengue infection. Consult a doctor."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "NS1 antigen test: Most useful in first 5 days of fever",
+      "Dengue IgM/IgG antibody test: Useful after day 5",
+      "Complete Blood Count (CBC): Monitors platelet and white cell count",
+      "PCR test: Definitive but less commonly used in field settings"
+    ],
+    "treatment_awareness_only": [
+      "No specific antiviral treatment exists. Management is supportive:",
+      "Adequate rest and hydration (oral rehydration salts recommended)",
+      "Paracetamol for fever management",
+      "Avoid NSAIDs (aspirin, ibuprofen) — they increase bleeding risk",
+      "Hospitalisation required for severe dengue or warning signs",
+      "Platelet transfusion only under medical supervision",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Fever lasting more than 2 days, especially with severe body pain",
+      "Any of the warning signs listed above",
+      "Fever in young children, elderly, or pregnant women",
+      "Known dengue outbreak in your area"
+    ],
+    "india_specific_context": [
+      "Dengue is endemic across India; highest burden in Delhi, Maharashtra, Karnataka, Kerala, Tamil Nadu, Uttar Pradesh",
+      "National Vector Borne Disease Control Programme (NVBDCP) under MoHFW monitors and responds to dengue outbreaks",
+      "Most government hospitals provide free dengue testing during outbreaks",
+      "Helpline: State health department helplines; NVBDCP: nvbdcp.gov.in"
+    ]
+  }
+}

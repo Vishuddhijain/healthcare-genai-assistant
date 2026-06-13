@@ -1,0 +1,70 @@
+{
+  "doc_id": "who_sugars_and_dental_caries_205",
+  "title": "Sugars and dental caries",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/sugars-and-dental-caries",
+  "topic": "Sugars and dental caries",
+  "category": "Preventive Care and Wellness",
+  "last_updated": "14 August 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Dental caries is a major public health problem globally and is the most widespread noncommunicable disease (NCD). It is prevalent throughout the life course and affects both permanent teeth and deciduous (first) teeth It is estimated that there are 2 billion people with permanent teeth with caries and 510 million children with deciduous teeth with caries.\n\nConsumption of free sugars is a major risk factor for overweight, obesity and dental caries. Dental caries can be prevented by avoiding dietary free sugars. Simple and cost-effective interventions are available to help people reduce their sugars consumption, and prevent dental caries. Simple, minimally invasive treatment for caries can be provided in primary health-care settings, without the need of a dental chair or specialist equipment.\n\nSevere dental caries can lead to tooth loss and impair quality of life. The consequences of untreated dental caries include:\n\n- Dental caries (also known as tooth decay or dental cavities) is the most common noncommunicable disease (NCD) worldwide, affecting 2.5 billion people.\n- Even though dental caries is preventable, it poses a major health burden in many countries and affects people throughout their lifetime, causing pain, discomfort, difficulties in eating and sleeping, tooth loss and reduction in quality of life.\n- The consumption of free sugars[1] in foods and beverages is the most common risk factor for dental caries and is a shared risk factor across several NCDs.\n- Limiting the intake of free sugars to less than 10% of total energy intake – and ideally to less than 5% – minimizes the risk of dental caries throughout the life course.\n- WHO recommends that children under 2 years of age should not consume any sugar-sweetened beverages.\n- WHO recommends implementation of a package of cost-effective policies for healthy diets including taxation of sugar-sweetened beverages (SSBs) as a fiscal policy measure to reduce sugars consumption.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "physical symptoms such pain, discomfort or chronic systemic infection;",
+      "nutrition labelling: front-of-pack or other interpretative labelling to inform about sugars content, including mandatory declaration of sugars content on pre-packaged food;",
+      "reformulation limits or targets to reduce sugars content in foods and beverages;",
+      "Information disclosure"
+    ],
+    "symptoms": [
+      "Even though dental caries is preventable, it poses a major health burden in many countries and affects people throughout their lifetime, causing pain, discomfort, difficulties in eating and sleeping, tooth loss and reduction in quality of life.",
+      "physical symptoms such pain, discomfort or chronic systemic infection;"
+    ],
+    "warning_signs": [
+      "Severe dental caries can lead to tooth loss and impair quality of life. The consequences of untreated dental caries include:"
+    ],
+    "risk_factors": [
+      "There is a clear relationship between sugars consumption and dental caries. Dental caries results when plaque forms on the surface of a tooth and converts the free sugars (all sugars added to foods and beverages by the manufacturer, cook or consumer, plus sugars naturally present in honey, syrups and fruit juices) contained in foods and beverages into acids that destroy the tooth over time. A continued high intake of free sugars, inadequate exposure to fluoride and a lack of removal of plaque by toothbrushing with fluoride toothpaste containing 1000-1500 ppm concentration can lead to dental caries.",
+      "The burden of dental caries is also influenced by social determinants of health, which comprise the social, economic and political conditions that influence oral diseases, including access to safe water, sanitation and hygiene. There is a strong and consistent association between socioeconomic status and the prevalence and severity of dental caries. It disproportionately affects poor, vulnerable and/or marginalized members of societies, often including people who are on low incomes; people living with disability; older people living alone or in care homes; people who are refugees, in prison or living in remote and rural communities; and...",
+      "Additionally, the burden of dental caries is also affected by commercial determinants, which are the strategies used by some private-sector actors to promote products and choices that are detrimental to health. This includes marketing, advertising and sale of products that cause oral diseases and conditions, such as foods and beverages that are high in free sugars."
+    ],
+    "prevention": [
+      "Population-wide strategies to reduce the consumption of free sugars are a key public health approach to reduce the burden of dental caries. Such interventions include:",
+      "nutrition labelling: front-of-pack or other interpretative labelling to inform about sugars content, including mandatory declaration of sugars content on pre-packaged food;",
+      "reformulation limits or targets to reduce sugars content in foods and beverages;",
+      "public food procurement and service policies to reduce the offer of foods and beverages high in sugars;",
+      "policies to protect children from the harmful impact of food marketing, including for foods and beverages high in sugars; and",
+      "taxes on sugar-sweetened beverages (SSBs) and on sugar or foods high in sugars.",
+      "Many oral diseases including dental caries can be prevented and treated in their early stages with cost-effective interventions. Integrating a set of essential oral health care services into national universal health coverage benefit packages using the public health care approach will have a significant impact on reducing the global burden of dental caries by improving availability and accessibility to quality care. Such interventions include the use of topical fluoride and simple restorative techniques as part of comprehensive patient-centred oral health care."
+    ],
+    "environmental_control": [
+      "Population-wide strategies to reduce the consumption of free sugars are a key public health approach to reduce the burden of dental caries. Such interventions include:",
+      "nutrition labelling: front-of-pack or other interpretative labelling to inform about sugars content, including mandatory declaration of sugars content on pre-packaged food;",
+      "reformulation limits or targets to reduce sugars content in foods and beverages;",
+      "public food procurement and service policies to reduce the offer of foods and beverages high in sugars;",
+      "policies to protect children from the harmful impact of food marketing, including for foods and beverages high in sugars; and",
+      "taxes on sugar-sweetened beverages (SSBs) and on sugar or foods high in sugars."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Consumption of free sugars is a major risk factor for overweight, obesity and dental caries. Dental caries can be prevented by avoiding dietary free sugars. Simple and cost-effective interventions are available to help people reduce their sugars consumption, and prevent dental caries. Simple, minimally invasive treatment for caries can be provided in primary health-care settings, without the need of a dental chair or specialist equipment.",
+      "Severe dental caries can lead to tooth loss and impair quality of life. The consequences of untreated dental caries include:",
+      "Often, dental caries does not receive adequate priority in health planning due to an underestimation of the true burden and impact of the disease. The focus of interventions is generally characterized by an isolated disease approach and a focus on costly clinical treatment, rather than on integrated cost-effective public health strategies that address entire populations, focusing on shared risk factors for NCDs and strategies to reduce the impact of the commercial determinants of health.",
+      "Unequal distribution of oral health professionals and a lack of interprofessional collaboration with other primary health care workers means that access to essential oral health services is often low. Out-of-pocket costs for oral health care can be major barriers to accessing care. Paying for necessary oral health care is among the leading reasons for catastrophic health expenditures, resulting in an increased risk of impoverishment and economic hardship."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

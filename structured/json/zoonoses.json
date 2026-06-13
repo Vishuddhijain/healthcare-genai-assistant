@@ -1,0 +1,52 @@
+{
+  "doc_id": "who_zoonoses_231",
+  "title": "Zoonoses",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/zoonoses",
+  "topic": "Zoonoses",
+  "category": "Communicable Disease",
+  "last_updated": "29 July 2020",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Prevention methods for zoonotic diseases differ for each pathogen; however, several practices are recognized as effective in reducing risk at the community and personal levels. Safe and appropriate guidelines for animal care in the agricultural sector help to reduce the potential for foodborne zoonotic disease outbreaks through foods such as meat, eggs, dairy or even some vegetables. Standards for clean drinking water and waste removal, as well as protections for surface water in the natural environment, are also important and effective. Education campaigns to promote handwashing after contact with animals and other behavioural adjustments can reduce community spread of zoonotic diseases when they occur.\n\nAntimicrobial resistance is a complicating factor in the control and prevention of zoonoses. The use of antibiotics in animals raised for food is widespread and increases the potential for drug-resistant strains of zoonotic pathogens capable of spreading quickly in animal and human populations.\n\n- A zoonosis is any disease or infection that is naturally transmissible from vertebrate animals to humans\n- There are over 200 known types of zoonoses\n- Zoonoses comprise a large percentage of new and existing diseases in humans\n- Some zoonoses, such as rabies, are 100% preventable through vaccination and other methods\n- A zoonosis is an infectious disease that has jumped from a non-human animal to humans. Zoonotic pathogens may be bacterial, viral or parasitic, or may involve unconventional agents and can spread to humans through direct contact or through food, water or the environment. They represent a major public health problem around the world due to our close relationship with animals in agriculture, as companions and in the natural environment. Zoonoses can also cause disruptions in the production and trade of animal products for food and other uses.\n- Zoonoses comprise a large percentage of all newly identified infectious diseases as well as many existing ones. Some diseases, such as HIV, begin as a zoonosis but later mutate into human-only strains. Other zoonoses can cause recurring disease outbreaks, such as Ebola virus disease and salmonellosis. Still others, such as the novel coronavirus that causes COVID-19, have the potential to cause global pandemics.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "There are over 200 known types of zoonoses"
+    ],
+    "symptoms": [
+      "A zoonosis is any disease or infection that is naturally transmissible from vertebrate animals to humans"
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment."
+    ],
+    "prevention": [
+      "Prevention methods for zoonotic diseases differ for each pathogen; however, several practices are recognized as effective in reducing risk at the community and personal levels. Safe and appropriate guidelines for animal care in the agricultural sector help to reduce the potential for foodborne zoonotic disease outbreaks through foods such as meat, eggs, dairy or even some vegetables. Standards for clean drinking water and waste removal, as well as protections for surface water in the natural environment, are also important and effective. Education campaigns to promote handwashing after contact with animals and other behavioural...",
+      "Antimicrobial resistance is a complicating factor in the control and prevention of zoonoses. The use of antibiotics in animals raised for food is widespread and increases the potential for drug-resistant strains of zoonotic pathogens capable of spreading quickly in animal and human populations."
+    ],
+    "environmental_control": [
+      "Prevention methods for zoonotic diseases differ for each pathogen; however, several practices are recognized as effective in reducing risk at the community and personal levels. Safe and appropriate guidelines for animal care in the agricultural sector help to reduce the potential for foodborne zoonotic disease outbreaks through foods such as meat, eggs, dairy or even some vegetables. Standards for clean drinking water and waste removal, as well as protections for surface water in the natural environment, are also important and effective. Education campaigns to promote handwashing after contact with animals and other behavioural...",
+      "Antimicrobial resistance is a complicating factor in the control and prevention of zoonoses. The use of antibiotics in animals raised for food is widespread and increases the potential for drug-resistant strains of zoonotic pathogens capable of spreading quickly in animal and human populations."
+    ],
+    "vaccination": [
+      "Some zoonoses, such as rabies, are 100% preventable through vaccination and other methods"
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Do not self-diagnose, self-medicate, or delay professional care."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

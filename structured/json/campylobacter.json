@@ -1,0 +1,70 @@
+{
+  "doc_id": "who_campylobacter_027",
+  "title": "Campylobacter",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/campylobacter",
+  "topic": "Campylobacter",
+  "category": "Infectious Disease Awareness",
+  "last_updated": "1 May 2020",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Campylobacteriosis is the disease caused by the infection with Campylobacter :\n\nThe onset of disease symptoms usually occurs 2 to 5 days after infection with the bacteria, but can range from 1 to 10 days.\n\nThe most common clinical symptoms of Campylobacter infections include diarrhoea (frequently bloody), abdominal pain, fever, headache, nausea, and/or vomiting. The symptoms typically last 3 to 6 days.\n\n- Campylobacter is 1 of 4 key global causes of diarrhoeal diseases. It is considered to be the most common bacterial cause of human gastroenteritis in the world.\n- Campylobacter infections are generally mild, but can be fatal among very young children, elderly, and immunosuppressed individuals.\n- Campylobacter species can be killed by heat and thoroughly cooking food.\n- To prevent Campylobacter infections, make sure to follow basic food hygiene practices when preparing food.\n- The high incidence of Campylobacter diarrhoea, as well as its duration and possible complications, makes it highly important from a socio-economic perspective. In developing countries, Campylobacter infections in children under the age of 2 years are especially frequent, sometimes resulting in death.\n- Campylobacter are mainly spiral-shaped, “S”-shaped, or curved, rod-shaped bacteria. Currently, there are 17 species and 6 subspecies assigned to the genus Campylobacter , of which the most frequently reported in human diseases are C. jejuni (subspecies jejuni ) and C. coli . Other species such as C. lari and C. upsaliensis have also been isolated from patients with diarrhoeal disease, but are reported less frequently.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Information disclosure"
+    ],
+    "symptoms": [
+      "Campylobacter is 1 of 4 key global causes of diarrhoeal diseases. It is considered to be the most common bacterial cause of human gastroenteritis in the world.",
+      "Campylobacter infections are generally mild, but can be fatal among very young children, elderly, and immunosuppressed individuals.",
+      "To prevent Campylobacter infections, make sure to follow basic food hygiene practices when preparing food.",
+      "The high incidence of Campylobacter diarrhoea, as well as its duration and possible complications, makes it highly important from a socio-economic perspective. In developing countries, Campylobacter infections in children under the age of 2 years are especially frequent, sometimes resulting in death.",
+      "Campylobacter are mainly spiral-shaped, “S”-shaped, or curved, rod-shaped bacteria. Currently, there are 17 species and 6 subspecies assigned to the genus Campylobacter , of which the most frequently reported in human diseases are C. jejuni (subspecies jejuni ) and C. coli . Other species such as C. lari and C. upsaliensis have also been isolated from patients with diarrhoeal disease, but are reported less frequently.",
+      "Campylobacteriosis is the disease caused by the infection with Campylobacter :"
+    ],
+    "warning_signs": [
+      "The high incidence of Campylobacter diarrhoea, as well as its duration and possible complications, makes it highly important from a socio-economic perspective. In developing countries, Campylobacter infections in children under the age of 2 years are especially frequent, sometimes resulting in death.",
+      "Death from campylobacteriosis is rare and is usually confined to very young children or elderly patients, or to those already suffering from another serious disease such as AIDS."
+    ],
+    "risk_factors": [
+      "Campylobacter species are widely distributed in most warm-blooded animals. They are prevalent in food animals such as poultry, cattle, pigs, sheep and ostriches; and in pets, including cats and dogs. The bacteria have also been found in shellfish.",
+      "The main route of transmission is generally believed to be foodborne, via undercooked meat and meat products, as well as raw or contaminated milk. Contaminated water or ice is also a source of infection. A proportion of cases occur following contact with contaminated water during recreational activities.",
+      "Campylobacteriosis is a zoonosis, a disease transmitted to humans from animals or animal products. Most often, carcasses or meat are contaminated by Campylobacter from faeces during slaughtering. In animals, Campylobacter seldom causes disease.",
+      "The relative contribution of each of the above sources to the overall burden of disease is unclear but consumption of undercooked contaminated poultry is believed to be a major contributor. Since common-source outbreaks account for a rather small proportion of cases, the vast majority of reports refer to sporadic cases, with no easily discernible pattern.",
+      "Estimating the importance of all known sources is therefore extremely difficult. In addition, the wide occurrence of Campylobacter also hinders the development of control strategies throughout the food chain. However, in countries where specific strategies have been put in place to reduce the prevalence of Campylobacter in live poultry, a similar reduction in human cases is observed."
+    ],
+    "prevention": [
+      "There are a number of strategies that can be used to prevent disease from Campylobacter :",
+      "Prevention is based on control measures at all stages of the food chain, from agricultural production on a farm, to processing, manufacturing and preparation of foods both commercially and domestically.",
+      "In countries without adequate sewage disposal systems, faeces and articles soiled with faeces may need to be disinfected before disposal.",
+      "Measures to reduce the prevalence of Campylobacter in poultry include enhanced biosecurity to avoid transmission of Campylobacter from the environment to the flock of birds on the farm. This control option is feasible only where birds are kept in closed housing conditions.",
+      "Good hygienic slaughtering practices reduce the contamination of carcasses by faeces, but will not guarantee the absence of Campylobacter from meat and meat products. Training in hygienic food handling for abattoir workers and raw meat producers is essential to keep contamination to a minimum.",
+      "Prevention methods against infection in domestic kitchens are similar to those used against other foodborne bacterial diseases.",
+      "Bactericidal treatment, such as heating (for example, cooking or pasteurization) or irradiation, is the only effective method of eliminating Campylobacter from contaminated foods."
+    ],
+    "environmental_control": [
+      "The main route of transmission is generally believed to be foodborne, via undercooked meat and meat products, as well as raw or contaminated milk. Contaminated water or ice is also a source of infection. A proportion of cases occur following contact with contaminated water during recreational activities.",
+      "Campylobacteriosis is a zoonosis, a disease transmitted to humans from animals or animal products. Most often, carcasses or meat are contaminated by Campylobacter from faeces during slaughtering. In animals, Campylobacter seldom causes disease.",
+      "The relative contribution of each of the above sources to the overall burden of disease is unclear but consumption of undercooked contaminated poultry is believed to be a major contributor. Since common-source outbreaks account for a rather small proportion of cases, the vast majority of reports refer to sporadic cases, with no easily discernible pattern.",
+      "Measures to reduce the prevalence of Campylobacter in poultry include enhanced biosecurity to avoid transmission of Campylobacter from the environment to the flock of birds on the farm. This control option is feasible only where birds are kept in closed housing conditions.",
+      "Bactericidal treatment, such as heating (for example, cooking or pasteurization) or irradiation, is the only effective method of eliminating Campylobacter from contaminated foods."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Treatment is not generally required, except electrolyte replacement and rehydration. Antimicrobial treatment is recommended in invasive cases (when bacteria invade the intestinal mucosa cells and damage the tissues) or to eliminate the carrier state (the condition of people who harbour Campylobacter in their bodies and keep shedding the bacteria while remaining asymptomatic)."
+    ],
+    "treatment_awareness_only": [
+      "Treatment is not generally required, except electrolyte replacement and rehydration. Antimicrobial treatment is recommended in invasive cases (when bacteria invade the intestinal mucosa cells and damage the tissues) or to eliminate the carrier state (the condition of people who harbour Campylobacter in their bodies and keep shedding the bacteria while remaining asymptomatic)."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

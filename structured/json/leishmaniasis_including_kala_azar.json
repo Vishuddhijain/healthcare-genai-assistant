@@ -1,0 +1,75 @@
+{
+  "doc_id": "who_leishmaniasis_including_kala_azar_108",
+  "title": "Leishmaniasis (including Kala-Azar)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "topic": "Leishmaniasis (including Kala-Azar)",
+  "category": "Communicable Disease (Vector-Borne / Parasitic NTD)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Leishmaniasis is caused by Leishmania parasites transmitted by infected female sandfly bites. India has one of the highest burdens of visceral leishmaniasis (kala-azar), endemic in Bihar, Jharkhand, West Bengal, and eastern UP. India, with Nepal and Bangladesh, is targeting kala-azar elimination (<1 case per 10,000 population per block).\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Kala-azar treatment is free at government facilities in endemic states. Prolonged fever with abdominal swelling should be evaluated promptly — early treatment prevents fatality.",
+    "types": [
+      "Visceral Leishmaniasis (Kala-Azar): Most severe; affects liver, spleen, bone marrow; fatal if untreated; caused by L. donovani in India",
+      "Cutaneous Leishmaniasis: Skin sores/ulcers; most common form globally",
+      "Mucocutaneous Leishmaniasis: Destroys mucous membranes of nose/mouth/throat",
+      "Post-Kala-Azar Dermal Leishmaniasis (PKDL): Skin rash after kala-azar treatment; acts as disease reservoir"
+    ],
+    "symptoms": [
+      "Kala-Azar (Visceral):",
+      "Prolonged irregular fever (weeks to months)",
+      "Massive splenomegaly and hepatomegaly",
+      "Progressive weight loss, weakness, anaemia, low platelets (bleeding tendency)",
+      "Darkening of skin (\"kala-azar\" = black fever)",
+      "Cutaneous: Painless or painful skin ulcers/nodules that heal slowly, leaving scars"
+    ],
+    "warning_signs": [
+      "Prolonged fever (>2 weeks) with abdominal swelling (enlarged spleen) in endemic area",
+      "Skin rash after completed kala-azar treatment (possible PKDL — needs re-treatment)"
+    ],
+    "risk_factors": [
+      "Living in endemic districts (Bihar, Jharkhand, WB, eastern UP)",
+      "Houses with cracked mud walls (sandfly breeding sites)",
+      "Outdoor exposure at dusk/night without protection",
+      "Malnutrition, HIV co-infection (increases risk and severity)"
+    ],
+    "prevention": [
+      "Indoor residual spraying (IRS) with DDT/synthetic pyrethroids",
+      "Use of fine-mesh insecticide-treated bed nets (sandflies are tiny)",
+      "Plastering cracked walls to eliminate sandfly breeding sites",
+      "Avoid outdoor exposure at dusk and night in endemic areas",
+      "Early detection and treatment of PKDL to remove disease reservoir"
+    ],
+    "environmental_control": [
+      "National Kala-Azar Elimination Programme: IRS campaigns in endemic blocks",
+      "House improvement (plastering walls, eliminating cattle sheds attached to homes)",
+      "Vector surveillance for Phlebotomus argentipes sandfly"
+    ],
+    "vaccination": [
+      "No licensed vaccine currently available"
+    ],
+    "diagnosis": [
+      "rK39 rapid diagnostic test (antibody-based; widely used in India)",
+      "Splenic/bone marrow aspirate microscopy (definitive but invasive)",
+      "PCR for confirmation in select cases"
+    ],
+    "treatment_awareness_only": [
+      "Liposomal Amphotericin B: First-line; single-dose regimen; FREE at government health facilities in endemic states",
+      "Miltefosine (oral): Alternative; specialist supervised",
+      "PKDL: Extended treatment course required",
+      "All treatment under National Kala-Azar Elimination Programme — free at PHC/CHC/district hospitals in endemic areas",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Fever lasting more than 2 weeks with abdominal swelling — get tested for kala-azar if in/from endemic area",
+      "Non-healing skin ulcers after travel to endemic regions",
+      "Skin rash following kala-azar treatment"
+    ],
+    "india_specific_context": [
+      "National Kala-Azar Elimination Programme (NHM): Free diagnosis (rK39) and treatment (Liposomal Amphotericin B) at government facilities",
+      "Endemic districts: Bihar (highest burden), Jharkhand, West Bengal, eastern UP",
+      "India nearing elimination target in most blocks as of recent years",
+      "PKDL surveillance is key to sustaining elimination"
+    ]
+  }
+}

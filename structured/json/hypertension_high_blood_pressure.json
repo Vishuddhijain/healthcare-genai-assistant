@@ -1,0 +1,78 @@
+{
+  "doc_id": "who_hypertension_high_blood_pressure_095",
+  "title": "Hypertension (High Blood Pressure)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+  "topic": "Hypertension (High Blood Pressure)",
+  "category": "Non-Communicable Disease (NCD) / Cardiovascular",
+  "last_updated": "2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Hypertension, or high blood pressure, is a condition where the force of blood against artery walls is consistently too high. It is often called the \"silent killer\" because most people have no symptoms, yet it is a major cause of heart attacks, strokes, kidney failure, and premature death. Blood pressure is measured in mmHg. A reading consistently above 140/90 mmHg is considered hypertension.\n\n- An estimated 1.28 billion adults aged 30–79 years worldwide have hypertension.\n- About 46% of adults with hypertension are unaware they have the condition.\n- Less than half (42%) of adults with hypertension are diagnosed and treated.\n- Approximately 1 in 5 adults (21%) with hypertension have it under control.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for awareness only. Blood pressure medication must only be prescribed by a qualified doctor. Do not stop or change medication on your own.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Most people with hypertension feel NO symptoms. This is why regular blood pressure checks are essential. In cases of very high blood pressure, symptoms may include:",
+      "Severe headaches",
+      "Blurred vision",
+      "Chest pain",
+      "Difficulty breathing",
+      "Nausea",
+      "Nosebleeds (in severe cases)",
+      "IMPORTANT: Having no symptoms does NOT mean your blood pressure is normal. Always get it checked."
+    ],
+    "warning_signs": [
+      "Heart attack and heart failure",
+      "Stroke",
+      "Kidney damage and kidney failure",
+      "Blindness (hypertensive retinopathy)",
+      "Peripheral artery disease",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Modifiable (can be changed):",
+      "Unhealthy diet (excessive salt — more than 5g/day, high saturated fat, low fruits/vegetables)",
+      "Physical inactivity",
+      "Being overweight or obese",
+      "Tobacco use",
+      "Excessive alcohol consumption",
+      "Air pollution (significant environmental risk factor)",
+      "Non-modifiable:",
+      "Family history of hypertension",
+      "Age over 65 years",
+      "Co-existing conditions like diabetes or kidney disease"
+    ],
+    "prevention": [
+      "Reduce salt intake to less than 5 grams (about 1 teaspoon) per day",
+      "Eat plenty of fruits and vegetables",
+      "Avoid saturated fats and trans fats",
+      "Avoid or reduce tobacco and alcohol use",
+      "Be physically active daily (at least 30 minutes of moderate activity)",
+      "Maintain a healthy body weight",
+      "Manage stress"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "The only way to know your blood pressure is to have it measured. Health checks should be part of regular adult health care. Adults above age 30 should check their blood pressure at least once a year.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "If blood pressure reading is 140/90 mmHg or higher",
+      "If you have symptoms like chest pain, sudden severe headache, or blurred vision",
+      "For anyone with diabetes, kidney disease, or family history of heart disease — regular check-ups are essential."
+    ],
+    "india_specific_context": [
+      "Under Ayushman Bharat - Health and Wellness Centres, free screening for hypertension is available at public health centres across India. Citizens can also check blood pressure at nearby government hospitals free of cost.",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

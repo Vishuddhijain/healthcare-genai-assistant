@@ -1,0 +1,128 @@
+{
+  "doc_id": "who_asthma_and_copd_chronic_obstructive_pulmonary_disease_015",
+  "title": "Asthma and COPD (Chronic Obstructive Pulmonary Disease)",
+  "source_name": "WHO Fact Sheets + NHP India",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+  "topic": "Asthma and COPD (Chronic Obstructive Pulmonary Disease)",
+  "category": "Non-Communicable Disease (Respiratory)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Asthma and COPD are the two most common chronic respiratory diseases in India, together affecting an estimated 37–40 million people. India has the world's highest asthma mortality burden. COPD is a leading cause of morbidity and mortality, largely driven by indoor air pollution (biomass fuel use in rural households), tobacco smoke, and occupational exposures.\n\nASTHMA: A chronic inflammatory condition of the airways that causes recurrent episodes of wheezing, breathlessness, chest tightness, and coughing. The airways narrow, swell, and produce extra mucus, making breathing difficult. It is manageable but not curable.\n\nCOPD: A progressive inflammatory lung disease that obstructs airflow from the lungs. It encompasses chronic bronchitis (inflammation of bronchial tubes) and emphysema (damage to air sacs). Unlike asthma, COPD airflow obstruction is largely irreversible and worsens over time.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Asthma and COPD require proper diagnosis by a healthcare provider. Never stop or change medications without consulting a doctor. For severe breathing difficulty, call 108 immediately.",
+    "types": [
+      "| Feature               | Asthma                          | COPD                                    | |-----------------------|---------------------------------|-----------------------------------------| | Typical onset age     | Often childhood/young adult     | Usually >40 years                       | | Main cause            | Allergens, atopy, triggers      | Tobacco smoke, biomass, pollution       | | Airflow obstruction   | Reversible                      | Largely irreversible                    | | Progression           | Episodic (can be well-controlled)| Progressive decline                    | | Cough                 | May be dry or productive        | Chronic productive cough                | | Sputum                | Less typical                    | Chronic mucus/sputum                    | | Response to inhalers  | Excellent                       | Partial improvement                     |",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Recurrent wheezing (high-pitched whistling sound while breathing)",
+      "Shortness of breath, especially at night or early morning",
+      "Chest tightness or pressure",
+      "Coughing, often worse at night, with exertion, or triggered by cold air or allergens",
+      "Asthma Triggers (vary by individual):",
+      "Allergens: Dust mites, pollen, mold, cockroach droppings, pet dander",
+      "Air pollutants: Vehicle exhaust, smoke, industrial pollution",
+      "Respiratory infections (colds, flu)",
+      "Exercise",
+      "Cold air",
+      "Strong smells (paint, perfumes, cleaning products)",
+      "Emotions and stress",
+      "Certain medications (aspirin, NSAIDs in some individuals)",
+      "Asthma Attack (Acute Exacerbation) — Warning Signs:",
+      "Rapid worsening of breathlessness and wheezing",
+      "No improvement with usual reliever inhaler",
+      "Unable to complete a sentence due to breathlessness",
+      "Bluish lips or fingernails (cyanosis) — emergency",
+      "Chronic cough (often productive with mucus/sputum), especially in the morning",
+      "Progressive breathlessness (initially on exertion, then at rest in severe disease)",
+      "Wheezing",
+      "Frequent chest infections",
+      "Fatigue",
+      "Weight loss (in advanced disease)",
+      "Barrel-shaped chest (in advanced emphysema)",
+      "COPD Exacerbation Signs (worsening):",
+      "Sudden increase in breathlessness beyond usual",
+      "More sputum production, change in colour (yellow/green — infection)",
+      "Confusion or drowsiness — emergency",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Asthma:",
+      "Family history of asthma or allergies",
+      "Allergic conditions (eczema, hay fever)",
+      "Low birth weight, prematurity",
+      "Exposure to cigarette smoke in childhood",
+      "Air pollution",
+      "Occupational exposures (chemicals, dust, fumes)",
+      "COPD:",
+      "Tobacco smoking (primary cause; includes bidis, cigars, hookah)",
+      "Indoor air pollution: Burning biomass fuels (wood, cow dung, coal) for cooking — major Indian rural risk factor",
+      "Outdoor air pollution",
+      "Occupational dust and chemical exposure (construction, mining, agriculture, textile)",
+      "History of tuberculosis (post-TB lung disease is a major cause of COPD in India)",
+      "Recurrent childhood respiratory infections"
+    ],
+    "prevention": [
+      "Asthma:",
+      "Avoid known triggers (identify through allergy testing if needed)",
+      "Reduce dust, mold, and pet dander at home",
+      "Use HEPA filters/air purifiers in high-pollution areas",
+      "Protect from respiratory infections (vaccinations, hand hygiene)",
+      "Avoid tobacco smoke",
+      "COPD:",
+      "Do not smoke; quit if you do (most important step)",
+      "Switch from biomass/solid fuels to LPG or cleaner cooking energy (government LPG schemes: PM Ujjwala Yojana)",
+      "Improve home ventilation while cooking",
+      "Use masks in dusty occupational environments",
+      "Influenza and pneumococcal vaccinations (reduce exacerbation risk)",
+      "Early TB detection and treatment (prevents post-TB COPD)"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Asthma:",
+      "Spirometry: Assesses reversible airflow obstruction (hallmark of asthma)",
+      "Peak Flow Measurement: Monitors airway function at home",
+      "Allergy testing",
+      "Clinical assessment of symptoms and triggers",
+      "COPD:",
+      "Spirometry: Gold standard — shows irreversible obstruction (FEV1/FVC < 0.70)",
+      "Chest X-ray and CT scan: Rule out other conditions, assess severity",
+      "Arterial blood gas (ABG): In severe COPD"
+    ],
+    "treatment_awareness_only": [
+      "Both conditions require ongoing medical management. Self-discontinuing medication is dangerous.",
+      "Asthma Management (Step-up/Step-down approach by doctor):",
+      "Reliever inhalers (short-acting bronchodilators): Used during acute symptoms",
+      "Controller/preventer inhalers (inhaled corticosteroids ± long-acting bronchodilators): Daily use to prevent symptoms — most important",
+      "Proper inhaler technique is critical — ask your doctor or nurse to demonstrate",
+      "COPD Management:",
+      "Bronchodilator inhalers: Long-acting bronchodilators are the cornerstone",
+      "Inhaled corticosteroids: Used in combination for frequent exacerbators",
+      "Pulmonary rehabilitation: Exercise and breathing training programme",
+      "Oxygen therapy: For severe COPD with low blood oxygen",
+      "Smoking cessation is the single most effective intervention to slow COPD progression",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "New onset of wheezing, breathlessness, or chronic cough",
+      "Symptoms not controlled by current medications",
+      "Asthma attack not responding to reliever inhaler",
+      "Breathlessness at rest, rapid worsening, or confusion",
+      "Anyone with a long smoking history or occupational exposure should be screened for COPD with spirometry"
+    ],
+    "india_specific_context": [
+      "India has ~37 million asthma cases and is a leading contributor to global COPD burden",
+      "Rural women have very high COPD risk due to chulha (biomass stove) cooking — PM Ujjwala Yojana free LPG connection aims to address this",
+      "Post-TB obstructive lung disease is a significant unrecognised cause of COPD in India",
+      "National Programme for NCD (NPNCD): Provides free spirometry and respiratory care at select government facilities",
+      "Free inhalers available at some government dispensaries/CHCs"
+    ]
+  }
+}

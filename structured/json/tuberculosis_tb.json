@@ -1,0 +1,71 @@
+{
+  "doc_id": "who_tuberculosis_tb_215",
+  "title": "Tuberculosis (TB)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+  "topic": "Tuberculosis (TB)",
+  "category": "Communicable / Infectious Disease",
+  "last_updated": "March 2026",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Tuberculosis (TB) is an infectious disease caused by the bacterium Mycobacterium tuberculosis. It primarily affects the lungs (pulmonary TB) but can also affect other organs. TB is the world's leading cause of death from a single infectious agent globally. TB is preventable and curable.\n\n- An estimated 10.7 million people fell ill with TB worldwide in 2024.\n- 1.23 million people died from TB in 2024 (including 150,000 among people with HIV).\n- TB is among the top 10 causes of death globally.\n- TB is the leading killer of people with HIV.\n- India has one of the highest TB burdens in the world.\n- Multidrug-resistant TB (MDR-TB) is a growing public health threat.\n- Global efforts have saved an estimated 83 million lives since 2000.\n\n--- IMPORTANT SAFETY NOTE ---\nTB treatment must be supervised by a healthcare provider. Never stop medication early. Self-medication for TB is dangerous and can lead to drug-resistant TB.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Persistent cough lasting more than 2 weeks (may produce blood or sputum)",
+      "Chest pain",
+      "Weakness or fatigue",
+      "Unexplained weight loss",
+      "Fever (especially in the evenings)",
+      "Night sweats",
+      "Loss of appetite"
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "TB spreads through the air. When a person with pulmonary TB coughs, sneezes, speaks, or spits, they expel TB bacteria into the air. Another person needs to inhale only a few of these bacteria to become infected. TB does NOT spread through:",
+      "Sharing food or drinks",
+      "Shaking hands or touching surfaces",
+      "Sharing clothes or bedding (casual contact)",
+      "People living with HIV/AIDS",
+      "People who are malnourished",
+      "People with diabetes",
+      "Smokers and people with lung disease",
+      "Those in close contact with an active TB patient",
+      "People in crowded or poorly ventilated environments",
+      "Healthcare workers",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "BCG vaccine for infants provides protection, especially against severe forms in children",
+      "Ventilate living spaces (open windows, fresh air)",
+      "Cover mouth and nose when coughing or sneezing",
+      "TB-positive patients should wear masks in crowded places",
+      "Complete the full course of TB treatment to prevent drug-resistant strains",
+      "People with HIV should take TB preventive therapy"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "TB is diagnosed through sputum tests, chest X-rays, and newer molecular tests (like CBNAAT/GeneXpert). Early diagnosis is critical for effective treatment and to prevent spread."
+    ],
+    "treatment_awareness_only": [
+      "TB is treatable and curable with a standard 6-month course of antibiotics. It is CRITICAL to complete the full course of treatment even if you feel better earlier. Stopping treatment early leads to drug-resistant TB which is much harder to treat.",
+      "DOTS (Directly Observed Treatment, Short-course) is the WHO-recommended strategy and is available free in India under the National TB Elimination Programme (NTEP).",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "If you have a cough lasting more than 2 weeks, please visit the nearest government health centre or doctor. Free TB testing is available at government hospitals."
+    ],
+    "india_specific_context": [
+      "The National TB Elimination Programme (NTEP) under the Ministry of Health aims to eliminate TB by 2025. Free diagnosis and treatment are available at all government health facilities. The Nikshay Poshan Yojana provides nutritional support (₹500/month) to TB patients. Website: tbcindia.gov.in",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

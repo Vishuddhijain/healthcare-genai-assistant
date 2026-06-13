@@ -1,0 +1,81 @@
+{
+  "doc_id": "who_chikungunya_032",
+  "title": "Chikungunya",
+  "source_name": "WHO Fact Sheet + NHP India",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
+  "topic": "Chikungunya",
+  "category": "Communicable Disease (Vector-Borne)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Chikungunya is a viral disease transmitted to humans by Aedes aegypti and Aedes albopictus mosquitoes — the same vectors as dengue. It is caused by the chikungunya virus (CHIKV), an alphavirus. The name \"chikungunya\" derives from a Kimakonde language word meaning \"to become contorted,\" describing the stooped posture of affected patients due to severe joint pain. India experienced major outbreaks in 2006–2007 and continues to report cases annually, particularly during monsoon season.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness purposes only. Do not self-diagnose or self-medicate. Always consult a qualified healthcare provider for diagnosis and treatment. Chikungunya symptoms closely resemble dengue — lab testing is necessary to distinguish them.",
+    "types": [
+      "| Feature             | Chikungunya               | Dengue                        | |---------------------|---------------------------|-------------------------------| | Joint pain          | Severe and prolonged      | Mild to moderate              | | Platelet drop       | Mild/uncommon             | Common (key indicator)        | | Haemorrhage risk    | Rare                      | Yes (severe dengue)           | | Rash                | Common                    | Less common                   | | Shock/organ failure | Very rare                 | Possible in severe dengue     | | Duration of fever   | 2–3 days typically        | 5–7 days typically            |",
+      "Both can co-infect simultaneously — clinical overlap is common and lab testing is essential.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Acute phase (onset 2–12 days after bite):",
+      "Sudden high fever (often above 39°C)",
+      "Severe, debilitating joint pain (polyarthralgia) — especially in wrists, ankles, knees, fingers",
+      "Joint swelling",
+      "Muscle pain (myalgia)",
+      "Headache",
+      "Nausea and fatigue",
+      "Skin rash (maculopapular, appears 2–5 days after fever)",
+      "Chronic phase:",
+      "Joint pain and stiffness may persist for weeks to months, or in some cases, years",
+      "Chronic arthritis-like symptoms — more common in older adults"
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Living in/travelling to tropical and subtropical regions",
+      "Monsoon season and post-monsoon (stagnant water breeding)",
+      "Urban and peri-urban settings with poor sanitation",
+      "Previous chikungunya infection does confer lifelong immunity (unlike dengue)"
+    ],
+    "prevention": [
+      "Same mosquito control measures as dengue:",
+      "Eliminate stagnant water sources around the home",
+      "Use insect repellents and wear protective clothing",
+      "Use mosquito nets and screens",
+      "Community-level fogging and larviciding during outbreaks",
+      "No licensed vaccine available as of 2024 (trials ongoing)."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "RT-PCR: Definitive, useful in first 5 days",
+      "Chikungunya IgM/IgG antibody ELISA: Useful from day 5 onwards",
+      "Clinical diagnosis often combined with CBC (to rule out dengue)"
+    ],
+    "treatment_awareness_only": [
+      "No specific antiviral drug available. Management is supportive:",
+      "Rest and adequate fluid intake",
+      "Paracetamol for fever and pain",
+      "NSAIDs (under doctor's supervision) may be considered after dengue is ruled out",
+      "Physiotherapy may help with prolonged joint stiffness",
+      "Avoid self-medication",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Sudden high fever with severe joint pain",
+      "Rash combined with fever",
+      "Fever during a known outbreak in your area",
+      "Persistent joint pain lasting more than 2 weeks after fever resolution",
+      "Symptoms in elderly, pregnant women, or newborns (higher complication risk)"
+    ],
+    "india_specific_context": [
+      "Chikungunya is notifiable under India's Integrated Disease Surveillance Programme (IDSP)",
+      "Major states affected: Maharashtra, Karnataka, Andhra Pradesh, Kerala, Delhi, Tamil Nadu, Gujarat",
+      "NVBDCP (nvbdcp.gov.in) provides surveillance and response guidance",
+      "Free testing available at government district hospitals during outbreaks"
+    ]
+  }
+}

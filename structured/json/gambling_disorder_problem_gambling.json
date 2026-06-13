@@ -1,0 +1,101 @@
+{
+  "doc_id": "who_gambling_disorder_problem_gambling_079",
+  "title": "Gambling Disorder (Problem Gambling)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/gambling",
+  "topic": "Gambling Disorder (Problem Gambling)",
+  "category": "Mental Health / Behavioural Addiction",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Gambling disorder is a behavioural addiction characterised by persistent, recurrent gambling behaviour that causes significant impairment or distress. It is classified as a mental health disorder in the ICD-11 (International Classification of Diseases). With the rise of online gambling and gaming apps in India, gambling disorder is an emerging but underrecognised public health concern.\n\n- Approximately 1–3% of people who gamble develop a gambling disorder.\n- Gambling disorder is more common in men, young adults, and people with other mental health conditions.\n- Online gambling has significantly increased accessibility and risk, especially among young people.\n- In India, gambling (except certain state-regulated lotteries and horse racing) is largely illegal, but online gambling and betting apps are widely accessible.\n- Gambling disorder frequently co-occurs with depression, anxiety, and substance use disorders.\n\nQ: Is gambling disorder a sign of weakness or moral failure?\nA: No. Gambling disorder is a recognised mental health condition involving brain changes in reward and impulse control systems — similar to substance addictions. It is not a moral failure. Treatment helps.\n\nQ: My family member gambles but says they can stop anytime. Is that a problem?\nA: Claiming control while continuing despite consequences is a classic feature of gambling disorder. Denial is common. Encourage them to speak to a mental health professional.\n\nQ: Can a young person develop gambling disorder?\nA: Yes. Young adults are among the highest-risk groups, especially with online gambling accessibility. Early intervention is important.\n\n--- IMPORTANT SAFETY NOTE ---\nGambling disorder is a medical condition. Help is available. Contact Tele MANAS (14416) or iCall (9152987821) for support. If you or someone you know has thoughts of self-harm, call 112 immediately.",
+    "types": [
+      "Gambling disorder (ICD-11): Persistent gambling despite negative consequences, impaired control, and priority given to gambling over other activities.",
+      "Problem gambling: Gambling causing harm but not meeting full disorder criteria.",
+      "At-risk gambling: Gambling behaviour with early signs of harm.",
+      "Gambling forms: lotteries, cards, sports betting, online gambling, casino games, stock/crypto speculation (in some contexts)."
+    ],
+    "symptoms": [
+      "Behavioural signs:",
+      "Preoccupied with gambling (constantly thinking about it, planning next session)",
+      "Needing to gamble with increasingly larger amounts to achieve the same excitement",
+      "Repeated unsuccessful efforts to control, reduce, or stop gambling",
+      "Restless or irritable when trying to reduce gambling",
+      "Gambling to escape problems or relieve feelings of helplessness, guilt, or anxiety",
+      "Lying to family and friends to conceal gambling",
+      "Relying on others to provide money to relieve desperate financial situations caused by gambling",
+      "Jeopardising significant relationships, job, or education because of gambling",
+      "Chasing losses — returning the next day to try to win back what was lost",
+      "Physical/Psychological signs:",
+      "Sleep disturbance and fatigue",
+      "Anxiety and depression",
+      "Thoughts of suicide (elevated risk in gambling disorder)"
+    ],
+    "warning_signs": [
+      "Family member secretly borrowing or stealing money for unexplained reasons",
+      "Mounting unexplained debts",
+      "Selling personal possessions",
+      "Extreme secrecy about finances or phone/computer use",
+      "Mood swings related to wins and losses",
+      "Suicidal thoughts — gambling disorder has elevated suicide risk"
+    ],
+    "risk_factors": [
+      "Male sex and young age",
+      "Family history of gambling or addictions",
+      "Mental health conditions (depression, ADHD, anxiety)",
+      "Substance use disorders",
+      "Impulsivity as a personality trait",
+      "Easy access to gambling platforms (especially online)",
+      "Financial stress",
+      "Peer influence and social gambling environments"
+    ],
+    "prevention": [
+      "Awareness of gambling risks — gambling is not a reliable way to make money",
+      "Setting and sticking to strict spending limits if gambling recreationally",
+      "Parents should monitor children's access to online gaming with monetary elements (loot boxes, in-game purchases)",
+      "Schools should include gambling awareness in life skills education",
+      "Financial literacy education — understanding odds (the house always wins in the long run)"
+    ],
+    "environmental_control": [
+      "India's legal framework on gambling is complex — varies by state. Online gambling regulation is evolving.",
+      "Parents should use parental controls on devices to limit children's access to gambling apps.",
+      "Banks and payment apps can help set voluntary spending limits."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Diagnosis is clinical — based on DSM-5 or ICD-11 criteria (described in symptoms above)",
+      "At least 4–5 symptoms present within a 12-month period",
+      "A mental health professional (psychiatrist or psychologist) makes the diagnosis",
+      "Screening tools: Problem Gambling Severity Index (PGSI)"
+    ],
+    "treatment_awareness_only": [
+      "Highly treatable with proper support:",
+      "Cognitive Behavioural Therapy (CBT): Most evidence-based treatment — addresses thoughts and behaviours driving gambling",
+      "Motivational interviewing: Helps build motivation to change",
+      "Support groups: Gamblers Anonymous (12-step programme)",
+      "Medications: Some evidence for naltrexone, antidepressants — prescribed by psychiatrist",
+      "Financial counselling to address debt",
+      "Treating co-occurring disorders (depression, substance use) simultaneously",
+      "India resources:",
+      "Tele MANAS: 14416 (free mental health support)",
+      "iCall (TISS): 9152987821",
+      "NIMHANS, AIIMS: De-addiction and behavioural addiction services",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "If gambling is causing financial, relationship, or occupational problems",
+      "If you or a family member cannot stop gambling despite wanting to",
+      "If thoughts of self-harm are present",
+      "For any co-occurring mental health or substance use issue"
+    ],
+    "india_specific_context": [
+      "Online betting and fantasy sports apps (Dream11, etc.) are widely used in India.",
+      "Cricket betting is extremely common; large illegal gambling networks operate.",
+      "Gambling disorder awareness and treatment services are limited in India but growing.",
+      "The Public Gambling Act 1867 (central law) bans most gambling; states have their own regulations.",
+      "Cryptocurrency and stock trading can exhibit gambling-like patterns in susceptible individuals."
+    ]
+  }
+}

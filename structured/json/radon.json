@@ -1,0 +1,71 @@
+{
+  "doc_id": "who_radon_173",
+  "title": "Radon",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/radon-and-health",
+  "topic": "Radon",
+  "category": "Environmental Health",
+  "last_updated": "25 January 2023",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Radon is a radioactive gas that has no smell, colour or taste. Radon is produced from the natural radioactive decay of uranium, which is found in all rocks and soils. Radon can also be found in water.\n\nRadon escapes from the ground into the air, where it decays and produces further radioactive particles. As we breathe, these particles are deposited on the cells lining the airways, where they can damage DNA and potentially cause lung cancer.\n\nOutdoors, radon quickly dilutes to very low concentrations and is generally not a problem. The average outdoor radon level (1) varies from 5 Bq/m 3 to 15 Bq/m 3 . However, radon concentrations are higher indoors and in areas with minimal ventilation, with highest levels found in places like mines, caves and water treatment facilities. In buildings such as homes, schools, offices, radon levels can vary substantially from 10 Bq/m 3 to more than 10 000 Bq/m 3 . Given the properties of radon, occupants of such buildings could unknowingly be living or working in very high radon levels.\n\n- Radon is a naturally occurring radioactive gas which may be found in high concentrations in indoor environments, such as homes and workplaces.\n- Radon is one of the leading causes of lung cancer.\n- Radon is estimated to cause between 3% to 14% of all lung cancers in a country, depending on the national average radon level and smoking prevalence.\n- Lung cancer risk is higher for smokers due to synergistic effects of radon and cigarette smoking.\n- Well-tested, durable and cost-efficient methods exist for preventing radon entry into new buildings and reducing radon in existing buildings.\n- Radon concentration indoors can easily be measured with a small passive detector.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "1. Radioactivity is measured in units called Becquerels (Bq). One Becquerel corresponds to the transformation (disintegration) of one atomic nucleus per second. Radon concentration in air is measured by the number of transformations per second in a cubic meter of air (Bq/m 3 ).",
+      "Information disclosure"
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Lung cancer risk is higher for smokers due to synergistic effects of radon and cigarette smoking.",
+      "An increased rate of lung cancer was first seen in uranium miners exposed to very high concentrations of radon. In addition, studies in Europe, North America and China have confirmed that even low concentrations of radon – such as those commonly found in residential settings – also pose health risks and contribute to the occurrence of lung cancers worldwide.",
+      "The risk of lung cancer increases by about 16% per 100 Bq/m 3 increase in long time average radon concentration. The dose-response relation is assumed to be linear – i.e. the risk of lung cancer increases proportionally with increasing radon exposure.",
+      "Radon is much more likely to cause lung cancer in people who smoke. In fact, smokers are estimated to be 25 times more at risk from radon than non-smokers. No other cancer risks or other health effects have been established to date, although inhaled radon can deliver radiation to other organs, but at a much lower level than to the lungs.",
+      "For most people, the greatest exposure to radon occurs in the home where people spend much of their time, though indoor workplaces may also be a source of exposure. The concentration of radon in buildings depends on:",
+      "To date, epidemiological studies have not confirmed an association between consumption of drinking-water containing radon and an increased risk of stomach cancer. Radon dissolved in drinking-water is released into indoor air. Normally, a higher radon dose is received from inhaling radon compared with ingestion."
+    ],
+    "prevention": [
+      "Well-tested, durable and cost-efficient methods exist for preventing radon in new buildings and reducing radon in existing dwellings. Radon prevention should be considered when new structures are built, particularly in radon-prone areas. In many countries of Europe, and in the United States of America and China, the inclusion of protective measures in new buildings are included in building codes.",
+      "Some common ways of reducing radon levels in existing buildings include:",
+      "increasing under-floor ventilation;",
+      "installing a radon sump system in the basement or under a solid floor;",
+      "avoiding the passage of radon from the basement into living spaces;",
+      "sealing floors and walls; and",
+      "improving the ventilation of the building, especially in the context of energy conservation.",
+      "Passive systems of mitigation can reduce indoor radon levels by more than 50%. When radon ventilation fans are added radon, levels can be reduced even further."
+    ],
+    "environmental_control": [
+      "In many countries, drinking water is obtained from groundwater sources such as springs, wells and boreholes. These sources of water normally have higher concentrations of radon than surface water from reservoirs, rivers or lakes.",
+      "To date, epidemiological studies have not confirmed an association between consumption of drinking-water containing radon and an increased risk of stomach cancer. Radon dissolved in drinking-water is released into indoor air. Normally, a higher radon dose is received from inhaling radon compared with ingestion.",
+      "The WHO guidelines for drinking water quality (2) (2011) recommend that screening levels for radon in drinking-water be set based on the national reference level for radon in air. In circumstances where high radon concentrations might be expected in drinking-water, it is prudent to measure radon concentrations. Straightforward and effective techniques exist to reduce the concentration of radon in drinking-water supplies by aeration or using granular activated carbon filters. Further guidance is available in Management of radioactivity in drinking-water (3).",
+      "WHO guidelines for drinking-water quality",
+      "Management of radioactivity in drinking-water"
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Well-tested, durable and cost-efficient methods exist for preventing radon entry into new buildings and reducing radon in existing buildings.",
+      "Radon concentration indoors can easily be measured with a small passive detector.",
+      "For most people, the greatest exposure to radon occurs in the home where people spend much of their time, though indoor workplaces may also be a source of exposure. The concentration of radon in buildings depends on:",
+      "Well-tested, durable and cost-efficient methods exist for preventing radon in new buildings and reducing radon in existing dwellings. Radon prevention should be considered when new structures are built, particularly in radon-prone areas. In many countries of Europe, and in the United States of America and China, the inclusion of protective measures in new buildings are included in building codes."
+    ],
+    "treatment_awareness_only": [
+      "3. Management of radioactivity in drinking-water , Geneva, WHO.",
+      "Management of radioactivity in drinking-water"
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

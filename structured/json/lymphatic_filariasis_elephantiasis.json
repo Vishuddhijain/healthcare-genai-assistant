@@ -1,0 +1,82 @@
+{
+  "doc_id": "who_lymphatic_filariasis_elephantiasis_113",
+  "title": "Lymphatic Filariasis (Elephantiasis)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis",
+  "topic": "Lymphatic Filariasis (Elephantiasis)",
+  "category": "Communicable Disease (Vector-Borne / Parasitic NTD)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Lymphatic filariasis (LF), commonly known as elephantiasis, is caused by thread-like parasitic worms (Wuchereria bancrofti — responsible for ~90% of cases; also Brugia malayi and B. timori) transmitted by mosquitoes (Culex, Anopheles, Aedes depending on region). The worms live in the lymphatic system, causing abnormal enlargement of body parts, pain, severe disability, and social stigma. India has historically had one of the world's largest LF burdens. The Global Programme to Eliminate Lymphatic Filariasis (GPELF) and India's National Filaria Control Programme aim for elimination through Mass Drug Administration (MDA).\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. If you live in an endemic district, participate in annual MDA campaigns even if you have no symptoms — this protects the whole community. For limb swelling or hydrocele, seek care at government health facilities, which provide free management.",
+    "types": [
+      "Asymptomatic infection: Most infected individuals have no external symptoms but have lymphatic damage and circulating microfilariae (can transmit infection)",
+      "Acute Adenolymphangitis (ADL): Recurrent painful, red, swollen episodes along lymphatic channels — fever and inflammation",
+      "Lymphoedema/Elephantiasis: Chronic swelling, usually of legs (also arms, breasts) — thickened, hardened skin",
+      "Hydrocele: Fluid accumulation in scrotum — most common clinical manifestation in men in endemic areas",
+      "Tropical Pulmonary Eosinophilia (TPE): Rare hypersensitivity reaction causing cough, wheeze, and lung infiltrates",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Swelling of legs, arms, breasts, or genitals (lymphoedema)",
+      "Thickened, hardened, \"elephant-like\" skin in advanced cases (elephantiasis)",
+      "Hydrocele (scrotal swelling) in men",
+      "Recurrent episodes of fever, pain, redness along affected limb (acute attacks)",
+      "Disability and reduced mobility in advanced cases"
+    ],
+    "warning_signs": [
+      "Recurrent fever with redness/swelling of a limb (acute lymphangitis attack) — needs hygiene management and may need antibiotics for secondary infection",
+      "Progressive limb swelling not improving — needs morbidity management referral"
+    ],
+    "risk_factors": [
+      "Living in endemic areas with poor mosquito control",
+      "Repeated mosquito bites over years (cumulative exposure needed for clinical disease)",
+      "Poor sanitation (breeding sites for Culex mosquitoes — e.g. stagnant polluted water, soak pits)"
+    ],
+    "prevention": [
+      "Mass Drug Administration (MDA):",
+      "Annual single-dose combination of antifilarial drugs (Diethylcarbamazine + Albendazole, or with Ivermectin in some areas) given to entire at-risk population in endemic districts",
+      "Reduces microfilariae in blood, interrupting transmission",
+      "India conducts National MDA campaigns annually in endemic districts — free of cost",
+      "Vector control:",
+      "Eliminate Culex mosquito breeding sites (polluted stagnant water, soak pits, blocked drains)",
+      "Use of mosquito nets and repellents in endemic areas",
+      "Improved sanitation reduces Culex breeding habitat"
+    ],
+    "environmental_control": [
+      "Cleaning of drains, soak pits, and stagnant polluted water bodies (Culex breeding sites)",
+      "Source reduction campaigns coordinated with NVBDCP",
+      "Community participation in keeping surroundings clean"
+    ],
+    "vaccination": [
+      "No vaccine available; MDA with antifilarial drugs is the primary prevention tool"
+    ],
+    "diagnosis": [
+      "Night blood smear examination for microfilariae (traditional method — blood drawn at night when microfilariae peak in circulation)",
+      "Antigen detection tests (ICT card test): Rapid, detects adult worm antigen, can be done any time of day",
+      "Ultrasound: Detects \"filarial dance sign\" of live adult worms in lymphatics/scrotum"
+    ],
+    "treatment_awareness_only": [
+      "Antifilarial drugs (DEC, Albendazole, Ivermectin): Kill microfilariae; given as part of MDA or individual treatment — doctor/programme supervised",
+      "Morbidity management:",
+      "Lymphoedema: Daily limb hygiene (washing with soap and water), elevation, exercise, proper footwear — prevents progression and acute attacks",
+      "Hydrocele: Surgical correction available at government hospitals",
+      "Acute attacks: Antibiotics for secondary bacterial infection, anti-inflammatory medication, rest and limb elevation",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Any limb swelling that is progressive or recurrent, especially in endemic areas",
+      "Recurrent fever with limb redness/pain",
+      "Scrotal swelling",
+      "For MDA: Participate in annual government MDA campaigns even if asymptomatic — protects you and the community"
+    ],
+    "india_specific_context": [
+      "National Filaria Control Programme under NVBDCP coordinates MDA campaigns",
+      "Endemic states: Bihar, UP, Jharkhand, Odisha, parts of Andhra Pradesh, Tamil Nadu, Kerala, and others",
+      "India has made significant progress toward elimination; some districts have stopped MDA after meeting criteria",
+      "Free MDA tablets distributed door-to-door annually in endemic districts — participate even without symptoms",
+      "Hydrocele surgery available free at government hospitals under the programme",
+      "Lymphoedema morbidity management kits provided at PHCs in endemic areas"
+    ]
+  }
+}

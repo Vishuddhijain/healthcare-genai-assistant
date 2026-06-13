@@ -1,0 +1,101 @@
+{
+  "doc_id": "who_mental_disorders_overview_121",
+  "title": "Mental Disorders (Overview)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders",
+  "topic": "Mental Disorders (Overview)",
+  "category": "Mental Health (Non-Communicable)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Mental disorders are characterised by clinically significant disturbance in an individual's cognition, emotional regulation, or behaviour, reflecting dysfunction in psychological, biological, or developmental processes. WHO estimates that 1 in 8 people globally live with a mental disorder, with anxiety and depressive disorders being most common. India's National Mental Health Survey (NIMHANS) found approximately 10.6% of adults suffer from some mental disorder, with a treatment gap of 70–92% depending on disorder type — meaning most people with mental illness in India do not receive care. This overview complements the dedicated mental health, anxiety/autism, bipolar/depression, dementia, schizophrenia, and PTSD topics.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Mental disorders are treatable medical conditions, not personal weaknesses. If you or someone you know is experiencing symptoms, reaching out to Tele-MANAS (14416) or a qualified mental health professional is an important first step. If there are thoughts of self-harm or suicide, please seek immediate help — this is a sensitive topic and support is available.",
+    "types": [
+      "Anxiety disorders: Generalised anxiety, panic disorder, phobias, social anxiety (see Anxiety topic)",
+      "Depressive disorders: Major depressive disorder, dysthymia (see Bipolar/Depression topic)",
+      "Bipolar disorder: Alternating mania and depression (see Bipolar/Depression topic)",
+      "Schizophrenia and psychotic disorders: Hallucinations, delusions, disorganised thinking (see Schizophrenia topic)",
+      "Neurodevelopmental disorders: Autism spectrum disorder, ADHD, intellectual disability (see Anxiety/Autism topic)",
+      "Eating disorders: Anorexia nervosa, bulimia nervosa, binge eating disorder",
+      "Conduct/behavioural disorders: Especially in children and adolescents",
+      "Substance use disorders: Often co-occur with other mental disorders (see Alcohol Use topic)",
+      "Dementia: Neurocognitive disorders (see Dementia topic)",
+      "Stress-related disorders: PTSD, adjustment disorders (see PTSD topic)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Persistent sadness, anxiety, or irritability",
+      "Withdrawal from social activities and relationships",
+      "Significant changes in sleep or appetite",
+      "Difficulty concentrating or making decisions",
+      "Loss of interest in previously enjoyed activities",
+      "Excessive fears or worries",
+      "Unusual thoughts, beliefs, or perceptions (hallucinations, delusions)",
+      "Significant changes in energy levels or behaviour",
+      "Difficulty functioning at work, school, or in relationships",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Thoughts of self-harm or suicide — see Suicide topic for crisis resources",
+      "Inability to care for oneself (not eating, not maintaining hygiene)",
+      "Psychotic symptoms (hearing voices, paranoid beliefs) causing distress or risk",
+      "Severe agitation or aggression",
+      "Sudden, severe changes in behaviour or personality",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Genetic and family history of mental illness",
+      "Adverse childhood experiences (abuse, neglect, trauma)",
+      "Chronic stress, poverty, unemployment",
+      "Social isolation",
+      "Substance use",
+      "Chronic physical illness",
+      "Major life transitions or losses",
+      "Discrimination and stigma (compounds barriers to care)"
+    ],
+    "prevention": [
+      "Mental health literacy and reducing stigma",
+      "Strengthening social connections and support systems",
+      "Stress management techniques (mindfulness, exercise, adequate sleep)",
+      "Early identification and intervention programmes (especially in schools and workplaces)",
+      "Addressing social determinants: Poverty reduction, employment programmes, safe housing",
+      "Limiting access to means of self-harm in at-risk individuals",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Workplace mental health policies (reducing burnout, harassment)",
+      "School-based mental health programmes",
+      "Community-based rehabilitation reduces institutionalisation and supports recovery"
+    ],
+    "vaccination": [
+      "Not applicable"
+    ],
+    "diagnosis": [
+      "Clinical assessment by mental health professional (psychiatrist, clinical psychologist)",
+      "Standardised screening tools (e.g. PHQ-9 for depression, GAD-7 for anxiety) — screening only, not diagnostic alone",
+      "Comprehensive history including psychosocial context",
+      "Rule out medical causes (thyroid disorders, vitamin deficiencies, substance effects) that can mimic psychiatric symptoms"
+    ],
+    "treatment_awareness_only": [
+      "Psychotherapy: Cognitive Behavioural Therapy (CBT), counselling, and other evidence-based therapies",
+      "Medication: Antidepressants, anti-anxiety medications, antipsychotics, mood stabilisers — doctor/psychiatrist prescribed",
+      "Combination treatment: Often most effective for moderate-severe disorders",
+      "Psychosocial support: Peer support groups, family psychoeducation, vocational rehabilitation",
+      "Community mental health services: District Mental Health Programme (DMHP) provides services at district level in India",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Symptoms persisting for more than 2 weeks affecting daily functioning",
+      "Thoughts of self-harm or suicide — seek immediate help (see Suicide topic for helplines)",
+      "Significant changes in behaviour noticed by family/friends",
+      "Difficulty managing work, relationships, or self-care due to emotional/psychological symptoms",
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "National Mental Health Programme (NMHP) and District Mental Health Programme (DMHP): Provide mental health services at district hospitals and below",
+      "Mental Healthcare Act 2017: Decriminalises suicide attempts, protects rights of persons with mental illness, mandates insurance coverage for mental health on par with physical health",
+      "Tele-MANAS (Tele Mental Health Assistance and Networking Across States): 24x7 toll-free helpline — 14416 or 1800-891-4416 — provides counselling and referral across India in multiple languages",
+      "NIMHANS (National Institute of Mental Health and Neurosciences), Bengaluru: Apex institute for mental health research, training, and tertiary care",
+      "Significant treatment gap (70–92%) due to stigma, shortage of mental health professionals, and limited awareness"
+    ]
+  }
+}

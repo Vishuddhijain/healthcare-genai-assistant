@@ -1,0 +1,56 @@
+{
+  "doc_id": "who_disability_057",
+  "title": "Disability",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/disability-and-health",
+  "topic": "Disability",
+  "category": "Disability and Rehabilitation",
+  "last_updated": "7 March 2023",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Disability is part of being human and is integral to the human experience. It results from the interaction between health conditions such as dementia, blindness or spinal cord injury, and a range of environmental and personal factors. An estimated 1.3 billion people – or 16% of the global population – experience a significant disability today. This number is growing because of an increase in noncommunicable diseases and people living longer. Persons with disabilities are a diverse group, and factors such as sex, age, gender identity, sexual orientation, religion, race, ethnicity and their economic situation affect their experiences in life and their health needs. Persons with disabilities die earlier, have poorer health, and experience more limitations in everyday functioning than others.\n\n- An estimated 1.3 billion people experience significant disability. This represents 16% of the world’s population, or 1 in 6 of us.\n- Some persons with disabilities die up to 20 years earlier than those without disabilities.\n- Persons with disabilities have twice the risk of developing conditions such as depression, asthma, diabetes, stroke, obesity or poor oral health.\n- Persons with disabilities face many health inequities.\n- Persons with disabilities find inaccessible and unaffordable transportation 15 times more difficult than for those without disabilities.\n- Health inequities arise from unfair conditions faced by persons with disabilities, including stigma, discrimination, poverty, exclusion from education and employment, and barriers faced in the health system itself.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Social determinants of health: Poverty, exclusion from education and employment, and poor living conditions all add to the risk of poor health and unmet health care needs among persons with disabilities. Gaps in formal social support mechanisms mean that persons with disabilities are reliant on support from family members to engage in health and community activities, which not only disadvantages them but also their caregivers (who are mostly women and girls).",
+      "Health system: Persons with disabilities face barriers in all aspects of the health system. For example, a lack of knowledge, negative attitudes and discriminatory practices among healthcare workers; inaccessible health facilities and information; and lack of information or data collection and analysis on disability, all contribute to health inequities faced by this group."
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or the topic is a public-health/system/environment topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Persons with disabilities have twice the risk of developing conditions such as depression, asthma, diabetes, stroke, obesity or poor oral health.",
+      "Social determinants of health: Poverty, exclusion from education and employment, and poor living conditions all add to the risk of poor health and unmet health care needs among persons with disabilities. Gaps in formal social support mechanisms mean that persons with disabilities are reliant on support from family members to engage in health and community activities, which not only disadvantages them but also their caregivers (who are mostly women and girls).",
+      "Risk factors: Persons with disabilities are more likely to have risk factors for non-communicable diseases, such as smoking, poor diet, alcohol consumption and a lack of physical activity. A key reason for this is that they are often left out of public health interventions."
+    ],
+    "prevention": [
+      "The World Health Assembly Resolution WHA74.8 on the highest attainable standard of health for persons with disabilities calls for Member States to ensure that persons with disabilities receive effective health services as part of universal health coverage; equal protection during emergencies; and equal access to cross-sectoral public health interventions.",
+      "There could be almost an US$ 10 return for every US$ 1 spent on implementing disability inclusive prevention and care for noncommunicable diseases.",
+      "Persons with disabilities must be considered when preventing and responding to health emergencies because they are more likely to be affected, both directly and indirectly. For example, during the COVID-19 pandemic, persons with disabilities living in institutions have been “cut off from the rest of society” with reports of residents being overmedicated, sedated, or locked up, and examples of self-harm also occurring.",
+      "Promoting healthier populations through clean air and water, road safety, child nutrition and addressing violence against women will only be achieved if public health interventions for the wider population consider the needs, skills and capacities of persons with disabilities."
+    ],
+    "environmental_control": [
+      "Promoting healthier populations through clean air and water, road safety, child nutrition and addressing violence against women will only be achieved if public health interventions for the wider population consider the needs, skills and capacities of persons with disabilities."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Structural factors: Persons with disabilities experience ableism, stigma and discrimination in all facets of life, which affects their physical and mental health. Laws and policies may deny them the right to make their own decisions and allow a range of harmful practices in the health sector, such as forced sterilization, involuntary admission and treatment, and even institutionalization."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

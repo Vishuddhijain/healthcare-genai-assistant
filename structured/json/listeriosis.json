@@ -1,0 +1,70 @@
+{
+  "doc_id": "who_listeriosis_110",
+  "title": "Listeriosis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/listeriosis",
+  "topic": "Listeriosis",
+  "category": "Communicable Disease (Foodborne Bacterial Infection)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Listeriosis is a foodborne illness caused by Listeria monocytogenes bacteria, found in soil, water, and animals. It can grow at refrigeration temperatures, making it a particular concern for ready-to-eat refrigerated foods. While most healthy people experience mild or no symptoms, listeriosis can be severe and life-threatening in pregnant women (causing miscarriage, stillbirth, preterm birth), newborns, elderly, and immunocompromised individuals. Case fatality in invasive disease can reach 20–30%.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Pregnant women, elderly, and immunocompromised individuals should take extra precautions with food safety. Fever during pregnancy should always be evaluated by a doctor.",
+    "types": [
+      "Non-invasive (Febrile Gastroenteritis): Mild illness in healthy people — fever, diarrhoea, vomiting",
+      "Invasive Listeriosis: Bacteria spread to bloodstream/CNS — sepsis, meningitis, encephalitis",
+      "Pregnancy-associated Listeriosis: Maternal flu-like illness; can cause fetal infection, miscarriage, stillbirth, neonatal sepsis/meningitis"
+    ],
+    "symptoms": [
+      "Mild (healthy individuals): Fever, muscle aches, nausea, diarrhoea (1–3 days incubation)",
+      "Invasive disease: Fever, severe headache, stiff neck, confusion, loss of balance, convulsions (meningitis/encephalitis); incubation can be up to 70 days",
+      "Pregnancy: Flu-like illness in mother (often mild); can lead to fetal loss or severe neonatal infection"
+    ],
+    "warning_signs": [
+      "Fever with stiff neck, headache, confusion — possible meningitis (emergency)",
+      "Fever in pregnancy with flu-like symptoms — needs evaluation given fetal risk",
+      "Fever in newborn with poor feeding, lethargy — emergency"
+    ],
+    "risk_factors": [
+      "Pregnant women (~20x more likely to get listeriosis than general population)",
+      "Elderly (>65 years)",
+      "Immunocompromised (cancer, transplant, HIV, diabetes, liver/kidney disease, steroid use)",
+      "Newborns (acquired from infected mother)"
+    ],
+    "prevention": [
+      "Avoid unpasteurised milk and dairy products (soft cheeses made from unpasteurised milk)",
+      "Thoroughly cook raw meat, poultry, seafood",
+      "Wash raw vegetables and fruits thoroughly",
+      "Avoid ready-to-eat refrigerated foods (deli meats, pre-cut fruits) for high-risk groups unless reheated to steaming hot",
+      "Separate raw and cooked foods; clean refrigerators regularly",
+      "Pregnant women: Avoid unpasteurised dairy, raw sprouts, pre-packaged salads unless thoroughly washed"
+    ],
+    "environmental_control": [
+      "Food industry: Environmental monitoring for Listeria in processing facilities (especially dairy, meat processing)",
+      "Proper refrigeration temperature maintenance (below 4°C, though Listeria can still grow slowly)"
+    ],
+    "vaccination": [
+      "No vaccine available"
+    ],
+    "diagnosis": [
+      "Blood culture or CSF culture (for meningitis)",
+      "Identification of Listeria monocytogenes from sterile sites"
+    ],
+    "treatment_awareness_only": [
+      "Antibiotics: Ampicillin (often with gentamicin) — doctor prescribed; IV treatment for invasive disease",
+      "Hospitalisation required for invasive listeriosis, pregnancy-associated cases, and neonatal infection",
+      "Early treatment in pregnancy may prevent fetal infection",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Fever during pregnancy, especially with flu-like symptoms — seek evaluation",
+      "Fever with stiff neck, severe headache, confusion — emergency",
+      "Fever in newborn — emergency",
+      "Elderly or immunocompromised with unexplained fever and gastrointestinal symptoms"
+    ],
+    "india_specific_context": [
+      "Underreported in India due to limited surveillance and testing",
+      "Pregnant women should be counselled on food safety regarding unpasteurised dairy and street food hygiene",
+      "FSSAI food safety guidelines apply to commercial food processing"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "doc_id": "who_abortion_001",
+  "title": "Abortion",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/abortion",
+  "topic": "Abortion",
+  "category": "Reproductive and Maternal Health",
+  "last_updated": "8 December 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Around 73 million induced abortions take place worldwide each year. Six out of 10 (61%) of all unintended pregnancies, and 3 out of 10 (29%) of all pregnancies, end in induced abortion.\n\nComprehensive abortion care is included in the list of essential health care services published by WHO in 2020. Abortion is a simple health care intervention that can be safely and effectively managed by a wide range of health workers using medication or a surgical procedure. In the first 12 weeks of pregnancy, a medical abortion can also be safely self-managed by the pregnant person outside of a health care facility (e.g. at home), in whole or in part. This requires that the woman has access to accurate information, quality medicines and support from a trained health worker (if she needs or wants it during the process).\n\nComprehensive abortion care includes the provision of information, abortion management and post-abortion care. Abortion management includes induced abortion (the deliberate interruption of an ongoing pregnancy by medical or surgical means), care related to pregnancy loss (e.g., miscarriage/spontaneous abortion, missed abortion and intrauterine fetal demise), and management of complications after an abortion.\n\n- Six out of 10 unintended pregnancies end in induced abortion.\n- Abortion is a common health intervention. It is very safe when carried out using a method recommended by WHO, appropriate to the pregnancy duration and by someone with the necessary skills.\n- However, around 45% of abortions are unsafe.\n- Unsafe abortion is an important preventable cause of maternal deaths and morbidities. It can lead to physical and mental health complications and social and financial burdens for women, communities and health systems.\n- Lack of access to safe, timely, affordable and respectful abortion care is a critical public health and human rights issue.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Comprehensive abortion care includes the provision of information, abortion management and post-abortion care. Abortion management includes induced abortion (the deliberate interruption of an ongoing pregnancy by medical or surgical means), care related to pregnancy loss (e.g., miscarriage/spontaneous abortion, missed abortion and intrauterine fetal demise), and management of complications after an abortion.",
+      "The information in this fact sheet focuses on care related to induced abortion.",
+      "Maternal deaths due to unsafe abortion are often misclassified and underreported due to stigma. A review from 2009–20 found that 8% of maternal deaths were linked to abortion.",
+      "the availability and accessibility of information; and"
+    ],
+    "symptoms": [
+      "haemorrhage (heavy bleeding);"
+    ],
+    "warning_signs": [
+      "Lack of access to safe, affordable, timely and respectful abortion care, and the stigma associated with abortion, pose risks to women’s physical and mental well-being throughout the life-course.",
+      "Inaccessibility of quality abortion care risks violating a range of human rights of women and girls, including the right to life; the right to the highest attainable standard of physical and mental health; the right to benefit from scientific progress and its realization; the right to decide freely and responsibly on the number, spacing and timing of children; and the right to be free from torture, cruel, inhuman and degrading treatment and punishment.",
+      "Maternal deaths due to unsafe abortion are often misclassified and underreported due to stigma. A review from 2009–20 found that 8% of maternal deaths were linked to abortion.",
+      "While deaths from safe abortion are negligible, <1/100 000, in regions where unsafe abortions are common, the death rates are high, at > 200/100 000 abortions (4) . Estimates from 2012 indicate that in developing countries alone, 7 million women per year were treated in hospital facilities for complications of unsafe abortion.",
+      "Physical health risks associated with unsafe abortion include:",
+      "incomplete abortion (failure to remove or expel all pregnancy tissue from the uterus);",
+      "haemorrhage (heavy bleeding);",
+      "uterine perforation (caused when the uterus is pierced by a sharp object); and"
+    ],
+    "risk_factors": [
+      "When carried out using a method recommended by WHO appropriate to the pregnancy duration, and by someone with the necessary skills, abortion is a safe health care intervention.",
+      "However, when people with unintended pregnancies face barriers to attaining safe, timely, affordable, geographically reachable, respectful and non-discriminatory abortion care, they may resort to unsafe abortion.",
+      "Global estimates from 2010–2014 demonstrate that 45% of all induced abortions are unsafe. Of all unsafe abortions, one third were performed under the least safe conditions, i.e. by untrained persons using dangerous and invasive methods. More than half of all these unsafe abortions occurred in Asia, most of them in south and central Asia. In Latin America and Africa, the majority (approximately 3 out of 4) of all abortions were unsafe. In Africa, nearly half of all abortions occurred under the least safe circumstances."
+    ],
+    "prevention": [
+      "Abortion is a common health intervention. It is very safe when carried out using a method recommended by WHO, appropriate to the pregnancy duration and by someone with the necessary skills.",
+      "However, around 45% of abortions are unsafe.",
+      "Unsafe abortion is an important preventable cause of maternal deaths and morbidities. It can lead to physical and mental health complications and social and financial burdens for women, communities and health systems.",
+      "Lack of access to safe, timely, affordable and respectful abortion care is a critical public health and human rights issue.",
+      "When carried out using a method recommended by WHO appropriate to the pregnancy duration, and by someone with the necessary skills, abortion is a safe health care intervention.",
+      "However, when people with unintended pregnancies face barriers to attaining safe, timely, affordable, geographically reachable, respectful and non-discriminatory abortion care, they may resort to unsafe abortion."
+    ],
+    "environmental_control": [
+      "Multiple actions are needed at the legal, health system and community levels so that everyone who needs abortion care has access to it. The three cornerstones of an enabling environment for quality comprehensive abortion care are:"
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Inaccessibility of quality abortion care risks violating a range of human rights of women and girls, including the right to life; the right to the highest attainable standard of physical and mental health; the right to benefit from scientific progress and its realization; the right to decide freely and responsibly on the number, spacing and timing of children; and the right to be free from torture, cruel, inhuman and degrading treatment and punishment.",
+      "While deaths from safe abortion are negligible, <1/100 000, in regions where unsafe abortions are common, the death rates are high, at > 200/100 000 abortions (4) . Estimates from 2012 indicate that in developing countries alone, 7 million women per year were treated in hospital facilities for complications of unsafe abortion.",
+      "Estimates from 2006 show that complications of unsafe abortions cost health systems in developing countries US$ 553 million per year for post-abortion treatments (8) . In addition, households experienced US$ 922 million in loss of income due to long-term disability related to unsafe abortion (8) . Countries and health systems could make substantial monetary savings by providing greater access to modern contraception and quality induced abortion.",
+      "that an adequate number of health workers, of different types, provide abortion care at a reachable distance to patients;",
+      "that health workers are trained to provide safe and respectful abortion care, to support informed decision-making and to interpret laws and policies regulating abortion;",
+      "that health workers are supported and protected from stigma; and"
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

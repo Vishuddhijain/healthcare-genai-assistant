@@ -1,0 +1,95 @@
+{
+  "doc_id": "who_alcohol_use_and_health_008",
+  "title": "Alcohol Use and Health",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/alcohol",
+  "topic": "Alcohol Use and Health",
+  "category": "Substance Use / Public Health / NCD Risk Factor",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Alcohol is a psychoactive substance with dependence-producing properties. It is a causal factor in more than 200 disease and injury conditions. Harmful use of alcohol causes significant health, social, and economic burdens globally and in India. There is no safe level of alcohol use — even moderate consumption carries health risks.\n\n- Globally, alcohol causes 2.6 million deaths per year (4.7% of all deaths).\n- India is among the top alcohol-consuming nations in South Asia, with rising consumption trends.\n- Alcohol causes liver disease, cancers, heart disease, mental disorders, and injuries.\n- Alcohol use disorders affect about 107 million people globally.\n- Young people who begin drinking before age 15 are 4 times more likely to develop alcohol dependence.\n- Road traffic accidents related to drunk driving are a major cause of injury and death in India.\n\n- Domestic violence and child abuse are significantly more common in families with alcohol problems\n- Road traffic accidents — drunk driving is a leading cause of fatal accidents in India\n- Workplace accidents and reduced productivity\n- Financial strain on families\n- POCSO and IPC laws address violence — victims should seek help at One Stop Centres (OSC) or call 181\n\nQ: Is beer or wine safer than spirits?\nA: No. All alcohol (beer, wine, spirits) contains ethanol — the same harmful substance. Risk depends on the total amount of alcohol consumed, not the type of drink.\n\nQ: Can I drink alcohol for heart health? I heard it is beneficial.\nA: This is a myth. WHO states there is no safe level of alcohol. Any perceived cardiovascular benefit is outweighed by the increased cancer and other risks. Do not start drinking for health reasons.\n\nQ: Is it dangerous to suddenly stop drinking if I am dependent?\nA: Yes. Sudden alcohol withdrawal in a dependent person can cause seizures, delirium, and death. Never stop abruptly without medical supervision. Seek doctor's help.\n\nQ: Can a person recover from alcohol dependence?\nA: Yes. With proper medical treatment, counselling, and support, recovery is absolutely possible. Many people live alcohol-free, healthy lives after treatment.\n\n--- IMPORTANT SAFETY NOTE ---\nAlcohol use disorder is a medical condition. Help is available. Contact a doctor, NIMHANS helpline, or Tele MANAS (14416). In an emergency involving alcohol poisoning or violence, call 112.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Impaired judgement and coordination",
+      "Slowed reaction time",
+      "Loss of inhibition and risky behaviour",
+      "Nausea and vomiting",
+      "Accidents, falls, and injuries",
+      "Alcohol poisoning (in high amounts) — can be fatal",
+      "Blackouts (memory loss)",
+      "Aggressive or violent behaviour",
+      "Physical health:",
+      "Liver disease: fatty liver → alcoholic hepatitis → cirrhosis → liver failure",
+      "Cancer: alcohol causes cancer of mouth, throat, oesophagus, liver, colon, and breast",
+      "Heart disease: heavy drinking causes cardiomyopathy, irregular heartbeat, hypertension",
+      "Pancreatitis: inflammation of the pancreas",
+      "Brain damage: memory problems, cognitive decline, Wernicke-Korsakoff syndrome",
+      "Weakened immune system",
+      "Malnutrition",
+      "Mental health:",
+      "Depression and anxiety (alcohol worsens both)",
+      "Dependence and addiction",
+      "Increased suicide risk",
+      "Psychosis in severe cases",
+      "Pregnancy:",
+      "Alcohol during pregnancy can cause Foetal Alcohol Spectrum Disorders (FASD) — intellectual disability, developmental problems, physical defects in the child",
+      "NO amount of alcohol is safe during pregnancy",
+      "Signs of alcohol use disorder:",
+      "Craving for alcohol",
+      "Unable to control amount or frequency of drinking",
+      "Continuing to drink despite negative consequences",
+      "Spending significant time drinking or recovering",
+      "Withdrawing from hobbies and responsibilities",
+      "Needing more alcohol for the same effect (tolerance)",
+      "Withdrawal symptoms when not drinking: tremors, sweating, anxiety, seizures",
+      "Alcohol withdrawal can be medically serious — should be managed under doctor supervision.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Those at higher risk of harm from alcohol:",
+      "Pregnant women (no safe level)",
+      "Young people and adolescents (developing brain is more vulnerable)",
+      "People with mental health conditions",
+      "People taking certain medications (alcohol interacts dangerously with many drugs)",
+      "People with liver, kidney, or heart disease",
+      "People with family history of alcoholism",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Talk to a doctor — alcohol dependence is a medical condition, not a moral failing",
+      "NIMHANS, AIIMS, and all government psychiatric hospitals offer de-addiction services",
+      "National Tobacco and Alcohol De-addiction Programme: Services at government district hospitals",
+      "iCall: 9152987821",
+      "Tele MANAS: 14416",
+      "Alcoholics Anonymous India: www.aaindia.org",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "Alcohol is the most commonly abused substance in India after tobacco.",
+      "Drinking and driving is illegal in India (BAC limit 30 mg/100 ml blood).",
+      "Many states have partial or full prohibition policies.",
+      "Bootleg/illicit liquor is a serious hazard — hooch tragedies (mass poisoning from methanol-laced alcohol) occur periodically in India."
+    ]
+  }
+}

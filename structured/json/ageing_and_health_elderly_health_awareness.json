@@ -1,0 +1,95 @@
+{
+  "doc_id": "who_ageing_and_health_elderly_health_awareness_006",
+  "title": "Ageing and Health / Elderly Health Awareness",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/ageing-and-health",
+  "topic": "Ageing and Health / Elderly Health Awareness",
+  "category": "Public Health / Geriatric Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Ageing is a natural process. By 2030, 1 in 6 people in the world will be aged 60 or over. In India, the elderly population (60+) is projected to reach 194 million by 2031. While ageing brings challenges, healthy ageing — maintaining functional ability and quality of life into older age — is achievable with the right care, lifestyle, and support.\n\n- By 2030, 1 in 6 people globally will be aged 60+.\n- India's elderly population (60+) is approximately 140 million currently and growing rapidly.\n- Most elderly deaths are from non-communicable diseases: heart disease, stroke, diabetes, COPD, cancer.\n- Falls are the second leading cause of unintentional injury deaths globally — most common in elderly.\n- Dementia affects 55 million people globally; Alzheimer's disease is the most common form.\n- Many health conditions in the elderly are preventable or manageable with timely care.\n\n- Loneliness and social isolation are serious health risks in the elderly — comparable to smoking.\n- Stay connected with family, friends, neighbours.\n- Engage in hobbies, community activities, or religious/spiritual activities.\n- Depression in elderly is common but treatable. Signs: persistent sadness, withdrawal, loss of appetite, sleep changes. Tell a doctor.\n- Mental activity: Reading, puzzles, learning new skills — helps maintain cognitive function.\n\nQ: Is memory loss normal with ageing?\nA: Some mild forgetfulness (e.g., occasionally misplacing items) is normal. But significant memory loss, confusion, getting lost in familiar places, or personality changes could indicate dementia. Consult a doctor.\n\nQ: Should elderly people avoid all exercise?\nA: No. Regular moderate activity (walking, yoga) is one of the best things an elderly person can do for their health. Rest is only needed after injury or illness as advised by a doctor.\n\nQ: How often should an elderly person see a doctor?\nA: Ideally every 3–6 months for those with chronic conditions. At minimum annually for blood pressure, blood sugar, and eye checks. More frequently if symptoms arise.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for awareness only. Health conditions in elderly should be managed by a qualified doctor. Emergency symptoms (chest pain, stroke signs, falls with injury) require calling 112 immediately.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Heart disease and stroke (see 16_cardiovascular_health.txt)",
+      "Diabetes (see 01_diabetes.txt)",
+      "Hypertension (see 02_hypertension.txt)",
+      "Arthritis: Joint pain and inflammation. Very common. Exercise, healthy weight, and doctor-prescribed treatment help.",
+      "Osteoporosis and fractures (see 28_bone_health.txt)",
+      "Dementia (see 31_dementia.txt)",
+      "Depression and loneliness: Very common but often undiagnosed in elderly. Social connection is vital.",
+      "COPD and respiratory diseases (see 17_asthma_copd.txt)",
+      "Visual impairment (cataract, glaucoma) (see 22_eye_health.txt)",
+      "Hearing loss (see 36_deafness_hearing_loss.txt)",
+      "Malnutrition: Common in elderly due to reduced appetite, poor dental health, or limited food access.",
+      "Urinary incontinence: Affects quality of life. Treatable — discuss with doctor.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Falls are extremely common and dangerous in elderly. A fall can cause hip fracture leading to prolonged disability or death. Prevention:",
+      "Keep home well-lit, especially pathways at night",
+      "Remove trip hazards: rugs, loose tiles, clutter on floors",
+      "Install grab bars near toilet and bathtub",
+      "Wear non-slip footwear (avoid walking barefoot or in socks on smooth floors)",
+      "Exercise regularly to improve strength and balance (yoga, walking)",
+      "Have eyes and hearing checked regularly",
+      "Review medications with doctor — some cause dizziness",
+      "Use walking aids (stick, walker) if recommended by doctor",
+      "Adequate protein: Prevents muscle loss (sarcopenia). Eat dal, eggs, curd, fish, paneer.",
+      "Calcium and Vitamin D: Critical for bones. Milk, curd, ragi, 15 min morning sunlight.",
+      "Fibre: Prevents constipation. Fruits, vegetables, whole grains.",
+      "Hydration: Elderly often don't feel thirst — drink water regularly even without feeling thirsty.",
+      "Reduce salt: Reduces hypertension risk.",
+      "Smaller, more frequent meals if appetite is reduced.",
+      "Even light activity significantly improves health:",
+      "Walking 30 minutes daily",
+      "Chair-based exercises if mobility is limited",
+      "Yoga and balance exercises (reduces fall risk)",
+      "Swimming if accessible",
+      "Consult a doctor before starting a new exercise programme",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Many elderly take multiple medications (polypharmacy) — increases risk of side effects and interactions.",
+      "Maintain a list of all medications and show to every doctor.",
+      "Never stop or change doses without doctor's advice.",
+      "Avoid buying medicines without prescription.",
+      "Some medicines cause dizziness or falls — review with doctor regularly.",
+      "Involve elderly in daily decisions — preserves dignity and independence.",
+      "Monitor for signs of depression, confusion, or memory loss.",
+      "Ensure regular medication compliance.",
+      "Schedule regular doctor visits — at least every 3–6 months for those with chronic conditions.",
+      "Watch for signs of elder abuse (physical, financial, emotional) — report to local authorities.",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "National Programme for Health Care of the Elderly (NPHCE): Free healthcare for elderly at government hospitals.",
+      "Pradhan Mantri Vaya Vandana Yojana (PMVVY): Pension scheme for senior citizens.",
+      "Ayushman Bharat PM-JAY: Covers hospital costs for eligible elderly.",
+      "Senior Citizens Savings Scheme: Financial security for elderly.",
+      "Indira Gandhi National Old Age Pension Scheme (IGNOAPS): Monthly pension for BPL elderly.",
+      "Free health check-ups for elderly at Ayushman Bharat Health and Wellness Centres.",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

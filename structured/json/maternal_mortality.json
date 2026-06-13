@@ -1,0 +1,97 @@
+{
+  "doc_id": "who_maternal_mortality_117",
+  "title": "Maternal Mortality",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/maternal-mortality",
+  "topic": "Maternal Mortality",
+  "category": "Maternal Health / Public Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Maternal mortality refers to the death of a woman during pregnancy, childbirth, or within 42 days of termination of pregnancy from causes related to or aggravated by the pregnancy. WHO estimates approximately 287,000 maternal deaths occurred globally in 2020 — about 800 women dying every day from preventable causes. India has made significant progress: Maternal Mortality Ratio (MMR) declined from 130 (2014–16) to 97 per 100,000 live births (2018–20, SRS data), but disparities remain across states. Most maternal deaths are preventable with access to quality antenatal, delivery, and postnatal care.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Most maternal deaths are preventable with timely care. Any warning sign during pregnancy or after delivery requires IMMEDIATE medical attention — do not wait or attempt home remedies. India provides free maternal health services including transport, delivery, and emergency care under JSSK and related schemes.",
+    "types": [
+      "Direct causes (obstetric):",
+      "Severe bleeding (postpartum haemorrhage — PPH): Leading cause; can cause death within hours if untreated",
+      "Infections (puerperal sepsis): Usually after delivery",
+      "Hypertensive disorders of pregnancy: Pre-eclampsia and eclampsia (seizures)",
+      "Complications from delivery: Obstructed labour, uterine rupture",
+      "Unsafe abortion: Complications from unsafe termination of pregnancy",
+      "Indirect causes:",
+      "Pre-existing conditions worsened by pregnancy: Anaemia, cardiac disease, diabetes, malaria, TB, HIV",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "EMERGENCY — seek immediate care:",
+      "Heavy vaginal bleeding (soaking through pad in less than an hour) — at any time during pregnancy or after delivery",
+      "Severe headache with blurred vision, swelling of face/hands, or seizures (pre-eclampsia/eclampsia)",
+      "High fever with foul-smelling vaginal discharge (infection)",
+      "Severe abdominal pain",
+      "Reduced or absent fetal movements",
+      "Convulsions/seizures",
+      "Difficulty breathing",
+      "Severe vomiting unable to keep fluids down",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Lack of access to skilled birth attendants and emergency obstetric care",
+      "Home deliveries without trained personnel",
+      "Adolescent pregnancy (<18 years) — higher risk of complications",
+      "Anaemia in pregnancy (worsens haemorrhage outcomes — major India-specific risk factor)",
+      "Pre-existing hypertension, diabetes, cardiac disease",
+      "Multiple pregnancies (twins/triplets)",
+      "Previous caesarean section or uterine surgery",
+      "Short birth intervals",
+      "Rural residence with limited access to emergency transport/referral"
+    ],
+    "prevention": [
+      "Antenatal Care (ANC): At least 4 ANC visits (WHO recommends 8 contacts); early registration of pregnancy",
+      "Institutional delivery: Delivery at a health facility with skilled birth attendant",
+      "Birth preparedness and complication readiness: Plan for transport, blood availability, emergency contacts",
+      "Treat anaemia during pregnancy (IFA supplementation)",
+      "Monitor and manage blood pressure (pre-eclampsia screening)",
+      "Postnatal care: Check-ups within 48 hours, 1 week, 6 weeks after delivery",
+      "Family planning/birth spacing: Reduces risk associated with repeated closely-spaced pregnancies",
+      "Skilled management of labour complications (partograph use, timely referral)"
+    ],
+    "environmental_control": [
+      "Strengthening referral transport networks (ambulance services connecting villages to FRUs — First Referral Units)",
+      "Blood storage units at CHCs/district hospitals for emergency transfusion",
+      "Functional 24x7 delivery points at PHCs"
+    ],
+    "vaccination": [
+      "Tetanus toxoid (TT/Td): 2 doses during pregnancy prevents maternal and neonatal tetanus",
+      "Influenza vaccine recommended during pregnancy (any trimester)",
+      "COVID-19 vaccination recommended during pregnancy per current guidelines"
+    ],
+    "diagnosis": [
+      "Regular ANC check-ups: Blood pressure, haemoglobin, urine protein, blood sugar, fetal growth monitoring",
+      "Ultrasound: Fetal growth, placental position, anomaly screening",
+      "High-risk pregnancy identification and referral to higher centres",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "PPH: Active management of third stage of labour (AMTSL) with oxytocin; uterotonics; in severe cases — uterine balloon tamponade, surgery, blood transfusion — hospital setting",
+      "Pre-eclampsia/eclampsia: Magnesium sulphate (for seizure prevention/control), blood pressure management, timely delivery — hospital setting",
+      "Infections: Antibiotics — doctor prescribed",
+      "All emergency obstetric complications require facility-based care — home management is dangerous",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Any of the warning signs listed above — IMMEDIATELY, do not wait",
+      "Call 102/108 (ambulance services for pregnant women in many states)",
+      "Plan delivery at a health facility, not at home, especially for high-risk pregnancies",
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "Janani Suraksha Yojana (JSY): Cash assistance for institutional delivery, especially for BPL/SC/ST women",
+      "Janani Shishu Suraksha Karyakram (JSSK): Free delivery (including C-section), free drugs, diagnostics, blood, diet, and transport for pregnant women and sick newborns at government facilities",
+      "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA): Free, fixed-day antenatal check-ups (including high-risk pregnancy identification) on 9th of every month at government facilities",
+      "LaQshya programme: Improves quality of care in labour rooms and maternity OTs",
+      "102/108 ambulance services: Free transport for pregnant women to health facilities",
+      "ASHA workers: Community-level support for ANC registration, institutional delivery promotion, postnatal visits"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "doc_id": "who_epilepsy_067",
+  "title": "Epilepsy",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/epilepsy",
+  "topic": "Epilepsy",
+  "category": "Neurological / Non-Communicable Disease",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Epilepsy is a chronic neurological disorder characterised by recurrent, unprovoked seizures. A seizure is a sudden, uncontrolled burst of electrical activity in the brain that temporarily affects movement, behaviour, sensation, or consciousness. Epilepsy is one of the most common neurological conditions globally. It is manageable — 70% of people with epilepsy can live seizure-free with proper treatment.\n\n- Epilepsy affects approximately 50 million people globally — one of the most common neurological diseases.\n- In India, approximately 12 million people have epilepsy — one of the highest burdens globally.\n- 80% of people with epilepsy live in low- and middle-income countries.\n- Up to 70% of people with epilepsy could live seizure-free if diagnosed and treated.\n- In India, significant treatment gap exists — only 15–40% of people with epilepsy receive treatment.\n- Epilepsy is associated with significant stigma — leading to social exclusion, lack of education and employment.\n- Three in four people with epilepsy in low-income countries receive no treatment at all.\n\nQ: Is epilepsy hereditary?\nA: Some forms of epilepsy have genetic components, but most cases are not directly inherited. Having epilepsy in the family does not mean you will get it.\n\nQ: Can a person die from a seizure?\nA: Most seizures are not life-threatening. However, prolonged seizures (status epilepticus) and SUDEP (Sudden Unexpected Death in Epilepsy) are rare but real risks. Proper treatment significantly reduces these risks.\n\nQ: Can children with epilepsy go to school?\nA: Yes. With proper seizure control, children with epilepsy should attend mainstream schools. Teachers should be informed about first aid for seizures.\n\nQ: Is it true you shouldn't put a spoon in someone's mouth during a seizure?\nA: Correct — NEVER put anything in someone's mouth during a seizure. The \"swallowing tongue\" belief is a myth. Putting objects in the mouth causes injury.\n\n--- IMPORTANT SAFETY NOTE ---\nEpilepsy treatment requires a qualified neurologist. Never start, stop, or change AEDs without medical advice. For a prolonged seizure or first-time seizure, call 112 immediately.",
+    "types": [
+      "Focal (partial) seizures: Originate in one area of the brain.",
+      "Focal aware: Person remains conscious. May experience unusual sensations, emotions, or automatic movements.",
+      "Focal impaired awareness: Consciousness affected. Person may stare blankly, make repetitive movements, be unresponsive.",
+      "Generalised seizures: Involve entire brain.",
+      "Tonic-clonic (grand mal): Most recognisable — loss of consciousness, stiffening (tonic phase), then jerking (clonic phase). May last 1–3 minutes.",
+      "Absence (petit mal): Brief staring, loss of awareness for a few seconds. Common in children.",
+      "Atonic (drop attacks): Sudden loss of muscle tone — person falls.",
+      "Myoclonic: Brief, sudden jerks of limbs.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "In many cases, the cause is unknown. Known causes include:",
+      "Brain injuries (head trauma, birth injury)",
+      "Infections: Meningitis, encephalitis, neurocysticercosis (tapeworm in brain — very common cause in India, linked to eating undercooked pork)",
+      "Stroke (leading cause in adults over 35)",
+      "Brain tumours",
+      "Genetic conditions",
+      "Developmental problems (in children)",
+      "Neurocysticercosis is estimated to cause 30% of epilepsy cases in India",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "What TO DO:",
+      "Stay calm and stay with the person",
+      "Note the time the seizure starts",
+      "Clear away nearby hard or sharp objects to prevent injury",
+      "Cushion the person's head with something soft",
+      "Gently turn the person onto their side if possible (recovery position) — prevents choking",
+      "Time the seizure — if it lasts more than 5 minutes, call 112",
+      "Once the seizure ends, stay with the person as they recover (may be confused/drowsy — this is normal)",
+      "What NOT to do:",
+      "Do NOT hold the person down or restrain them",
+      "Do NOT put anything in their mouth — it is impossible to swallow your tongue during a seizure",
+      "Do NOT give water or medicines during the seizure",
+      "Do NOT leave the person alone until fully recovered",
+      "Call 112 if:",
+      "Seizure lasts more than 5 minutes",
+      "Person does not regain consciousness after seizure ends",
+      "Person is injured during the seizure",
+      "Person is pregnant",
+      "Person does not have a known epilepsy diagnosis",
+      "This is the person's first seizure",
+      "Anti-epileptic drugs (AEDs): First-line treatment. Prescribed by a neurologist. Control seizures in ~70% of people.",
+      "AEDs must be taken every day as prescribed — missing doses can trigger seizures.",
+      "Many AEDs are available free at government hospitals.",
+      "Surgery: For selected patients where seizures originate from a specific brain area.",
+      "Ketogenic diet: High-fat, low-carbohydrate diet used in children with drug-resistant epilepsy (under medical supervision only).",
+      "Never stop AEDs without doctor's advice — sudden stopping can cause life-threatening status epilepticus.",
+      "Safety precautions:",
+      "Do not swim alone or in open water",
+      "Do not cook alone over open flames until seizure-free for significant time",
+      "Avoid operating heavy machinery if seizures are not fully controlled",
+      "Do not drive until seizure-free for the period specified by law (1 year in India)",
+      "Inform close contacts about epilepsy and first aid",
+      "Triggers to avoid (in susceptible individuals):",
+      "Sleep deprivation",
+      "Missed medication",
+      "Alcohol and drug use",
+      "Flashing lights (in photosensitive epilepsy)",
+      "Fever",
+      "Stress",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "Epilepsy carries serious social stigma in India, particularly in rural areas — false beliefs that it is contagious or caused by evil spirits.",
+      "Epilepsy is NOT contagious and is NOT caused by supernatural forces.",
+      "The Rights of Persons with Disabilities Act (RPWD 2016) protects people with epilepsy in India.",
+      "People with well-controlled epilepsy can attend school, work, and lead normal lives.",
+      "National Programme for Treatment of Epilepsy: Provides free AEDs at government hospitals.",
+      "National Trust: Supports persons with neurological conditions including epilepsy.",
+      "Epilepsy India: epilepsyindia.org — information and support.",
+      "Neurocysticercosis prevention: Cook pork thoroughly, wash vegetables, improve sanitation.",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

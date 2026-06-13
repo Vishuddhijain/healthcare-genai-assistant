@@ -1,0 +1,57 @@
+{
+  "doc_id": "who_universal_health_coverage_uhc_219",
+  "title": "Universal health coverage (UHC)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc)",
+  "topic": "Universal health coverage (UHC)",
+  "category": "Government Schemes / Health Systems",
+  "last_updated": "5 December 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Universal health coverage (UHC) means that all people have access to the full range of quality health services they need, when and where they need them, without financial hardship. It covers the full continuum of essential health services, from health promotion to prevention, treatment, rehabilitation and palliative care across the life course.\n\nAchieving UHC is one of the targets the nations of the world set when they adopted the 2030 Sustainable Development Goals (SDGs) in 2015. At the United Nations General Assembly High Level Meeting on UHC in 2019, countries reaffirmed that health is a precondition for and an outcome and indicator of the social, economic and environmental dimensions of sustainable development. In 2025, the United Nations Statistical Commission approved proposals for revisions of the SDG UHC indicators, as part of a comprehensive review of all SDG indicators. The revised global UHC monitoring framework uses the following two indicators: SDG indicator 3.8.1: UHC service coverage index and SDG indicator 3.8.2 : proportion of the population facing financial hardship in health.\n\n- Refer to the WHO fact sheet for the latest global key facts and estimates.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Information disclosure"
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Across a subset of European countries in 2019, the unmet need for health care showed clear within-country inequalities. Median levels were higher among the poorest 20% than the richest 30% (32% vs 22%), among people with severe disability compared with no disability (42% vs 21%), and among rural compared with urban residents (27% vs 23%)."
+    ],
+    "risk_factors": [
+      "Risk factors are context-specific; review the WHO fact sheet and consult a qualified health worker for individual risk assessment."
+    ],
+    "prevention": [
+      "Universal health coverage (UHC) means that all people have access to the full range of quality health services they need, when and where they need them, without financial hardship. It covers the full continuum of essential health services, from health promotion to prevention, treatment, rehabilitation and palliative care across the life course.",
+      "Financial protection",
+      "Preventing sexual exploitation"
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "Universal health coverage (UHC) means that all people have access to the full range of quality health services they need, when and where they need them, without financial hardship. It covers the full continuum of essential health services, from health promotion to prevention, treatment, rehabilitation and palliative care across the life course.",
+      "Inequalities continue to be a fundamental challenge for UHC. Even where there is national progress on UHC, the aggregate data mask inequalities within countries and continue to limit equitable access to care, particularly along economic, educational, and geographic lines.",
+      "Across a subset of European countries in 2019, the unmet need for health care showed clear within-country inequalities. Median levels were higher among the poorest 20% than the richest 30% (32% vs 22%), among people with severe disability compared with no disability (42% vs 21%), and among rural compared with urban residents (27% vs 23%).",
+      "The trends and gaps described point to the need for stronger policies that reduce out-of-pocket spending – especially for the poor and for those on medicines, that expand essential NCD and primary health-care services, that strengthen publicly-funded prepaid coverage, and that adopt multisectoral approaches to address broader determinants of health.",
+      "Primary health care measurement framework and indicators: monitoring health systems through a primary health care lens",
+      "Primary health care"
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

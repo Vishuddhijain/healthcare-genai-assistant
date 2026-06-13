@@ -1,0 +1,67 @@
+{
+  "doc_id": "who_multiple_sclerosis_131",
+  "title": "Multiple sclerosis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/multiple-sclerosis",
+  "topic": "Multiple sclerosis",
+  "category": "Neurological Health",
+  "last_updated": "7 August 2023",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Multiple sclerosis (MS) is a condition that happens when the immune system attacks the brain and spinal cord.\n\nSymptoms of MS vary from person to person and depend on the location and severity of nerve fibre damage. These often include vision problems, tiredness, trouble walking and keeping balance, and numbness or weakness in the arms and legs. Symptoms can come and go or last for a long time.\n\nThe causes of MS are not known but a family history of the disease may increase the risk.\n\n- Multiple sclerosis (MS) affects function in cognitive, emotional, motor, sensory, or visual areas and occurs as a result of a person’s immune system attacking their brain and spinal cord.\n- It is estimated that over 1.8 million people have MS worldwide.\n- People of all ages can be affected, but it is more common in young adults and in females.\n- MS can improve or stabilize by being treated with medicines early in the course of the disease and treatments will be different for each person depending on the severity of the disease and symptoms.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "relapsing remitting (RRMS): the most common form of MS characterized by intermittent attacks of symptoms (relapses), followed by a short or long period of no clinical attacks (remissions);",
+      "In the past twenty years treatment options for MS have improved dramatically. In high income countries many oral, intravenous and injectable options exist to treat MS. However, most of these medications are not available in low- and middle-income countries and there is still a lack of treatment options for progressive types of MS."
+    ],
+    "symptoms": [
+      "Symptoms of multiple sclerosis can be different from person to person. They can come and go or get worse over time. MS can affect any part of the central nervous system.",
+      "MS symptoms can worsen with heat or during other infections such as urinary tract or respiratory infections.",
+      "Symptoms can include:",
+      "difficulty walking or keeping balance",
+      "difficulty thinking clearly",
+      "numbness or weakness especially in the arms and legs",
+      "problems with sexual function or urination",
+      "feeling very tired."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "MS is an inflammatory demyelinating condition that results from an autoimmune attack on myelin, the fatty insulation that surrounds the nerves in the brain and spinal cord. This disrupts the electrical impulses that are sent through the nerves to the rest of the body and results in scars (plaques or sclerosis).",
+      "It is not known what triggers the immune system to attack myelin, but genetic and environmental factors are thought to play a role. MS happens most commonly in young to middle-aged adults, more in females than males, and is more common in higher latitudes, possibly due to sun exposure and vitamin D."
+    ],
+    "prevention": [
+      "While there is no cure for MS, treatment can reduce symptoms, prevent further relapses and improve quality of life.",
+      "Specific MS disease modifying therapies (DMTs) are started as early as possible to slow disease progression and prevent relapses.",
+      "avoiding medicines that make fatigue worse."
+    ],
+    "environmental_control": [
+      "It is not known what triggers the immune system to attack myelin, but genetic and environmental factors are thought to play a role. MS happens most commonly in young to middle-aged adults, more in females than males, and is more common in higher latitudes, possibly due to sun exposure and vitamin D."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "MS is a diagnosis of exclusion and there are no definitive diagnostic tests. Magnetic resonance imaging (MRI) can help with diagnosis by showing plaques or sclerosis on the brain and spinal cord. Other tests such as lumbar puncture, optical coherence tomography (OCT) and visual evoked potentials can also help support the diagnosis."
+    ],
+    "treatment_awareness_only": [
+      "Treatments for MS will be different for each person. They depend on the stage of the disease and symptoms.",
+      "The goals of MS treatment are to reduce the frequency and severity of relapses, slow disease progression, manage symptoms, and improve quality of life.",
+      "Specific MS disease modifying therapies (DMTs) are started as early as possible to slow disease progression and prevent relapses.",
+      "Steroids are sometimes used in the short term to treat relapses. Other medicines can be used to reduce the symptoms of MS such as fatigue, muscle tightening, depression and urinary or sexual problems. These medicines do not change the course of the disease but help manage the symptoms.",
+      "Rehabilitation specialists can help improve functioning, quality of life and reduce muscle stiffness and spasms.",
+      "Many people feel fatigue with multiple sclerosis. Ways to manage fatigue include:",
+      "healthy sleep patterns"
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

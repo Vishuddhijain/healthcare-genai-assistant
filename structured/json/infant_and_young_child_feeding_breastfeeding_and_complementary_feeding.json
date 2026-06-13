@@ -1,0 +1,124 @@
+{
+  "doc_id": "who_infant_and_young_child_feeding_breastfeeding_and_complementary_feeding_098",
+  "title": "Infant and Young Child Feeding (Breastfeeding and Complementary Feeding)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
+  "topic": "Infant and Young Child Feeding (Breastfeeding and Complementary Feeding)",
+  "category": "Nutrition / Maternal and Child Health / Preventive Care",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Optimal feeding practices in the first 2 years of life are among the most powerful interventions to promote child survival, growth, and development. Breastfeeding protects against infections, improves nutrition, and promotes cognitive development. Complementary foods (solid foods) introduced at 6 months alongside continued breastfeeding are essential to meet growing nutritional needs.\n\n- Breastfeeding saves 820,000 children's lives under 5 each year globally.\n- Only 44% of infants globally are exclusively breastfed for the first 6 months (WHO 2023).\n- India has improved breastfeeding rates — 64% of infants are exclusively breastfed (NFHS-5).\n- Breastfeeding reduces risk of diarrhoea, pneumonia, obesity, type 2 diabetes, and sudden infant death.\n- Breastfeeding also benefits mothers: reduces postpartum haemorrhage, breast and ovarian cancer risk, type 2 diabetes.\n\nQ: My baby is 3 months old and seems hungry after breastfeeding. Should I start solids?\nA: No. Exclusive breastfeeding for 6 months is WHO and India's recommendation. If baby seems unsatisfied, increase feeding frequency — this stimulates more milk production. Consult an ANM or doctor before starting solids.\n\nQ: Can a mother with HIV breastfeed?\nA: In India, HIV-positive mothers on ART can breastfeed if they are virally suppressed, with medical guidance. However, the recommendation depends on access to safe complementary feeding alternatives. Always consult a doctor.\n\nQ: Is formula feeding as good as breastfeeding?\nA: Formula provides adequate nutrition but lacks antibodies, hormones, enzymes, and other bioactive components in breastmilk. Breastfed babies have significantly lower rates of infections, allergies, and chronic diseases. Breastfeeding is the recommended standard.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for awareness. Always consult an ANM, ASHA, or doctor for individual breastfeeding and infant feeding support. For severe malnutrition or feeding concerns, seek medical care immediately.",
+    "types": [
+      "Exclusive breastfeeding: Only breastmilk (no water, formula, other food) for first 6 months.",
+      "Continued breastfeeding: Breastfeeding continues alongside complementary foods from 6 months to 2 years (and beyond if desired).",
+      "Complementary feeding: Introducing solid/semi-solid foods from 6 months while continuing to breastfeed.",
+      "Responsive feeding: Feeding on cue — recognising and responding to the infant's hunger and fullness signals.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Signs baby is feeding well:",
+      "Feeding 8–12 times per 24 hours in newborns",
+      "Wet nappies at least 6 times per day (after day 3–4)",
+      "Baby is content and calm after feeds",
+      "Baby regains birth weight by day 10–14",
+      "Steady weight gain (approximate: 500–800g/month for first 3 months)",
+      "Signs of poor feeding / seek help:",
+      "Baby not regaining birth weight by 2 weeks",
+      "Less than 6 wet nappies per day",
+      "Baby always crying after feeds",
+      "Mother experiencing severe breast pain, cracked nipples, breast engorgement",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Baby refusing all feeds for >6 hours",
+      "Blood in stool",
+      "Baby is very lethargic or unconscious",
+      "Failure to regain birth weight by 2 weeks",
+      "Any signs of dehydration (sunken fontanelle, no tears, no urine)",
+      "→ Emergency — seek medical care immediately"
+    ],
+    "risk_factors": [
+      "Early introduction of formula or water (interferes with breastfeeding establishment)",
+      "Early complementary food introduction (<4 months) — risk of choking, infection, allergy",
+      "Late complementary food introduction (>6 months) — risk of stunting, iron deficiency",
+      "Low dietary diversity — micronutrient deficiencies",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Initiation:",
+      "Initiate breastfeeding within the FIRST HOUR of birth (golden hour).",
+      "Colostrum (first milk — thick, yellowish) is extremely valuable — do NOT discard.",
+      "Colostrum is the \"baby's first vaccine\" — rich in antibodies, nutrients, and growth factors.",
+      "Exclusive breastfeeding (0–6 months):",
+      "Give ONLY breastmilk — no water, honey, formula, or other food.",
+      "Even in hot weather — breastmilk provides adequate hydration.",
+      "Feed on demand — whenever the baby shows hunger cues (rooting, sucking movements, hand to mouth).",
+      "No fixed schedule — frequent feeding establishes milk supply.",
+      "Continued breastfeeding (6 months–2 years+):",
+      "Continue breastfeeding while introducing complementary foods.",
+      "WHO recommends continuing to at least 2 years of age.",
+      "Breastmilk continues to provide 50% of nutritional needs in the second year.",
+      "Common myths:",
+      "\"My milk is not enough\" — usually not true. Frequent feeding increases supply. Seek support from a health worker before stopping.",
+      "\"Colostrum is dirty/too thin\" — FALSE. Colostrum is the most valuable milk.",
+      "\"Baby needs water in summer\" — FALSE for exclusively breastfed babies under 6 months.",
+      "Start complementary foods at EXACTLY 6 months (not before 4 months, not after 6 months):",
+      "Start with thick, smooth foods — mashed rice/dal, mashed banana, suji kheer.",
+      "Gradually increase texture: lumpy → chopped → family foods.",
+      "Increase variety of foods — vegetables, fruits, pulses, eggs, meat (if family eats).",
+      "Frequency: 2–3 meals/day at 6–8 months; 3–4 meals/day from 9 months.",
+      "Amount: Start with 2–3 tablespoons; increase to 1/2 cup (125 ml) by 12 months.",
+      "Energy-dense foods: Add fat/oil to foods — increases energy without increasing volume.",
+      "Do NOT add sugar or salt to complementary foods for babies under 2 years.",
+      "Iron-rich complementary foods (critical — breastmilk iron insufficient after 6 months):",
+      "Iron-fortified cereals (rice/suji mixed with iron)",
+      "Meat, chicken, fish",
+      "Dal/legumes + Vitamin C source (to improve absorption)",
+      "Green leafy vegetables",
+      "Foods to avoid under 1 year:",
+      "Honey (risk of infant botulism)",
+      "Cow's milk as main drink (though curd/cheese are fine)",
+      "Added salt and sugar",
+      "Choking hazards (whole nuts, grapes, hard raw vegetables)",
+      "Exclusive breastfeeding for 6 months (no supplements needed for most healthy infants)",
+      "Continued breastfeeding to 2 years",
+      "Diverse, frequent complementary feeding from 6 months",
+      "Responsive feeding: Watch for hunger/satiety cues"
+    ],
+    "environmental_control": [
+      "The Baby Friendly Hospital Initiative (BFHI) promotes breastfeeding support in hospitals.",
+      "WHO International Code of Marketing of Breast-milk Substitutes: Restricts marketing of formula.",
+      "Infant Milk Substitutes, Feeding Bottles and Infant Foods Act (IMS Act 1992): India prohibits promotion of formula for infants under 2 years."
+    ],
+    "vaccination": [
+      "Breastfed babies should still receive all routine vaccinations — breastmilk antibodies do not replace vaccines.",
+      "Vaccines can be given to breastfeeding mothers and babies as per schedule."
+    ],
+    "diagnosis": [
+      "Growth monitoring: Monthly weight checks at Anganwadi centres (free).",
+      "MUAC measurement: Mid-upper arm circumference for malnutrition screening.",
+      "Developmental milestones: Tracked at Anganwadi and government hospitals."
+    ],
+    "treatment_awareness_only": [
+      "Poor feeding/poor weight gain: Breastfeeding support from ANM, ASHA, or lactation counsellor.",
+      "Severe acute malnutrition (SAM): Therapeutic feeding under CMAM programme at government hospitals.",
+      "Micronutrient supplementation (Vitamin A, iron, zinc) — free at government centres.",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Baby not gaining adequate weight",
+      "Severe pain during breastfeeding",
+      "Mastitis (breast infection) — red, painful, hot breast with fever",
+      "Supplementation needed (e.g., for HIV-positive mothers — seek specialist guidance)",
+      "Any concern about baby's growth or development"
+    ],
+    "india_specific_context": [
+      "POSHAN Abhiyaan: India's flagship nutrition mission — targets all aspects of nutrition including infant feeding.",
+      "Anganwadi centres: Provide monthly growth monitoring and nutrition counselling for children 0–6 years (free).",
+      "ASHA workers: Provide doorstep counselling on breastfeeding and complementary feeding.",
+      "National Breastfeeding Promotion Programme: 1st week of August is World Breastfeeding Week — celebrated with awareness campaigns across India.",
+      "Crèches at workplaces: Maternity Benefit Act requires employers to provide breastfeeding breaks and crèche facilities."
+    ]
+  }
+}

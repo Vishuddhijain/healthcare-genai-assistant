@@ -1,0 +1,77 @@
+{
+  "doc_id": "who_sepsis_192",
+  "title": "Sepsis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/sepsis",
+  "topic": "Sepsis",
+  "category": "Emergency Awareness",
+  "last_updated": "3 May 2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Sepsis is a life-threatening condition that happens when the body’s immune system has an extreme response to an infection, causing organ dysfunction (4) . The body’s reaction causes damage to its own tissues and organs and it can lead to shock, multiple organ failure and sometimes death, especially if not recognized early and treated promptly.\n\nSepsis can affect anyone, but people who are older, very young, pregnant or have other health problems are at higher risk.\n\nCommon signs of sepsis include fever, fast heart rate, rapid breathing, confusion and body pain. It can lead to septic shock, multiple organ failure and death.\n\n- Sepsis is one of the most frequent causes of death worldwide, but there are challenges in collecting reliable data at the population level.\n- From data published in 2020, there were 48.9 million cases and 11 million sepsis-related deaths worldwide, representing 20% of all global deaths.\n- Almost half (20 million) of all estimated sepsis cases worldwide occurred in children under 5 years of age.\n- For every 1000 hospitalized patients, an estimated 15 patients will develop sepsis as a complication of receiving health care.\n- While sepsis can affect any individual worldwide, significant regional disparities in incidence and mortality exist with the highest rates in lower-middle-income countries (LMICs).\n- Sepsis is costly; the average hospital-wide cost of sepsis was estimated to be more than US$ 32 000 per patient in high-income countries.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "people with chronic medical conditions (for example kidney disease, cirrhosis)."
+    ],
+    "symptoms": [
+      "Sepsis is a medical emergency. It can cause different signs and symptoms at different times. People who think they may have sepsis should seek medical care right away.",
+      "Common signs and symptoms include:",
+      "fever or low temperature and shivering",
+      "difficulty breathing",
+      "clammy and sweaty skin",
+      "extreme body pain or discomfort",
+      "high heart rate, weak pulse or low blood pressure",
+      "Symptoms in children include:"
+    ],
+    "warning_signs": [
+      "Sepsis is one of the most frequent causes of death worldwide, but there are challenges in collecting reliable data at the population level.",
+      "From data published in 2020, there were 48.9 million cases and 11 million sepsis-related deaths worldwide, representing 20% of all global deaths.",
+      "For every 1000 hospitalized patients, an estimated 15 patients will develop sepsis as a complication of receiving health care.",
+      "Sepsis is a life-threatening condition that happens when the body’s immune system has an extreme response to an infection, causing organ dysfunction (4) . The body’s reaction causes damage to its own tissues and organs and it can lead to shock, multiple organ failure and sometimes death, especially if not recognized early and treated promptly.",
+      "Common signs of sepsis include fever, fast heart rate, rapid breathing, confusion and body pain. It can lead to septic shock, multiple organ failure and death.",
+      "Healthcare associated infections are caused by pathogens that are often resistant to drugs and can rapidly lead to deteriorating clinical conditions. Antimicrobial resistance is a major factor determining clinical unresponsiveness to treatment and rapid evolution to sepsis and septic shock. Sepsis patients with resistant pathogens have been found to have a higher risk of hospital mortality. There were an estimated 4.95 million deaths associated with antimicrobial resistance in 2019, including 1.27 million deaths directly attributable to it."
+    ],
+    "risk_factors": [
+      "Anyone affected by an infection, severe injury, or serious non-communicable disease can progress to sepsis but vulnerable populations are at higher risk ( 6,7 ) including:",
+      "pregnant or recently pregnant women",
+      "hospitalized patients",
+      "patients in intensive care units",
+      "people with weakened immune systems (for example HIV, cancer)",
+      "people with chronic medical conditions (for example kidney disease, cirrhosis)."
+    ],
+    "prevention": [
+      "Sepsis can be prevented by treating infections early and through good hygiene at home and in healthcare settings.",
+      "The best way to reduce the risk of sepsis is to avoid infections. Steps include:",
+      "good personal hygiene, like washing hands and preparing food safely",
+      "avoiding unclean water or unsanitary toilets",
+      "getting vaccines recommended by local health officials",
+      "eating a healthy diet",
+      "breastfeeding for newborns.",
+      "Hospitals and clinics should follow effective rules for infection prevention and control. Antibiotics should be used appropriately to treat infections."
+    ],
+    "environmental_control": [
+      "avoiding unclean water or unsanitary toilets"
+    ],
+    "vaccination": [
+      "getting vaccines recommended by local health officials"
+    ],
+    "diagnosis": [
+      "Health workers watch for concerning signs and use tests to diagnose sepsis. They will then work to find the source of the infection. Early use of antimicrobials to treat bacteria, parasites, fungus or viruses is essential to improve outcomes from sepsis."
+    ],
+    "treatment_awareness_only": [
+      "Treatment for sepsis is most effective when started early.",
+      "Health workers watch for concerning signs and use tests to diagnose sepsis. They will then work to find the source of the infection. Early use of antimicrobials to treat bacteria, parasites, fungus or viruses is essential to improve outcomes from sepsis.",
+      "Low blood pressure is treated by intravenous fluids and sometimes medicines called vasopressors, which can increase blood pressure.",
+      "Antibiotic resistance can make treatment more difficult."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

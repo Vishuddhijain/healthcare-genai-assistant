@@ -1,0 +1,61 @@
+{
+  "doc_id": "who_migraine_and_other_headache_disorders_128",
+  "title": "Migraine and other headache disorders",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/headache-disorders",
+  "topic": "Migraine and other headache disorders",
+  "category": "Neurological Health",
+  "last_updated": "24 October 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Headache disorders, characterized by recurrent headaches, are among the most common disorders of the nervous system. A headache is a painful and disabling feature of primary headache disorders, namely migraine, tension-type headache and cluster headache. Headaches can also be caused by or occur secondarily to a long list of other conditions, the most common of which is medication-overuse headache. Headaches, particularly migraine, can also affect children and adolescents but can affect them in different ways. Headache disorders can result in missing school, sports and other activities in children, adolescents and adults.\n\n- Headache disorders are among the most common disorders of the nervous system.\n- Migraine headache ranked third in accounting for overall neurological disease burden as measured by age-standardized disability-adjusted life years (DALYs) in 2021.\n- Headache disorders, which are characterized by recurrent headaches, are associated with personal and societal burdens of pain, disability, damaged quality of life and financial cost.\n- Worldwide, only a minority of people with headache disorders are appropriately diagnosed and treated by a health care provider.\n- Headache has been underestimated, under-recognized and under-treated throughout the world.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Migraines, tension-type headaches, cluster headaches and medication-overuse headaches are of public health importance since they are responsible for high population levels of disability and ill health."
+    ],
+    "symptoms": [
+      "Headache disorders, which are characterized by recurrent headaches, are associated with personal and societal burdens of pain, disability, damaged quality of life and financial cost.",
+      "Not only is a headache painful, but it is also disabling. According to the Global Health Estimates 2021, migraine headaches was found to be third highest cause of disability-adjusted life years (DALYs) worldwide, after stroke and neonatal encephalopathy.",
+      "Migraine is characterized by recurring attacks and is often life-long. It is a primary headache disorder, that is in most cases episodic, usually lasts 4–72 hours, and is accompanied by nausea, vomiting and/or photophobia and phonophobia. It is sometimes preceded by an aura of reversable, visual, sensory or other symptoms.",
+      "Migraine most often begins at puberty and generally affects those aged between 35 and 45 years. It is more common in women, possibly because of hormonal influences. Children typically experience migraine of shorter duration and abdominal symptoms are usually more prominent.",
+      "The exact cause of migraine is currently unknown but it is thought to result from the release of pain producing inflammatory substances around the nerves and blood vessels of the head. It can be triggered by alcohol, sleep disruption and certain foods.",
+      "Migraines and other headaches can affect people's ability to work, through decreased productivity, and interpersonal relationships. Often people continue to try to work despite the debilitating symptoms that can occur. Headache-related productivity loss may affect people's careers and/or security, financial situation, relationships, and mental health. It also causes economic loss to companies and society."
+    ],
+    "warning_signs": [
+      "of moderate or severe intensity",
+      "Cluster headache (CH) is a primary headache disorder characterized by frequently recurring (up to several times a day), brief but extremely severe headache, usually focused in or around one eye, with tearing and redness of the eye. The nose often runs or is blocked on the affected side and the eyelid may droop.",
+      "Poor awareness extends to the general public. Headache disorders are not perceived by the public as serious since they are mostly episodic, do not cause death and are not contagious. The low consultation rates in developed countries may indicate that many affected people are unaware that effective treatments exist. Half of people with headache disorders are estimated to be self-treating."
+    ],
+    "risk_factors": [
+      "Medication-overuse headaches (MOH) are caused by chronic and excessive use of medication to treat headache. MOH is the most common secondary headache disorder."
+    ],
+    "prevention": [
+      "Use standard public-health prevention: timely health advice, safe hygiene practices, vaccination where recommended, risk reduction, and following local public-health guidance."
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Worldwide, only a minority of people with headache disorders are appropriately diagnosed and treated by a health care provider.",
+      "Lack of knowledge among health care providers is the principal clinical barrier. Many people with headache disorders are not diagnosed and treated. In many countries medications, such as sumatriptan for migraines, are not available."
+    ],
+    "treatment_awareness_only": [
+      "Many of those troubled by headaches do not receive effective diagnosis and care. Appropriate treatment of headache disorders requires training of health professionals, accurate diagnosis and recognition of the conditions, appropriate treatment with cost-effective medications, simple lifestyle modifications and patient education. The main classes of drugs to treat headache disorders include analgesics, anti-emetics, specific anti-migraine medications and prophylactic medications. For migraine treatment, analgesics need to be taken at the first sign of symptoms (such as visual aura) to prevent the associated headache. Simple interventions...",
+      "Lack of knowledge among health care providers is the principal clinical barrier. Many people with headache disorders are not diagnosed and treated. In many countries medications, such as sumatriptan for migraines, are not available.",
+      "Poor awareness extends to the general public. Headache disorders are not perceived by the public as serious since they are mostly episodic, do not cause death and are not contagious. The low consultation rates in developed countries may indicate that many affected people are unaware that effective treatments exist. Half of people with headache disorders are estimated to be self-treating.",
+      "Many governments, seeking to constrain health care costs, do not acknowledge the substantial burden of headache on society. They might not recognize that the direct costs of treating headache are small in comparison with the huge indirect cost savings that might be made (e.g., by reducing lost working days) if resources were allocated to treat headache disorders appropriately."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "doc_id": "who_pesticide_residues_in_food_155",
+  "title": "Pesticide residues in food",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/pesticide-residues-in-food",
+  "topic": "Pesticide residues in food",
+  "category": "Sexual Health / STI Awareness",
+  "last_updated": "15 September 2022",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "There are more than 1000 pesticides used around the world to ensure food is not damaged or destroyed by pests. Each pesticide has different properties and toxicological effects.\n\nMany of the older, less costly (off-patent) pesticides, such as dichlorodiphenyltrichloroethane (DDT) and lindane, can remain for years in soil and water. These chemicals have been banned by countries which signed the 2001 Stockholm Convention, an international treaty that aims to eliminate or restrict the production and use of persistent organic pollutants.\n\nThe toxicity of a pesticide depends on its function and other factors. For example, insecticides tend to be more toxic to humans than herbicides. The same chemical can have different effects at different doses, that is, the amount of chemical to which a person is exposed. Toxicity can also depend on the route by which the exposure occurs, such as by swallowing, inhaling or direct contact with the skin.\n\n- Some of the older, less costly pesticides can remain for years in soil and water. Many of these chemicals have been banned from agricultural use in developed countries, but they are still used in many developing countries.\n- Pesticides play a significant role in food production. They protect or increase yields and may increase the number of times each year a crop can be grown on the same land. This is particularly important in countries that face food shortages.\n- To protect food consumers from the adverse effects of pesticides WHO reviews evidence and develops internationally-accepted maximum residue limits.\n- Pesticides are used to protect crops against insects, weeds, fungi and other pests.\n- Pesticides are potentially toxic to humans and can have both acute and chronic health effects, depending on the quantity and ways in which a person is exposed.\n- People who face the greatest health risks from exposure to pesticides are those who come into contact with them at work, in their home or garden.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Pesticides are potentially toxic to humans and can have both acute and chronic health effects, depending on the quantity and ways in which a person is exposed.",
+      "None of the pesticides currently authorized for use on food in international trade are genotoxic (damaging to DNA, which can cause mutations or cancer). Adverse effects from these pesticides occur only above a certain safe level of exposure. When people come into contact with large quantities of pesticide, the result may be acute poisoning or long-term health effects that may include cancer and adverse effects on reproduction."
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Pesticides are among the leading causes of death by self-poisoning, particularly in low- and middle-income countries."
+    ],
+    "risk_factors": [
+      "Pesticides are among the leading causes of death by self-poisoning, particularly in low- and middle-income countries.",
+      "Since pesticides are intrinsically toxic and deliberately spread in the environment, their production, distribution and use call for strict regulation and control. Regular monitoring of residues in food and the environment is also required.",
+      "WHO has two objectives in relation to pesticides:",
+      "to ban the pesticides that are most toxic to humans, as well as pesticides that remain for the longest time in the environment;",
+      "to protect public health by setting maximum limits for pesticide residues in food and water.",
+      "The population most at risk are those who are directly exposed to pesticides. This includes agricultural workers who apply pesticides and anyone else in the immediate area during, and shortly after, pesticides are spread.",
+      "The general population – those not in the area where pesticides are used – is exposed to significantly lower levels of pesticide residues through food and water."
+    ],
+    "prevention": [
+      "Nobody should be exposed to unsafe amounts of pesticide.",
+      "People spreading pesticide on crops, in homes or in gardens should be adequately protected. People not directly involved in the spreading of pesticides should stay away from the area while spreading takes place, and for some time afterwards.",
+      "Food that is sold or donated (such as food aid) should equally comply with pesticide regulations, in particular with maximum residue limits. People who use pesticides when growing their own food should follow instructions for use and protect themselves by wearing gloves and face masks as necessary.",
+      "Consumers can further limit their intake of pesticide residues by peeling or washing fruit and vegetables, which also reduces other foodborne hazards such as harmful bacteria."
+    ],
+    "environmental_control": [
+      "Nobody should be exposed to unsafe amounts of pesticide.",
+      "People spreading pesticide on crops, in homes or in gardens should be adequately protected. People not directly involved in the spreading of pesticides should stay away from the area while spreading takes place, and for some time afterwards.",
+      "Food that is sold or donated (such as food aid) should equally comply with pesticide regulations, in particular with maximum residue limits. People who use pesticides when growing their own food should follow instructions for use and protect themselves by wearing gloves and face masks as necessary.",
+      "Consumers can further limit their intake of pesticide residues by peeling or washing fruit and vegetables, which also reduces other foodborne hazards such as harmful bacteria."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "People who face the greatest health risks from exposure to pesticides are those who come into contact with them at work, in their home or garden."
+    ],
+    "treatment_awareness_only": [
+      "Many of the older, less costly (off-patent) pesticides, such as dichlorodiphenyltrichloroethane (DDT) and lindane, can remain for years in soil and water. These chemicals have been banned by countries which signed the 2001 Stockholm Convention, an international treaty that aims to eliminate or restrict the production and use of persistent organic pollutants."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

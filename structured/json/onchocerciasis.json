@@ -1,0 +1,67 @@
+{
+  "doc_id": "who_onchocerciasis_145",
+  "title": "Onchocerciasis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/onchocerciasis",
+  "topic": "Onchocerciasis",
+  "category": "Public Health Awareness",
+  "last_updated": "4 December 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Onchocerciasis is transmitted to humans through the bite of an infected blackfly of the genus Simulium , which breeds in fast-flowing rivers and streams. The blackfly vector ingests microfilariae (immature worms) when it bites an infected person. Inside the fly, the microfilariae develop into infective larvae that are then transmitted to another human during subsequent bites. Once inside the human host, the larvae mature into adult worms, forming nodules under the skin. As they continue to mate and produce microfilariae, communities must be treated for a minimum of 10 to15 years to eliminate transmission, corresponding to the lifespan of the adult O. volvulus.\n\n- Onchocerciasis, commonly known as “river blindness”, is caused by the parasitic worm Onchocerca volvulus.\n- The parasite is spread and transmitted to humans by the repeated bites of infected blackflies that breed in rapidly flowing rivers.\n- Symptoms include severe itching, disfiguring skin conditions, and visual impairment, including permanent blindness.\n- The disease primarily affects rural populations in sub-Saharan Africa, and Yemen, with smaller endemic areas foci found in parts of Latin America.\n- Population-based treatment with ivermectin (also known as mass drug administration or MDA) is the current core strategy to eliminate onchocerciasis, with a minimum requirement of 80% therapeutic coverage. Ivermectin is donated by Merck under the brand name of Mectizan®.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Detailed information on 2024 annual statistics can be accessed in the Weekly Epidemiological Record, 10 October 2025 .",
+      "Onchocerciasis is an eye and skin disease. Symptoms are caused by the microfilariae, which move around the human body in the subcutaneous tissue and induce intense inflammatory responses when they die. Infected people may show symptoms such as severe itching and various skin changes. Infected people may also develop eye lesions which can lead to visual impairment and permanent blindness. In most cases, nodules under the skin form around the adult worms. Early exposure to O. volvulus infection is associated with epilepsy in children."
+    ],
+    "symptoms": [
+      "Onchocerciasis is an eye and skin disease. Symptoms are caused by the microfilariae, which move around the human body in the subcutaneous tissue and induce intense inflammatory responses when they die. Infected people may show symptoms such as severe itching and various skin changes. Infected people may also develop eye lesions which can lead to visual impairment and permanent blindness. In most cases, nodules under the skin form around the adult worms. Early exposure to O. volvulus infection is associated with epilepsy in children."
+    ],
+    "warning_signs": [
+      "Symptoms include severe itching, disfiguring skin conditions, and visual impairment, including permanent blindness.",
+      "Onchocerciasis is an eye and skin disease. Symptoms are caused by the microfilariae, which move around the human body in the subcutaneous tissue and induce intense inflammatory responses when they die. Infected people may show symptoms such as severe itching and various skin changes. Infected people may also develop eye lesions which can lead to visual impairment and permanent blindness. In most cases, nodules under the skin form around the adult worms. Early exposure to O. volvulus infection is associated with epilepsy in children."
+    ],
+    "risk_factors": [
+      "More than 99% of infected people live in Africa and Yemen; the remaining 1% live on the border between Brazil and Venezuela (Bolivarian Republic of). In 2024 at least 252.3 million people required preventive treatment against onchocerciasis. By the end of 2024, 25.5 million people were living in areas no longer requiring ivermectin treatment, with Nigeria accounting for more than 16.6 million of these. In 2024, 26 countries reported using treatment against onchocerciasis, reaching 171.6 million people worldwide.",
+      "The Global Burden of Disease Study estimated in 2017 that 14.6 million of the infected people already had skin disease and 1.15 million had vision loss.",
+      "Five countries have been verified by WHO as free of onchocerciasis after successfully implementing elimination activities for decades: four in the region of the Americas: Colombia (2013), Ecuador (2014), Mexico (2015) and Guatemala (2016), and one in Africa: Niger.",
+      "In 2022, Senegal has stopped treatment and is now under post-treatment surveillance. Equatorial Guinea, Ethiopia, Mali, Nigeria, Sudan, Tanzania, Togo, Uganda, and Venezuela (Bolivarian Republic of) have stopped MDA in at least one focus.",
+      "These milestones provide proof of concept that progress against neglected tropical diseases (NTDs) is possible across the entire African continent.",
+      "Detailed information on 2024 annual statistics can be accessed in the Weekly Epidemiological Record, 10 October 2025 ."
+    ],
+    "prevention": [
+      "Between 1974 and 2002, onchocerciasis was brought under control in west Africa through the work of the Onchocerciasis Control Programme (OCP), using mainly the spraying of insecticides against blackfly larvae (vector control) by helicopters and airplanes. This was later supplemented by large-scale distribution of ivermectin since 1989.",
+      "The African Programme for Onchocerciasis Control (APOC) was launched in 1995 with the objective of controlling onchocerciasis in the remaining endemic countries in Africa and closed at the end of 2015 after beginning the transition to onchocerciasis elimination. Its main strategy was the establishment of sustainable community-directed treatment with ivermectin (CDTI) and vector control with environmentally-safe methods where appropriate.",
+      "Building on the successes of OCP and APOC, the Expanded Special Project for Elimination of Neglected Tropical Diseases (ESPEN 2016-present) was launched by the WHO Regional Office for Africa to provide national NTD programmes with technical and fundraising support to help accelerate elimination of river blindness in African countries.",
+      "National Onchocerciasis Elimination Committees (NOECs) have been established in 25 countries in Africa to develop and implement new strategies. The Global Onchocerciasis Network for Elimination (GONE) was launched in January 2023 by WHO, its Member States and partners whose goal is to support countries to accelerate progress towards the achievement of the road map targets for onchocerciasis elimination.",
+      "The Onchocerciasis Elimination Program for the Americas (OEPA 1992–present) was launched in 1992 with the goal of eliminating morbidity and interrupting transmission of river blindness in six endemic countries in the Americas: Brazil, Colombia, Ecuador, Guatemala, Mexico and Venezuela. OEPA is a partnership consisting of the six endemic countries, the Pan American Health Organization (PAHO), the private sector (MSD), donor countries, and nongovernmental development organizations (NGDOs)."
+    ],
+    "environmental_control": [
+      "Between 1974 and 2002, onchocerciasis was brought under control in west Africa through the work of the Onchocerciasis Control Programme (OCP), using mainly the spraying of insecticides against blackfly larvae (vector control) by helicopters and airplanes. This was later supplemented by large-scale distribution of ivermectin since 1989.",
+      "The African Programme for Onchocerciasis Control (APOC) was launched in 1995 with the objective of controlling onchocerciasis in the remaining endemic countries in Africa and closed at the end of 2015 after beginning the transition to onchocerciasis elimination. Its main strategy was the establishment of sustainable community-directed treatment with ivermectin (CDTI) and vector control with environmentally-safe methods where appropriate.",
+      "Building on the successes of OCP and APOC, the Expanded Special Project for Elimination of Neglected Tropical Diseases (ESPEN 2016-present) was launched by the WHO Regional Office for Africa to provide national NTD programmes with technical and fundraising support to help accelerate elimination of river blindness in African countries.",
+      "National Onchocerciasis Elimination Committees (NOECs) have been established in 25 countries in Africa to develop and implement new strategies. The Global Onchocerciasis Network for Elimination (GONE) was launched in January 2023 by WHO, its Member States and partners whose goal is to support countries to accelerate progress towards the achievement of the road map targets for onchocerciasis elimination.",
+      "The Onchocerciasis Elimination Program for the Americas (OEPA 1992–present) was launched in 1992 with the goal of eliminating morbidity and interrupting transmission of river blindness in six endemic countries in the Americas: Brazil, Colombia, Ecuador, Guatemala, Mexico and Venezuela. OEPA is a partnership consisting of the six endemic countries, the Pan American Health Organization (PAHO), the private sector (MSD), donor countries, and nongovernmental development organizations (NGDOs)."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "developing robust diagnostic tools to support programme decision-making",
+      "testing new therapeutic regimens",
+      "optimizing the use of satellite imagery and geospatial tools for breeding site detection"
+    ],
+    "treatment_awareness_only": [
+      "WHO recommends treating onchocerciasis with ivermectin at least once yearly for 10 to 15 years. Where O. volvulus co-exists with Loa loa , treatment strategies may need to be adjusted. Loa loa is a parasitic filarial worm that is endemic in Angola, Equatorial Guinea, Gabon, Cameroon, Central African Republic, Chad, Congo, the Democratic Republic of the Congo, Nigeria, and South Sudan. Treatment of individuals with high levels of L. loa in the blood can sometimes result in severe adverse events. Affected countries, should follow the Mectizan Expert Committee (MEC)/APOC recommendations for the prevention and management of severe adverse events."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

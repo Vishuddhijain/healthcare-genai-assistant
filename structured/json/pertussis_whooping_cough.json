@@ -1,0 +1,110 @@
+{
+  "doc_id": "who_pertussis_whooping_cough_154",
+  "title": "Pertussis (Whooping Cough)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/pertussis",
+  "topic": "Pertussis (Whooping Cough)",
+  "category": "Communicable Disease / Vaccine-Preventable Disease",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Pertussis, commonly known as whooping cough, is a highly contagious respiratory infection caused by the bacterium Bordetella pertussis. It is characterised by severe coughing fits often followed by a \"whooping\" sound during the next breath. It is most dangerous for infants and young children, who can develop life-threatening complications. Pertussis is preventable through vaccination, which is part of India's Universal Immunisation Programme (UIP) via the Pentavalent and DPT vaccines.\n\n- Pertussis remains a leading cause of vaccine-preventable death in infants worldwide.\n- Before vaccines, pertussis was a major cause of childhood death; vaccination has dramatically reduced cases.\n- Infants under 6 months — especially under 2 months (before they can be fully vaccinated) — are at highest risk of severe disease and death.\n- Pertussis is highly contagious — an infected person can spread it to up to 12–17 others in a susceptible population.\n- The DTP/Pentavalent vaccine is part of India's UIP, given at 6, 10, and 14 weeks with boosters.\n- \"Cocooning\" strategy: Vaccinating pregnant women and close contacts of infants protects newborns before they can be vaccinated.\n- Pertussis can affect adults and adolescents too, often presenting as a prolonged cough — they can transmit the infection to vulnerable infants.\n\nQ: Can adults get whooping cough?\nA: Yes. Adults and adolescents can get pertussis, often with a milder, prolonged cough without the classic \"whoop.\" They can unknowingly transmit the infection to unvaccinated infants, which is why vaccination of close contacts of newborns is important.\n\nQ: My child completed their pentavalent vaccine doses — are they fully protected?\nA: The primary series provides strong protection, but immunity wanes over time, which is why booster doses at 16–18 months and 5–6 years are part of the UIP schedule. Completing all scheduled doses is important.\n\nQ: Is the \"whoop\" sound always present?\nA: No. The characteristic \"whoop\" is more common in older children and may be absent in infants, adults, and vaccinated individuals with milder disease. A prolonged cough lasting weeks should still raise suspicion of pertussis.\n\nQ: How long is a person with pertussis contagious?\nA: Approximately 2 weeks from cough onset if untreated, or about 5 days after starting appropriate antibiotics. Infected individuals, especially those in contact with infants, should be evaluated and treated promptly.\n\n--- IMPORTANT SAFETY NOTE ---\nPertussis can be life-threatening for infants. Ensure your child receives all scheduled UIP vaccines on time — they are FREE at government health centres. If an infant shows breathing pauses, turns blue, or has severe coughing fits, seek emergency care immediately. If you are pregnant, discuss Tdap vaccination with your doctor to protect your newborn.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Pertussis typically progresses through three stages over 6–10 weeks:",
+      "Catarrhal stage (1–2 weeks) — most contagious stage:",
+      "Runny nose, mild cough, low-grade fever",
+      "Resembles a common cold — often not recognised as pertussis at this stage",
+      "Paroxysmal stage (1–6 weeks):",
+      "Severe, rapid coughing fits (paroxysms)",
+      "\"Whoop\" sound when gasping for air after a coughing fit (classic sign, more common in children; often absent in infants and adults)",
+      "Vomiting after coughing fits (post-tussive vomiting)",
+      "Exhaustion after coughing episodes",
+      "Cough worse at night",
+      "Convalescent stage (weeks to months):",
+      "Gradual recovery; cough becomes less severe but may persist for weeks (\"100-day cough\")",
+      "Coughing fits may recur with subsequent respiratory infections for months",
+      "IN INFANTS (may present differently):",
+      "May not have the classic \"whoop\"",
+      "Apnoea (pauses in breathing) — can be life-threatening",
+      "Cyanosis (turning blue) during coughing fits",
+      "Poor feeding, lethargy"
+    ],
+    "warning_signs": [
+      "For infants and young children:",
+      "Pauses in breathing (apnoea) or turning blue/grey during or after coughing",
+      "Severe coughing fits causing exhaustion, vomiting, or difficulty breathing",
+      "Poor feeding, dehydration, lethargy",
+      "High fever with worsening cough",
+      "For anyone:",
+      "Coughing fits severe enough to cause vomiting, rib fractures, or hernias",
+      "Difficulty breathing between coughing fits",
+      "Signs of pneumonia (fast breathing, chest indrawing, persistent high fever)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Infants under 6 months, especially under 2 months (incomplete vaccination)",
+      "Unvaccinated or incompletely vaccinated children",
+      "Waning immunity in adolescents and adults (vaccine protection decreases over time)",
+      "Close contact with an infected person (household members, especially parents/siblings of infants)",
+      "Pregnant women not vaccinated (cannot pass protective antibodies to newborn)",
+      "Healthcare workers and childcare providers with frequent exposure",
+      "Spreads through respiratory droplets from coughing or sneezing",
+      "Highly contagious during the catarrhal stage and early paroxysmal stage (before diagnosis is often made)",
+      "Incubation period: 7–10 days (range 4–21 days)",
+      "Infected person remains contagious for about 2 weeks after cough onset if untreated, or 5 days after starting appropriate antibiotics"
+    ],
+    "prevention": [
+      "Vaccination (most effective prevention):",
+      "DTP/Pentavalent vaccine: Part of India's UIP — given at 6, 10, 14 weeks",
+      "DPT booster: At 16–18 months and 5–6 years (UIP India)",
+      "Maternal vaccination (Tdap during pregnancy, ideally in 3rd trimester): Provides passive immunity to newborn before they can be vaccinated — recommended internationally, increasingly available in India",
+      "\"Cocooning\" strategy:",
+      "Vaccinate close contacts of newborns (parents, grandparents, caregivers) to reduce transmission risk to unvaccinated infants",
+      "Hygiene measures:",
+      "Cover mouth/nose when coughing/sneezing",
+      "Handwashing",
+      "Isolate infected individuals, especially from infants, until non-contagious"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "UIP Schedule:",
+      "6 weeks, 10 weeks, 14 weeks: Pentavalent vaccine (DPT + Hepatitis B + Hib)",
+      "16–18 months: DPT booster (1st)",
+      "5–6 years: DPT booster (2nd)",
+      "Maternal (Tdap) vaccination:",
+      "Recommended during pregnancy (27–36 weeks) to protect newborns — discuss availability with your obstetrician; increasingly offered at private facilities and some government centres",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Clinical diagnosis based on characteristic cough pattern and history",
+      "PCR testing of nasopharyngeal swab: Most sensitive, especially in early stages",
+      "Culture: Gold standard but slower",
+      "Blood tests: May show elevated white blood cell count (lymphocytosis) in infants"
+    ],
+    "treatment_awareness_only": [
+      "Antibiotics (azithromycin, erythromycin): Most effective if started early (within 1–2 weeks of cough onset); reduces contagiousness but may not significantly shorten cough duration if given late",
+      "Supportive care: Adequate hydration, nutrition, rest",
+      "Hospitalisation for infants with severe disease (apnoea, pneumonia, feeding difficulties) — often requires oxygen support and monitoring",
+      "Avoid cough suppressants in young children unless directed by a doctor — generally not effective for pertussis cough",
+      "Household contacts may be given prophylactic antibiotics, especially if an infant is in the household"
+    ],
+    "when_to_see_a_doctor": [
+      "Any infant with severe coughing fits, breathing pauses, or turning blue — EMERGENCY, seek immediate care",
+      "Prolonged cough (>2 weeks) with whooping sound or post-cough vomiting",
+      "Unvaccinated or partially vaccinated child with persistent cough",
+      "Pregnant women — discuss Tdap vaccination with your doctor",
+      "Household member diagnosed with pertussis — other family members, especially infants, should be evaluated"
+    ],
+    "india_specific_context": [
+      "Pentavalent and DPT vaccines are FREE under India's Universal Immunisation Programme at all government health centres",
+      "Mission Indradhanush: Government catch-up immunisation drive for children who missed scheduled vaccines",
+      "Maternal Tdap vaccination is not yet universally part of India's national programme but is recommended by paediatric and obstetric bodies (IAP, FOGSI)",
+      "ASHA workers track immunisation schedules in communities and remind parents of due vaccines"
+    ]
+  }
+}

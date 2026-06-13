@@ -1,0 +1,68 @@
+{
+  "doc_id": "who_antimicrobial_resistance_amr_010",
+  "title": "Antimicrobial Resistance (AMR)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance",
+  "topic": "Antimicrobial Resistance (AMR)",
+  "category": "Public Health / Infectious Disease / Drug Resistance",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Antimicrobial resistance (AMR) occurs when bacteria, viruses, fungi, and parasites evolve to resist the medicines designed to kill them. This makes infections harder — and sometimes impossible — to treat. AMR is one of the greatest global public health threats. India has one of the highest AMR burdens in the world, largely due to overuse and misuse of antibiotics.\n\n- AMR causes approximately 1.27 million deaths directly per year globally.\n- AMR was a contributing factor in 4.95 million deaths in 2019.\n- India has one of the world's highest antibiotic consumption rates.\n- Antibiotic use in India is largely unregulated — antibiotics are widely available without prescription.\n- Drug-resistant tuberculosis (MDR-TB) and drug-resistant typhoid (XDR typhoid) are growing problems in India.\n- Without action, AMR could cause 10 million deaths annually by 2050.\n\n- Bacteria naturally evolve. When exposed to an antibiotic, some may survive (natural selection).\n- Survivors reproduce, creating a resistant population.\n- This is accelerated by:\n  - Taking antibiotics unnecessarily (for viral infections like cold and flu)\n  - Not completing the full antibiotic course (leaving resistant bacteria behind)\n  - Using antibiotics without prescription\n  - Giving antibiotics to animals for growth promotion\n  - Poor infection control in hospitals\n\nAntibiotics WORK against:\n- Bacterial infections: bacterial pneumonia, urinary tract infections, strep throat, typhoid, TB\n\nAntibiotics DO NOT WORK against:\n- Viral infections: common cold, flu, COVID-19, dengue, chikungunya, most sore throats, most coughs\n- Taking antibiotics for a viral infection is useless AND dangerous (increases resistance)\n\nQ: I have a cold. Should I take an antibiotic to recover faster?\nA: No. Colds are caused by viruses. Antibiotics are useless against viruses. Rest, fluids, and symptomatic relief (paracetamol, steam) are all that's needed. Antibiotics will only cause side effects and contribute to resistance.\n\nQ: I stopped my antibiotic course after 3 days because I felt better. Is that okay?\nA: No. You must complete the full prescribed course. Feeling better doesn't mean the infection is eliminated. Stopping early leaves partially-killed bacteria that can develop resistance.\n\nQ: What can I do if I'm prescribed an antibiotic and feel it's not necessary?\nA: Ask your doctor politely — \"Is this antibiotic definitely needed? Is there a non-antibiotic option?\" It's okay to question. A good doctor will explain.\n\nQ: Are antibiotic-resistant infections treatable at all?\nA: Many still respond to last-resort antibiotics, but these are more expensive, have more side effects, and may not be available everywhere. Prevention through proper antibiotic use is essential.\n\n--- IMPORTANT SAFETY NOTE ---\nNever take antibiotics without a doctor's prescription. Antibiotic misuse is a public health crisis. Your decision to use antibiotics responsibly protects not just you, but your entire community.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "ONLY take antibiotics when prescribed by a qualified doctor.",
+      "NEVER buy antibiotics over the counter without prescription.",
+      "ALWAYS complete the full course — even if you feel better. Stopping early leaves resistant bacteria.",
+      "NEVER share your antibiotics with others.",
+      "NEVER use leftover antibiotics from a previous illness.",
+      "ASK your doctor if an antibiotic is truly necessary.",
+      "NEVER pressure your doctor to prescribe antibiotics.",
+      "Wash hands thoroughly and frequently with soap",
+      "Get vaccinated — vaccines prevent infections, reducing antibiotic use",
+      "Practice safe food handling and safe water use",
+      "Avoid close contact with sick people",
+      "Use condoms (prevents STIs including drug-resistant gonorrhoea)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "MDR-TB (Multi-Drug Resistant Tuberculosis): TB that does not respond to first-line drugs.",
+      "XDR Typhoid: Typhoid resistant to multiple antibiotics including fluoroquinolones and azithromycin.",
+      "MRSA: Methicillin-Resistant Staphylococcus aureus — hospital-acquired infection.",
+      "Drug-resistant malaria: P. falciparum showing resistance to artemisinin in some regions.",
+      "Carbapenem-resistant infections: Critical threat in ICUs.",
+      "Drug-resistant gonorrhoea: STI becoming very difficult to treat.",
+      "Schedule H1 antibiotics in India require a prescription — do not buy without one.",
+      "The National Action Plan on AMR (NAP-AMR) aims to reduce antibiotic misuse.",
+      "ICMR regularly publishes AMR data and antibiotic guidelines.",
+      "Hospitals are implementing Antibiotic Stewardship Programmes.",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

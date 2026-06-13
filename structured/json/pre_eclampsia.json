@@ -1,0 +1,80 @@
+{
+  "doc_id": "who_pre_eclampsia_165",
+  "title": "Pre-eclampsia",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia",
+  "topic": "Pre-eclampsia",
+  "category": "Maternal Health",
+  "last_updated": "10 December 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Pre-eclampsia is a high blood pressure disorder that typically develops after 20 weeks into pregnancy. It can present serious risks to both mother and baby. Early detection and management are crucial to prevent progression to eclampsia, which involves seizures. Both conditions can be life-threatening.\n\n- Pre-eclampsia is a hypertensive disorder that affects 3-8% of women who give birth worldwide.\n- Pre-eclampsia can progress to eclampsia which involves seizures and can be life-threatening.\n- Pre-eclampsia and eclampsia contribute significantly to maternal and perinatal morbidity and mortality.\n- Hypertensive disorders are responsible for around 16% of maternal deaths globally, in 2023 this was the equivalent to around 42 000 deaths.\n- In women with pre-eclampsia magnesium sulfate injections can be given to reduce the risk of eclampsia by more than half. Despite the availability of magnesium sulfate, its use is still limited in many low-resource settings.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Information disclosure"
+    ],
+    "symptoms": [
+      "Symptoms of pre-eclampsia can vary significantly among individuals. While some may experience a range of noticeable symptoms, others may remain asymptomatic. It is important to be aware of potential indicators and seek medical attention if any concerns arise during pregnancy or after childbirth.",
+      "Common symptoms of pre-eclampsia include:",
+      "persistent high blood pressure",
+      "visual disturbances (e.g., blurred vision, seeing spots)",
+      "upper abdominal pain",
+      "nausea and vomiting (after the first trimester)",
+      "swelling in the hands and face."
+    ],
+    "warning_signs": [
+      "Pre-eclampsia, if left untreated, can lead to serious complications for both mother and baby. These complications can range from short-term issues to long-term health problems. Prompt medical intervention is crucial to minimize these risks.",
+      "Complications can be severe and include:",
+      "eclampsia (seizures)",
+      "HELLP syndrome (hemolysis, elevated liver enzymes, low platelet count)",
+      "organ damage (kidneys, liver, brain)",
+      "placental abruption",
+      "fetal growth restriction",
+      "maternal and fetal death."
+    ],
+    "risk_factors": [
+      "Several factors can increase the risk of developing pre-eclampsia during pregnancy. Understanding these risk factors is essential for proactive monitoring and management. Having a risk factor doesn't always mean pre-eclampsia will occur, but closer medical supervision beyond routine screening is recommended.",
+      "Several factors can increase the risk of developing pre-eclampsia, including:",
+      "first-time pregnancies",
+      "multiple pregnancies (twins, triplets, etc.)",
+      "pre-existing conditions such as hypertension, diabetes, or kidney disease",
+      "family history of pre-eclampsia."
+    ],
+    "prevention": [
+      "While there's no guaranteed way to prevent pre-eclampsia, certain strategies can help lower the risk. Early and consistent prenatal care is essential for monitoring and managing potential risk factors.",
+      "Preventive measures focus on regular prenatal care to monitor for early signs of pre-eclampsia. Recommendations include:",
+      "regular blood pressure checks",
+      "urine tests for protein",
+      "monitoring for symptoms such as headaches and visual disturbances",
+      "lifestyle considerations, such as maintaining a healthy weight and activity (when permitted)",
+      "managing pre-existing conditions, especially pre-existing high blood pressure.",
+      "Additional prevention measures include:"
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Pre-eclampsia is diagnosed based on the onset of hypertension (blood pressure ≥140/90 mm Hg) proteinuria (protein in the urine) (≥0.3 g/24 hours) after 20 weeks of gestation. Severe pre-eclampsia may include symptoms such as severe headaches, visual disturbances and upper abdominal pain."
+    ],
+    "treatment_awareness_only": [
+      "The primary treatment for pre-eclampsia is the administration of magnesium sulfate to prevent seizures.",
+      "The treatment and management of pre-eclampsia depend on the severity of the condition and the gestational age of the pregnancy. The goal is to prevent complications.",
+      "Other management strategies include:",
+      "antihypertensive medications to control blood pressure",
+      "corticosteroids to accelerate fetal lung maturity if preterm delivery is anticipated",
+      "close monitoring of maternal and fetal health."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

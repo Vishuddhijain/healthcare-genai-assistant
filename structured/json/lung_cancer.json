@@ -1,0 +1,94 @@
+{
+  "doc_id": "who_lung_cancer_112",
+  "title": "Lung Cancer",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/lung-cancer",
+  "topic": "Lung Cancer",
+  "category": "Non-Communicable Disease (Oncology)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Lung cancer is the leading cause of cancer death worldwide and the second most commonly diagnosed cancer. Tobacco smoking is the primary cause, responsible for approximately 85% of cases. In India, lung cancer is among the top cancers in men and is increasingly seen in non-smokers, particularly women, linked to household air pollution (biomass fuel smoke), outdoor air pollution, and second-hand smoke. Lung cancer is often diagnosed at advanced stages because early symptoms are non-specific, leading to poor survival rates.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Lung cancer symptoms often appear late — any persistent respiratory symptom warrants medical evaluation, especially in smokers, ex-smokers, or those with significant air pollution exposure. Quitting tobacco at any stage reduces risk. Consult a qualified healthcare provider for diagnosis.",
+    "types": [
+      "Non-Small Cell Lung Cancer (NSCLC): ~85% of cases; includes adenocarcinoma (most common, often in non-smokers), squamous cell carcinoma (strongly linked to smoking), large cell carcinoma",
+      "Small Cell Lung Cancer (SCLC): ~15% of cases; more aggressive, strongly linked to smoking, spreads faster"
+    ],
+    "symptoms": [
+      "Early stages: Often asymptomatic — a major reason for late diagnosis",
+      "As disease progresses:",
+      "Persistent cough (new or worsening, especially if blood-tinged — haemoptysis)",
+      "Chest pain (worse with deep breathing, coughing, laughing)",
+      "Shortness of breath",
+      "Hoarseness of voice",
+      "Unexplained weight loss and loss of appetite",
+      "Fatigue",
+      "Recurrent respiratory infections (bronchitis, pneumonia)",
+      "Wheezing",
+      "Advanced/metastatic symptoms: Bone pain (bone metastasis), headaches/neurological symptoms (brain metastasis), jaundice (liver metastasis), swollen lymph nodes"
+    ],
+    "warning_signs": [
+      "Coughing up blood (haemoptysis) — always needs evaluation",
+      "New persistent cough lasting more than 3 weeks, especially in smokers or ex-smokers",
+      "Unexplained weight loss with respiratory symptoms",
+      "Hoarseness lasting more than 2–3 weeks",
+      "Chest pain with breathing difficulty"
+    ],
+    "risk_factors": [
+      "Tobacco smoking (cigarettes, bidis, hookah) — the dominant risk factor; risk increases with duration and intensity",
+      "Second-hand smoke (passive smoking) exposure",
+      "Household air pollution (biomass fuel smoke — significant in Indian women, even non-smokers)",
+      "Outdoor air pollution (PM2.5 exposure)",
+      "Occupational exposures: Asbestos, radon, arsenic, chromium, nickel, diesel exhaust",
+      "Family history of lung cancer",
+      "Previous radiation therapy to the chest",
+      "Pre-existing lung diseases (COPD, pulmonary fibrosis, prior TB)"
+    ],
+    "prevention": [
+      "Avoid tobacco in all forms — the single most effective prevention measure",
+      "Avoid second-hand smoke exposure",
+      "Reduce household air pollution: Transition to clean cooking fuels (LPG, electric)",
+      "Reduce outdoor air pollution exposure where possible (masks during high pollution days)",
+      "Occupational safety: PPE for workers exposed to asbestos, radon, industrial chemicals",
+      "Radon testing in homes (in regions where relevant)"
+    ],
+    "environmental_control": [
+      "Workplace controls for asbestos, radon, and industrial carcinogens (ventilation, PPE, exposure limits)",
+      "Reduction of ambient air pollution through emission controls, cleaner fuels",
+      "National Tobacco Control Programme: Smoke-free public places under COTPA 2003"
+    ],
+    "vaccination": [
+      "No vaccine for lung cancer; HPV and Hepatitis B vaccines prevent other cancers but not lung cancer"
+    ],
+    "diagnosis": [
+      "Chest X-ray: Initial screening but limited sensitivity for early disease",
+      "CT scan (low-dose CT): Recommended for high-risk screening (heavy smokers, certain age groups) in some countries",
+      "Biopsy (bronchoscopy, CT-guided needle biopsy): Confirms diagnosis and cancer type",
+      "PET scan: Staging (extent of spread)",
+      "Molecular testing: For NSCLC — identifies targetable mutations (EGFR, ALK, etc.) guiding targeted therapy"
+    ],
+    "treatment_awareness_only": [
+      "Surgery: For early-stage NSCLC (lobectomy or similar) — best outcomes when caught early",
+      "Radiation therapy: Curative or palliative depending on stage",
+      "Chemotherapy: Various regimens depending on cancer type and stage",
+      "Targeted therapy: For NSCLC with specific mutations (EGFR inhibitors, ALK inhibitors, etc.)",
+      "Immunotherapy: Checkpoint inhibitors for advanced NSCLC",
+      "Palliative care: Symptom management for advanced disease — improves quality of life",
+      "Treatment planning is individualised by an oncology team based on stage and molecular profile",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Persistent cough >3 weeks, especially with blood",
+      "Unexplained weight loss with respiratory symptoms",
+      "Hoarseness lasting >2–3 weeks",
+      "Chest pain with breathing difficulty",
+      "Heavy smokers or ex-smokers above 50 — discuss screening with doctor"
+    ],
+    "india_specific_context": [
+      "Lung cancer ranks among top cancers in Indian men; rising in non-smoking women due to household air pollution",
+      "Tobacco Cessation Helpline: 1800-11-2356 (toll-free)",
+      "National Tobacco Control Programme; COTPA 2003 bans smoking in public places, tobacco advertising",
+      "Tata Memorial Centre, AIIMS, and National Cancer Grid hospitals provide specialised lung cancer care",
+      "PM Ujjwala Yojana promotes clean cooking fuel to reduce household air pollution-linked lung cancer in women"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "doc_id": "who_health_literacy_084",
+  "title": "Health literacy",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/health-literacy",
+  "topic": "Health literacy",
+  "category": "Preventive Care and Wellness",
+  "last_updated": "22 December 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Health literacy means being able to access, understand, appraise and use information and services in ways that promote and maintain good health and well-being.\n\nHealth literacy means more than being able to access web sites, read pamphlets and follow prescribed health-seeking behaviours. It includes the ability to think critically about, as well as the ability to interact and express personal and societal needs for promoting health.\n\nWHO defines health literacy as “representing the personal knowledge and competencies that accumulate through daily activities, social interactions and across generations. Personal knowledge and competencies are mediated by the organizational structures and availability of resources that enable people to access, understand, appraise, and use information and services in ways that promote and maintain good health and well-being for themselves and those around them.”\n\n- Health literacy represents the personal knowledge and competencies that accumulate through daily activities, social interactions and across generations.\n- Health literacy is mediated by the organizational structures and availability of resources that enable people to access, understand, appraise and use information and services in ways that promote and maintain good health and well-being for themselves and those around them – often described as organizational health literacy.\n- In the United States of America, for example, health literacy is a stronger predictor of an individual’s health status than income, employment status, education level and racial or ethnic group.\n- Even in economically advanced countries in Europe , many children, adolescents and adults have limited health literacy skills.\n- According to surveys in the WHO European Region , population health literacy follows a social gradient and can further reinforce existing inequalities.\n- Health literacy is a determinant of health.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Health literacy is mediated by the organizational structures and availability of resources that enable people to access, understand, appraise and use information and services in ways that promote and maintain good health and well-being for themselves and those around them – often described as organizational health literacy.",
+      "Health literacy means being able to access, understand, appraise and use information and services in ways that promote and maintain good health and well-being.",
+      "WHO defines health literacy as “representing the personal knowledge and competencies that accumulate through daily activities, social interactions and across generations. Personal knowledge and competencies are mediated by the organizational structures and availability of resources that enable people to access, understand, appraise, and use information and services in ways that promote and maintain good health and well-being for themselves and those around them.”",
+      "By improving people’s access to understandable and trustworthy health information and their capacity to use it effectively, health literacy is critical to both empowering people to make decisions about personal health, and in enabling their engagement in collective health promotion action to address the determinants of health."
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "they must interpret statistics and evaluate risks and benefits that affect their health and safety;"
+    ],
+    "prevention": [
+      "they must interpret statistics and evaluate risks and benefits that affect their health and safety;"
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "they are diagnosed with a serious illness and are scared and confused;"
+    ],
+    "treatment_awareness_only": [
+      "Meeting the health literacy needs of the most disadvantaged and marginalized societies can accelerate progress in reducing inequities in health and beyond. Efforts to raise health literacy will be crucial in achieving 2030 Agenda for Sustainable Development. It is critical to transforming health systems to provide quality, people-centred, and equitable care.",
+      "they are diagnosed with a serious illness and are scared and confused;",
+      "they have health conditions that require complicated self-care; or",
+      "Professional health literacy is an essential part of an organization’s responsiveness towards patients' health literacy and communication needs. It can be addressed through regular training of healthcare and education professionals."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

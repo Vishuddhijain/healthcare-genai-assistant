@@ -1,0 +1,67 @@
+{
+  "doc_id": "who_blood_safety_and_availability_020",
+  "title": "Blood safety and availability",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/blood-safety-and-availability",
+  "topic": "Blood safety and availability",
+  "category": "Health Systems / Patient Safety",
+  "last_updated": "30 May 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Blood transfusion saves lives and improves health, but many patients requiring transfusion do not have timely access to safe blood. Providing safe and adequate blood should be an integral part of every country’s national health care policy and infrastructure.\n\nWHO recommends that all activities related to blood collection, testing, processing, storage and distribution be coordinated at the national level through effective organization and integrated blood supply networks. The national blood system should be governed by national blood policy and legislative framework to promote uniform implementation of standards and consistency in the quality and safety of blood and blood products.\n\nIn 2018, 73 % of reporting countries, or 125 out of 171, had a national blood policy. Overall, 66% of reporting countries, or 113 out of 171, have specific legislation covering the safety and quality of blood transfusion, including:\n\n- Of the 118.5 million blood donations collected globally, 40% of these are collected in high-income countries, home to 16% of the world’s population.\n- In low-income countries, up to 54 % of blood transfusions are given to children under 5 years of age; whereas in high-income countries, the most frequently transfused patient group is over 60 years of age, accounting for up to 76% of all transfusions.\n- Based on samples of 1000 people, the blood donation rate is 31.5 donations in high-income countries, 16.4 donations in upper-middle-income countries, 6.6 donations in lower-middle-income countries and 5.0 donations in low-income countries.\n- An increase of 10.7 million blood donations from voluntary unpaid donors has been reported from 2008 to 2018. In total, 79 countries collect over 90% of their blood supply from voluntary unpaid blood donors; however, 54 countries collect more than 50% of their blood supply from family/replacement or paid donors.\n- Only 56 of 171 reporting countries produce plasma-derived medicinal products (PDMP) through the fractionation of plasma collected in the reporting countries. A total of 91 countries reported that all PDMP are imported, 16 countries reported that no PDMP were used during the reporting period, and 8 countries did not respond to the question.\n- The volume of plasma for fractionation per 1000 population varied considerably between the 45 reporting countries, ranging from 0.1 to 52.6 litres, with a median of 5.2 litres.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "There are 3 types of blood donors:",
+      "An adequate and reliable supply of safe blood can be assured by a stable base of regular, voluntary, unpaid blood donors. These donors are also the safest group of donors as the prevalence of bloodborne infections is lowest among this group. World Health Assembly resolution WHA63.12 urges all Member States to develop national blood systems based on voluntary unpaid donations and to work towards the goal of self-sufficiency.",
+      "Data reported to WHO shows significant increases of voluntary unpaid blood donations in low- and middle-income countries:",
+      "An increase of 10.7 million blood donations from voluntary unpaid donors from 2008 to 2018 has been reported by 119 countries. The highest increase of voluntary unpaid blood donations is in the South-East Asia Region (127%) followed by the Region of the Americas (81%) and Africa (81%). The maximum increase in absolute numbers was reported in the Western Pacific Region (4.15 million donations), followed by South-East Asia (3.05 million) and Africa (1.53 million donations).",
+      "79 countries collect more than 90% of their blood supply from voluntary unpaid blood donations (38 high-income countries, 33 middle-income countries and eight low-income countries). This includes 64 countries with 100% (or more than 99%) of their blood supply from voluntary unpaid blood donors.",
+      "In 54 countries, more than 50% of the blood supply is still dependent on family/replacement and paid blood donors (eight high-income countries, 36 middle-income countries and 10 low-income countries)."
+    ],
+    "symptoms": [
+      "Unnecessary transfusions and unsafe transfusion practices expose patients to the risk of serious adverse transfusion reactions and transfusion-transmissible infections. Unnecessary transfusions also reduce the availability of blood products for patients who are in need.",
+      "WHO recommends the development of systems, such as hospital transfusion committees and haemovigilance, to monitor and improve the safety of transfusion processes. In this regard:",
+      "128 countries have national guidelines on the appropriate clinical use of blood: 32 countries in the African region (74% of reporting countries in the region), 23 in the Americas (70%), 12 in the Eastern Mediterranean (67%), 33 in Europe (80%), 9 in the South East Asia (90%), and 19 in the Western Pacific (76%).",
+      "Transfusion committees are present in 48% of the hospitals performing transfusions: 62% in hospitals in high-income countries, 35% in upper-middle-income countries, 31 in lower-middle-income countries and 25% in low-income countries.",
+      "Systems for reporting adverse transfusion events are present in 55% of the hospitals performing transfusions: 74% in hospitals in high-income countries, 35% in upper-middle-income countries, 22% in lower-middle-income countries and 18% in low-income countries,",
+      "49% of reporting countries have a haemovigilance system. The European region has the highest percentage of countries with haemovigilance systems (81%), followed by the Western Pacific (50%), the Eastern Mediterranean (50%), Africa (40%), South-East Asia (40%), and the Americas (21%)."
+    ],
+    "warning_signs": [
+      "In high-income countries, transfusion is most commonly used for supportive care in cardiovascular surgery, transplant surgery, massive trauma, and therapy for solid and haematological malignancies. In low- and middle-income countries it is used more often to manage pregnancy-related complications and severe childhood anaemia."
+    ],
+    "risk_factors": [
+      "These differences reflect the variation in prevalence among population who are eligible to donate blood, the type of donors (such as voluntary unpaid blood donors from lower risk populations) and the effectiveness of the system of educating and selecting donors.",
+      "Unnecessary transfusions and unsafe transfusion practices expose patients to the risk of serious adverse transfusion reactions and transfusion-transmissible infections. Unnecessary transfusions also reduce the availability of blood products for patients who are in need."
+    ],
+    "prevention": [
+      "Blood transfusion saves lives and improves health, but many patients requiring transfusion do not have timely access to safe blood. Providing safe and adequate blood should be an integral part of every country’s national health care policy and infrastructure.",
+      "WHO recommends that all activities related to blood collection, testing, processing, storage and distribution be coordinated at the national level through effective organization and integrated blood supply networks. The national blood system should be governed by national blood policy and legislative framework to promote uniform implementation of standards and consistency in the quality and safety of blood and blood products.",
+      "In 2018, 73 % of reporting countries, or 125 out of 171, had a national blood policy. Overall, 66% of reporting countries, or 113 out of 171, have specific legislation covering the safety and quality of blood transfusion, including:",
+      "An adequate and reliable supply of safe blood can be assured by a stable base of regular, voluntary, unpaid blood donors. These donors are also the safest group of donors as the prevalence of bloodborne infections is lowest among this group. World Health Assembly resolution WHA63.12 urges all Member States to develop national blood systems based on voluntary unpaid donations and to work towards the goal of self-sufficiency.",
+      "Unnecessary transfusions and unsafe transfusion practices expose patients to the risk of serious adverse transfusion reactions and transfusion-transmissible infections. Unnecessary transfusions also reduce the availability of blood products for patients who are in need.",
+      "WHO recommends the development of systems, such as hospital transfusion committees and haemovigilance, to monitor and improve the safety of transfusion processes. In this regard:"
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "WHO recommends that all blood donations should be screened for infections prior to use. Screening for HIV, hepatitis B, hepatitis C, and syphilis should be mandatory. Blood screening should be performed according to quality system requirements. Of reporting countries, 10 are not able to screen all donated blood for one or more of the above infections.",
+      "99.8% of the donations in high-income countries and 99.9% in upper-middle-income countries are screened following basic quality procedures, as compared to 83% in lower-middle-income countries and 76 % in low-income countries. The prevalence of transfusion-transmissible infections in blood donations in high-income countries is considerably lower than in low- and middle-income countries (Table 1)."
+    ],
+    "treatment_awareness_only": [
+      "In high-income countries, transfusion is most commonly used for supportive care in cardiovascular surgery, transplant surgery, massive trauma, and therapy for solid and haematological malignancies. In low- and middle-income countries it is used more often to manage pregnancy-related complications and severe childhood anaemia."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

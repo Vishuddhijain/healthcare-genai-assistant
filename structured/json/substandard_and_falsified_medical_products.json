@@ -1,0 +1,77 @@
+{
+  "doc_id": "who_substandard_and_falsified_medical_products_204",
+  "title": "Substandard and falsified medical products",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/substandard-and-falsified-medical-products",
+  "topic": "Substandard and falsified medical products",
+  "category": "Public Health Awareness",
+  "last_updated": "3 December 2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Substandard products are those that do not meet quality standards and specifications, often due to poor manufacturing practices or inadequate quality control. Falsified medical products deliberately misrepresent their identity, composition or source. These products are often created and distributed with the intent to deceive consumers for financial gain.\n\nSubstandard and falsified medical products pose significant threats to public health globally. They can be ineffective at treating the illness, as they may contain incorrect ingredients or incorrect dosages. They can even be directly harmful to patients if they contain contaminants or toxic substances. They may be indirectly harmful through increased risk of antimicrobial resistance.\n\nBoth substandard and falsified medical products put patients’ health at risk, undermine the effectiveness of health systems, and erode trust in health and care providers. Sometimes, certain problems with health affect some countries more than others. These problems can happen in places where everyone does not have access to healthcare. When that happens, people might buy medical products from places that are not permitted to sell them. Even in wealthy countries, the global trade and transportation of medicines pose significant risks. These risks stem from how medicines are manufactured and distributed across the world. To mitigate this, coordinated efforts are needed; governments, healthcare professionals and manufacturers must collaborate to enforce regulations and educate the public on safety measures.\n\n- Substandard and falsified medical products affect people all around the world.\n- At least 1 in 10 medicines in low- and middle-income countries are substandard or falsified.\n- Countries spend an estimated US$ 30.5 billion per year on substandard and falsified medical products.\n- Substandard and falsified medical products are often sold online or in informal markets.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Substandard and falsified medical products are often sold online or in informal markets.",
+      "Addressing substandard and falsified medical products is challenging due to limited resources and infrastructure in many regions, especially in low- and middle-income countries. Falsifiers are using sophisticated methods that make detection difficult. The rise of online purchases and informal markets makes it hard to monitor and control the distribution of these products. Additionally, the vast number of medical products in circulation worldwide makes comprehensive regulation and monitoring a significant challenge.",
+      "lack of access to affordable medicines: elevated prices and limited access to authentic medicines compel consumers to seek more affordable alternatives, often from unregulated and potentially unsafe sources (informal markets, online);",
+      "Collaboration, reliance and information sharing between countries should be supported by governments to ensure both risks and best practices are shared."
+    ],
+    "symptoms": [
+      "Symptoms are not separately specified in the extracted WHO fact-sheet text, or this is a public-health, system, environmental, or prevention topic rather than a symptomatic disease."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Substandard and falsified medical products are a significant global health problem, impacting millions of people and compromising health systems worldwide. These products can be found in all countries, impacting all types of medical products, including life-saving treatments like vaccines, antibiotics and cancer therapies. In 2017, the World Health Organization estimated that 1 in 10 medicines in low- and middle-income countries failed quality control tests, suggesting the product is substandard or falsified. This can lead to serious health risks, treatment failures and even death.",
+      "The economic burden is also substantial, with billions of dollars lost annually due to ineffective treatments, increased healthcare costs and loss of productivity. For patients, the consequences are dire: relying on ineffective or harmful products can exacerbate illnesses, lead to prolonged suffering and contribute to drug resistance, making diseases harder to treat.",
+      "The issue of substandard and falsified medical products is pervasive and challenging to address due to sophisticated falsification techniques that are difficult to detect and insufficient national resources to respond effectively. This problem significantly undermines health systems, erodes trust in healthcare, and results in financial losses for both patients and legitimate industries.",
+      "Increasingly sophisticated networks manufacture these products, exploiting the demand for affordable medical treatments. The rise in online sales through unauthorized sites has further exacerbated the issue, allowing falsified products to reach consumers more easily. Tackling this problem necessitates robust legal frameworks, regional and international cooperation, heightened public awareness and stronger enforcement measures. These steps are crucial to safeguarding the integrity of health systems and ensuring the availability of safe and effective medical products for prevention, treatment and care.",
+      "Global cooperation, robust regulations, legal frameworks and public awareness are essential to tackle the issue and ensure that all people have access to safe and effective medical products.",
+      "Everyone is at risk of encountering substandard and falsified medical products, including",
+      "vulnerable populations",
+      "countries lacking social protection"
+    ],
+    "prevention": [
+      "Preventing, detecting and responding to substandard and falsified medical products require robust regulatory systems which enforce the highest possible quality standards for medical products.",
+      "Prevent the manufacture, sale and consumption of substandard and falsified medical products.",
+      "Implement systems to detect any substandard and falsified medical products already in the supply chain.",
+      "Respond quickly and proportionately to any incident detected, in ways that safeguard patients and the supply chain, take appropriate action whilst not causing unnecessary shortages.",
+      "Governments must ensure that regulations and legal frameworks keep pace with technological developments and the regulatory standards are upheld and enforced in a consistent and transparent manner.",
+      "Collaboration, reliance and information sharing between countries should be supported by governments to ensure both risks and best practices are shared.",
+      "Technological solutions, for example handheld spectrometer devices, mobile apps, blockchain, track-and-trace systems and laboratory methods – when combined with robust regulatory frameworks and international cooperation – significantly enhance the detection and prevention of SF medical product.",
+      "Public awareness campaigns are crucial to educate people about the risks of buying medical products from unauthorized sources."
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Preventing, detecting and responding to substandard and falsified medical products require robust regulatory systems which enforce the highest possible quality standards for medical products.",
+      "Prevent the manufacture, sale and consumption of substandard and falsified medical products.",
+      "Implement systems to detect any substandard and falsified medical products already in the supply chain.",
+      "Respond quickly and proportionately to any incident detected, in ways that safeguard patients and the supply chain, take appropriate action whilst not causing unnecessary shortages.",
+      "Governments must ensure that regulations and legal frameworks keep pace with technological developments and the regulatory standards are upheld and enforced in a consistent and transparent manner.",
+      "Collaboration, reliance and information sharing between countries should be supported by governments to ensure both risks and best practices are shared."
+    ],
+    "treatment_awareness_only": [
+      "At least 1 in 10 medicines in low- and middle-income countries are substandard or falsified.",
+      "Substandard and falsified medical products pose significant threats to public health globally. They can be ineffective at treating the illness, as they may contain incorrect ingredients or incorrect dosages. They can even be directly harmful to patients if they contain contaminants or toxic substances. They may be indirectly harmful through increased risk of antimicrobial resistance.",
+      "The economic burden is also substantial, with billions of dollars lost annually due to ineffective treatments, increased healthcare costs and loss of productivity. For patients, the consequences are dire: relying on ineffective or harmful products can exacerbate illnesses, lead to prolonged suffering and contribute to drug resistance, making diseases harder to treat.",
+      "The issue of substandard and falsified medical products is pervasive and challenging to address due to sophisticated falsification techniques that are difficult to detect and insufficient national resources to respond effectively. This problem significantly undermines health systems, erodes trust in healthcare, and results in financial losses for both patients and legitimate industries.",
+      "lack of access to affordable medicines: elevated prices and limited access to authentic medicines compel consumers to seek more affordable alternatives, often from unregulated and potentially unsafe sources (informal markets, online);",
+      "It is crucial to support local healthcare providers and ensure they have access to safe, affordable medical products. This involves strengthening healthcare infrastructure, providing training and resources and implementing policies that guarantee the availability of genuine, cost-effective medicines for all communities."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

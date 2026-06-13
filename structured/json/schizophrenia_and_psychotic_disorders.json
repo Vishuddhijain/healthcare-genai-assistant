@@ -1,0 +1,137 @@
+{
+  "doc_id": "who_schizophrenia_and_psychotic_disorders_190",
+  "title": "Schizophrenia and Psychotic Disorders",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/schizophrenia",
+  "topic": "Schizophrenia and Psychotic Disorders",
+  "category": "Mental Health / Non-Communicable Disease",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Schizophrenia is a serious mental disorder characterised by disturbances in thinking, perception, emotions, and behaviour. It affects approximately 24 million people worldwide (about 1 in 300 people). It is one of the leading causes of disability globally. Despite its reputation, schizophrenia is NOT a \"split personality\" disorder, and people with schizophrenia are rarely violent. With proper treatment, many people with schizophrenia can live meaningful, productive lives. In India, schizophrenia is often untreated due to stigma and lack of accessible mental health care.\n\n- Schizophrenia affects approximately 24 million people globally (0.32%).\n- In India, estimated prevalence is 1.4–3.0 per 1000 population (approximately 3–5 million people).\n- Usually first appears in late adolescence to early adulthood (typically 16–30 years); slightly earlier onset in men than women.\n- People with schizophrenia are 2–3 times more likely to die early than the general population, mainly from preventable physical health conditions.\n- Schizophrenia is NOT the same as \"split personality\" (Dissociative Identity Disorder — a different condition).\n- With treatment, up to 50% of people with schizophrenia achieve significant recovery.\n- Treatment gap in India: Over 70% of people with schizophrenia do not receive adequate care.\n- Mental healthcare is a right — Mental Healthcare Act 2017 (India) protects rights of persons with mental illness.\n\nQ: Does schizophrenia mean \"split personality\"?\nA: No. This is one of the most common myths. Schizophrenia involves a break from reality (psychosis). \"Split personality\" refers to Dissociative Identity Disorder (DID) — a completely different condition.\n\nQ: Are people with schizophrenia dangerous?\nA: No. Research shows people with schizophrenia are more likely to be victims of crime than perpetrators. With treatment, the vast majority are not violent. Untreated psychosis during a crisis can rarely lead to agitated behaviour, but this is not \"dangerous personality.\"\n\nQ: Can schizophrenia be cured?\nA: There is currently no cure, but it can be effectively managed. Many people achieve significant recovery with medication and psychosocial support. Some people have few or no episodes after treatment.\n\nQ: How long does a person with schizophrenia need to take medication?\nA: Typically long-term, sometimes lifelong. Stopping medication is the most common cause of relapse. Decisions about medication duration should only be made with a psychiatrist.\n\nQ: Can cannabis cause schizophrenia?\nA: Heavy cannabis use, especially in adolescence, significantly increases the risk of developing psychosis and schizophrenia in genetically vulnerable individuals. High-potency cannabis carries greater risk.\n\n--- IMPORTANT SAFETY NOTE ---\nSchizophrenia is a medical condition — not a personal failing. Early treatment leads to better outcomes. Do not stop psychiatric medications without a doctor's guidance. If someone is in crisis (threatening self-harm or violence), call 112. Free psychiatric care is available at government hospitals under NMHP and DMHP. Stigma kills — support affected families with empathy, not judgment.",
+    "types": [
+      "WHO ICD-11 / DSM-5 classify schizophrenia spectrum disorders as:",
+      "Schizophrenia: Classic form with positive and negative symptoms lasting 6+ months",
+      "Schizoaffective disorder: Features of both schizophrenia and a mood disorder (depression/mania)",
+      "Schizophreniform disorder: Schizophrenia symptoms lasting 1–6 months",
+      "Brief psychotic disorder: Sudden onset, lasts less than 1 month; often following major stress",
+      "Delusional disorder: Fixed false beliefs without other schizophrenia symptoms",
+      "Substance-induced psychosis: Caused by drugs (cannabis, methamphetamine, alcohol withdrawal)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Schizophrenia symptoms fall into three categories:",
+      "POSITIVE SYMPTOMS (new experiences NOT normally present):",
+      "Hallucinations: Hearing, seeing, feeling, smelling, or tasting things that are not there",
+      "Auditory hallucinations (hearing voices) are most common — voices may comment, command, or argue",
+      "Delusions: Fixed false beliefs despite evidence to the contrary",
+      "Paranoid: Belief that people are watching, following, or plotting against you",
+      "Grandiose: Believing you have special powers or are a famous/important person",
+      "Reference: Believing everyday events or media messages are directed specifically at you",
+      "Disorganised thinking and speech: Incoherent, jumping between unrelated ideas (\"word salad\")",
+      "Disorganised or abnormal motor behaviour: Unusual movements, posturing, or catatonia",
+      "NEGATIVE SYMPTOMS (loss of normal function):",
+      "Blunted/flat affect: Reduced emotional expression, blank facial expression",
+      "Alogia: Reduced speech output; very brief, empty replies",
+      "Anhedonia: Inability to feel pleasure in activities previously enjoyed",
+      "Avolition: Lack of motivation; difficulty starting and maintaining activities",
+      "Social withdrawal: Reduced interaction with family and friends",
+      "COGNITIVE SYMPTOMS:",
+      "Poor working memory (difficulty remembering and using information)",
+      "Attention and concentration difficulties",
+      "Problems with decision-making and planning"
+    ],
+    "warning_signs": [
+      "Seek help early if a young person shows:",
+      "Hearing or seeing things others don't",
+      "Believing they have special powers or are being watched/persecuted",
+      "Sudden decline in school/work performance",
+      "Social withdrawal; avoiding family and friends",
+      "Neglecting personal hygiene and self-care",
+      "Confused, disorganised speech or thinking",
+      "Expressing strange, unusual, or frightening beliefs",
+      "Sleep disturbances (very little or very much sleep)",
+      "Extreme suspiciousness or fearfulness",
+      "CRISIS SIGNS — Seek emergency help:",
+      "Threatening to harm self or others",
+      "Not recognising familiar people",
+      "Completely non-responsive or catatonic",
+      "Extreme agitation or aggression",
+      "Expressing intent or plan of suicide",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Genetics: Having a parent or sibling with schizophrenia increases risk (10-fold, but most people with family history do NOT develop it)",
+      "Prenatal exposure: Malnutrition, infections, or stress during mother's pregnancy",
+      "Birth complications: Oxygen deprivation at birth",
+      "Drug use: Cannabis (especially high-potency varieties) significantly increases risk in adolescence; methamphetamine can trigger psychosis",
+      "Brain chemistry: Abnormalities in dopamine and glutamate signalling",
+      "Social factors: Childhood trauma, bullying, extreme poverty, social isolation",
+      "Urbanisation: Higher rates in cities (not fully explained)",
+      "Age: Risk peaks in late teens to early 30s",
+      "Schizophrenia has no single cause. It results from complex interactions among:",
+      "Genetic vulnerabilities",
+      "Brain development abnormalities (prenatal period)",
+      "Environmental triggers (stress, drugs, trauma)",
+      "Neurochemical imbalances (dopamine, serotonin, glutamate pathways)",
+      "MYTH BUSTING:",
+      "Schizophrenia is NOT caused by bad parenting",
+      "It is NOT caused by weakness of character",
+      "People with schizophrenia are NOT usually dangerous — they are more often victims of violence than perpetrators",
+      "It is NOT contagious"
+    ],
+    "prevention": [
+      "There is no guaranteed prevention, but risk can be reduced:",
+      "Avoid cannabis and illicit drug use, especially in adolescence",
+      "Manage stress effectively; build social support networks",
+      "Address childhood trauma early with psychological support",
+      "Prenatal care (adequate nutrition, avoiding infections during pregnancy)",
+      "Early intervention: Recognising and treating first-episode psychosis within 3 months of onset dramatically improves long-term outcomes (Early Intervention in Psychosis — EIP)"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Schizophrenia is treated and managed with a combination of:",
+      "Antipsychotic medications: Reduce positive symptoms (hallucinations, delusions)",
+      "Must be taken consistently; stopping suddenly causes relapse",
+      "Available FREE at government hospitals under National Mental Health Programme (NMHP)",
+      "Psychosocial interventions:",
+      "Cognitive Behavioural Therapy for Psychosis (CBTp)",
+      "Family therapy and psychoeducation",
+      "Social skills training",
+      "Vocational rehabilitation",
+      "Community mental health services (under DMHP — District Mental Health Programme)",
+      "Early intervention significantly improves outcomes",
+      "Recovery is possible — many people with schizophrenia live independently, maintain relationships, and work",
+      "Medications may be needed long-term; do NOT stop medication without doctor's guidance"
+    ],
+    "when_to_see_a_doctor": [
+      "Any person showing early psychosis symptoms (listed above) — early treatment is crucial",
+      "Family member expressing strange beliefs, hearing voices, or behaving bizarrely",
+      "Person who has stopped taking prescribed antipsychotic medication",
+      "Signs of self-harm or harm to others — call emergency services (112) immediately",
+      "If someone with schizophrenia is refusing food/water or unable to care for themselves",
+      "HELPLINES:",
+      "iCall (TISS): 9152987821",
+      "Vandrevala Foundation: 1860-2662-345",
+      "NIMHANS: 080-46110007",
+      "SNEHI: 044-24640050"
+    ],
+    "india_specific_context": [
+      "National Mental Health Programme (NMHP): Free psychiatric medications at government hospitals/PHCs",
+      "District Mental Health Programme (DMHP): In-community psychiatric care in districts across India",
+      "Mental Healthcare Act 2017: Guarantees right to mental health treatment; makes it illegal to chain or imprison persons with mental illness; prevents forced treatment without consent",
+      "NIMHANS (Bengaluru): National reference centre for mental health — research, training, patient care",
+      "SNEHI, iCall, Vandrevala: Helplines accessible for families",
+      "Stigma: Major barrier in India — families often hide mental illness; patients are taken to faith healers instead of doctors",
+      "Community Mental Health: Many states running DMHP clinics — increasing accessibility"
+    ]
+  }
+}

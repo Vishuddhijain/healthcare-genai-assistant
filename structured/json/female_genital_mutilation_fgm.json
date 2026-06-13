@@ -1,0 +1,87 @@
+{
+  "doc_id": "who_female_genital_mutilation_fgm_072",
+  "title": "Female Genital Mutilation (FGM)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation",
+  "topic": "Female Genital Mutilation (FGM)",
+  "category": "Gender-Based Violence / Reproductive Health / Human Rights",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Female genital mutilation (FGM) comprises all procedures that involve altering or injuring the female genitalia for non-medical reasons. It is internationally recognised as a violation of the human rights of girls and women. FGM is practised in some communities in Africa, Asia, and the Middle East, and among diaspora populations globally. It has no health benefits and causes significant physical and psychological harm.\n\n- More than 230 million girls and women alive today have undergone FGM.\n- FGM is mostly performed on girls between infancy and age 15.\n- FGM is a violation of human rights — it causes severe harm with no medical benefit.\n- Over 3 million girls are at risk of FGM every year.\n- FGM is illegal in most countries where it is practised.\n- In India, FGM is practised in small communities (Dawoodi Bohra Muslim community predominantly); it is reported as illegal under existing laws.\n\nQ: Is FGM required by Islam or any other religion?\nA: No. FGM is not required by Islam, Christianity, or any other religion. It is a cultural practice, not a religious obligation. Many Islamic scholars have stated that FGM has no basis in Islamic law.\n\nQ: Can FGM be reversed?\nA: Surgical defibulation (for Type III) can open the vaginal closure and reduce complications, but FGM damage cannot be fully reversed. Prevention is essential.\n\nQ: What should I do if I know a girl at risk of FGM?\nA: In India, contact Childline 1098 or local police. Healthcare professionals have a duty to report if they believe a child is at risk. You can also contact Sahiyo (sahiyo.com) for support.\n\n--- IMPORTANT SAFETY NOTE ---\nFGM is a human rights violation. It causes lasting physical and psychological harm with no medical benefit. This information is for awareness and education only. If you or someone you know has experienced FGM or is at risk, please seek medical and psychological support.",
+    "types": [
+      "Type I (Clitoridectomy): Partial or total removal of the clitoris and/or the prepuce. Type II (Excision): Partial or total removal of the clitoris and the labia minora. Type III (Infibulation): Narrowing of the vaginal opening through cutting and repositioning of the labia; the most severe form. Type IV (Other): All other harmful procedures — pricking, piercing, incising, scraping, cauterising."
+    ],
+    "symptoms": [
+      "Severe pain during and after the procedure (no anaesthesia typically used)",
+      "Excessive bleeding (haemorrhage)",
+      "Shock",
+      "Wound infections, including tetanus and gangrene",
+      "Urinary problems (difficulty passing urine)",
+      "Death in severe cases",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Physical:",
+      "Chronic pain and recurrent infections",
+      "Urinary tract infections and difficulties urinating",
+      "Complications during menstruation (pain, irregular periods)",
+      "Sexual dysfunction and painful intercourse",
+      "Complications during childbirth — obstructed labour, increased caesarean section rate, postpartum haemorrhage",
+      "Increased risk of neonatal deaths",
+      "Psychological:",
+      "Post-traumatic stress disorder (PTSD)",
+      "Anxiety and depression",
+      "Loss of trust in caregivers if performed by family",
+      "A girl in a community where FGM is practised being taken abroad or to a secluded area during school holidays (may indicate FGM is planned)",
+      "Persistent urinary or menstrual problems in girls from at-risk communities",
+      "Reluctance to undress or have medical examinations"
+    ],
+    "risk_factors": [
+      "Being in a community or family where FGM is a tradition",
+      "Peer and family pressure to conform",
+      "Belief that FGM improves marriageability or follows cultural/religious norms",
+      "Poverty and lack of education",
+      "Note: FGM is NOT mandated by any religion — it is a cultural practice"
+    ],
+    "prevention": [
+      "Community education and behaviour change communication",
+      "Engaging community leaders, religious leaders, and men to abandon the practice",
+      "Legal enforcement — FGM is illegal in most practising countries",
+      "Education for girls and empowering communities",
+      "Healthcare workers trained to identify and counsel affected individuals",
+      "In India: Report to local police or childline (1098) if a child is at risk"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "FGM is identified during physical or gynaecological examination",
+      "Healthcare providers in India and globally are trained to identify FGM and provide sensitive care",
+      "Diagnosis is clinical — no laboratory test needed"
+    ],
+    "treatment_awareness_only": [
+      "Surgical defibulation (opening of infibulation) can relieve complications — available at specialised centres",
+      "Psychological counselling and PTSD support",
+      "Obstetric care to manage complications during childbirth",
+      "Treatment of infections and urinary complications",
+      "No procedure can fully reverse FGM — prevention is the only solution",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Any girl or woman with urinary difficulties, chronic pelvic pain, or complications from past FGM",
+      "Any healthcare provider who suspects a child is at risk of FGM",
+      "During pregnancy — prior FGM must be disclosed to obstetric team for safe delivery planning"
+    ],
+    "india_specific_context": [
+      "FGM (called khatna or khafz) is practised predominantly in the Dawoodi Bohra community in India.",
+      "The Supreme Court of India is examining whether FGM should be specifically criminalised.",
+      "Existing laws (POCSO, IPC) can be applied to prosecute FGM on minors.",
+      "NGOs like Sahiyo (sahiyo.com) work to end FGM in India and globally.",
+      "Childline 1098: Report if a child is at risk."
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "doc_id": "who_osteoarthritis_150",
+  "title": "Osteoarthritis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/osteoarthritis",
+  "topic": "Osteoarthritis",
+  "category": "Non-Communicable Disease / Musculoskeletal Health / Ageing",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Osteoarthritis (OA) is the most common form of arthritis, occurring when the protective cartilage that cushions the ends of bones wears down over time. It commonly affects the knees, hips, hands, and spine, causing pain, stiffness, and reduced mobility. OA is a leading cause of disability worldwide, particularly in older adults. While it cannot be fully reversed, OA can be effectively managed through weight management, exercise, and pain control to maintain quality of life.\n\n- Osteoarthritis affects an estimated 595 million people worldwide (about 7.6% of the global population).\n- OA is among the top causes of disability globally, especially affecting knees.\n- Knee OA is the most common form, followed by hip and hand OA.\n- Prevalence increases significantly with age, but OA is not an inevitable part of ageing — many people remain unaffected.\n- Women are more commonly affected than men, especially after menopause.\n- Obesity significantly increases risk of knee OA — for every 5 kg of excess weight, knee OA risk increases substantially.\n- In India, OA of the knee is highly prevalent, especially among women who do floor-based household work and squatting (common in Indian lifestyles).\n- There is no cure, but symptoms can be effectively managed.\n\nQ: Is osteoarthritis the same as rheumatoid arthritis?\nA: No. Osteoarthritis is a \"wear and tear\" condition caused by cartilage breakdown, typically affecting one or a few joints. Rheumatoid arthritis is an autoimmune condition where the immune system attacks joint linings, often affecting multiple joints symmetrically and causing more inflammation. They require different treatments.\n\nQ: Should I avoid exercise if I have osteoarthritis?\nA: No — appropriate exercise is one of the most effective treatments. While high-impact activities may worsen symptoms, low-impact exercises (swimming, cycling, walking, strengthening exercises) reduce pain and improve function. Consult a physiotherapist for a tailored programme.\n\nQ: Does cracking your knuckles cause osteoarthritis?\nA: No scientific evidence supports this common belief. Joint cracking/popping (crepitus) can be a symptom of OA but does not cause it.\n\nQ: Is joint replacement the only option for severe knee OA?\nA: Surgery is considered when conservative treatments (weight loss, physiotherapy, medication) no longer provide adequate relief and quality of life is significantly affected. Many people manage OA for years without surgery through lifestyle modification.\n\n--- IMPORTANT SAFETY NOTE ---\nOsteoarthritis is a chronic condition requiring ongoing management — not a one-time cure. This file is for awareness only. Consult a doctor or physiotherapist for diagnosis and a personalised management plan, especially before starting pain medications or considering surgery. Joint replacement surgery is covered under Ayushman Bharat PM-JAY for eligible patients.",
+    "types": [
+      "Primary osteoarthritis: Age-related wear and tear without an identifiable cause",
+      "Secondary osteoarthritis: Results from another condition or injury",
+      "Post-traumatic OA (after joint injury/fracture)",
+      "Due to joint deformity, congenital conditions",
+      "Due to other joint diseases (rheumatoid arthritis, gout)",
+      "Occupational OA (repetitive joint stress from work — common in agricultural and manual labour in India)",
+      "Commonly affected joints:",
+      "Knees (most common)",
+      "Hips",
+      "Hands (fingers, base of thumb)",
+      "Spine (cervical and lumbar)",
+      "Feet (big toe)"
+    ],
+    "symptoms": [
+      "Joint pain that worsens with activity and improves with rest (early stages)",
+      "Stiffness, especially in the morning or after periods of inactivity, usually lasting <30 minutes",
+      "Reduced range of motion / flexibility",
+      "Grating or crackling sensation (crepitus) when moving the joint",
+      "Swelling around the joint (mild to moderate)",
+      "Bone spurs (hard lumps) may form around affected joints",
+      "Muscle weakness around the affected joint",
+      "In advanced stages: Pain even at rest, joint deformity, significant mobility limitation"
+    ],
+    "warning_signs": [
+      "Joint pain that prevents daily activities (walking, climbing stairs, gripping)",
+      "Sudden severe swelling, redness, and warmth in a joint (may indicate infection or gout — different from OA, needs urgent evaluation)",
+      "Joint that gives way or feels unstable",
+      "Significant deformity developing in a joint",
+      "Pain that wakes you up at night or is unrelieved by rest",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Age: Risk increases significantly after 45–50 years",
+      "Sex: Women are at higher risk, particularly post-menopause",
+      "Obesity: Major modifiable risk factor, especially for knee OA",
+      "Joint injury: Previous fractures, ligament tears (e.g., ACL injury)",
+      "Repetitive joint stress: Occupations involving heavy lifting, kneeling, squatting (farmers, construction workers, domestic workers)",
+      "Genetics: Family history of OA",
+      "Joint malalignment: Bow legs, knock knees",
+      "Muscle weakness around joints",
+      "India-specific: Floor-based lifestyle (sitting cross-legged, squatting for cooking/cleaning, using Indian-style toilets) places extra stress on knee joints"
+    ],
+    "prevention": [
+      "Maintain a healthy weight: Reduces load on weight-bearing joints (knees, hips)",
+      "Regular physical activity: Strengthens muscles supporting joints; low-impact exercises (swimming, cycling, walking) are ideal",
+      "Avoid repetitive joint stress where possible: Use ergonomic techniques for lifting and prolonged kneeling/squatting",
+      "Protect joints from injury: Use proper technique during sports and physical work; wear appropriate footwear",
+      "Strengthen muscles around joints: Quadriceps strengthening protects knees",
+      "Modify household practices: Use chairs instead of floor-sitting, Western-style toilets/commodes for those with knee OA",
+      "Use of raised seating (chairs, stools) instead of floor sitting",
+      "Western-style toilet seats or commode attachments for those with knee/hip OA",
+      "Handrails on stairs; avoid unnecessary stair climbing during flare-ups",
+      "Supportive, cushioned footwear; orthotic inserts if recommended",
+      "Walking aids (canes, walkers) to reduce joint load when needed"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Clinical examination: Joint tenderness, swelling, range of motion, crepitus",
+      "X-ray: Shows joint space narrowing, bone spurs (osteophytes) — standard diagnostic tool",
+      "MRI: For detailed cartilage and soft tissue assessment (not always necessary)",
+      "Blood tests: Not diagnostic for OA but help rule out other types of arthritis (rheumatoid arthritis, gout)"
+    ],
+    "treatment_awareness_only": [
+      "Non-pharmacological (first-line):",
+      "Weight loss if overweight (even 5–10% reduction significantly reduces knee OA pain)",
+      "Physiotherapy and exercise programmes (strengthening, range-of-motion exercises)",
+      "Hot/cold therapy for symptom relief",
+      "Assistive devices (knee braces, walking aids, shoe inserts)",
+      "Pharmacological (under medical supervision):",
+      "Topical pain relief gels/creams",
+      "Oral pain relievers (paracetamol, NSAIDs) — use under medical guidance, especially in elderly with kidney/heart conditions",
+      "Intra-articular injections (corticosteroids, hyaluronic acid) — performed by doctors for moderate-severe cases",
+      "Surgical (for advanced OA, when conservative treatment fails):",
+      "Joint replacement surgery (knee/hip replacement) — highly effective for severe OA; available at government hospitals and covered under Ayushman Bharat PM-JAY for eligible beneficiaries"
+    ],
+    "when_to_see_a_doctor": [
+      "Persistent joint pain lasting more than a few weeks",
+      "Joint pain affecting daily activities, sleep, or mobility",
+      "Joint swelling, warmth, or redness (rule out infection/inflammatory arthritis)",
+      "Before starting any new exercise programme if you have significant joint pain",
+      "If considering joint replacement surgery — discuss eligibility under Ayushman Bharat PM-JAY"
+    ],
+    "india_specific_context": [
+      "Knee OA is highly prevalent among Indian women due to floor-based household activities (cooking, cleaning while squatting/kneeling)",
+      "Ayushman Bharat PM-JAY covers joint replacement surgery for eligible beneficiaries at empanelled hospitals",
+      "AB-HWCs include musculoskeletal health screening as part of NCD services for older adults",
+      "Yoga and physiotherapy are widely accessible and recommended for joint health management",
+      "Rural agricultural workers face high occupational OA risk from repetitive bending and lifting"
+    ]
+  }
+}

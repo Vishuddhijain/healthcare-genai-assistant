@@ -1,0 +1,113 @@
+{
+  "doc_id": "who_falls_and_unintentional_injuries_070",
+  "title": "Falls and Unintentional Injuries",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/falls",
+  "topic": "Falls and Unintentional Injuries",
+  "category": "Injury Prevention / Public Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Falls are the second leading cause of unintentional injury deaths globally (after road traffic injuries). They are especially dangerous for elderly and young children. The majority of fall-related injuries and deaths are preventable. Road traffic injuries, drowning, burns, and poisoning are other major causes of unintentional injury in India.\n\n- An estimated 684,000 fatal falls occur globally each year.\n- 37.3 million non-fatal falls requiring medical attention occur annually.\n- Adults over 60 years suffer the greatest number of fatal falls.\n- Children under 5 and adults over 65 are at highest risk.\n- In India, falls are a leading cause of disability in the elderly.\n- Fall-related hip fractures in elderly are associated with significant mortality within 1 year.\n\nQ: What should I do if an elderly person falls?\nA: Don't rush to move them. Ask if they are in pain. If they cannot get up or complain of hip/back pain, do not try to lift them — call 112. If they can get up safely with help, move slowly and carefully.\n\nQ: Are walking sticks/walkers really necessary?\nA: If a doctor recommends one, yes — absolutely. Pride about using a walking aid is not worth a broken hip. Walking aids significantly reduce fall risk.\n\nQ: What is the most important thing to prevent falls in elderly at home?\nA: Bathroom safety (grab bars + non-slip mat) and removing trip hazards (rugs, clutter) are the highest-impact interventions.\n\n--- IMPORTANT SAFETY NOTE ---\nFall injury prevention is about awareness and action. For injuries involving suspected fractures, head injuries, or inability to bear weight — call 112 and do not move the person unnecessarily. This information is for awareness and prevention only.",
+    "types": [
+      "India has one of the highest road traffic fatality rates in the world.",
+      "1.5 lakh people die in road accidents in India every year.",
+      "Young people (15–29 years) are most affected.",
+      "Prevention:",
+      "Always wear a helmet on two-wheelers (reduces head injury risk by 70%)",
+      "Always wear a seatbelt in cars (front and back seats)",
+      "Never use a mobile phone while driving — it increases accident risk by 4 times",
+      "Never drink and drive",
+      "Follow speed limits",
+      "Obey traffic signals",
+      "Ensure vehicle is roadworthy",
+      "Children under 12 should sit in the back seat",
+      "First aid for road traffic injuries: (see 09_first_aid.txt)",
+      "Drowning is a leading cause of unintentional injury death in India, especially in children.",
+      "Most drownings occur in natural bodies of water (ponds, rivers, wells) — especially in rural India.",
+      "Children under 5 are at highest risk.",
+      "Prevention:",
+      "Supervise children near all water bodies at all times",
+      "Cover or fence wells and ponds near homes",
+      "Teach children to swim at an early age",
+      "Never swim alone",
+      "Avoid alcohol near water",
+      "Use life jackets in boats",
+      "First aid for drowning:",
+      "Remove person from water safely (don't put yourself at risk)",
+      "Call 112 immediately",
+      "Begin CPR if person is not breathing and you are trained",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "High risk groups:",
+      "Elderly (over 65): Reduced balance, muscle weakness, vision problems, medications causing dizziness",
+      "Young children: Developmental curiosity + limited awareness of danger",
+      "People with neurological conditions (Parkinson's, stroke, epilepsy)",
+      "People with vision or hearing impairment",
+      "People taking certain medications (sedatives, blood pressure drugs, diuretics)",
+      "People with osteoporosis (fractures from minor falls)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Home modifications:",
+      "Install grab bars near toilet and in bathroom (most falls happen in bathroom)",
+      "Use non-slip mats in bathroom and kitchen",
+      "Ensure all areas are well-lit, especially pathways to bathroom at night",
+      "Remove loose rugs, clutter, cords from walkways",
+      "Keep frequently used items at accessible height (avoid climbing)",
+      "Install railings on all staircases",
+      "Lifestyle:",
+      "Regular exercise: balance and strength training (yoga, tai chi, walking)",
+      "Vitamin D and calcium supplementation (improves bone and muscle health — consult doctor)",
+      "Eye check-ups: uncorrected vision significantly increases fall risk",
+      "Hearing aids if needed",
+      "Footwear: wear non-slip, well-fitting shoes; avoid walking barefoot on smooth floors",
+      "Review medications with doctor — reduce polypharmacy where possible",
+      "Use walking aids (stick, walker) if doctor recommends",
+      "Never leave infants unattended on high surfaces (tables, beds, changing tables)",
+      "Install safety gates at staircase tops and bottoms",
+      "Use window guards — falls from windows are a serious cause of child injury",
+      "Supervise children on playground equipment",
+      "Teach children safe behaviour around edges, stairs, and climbing",
+      "Use properly fitted helmets for cycling, skating, sports",
+      "Burns are particularly common in Indian households due to cooking on open flames, LPG accidents, and kerosene use.",
+      "Children and women cooking on open stoves are at highest risk.",
+      "Prevention:",
+      "Keep children away from kitchen during cooking",
+      "Do not leave cooking unattended",
+      "Keep flammable materials away from cooking areas",
+      "Check LPG connections for leaks regularly",
+      "Install a fire extinguisher in kitchen if possible",
+      "Keep a bucket of sand or water nearby for small fires",
+      "First aid for burns: (see 09_first_aid.txt)",
+      "Cool with running water for 10 minutes",
+      "Never apply ice, butter, or toothpaste",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

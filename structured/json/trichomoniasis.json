@@ -1,0 +1,63 @@
+{
+  "doc_id": "who_trichomoniasis_213",
+  "title": "Trichomoniasis",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/trichomoniasis",
+  "topic": "Trichomoniasis",
+  "category": "Sexual Health / STI Awareness",
+  "last_updated": "21 November 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Trichomonas vaginalis is a preventable and curable sexually transmitted protozoan that infects the urogenital tract.\n\nMore than 50% of women with Trichomonas vaginalis infection have vaginal discharge and about 10% of men have urethritis or urethral discharge.\n\nCorrect and consistent use of condoms during sex can prevent trichomoniasis.\n\n- Trichomoniasis is a common sexually transmitted infection (STI) among women of reproductive age, caused by the protozoan Trichomonas vaginalis .\n- It is treatable and curable.\n- In 2020 there were approximately 156 million new cases of T. vaginalis infection among people aged 15–49 years old.\n- In females, trichomoniasis is a common cause of vaginal discharge and is associated with poor birth outcomes and increased risk of pelvic inflammatory disease.\n- Infection with T. vaginalis is also associated with increased risk of HIV acquisition.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "People diagnosed with trichomoniasis should inform their sexual partners to prevent further transmission. If that is not possible, they should request support from the health provider to notify their sexual partners.",
+      "Healthcare providers will discuss the patient’s medical and sexual history and conduct a genital examination, including speculum examination and palpation, to enable them to have important clues to clinical diagnosis. Diagnostic options include smear microscopy and antigen or molecular testing. The latter include nucleic acid amplification tests (NAAT), considered in some settings as a gold standard for diagnosing T. vaginalis. These can be performed in the lab. Vaginal or endocervical specimens are the preferred specimen type for diagnostic testing."
+    ],
+    "symptoms": [
+      "Trichomoniasis infection in women may be symptomatic or asymptomatic. Vaginal discharge is the main symptom that women may present, and can be accompanied by itch, pain when urinating and pain during intercourse. In men, most infections are asymptomatic but some experience penile discharge or pain when urinating.",
+      "Symptomatic women can have vaginal discharge, which may appear purulent. Other symptoms include a red and sore vagina. The person with the infection can also feel pain during intercourse and urination. In women, when T. vaginalis is present, discharge can be observed in the vagina during a speculum examination by a health provider.",
+      "Men are often asymptomatic, but some experience urethral discharge/urethritis, or penile irritation."
+    ],
+    "warning_signs": [
+      "Seek urgent medical care for severe symptoms, rapid worsening, danger signs, suspected poisoning/exposure, pregnancy-related complications, severe dehydration, breathing difficulty, heavy bleeding, altered consciousness, or any life-threatening situation."
+    ],
+    "risk_factors": [
+      "Trichomonas vaginalis is the most common non-viral STI. There were an estimated 156 million new cases of T. vaginalis infection among people aged 15–49 years old in 2020 globally in 2020 (73.7 million in females, 82.6 million in males).",
+      "Approximately one third of new infections in this age group occur in the WHO African Region, followed by the Region of the Americas.",
+      "Sexually active people can get trichomoniasis by having sex without a condom with a partner who has trichomoniasis.",
+      "T. vaginalis infections are linked to a 1.5 times increased risk of HIV acquisition."
+    ],
+    "prevention": [
+      "Trichomoniasis is a preventable condition.",
+      "The most effective method to prevent sexual transmission of trichomoniasis and various other STIs is by consistently and correctly using condoms.",
+      "People diagnosed with trichomoniasis should inform their sexual partners to prevent further transmission. If that is not possible, they should request support from the health provider to notify their sexual partners."
+    ],
+    "environmental_control": [
+      "Environmental control is not separately specified for this topic; follow safe water, sanitation, hygiene, ventilation, waste-management, and exposure-reduction guidance where relevant."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Healthcare providers will discuss the patient’s medical and sexual history and conduct a genital examination, including speculum examination and palpation, to enable them to have important clues to clinical diagnosis. Diagnostic options include smear microscopy and antigen or molecular testing. The latter include nucleic acid amplification tests (NAAT), considered in some settings as a gold standard for diagnosing T. vaginalis. These can be performed in the lab. Vaginal or endocervical specimens are the preferred specimen type for diagnostic testing.",
+      "In many primary healthcare settings where diagnostic capacity for detecting T. vaginalis is not available, a syndromic approach for case management is recommended.",
+      "In the presence of T. vaginalis (or vaginal discharge), tests for other sexually transmitted infections (such as HIV and syphilis) are recommended, together with notification of sexual partner(s)."
+    ],
+    "treatment_awareness_only": [
+      "Trichomoniasis is treatable and curable.",
+      "It is best treated with the antibiotics metronidazole or tinidazole. Although resistance is uncommon, treatment failure occurs in a small proportion of cases. Several second-line regimens are available and should be initiated by the healthcare professionals.",
+      "Women who present with vaginal discharge, and who are managed based on the syndromic approach are treated for bacterial vaginosis (BV), candidiasis and trichomoniasis. Metronidazole is indicated for both BV and trichomonas, while topical or oral antifungals are indicated for candidiasis.",
+      "Recommendations for the treatment of Trichomonas vaginalis, Mycoplasma genitalium, Candida albicans, bacterial vaginosis and human papillomavirus (‎anogenital warts)‎"
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

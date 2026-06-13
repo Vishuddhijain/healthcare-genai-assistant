@@ -1,0 +1,85 @@
+{
+  "doc_id": "who_malaria_114",
+  "title": "Malaria",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+  "topic": "Malaria",
+  "category": "Communicable / Infectious Disease / Vector-Borne",
+  "last_updated": "December 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Malaria is a life-threatening disease caused by Plasmodium parasites and spread to humans through the bites of infected female Anopheles mosquitoes. It is preventable and curable. Malaria does NOT spread person to person — it requires a mosquito as a carrier. It is most common in tropical and subtropical countries including parts of India.\n\n- Globally, there were an estimated 282 million malaria cases in 2024.\n- 610,000 deaths occurred due to malaria in 2024 worldwide.\n- Children under 5 years account for about 75% of all malaria deaths.\n- India has made significant progress in reducing malaria cases but still reports a substantial burden.\n- The WHO African Region bears 95% of the global malaria burden.\n\n--- IMPORTANT SAFETY NOTE ---\nThis is awareness information only. Malaria treatment must be prescribed by a qualified doctor. Do not self-medicate with anti-malarials.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Mild symptoms (appear 7-30 days after mosquito bite):",
+      "Fever and chills",
+      "Headache",
+      "Muscle aches",
+      "Nausea and vomiting",
+      "Fatigue",
+      "Severe symptoms (require emergency care):",
+      "High fever with confusion or altered consciousness",
+      "Seizures",
+      "Difficulty breathing",
+      "Severe anemia",
+      "Yellowing of skin/eyes (jaundice)",
+      "Abnormal bleeding",
+      "NOTE: P. falciparum malaria (most dangerous type) can progress to severe illness and death within 24 hours if left untreated."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Bite of an infected female Anopheles mosquito (primary route)",
+      "Blood transfusion with infected blood (rare)",
+      "Sharing contaminated needles",
+      "Malaria DOES NOT spread through:",
+      "Casual contact, coughing, or sneezing",
+      "Air or water",
+      "Children under 5 years",
+      "Pregnant women (can cause anemia, low birth weight, premature birth)",
+      "People with HIV/AIDS",
+      "Travelers visiting malaria-endemic regions without taking preventive medication",
+      "People living in areas with poor mosquito control",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Personal protection:",
+      "Sleep under insecticide-treated bed nets (ITNs)",
+      "Use mosquito repellent (containing DEET) on exposed skin",
+      "Wear long-sleeved clothes and full trousers in the evenings and early mornings",
+      "Use mosquito coils or indoor sprays",
+      "Ensure windows and doors have mesh screens",
+      "Environmental control:",
+      "Eliminate standing water (in pots, tyres, coolers, flower pots) — breeding sites for mosquitoes",
+      "Keep surroundings clean and dry",
+      "Support community fogging and drainage efforts",
+      "For travelers: Anti-malarial medications may be recommended before visiting endemic areas — consult a doctor."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Malaria is diagnosed by blood tests — either a Rapid Diagnostic Test (RDT) or microscopy (blood smear). Early diagnosis and prompt treatment prevent complications and death. Free testing is available at government health centres."
+    ],
+    "treatment_awareness_only": [
+      "Malaria is treatable. Treatment depends on the type of malaria parasite and severity. Artemisinin-based combination therapies (ACTs) are the most effective treatment for P. falciparum malaria. Complete the full treatment course even if you feel better.",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "See a doctor immediately if:",
+      "You have fever, chills, and headache after being in a malaria-endemic area",
+      "Any child under 5 has high fever",
+      "Symptoms include confusion, difficulty breathing, or seizures (emergency — call 112)"
+    ],
+    "india_specific_context": [
+      "The National Vector Borne Disease Control Programme (NVBDCP) under the Ministry of Health manages malaria control in India. Free diagnosis and treatment are available at government facilities. Annual Mass Drug Administration (MDA) is conducted in high-burden areas.",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

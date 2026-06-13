@@ -1,0 +1,60 @@
+{
+  "doc_id": "who_dengue_vs_malaria_differentiation_guide_053",
+  "title": "Dengue vs Malaria — Differentiation Guide",
+  "source_name": "WHO + NHP India + NVBDCP",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+  "topic": "Dengue vs Malaria — Differentiation Guide",
+  "category": "Communicable Disease (Vector-Borne) — Comparative Reference",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Dengue and malaria are the two most common vector-borne diseases in India, and they are frequently confused because both cause fever, headache, and body pain. However, they are caused by different pathogens, transmitted by different mosquitoes, require different treatments, and have different severity profiles. Correct early differentiation is critical for appropriate management.\n\nDengue: Caused by dengue virus (DENV), a flavivirus with 4 serotypes (DENV-1 to DENV-4). Transmitted by Aedes aegypti and Aedes albopictus mosquitoes (day-biting, breed in clean stagnant water).\n\nMalaria: Caused by Plasmodium parasites (P. falciparum and P. vivax are most common in India; P. malariae and P. ovale are less common). Transmitted by female Anopheles mosquitoes (night-biting, breed in stagnant or slow-moving water).\n\n| Feature                    | DENGUE                                        | MALARIA                                            |\n|----------------------------|-----------------------------------------------|----------------------------------------------------|\n| Causative agent            | Dengue virus (flavivirus)                     | Plasmodium parasite (P. falciparum, P. vivax)      |\n| Vector mosquito            | Aedes aegypti / A. albopictus (day-biting)    | Female Anopheles (night-biting)                    |\n| Mosquito breeding site     | Clean stagnant water (coolers, pots, tyres)   | Stagnant/slow-moving water (ponds, marshes, rice fields) |\n| Incubation period          | 4–10 days                                     | 7–30 days (P. vivax may relapse after months)      |\n| Fever pattern              | Sudden onset high fever; biphasic (can dip then return) | Cyclical/periodic fevers: every 48 hrs (P. vivax) or 72 hrs (P. malariae); P. falciparum may be irregular |\n| Fever with chills          | Fever rarely preceded by rigors               | Classic — chills → fever spike → sweating → resolution |\n| Joint/muscle pain          | Severe (\"breakbone fever\") — prominent        | Moderate — present but less prominent              |\n| Headache                   | Severe, especially retro-orbital (behind eyes)| Moderate — frontal headache                        |\n| Skin rash                  | Common (maculopapular rash, 2–5 days)         | Uncommon                                           |\n| Spleen enlargement         | Uncommon                                      | Common (splenomegaly in malaria)                   |\n| Platelet count             | Drops significantly (thrombocytopenia)        | May drop but less characteristic                   |\n| Haemorrhage risk           | Yes — in severe dengue                        | Less common (mainly in severe falciparum)          |\n| Jaundice                   | Rare (severe dengue only)                     | More common (especially P. falciparum)             |\n| Cerebral involvement       | Rare                                          | Cerebral malaria (P. falciparum) — severe complication |\n| Anaemia                    | Less prominent                                | Common — haemolytic anaemia (RBC destruction)      |\n| NS1 antigen test           | Positive in dengue (first 5 days)             | Negative                                           |\n| Rapid Diagnostic Test (RDT)| Dengue NS1/IgM card test                      | Malaria RDT (detects Plasmodium antigen)           |\n| Treatment                  | Supportive only — no specific antiviral       | Anti-malarial drugs (doctor prescribed)            |\n| Can both occur together?   | YES — co-infection is documented              | YES — dual infection is possible                   |\n\nSuggests Dengue:\n- Pain behind the eyes (retro-orbital headache)\n- Severe joint and muscle pain (\"breakbone\" sensation)\n- Skin rash appearing 2–5 days after fever onset\n- Very low platelet count on CBC\n- Positive NS1 antigen test\n- Urban setting with Aedes mosquito exposure (coolers, flower pots with stagnant water)\n\nSuggests Malaria:\n- Classic pattern of chills → fever → profuse sweating → brief relief, repeating cyclically\n- Splenomegaly (enlarged spleen)\n- Haemolytic anaemia\n- Travel to or residence in forested, tribal, or rural/semi-rural areas (Odisha, Jharkhand, Chhattisgarh, northeast India are high-burden)\n- Positive malaria blood smear or RDT\n- Night-time exposure without mosquito protection\n\n- Clinical overlap is common; lab tests are essential — never diagnose by symptoms alone\n- Both diseases can present without classic features\n- If tests are not immediately available and clinical suspicion is high, tell the doctor about all exposure history (travel, water sources, mosquito exposure timing)\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness and educational differentiation only. Do not self-diagnose or self-medicate for either dengue or malaria. Both conditions require laboratory diagnosis and medical management. Treatment of malaria requires prescription anti-malarials and must not be delayed. Consult a qualified healthcare provider promptly for any fever with the symptoms described above.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Dengue — eliminate Aedes breeding sites (check and empty water containers weekly); use repellent; wear full clothing during daytime.",
+      "Malaria — sleep under insecticide-treated mosquito nets (ITNs); use indoor residual spraying (IRS); take antimalarial prophylaxis when travelling to high-risk areas (doctor's advice); wear long clothing after sunset; use repellents.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Dengue:",
+      "NS1 antigen: Best in first 5 days of fever",
+      "Dengue IgM/IgG ELISA: Useful after day 5",
+      "CBC: Monitor platelets",
+      "Malaria:",
+      "Peripheral blood smear (thick and thin film): Gold standard — identifies species",
+      "Rapid Diagnostic Test (RDT): Quick, point-of-care",
+      "PCR: Most sensitive but used in reference labs",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "India eliminated malaria targets: National Framework for Malaria Elimination (NFME) 2016–2030 targets malaria elimination by 2030",
+      "High malaria burden states: Odisha, Jharkhand, Chhattisgarh, Madhya Pradesh, northeast states (Meghalaya, Tripura, Mizoram)",
+      "Dengue is endemic in all states, especially urban areas; higher in post-monsoon (Sep–Nov)",
+      "Free RDTs and blood smear tests available at government PHCs and CHCs",
+      "NVBDCP helpline and surveillance: nvbdcp.gov.in"
+    ]
+  }
+}

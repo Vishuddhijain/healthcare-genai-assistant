@@ -1,0 +1,74 @@
+{
+  "doc_id": "who_adolescent_and_young_adult_health_003",
+  "title": "Adolescent and Young Adult Health",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions",
+  "topic": "Adolescent and Young Adult Health",
+  "category": "Public Health / Preventive Care",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Adolescence (ages 10–19) and young adulthood (ages 15–24) are critical periods of physical, emotional, and social development. Health behaviours and habits formed during these years shape health outcomes for life. In India, adolescents represent approximately 21% of the total population — over 253 million people. Investing in adolescent health is essential for India's future.\n\nBoys (typically 9–14 years onset):\n- Enlargement of testes and penis\n- Growth of pubic, underarm, and facial hair\n- Voice deepening\n- Rapid height increase\n- Acne\n\nGirls (typically 8–13 years onset):\n- Breast development\n- Growth of pubic and underarm hair\n- Onset of menstruation (menarche)\n- Widening of hips\n- Rapid height increase\nThese changes are normal. Any unusual pain, irregular bleeding, or extreme distress should be discussed with a doctor.\n\n(See also: 05_mental_health.txt)\n- 1 in 7 adolescents globally has a mental health condition.\n- Depression and anxiety are the most common.\n- Warning signs: persistent sadness, withdrawal from friends, loss of interest, changes in sleep or appetite, declining school performance, self-harm.\n- In India, academic pressure, family expectations, and social media are key stressors.\n- Resources: iCall helpline (TISS): 9152987821; Tele MANAS: 14416\n\n- RKSK (Rashtriya Kishor Swasthya Karyakram): Government programme for adolescent health including sexual health education, available at government health centres.\n- Adolescent girls should be aware of menstrual hygiene (see also 10_womens_maternal_health.txt).\n- HPV vaccine: Recommended for girls 9–14 years at government health centres — prevents cervical cancer.\n- Peer pressure for early sexual activity: It is normal and healthy to say no. Consent is essential.\n- If sexually active: Use condoms to prevent STIs and unintended pregnancy.\n\nQ: Is acne during puberty normal?\nA: Yes, acne is very common during puberty due to hormonal changes. Wash face twice daily with mild soap. For severe acne, consult a doctor — do not use over-the-counter medications without advice.\n\nQ: Is it normal to feel very emotional or moody as a teenager?\nA: Hormonal changes during puberty cause emotional ups and downs. However, persistent sadness, anxiety, or hopelessness lasting more than 2 weeks may indicate a mental health condition. Speak to a trusted adult or counsellor.\n\nQ: At what age should girls get the HPV vaccine?\nA: Ideally between 9–14 years, before becoming sexually active. It is available at government health centres. Consult a doctor.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for adolescent health awareness. For physical or mental health concerns, consult a qualified doctor or counsellor. In a crisis, call 14416 (Tele MANAS) or 112.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Mental Health: Depression, anxiety, and self-harm are leading causes of illness and disability in adolescents. Suicide is the 2nd leading cause of death in 15–29 year olds globally.",
+      "Injuries: Road traffic injuries are the leading cause of death among 15–19 year olds globally. Drowning and burns are also major causes.",
+      "Substance use: Tobacco, alcohol, and drug use often begin during adolescence. Early initiation increases lifelong addiction risk.",
+      "Nutrition: Anaemia and micronutrient deficiencies (especially iron, Vitamin D, B12) are widespread in Indian adolescents. Obesity is also rising.",
+      "Sexual and reproductive health: Adolescent pregnancy, STIs including HIV, and lack of education lead to significant health risks.",
+      "Violence: Physical, sexual, and emotional abuse — including cyberbullying — disproportionately affect adolescents.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Iron needs: Girls need extra iron due to menstruation. Boys have high iron needs due to growth. Eat dark green vegetables, dal, jaggery, meat.",
+      "Calcium: Critical for bone development. Drink milk, eat curd, paneer, ragi.",
+      "Free IFA (Iron-Folic Acid) tablets provided to adolescents 10–19 years under Anemia Mukt Bharat at schools and Anganwadi centres.",
+      "Avoid junk food, sugary drinks, and excessive salt.",
+      "Maintain healthy weight — obesity in adolescence leads to adult NCDs.",
+      "Do not start smoking, tobacco (gutka, khaini), or alcohol — ever.",
+      "Tobacco use started in adolescence leads to lifelong addiction.",
+      "Say no to peer pressure. It is okay to refuse.",
+      "If you or someone you know needs help quitting tobacco: 1800-11-2356 (free helpline)",
+      "Alcohol: No safe level of alcohol exists for adolescents. It harms the developing brain.",
+      "Do not experiment with drugs.",
+      "Road traffic injuries are a leading cause of adolescent death:",
+      "Always wear a helmet when riding a two-wheeler.",
+      "Always wear a seatbelt in a car.",
+      "Never use a mobile phone while driving.",
+      "Never drink and drive.",
+      "Follow traffic rules.",
+      "Limit recreational screen time to 2 hours/day.",
+      "Avoid screens 1 hour before bedtime — blue light disrupts sleep.",
+      "Cyberbullying: Report, block, and tell a trusted adult. It is not your fault.",
+      "Social media comparison can worsen anxiety and body image — be mindful.",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "RKSK (Rashtriya Kishor Swasthya Karyakram): Free adolescent health services at government PHCs, including nutrition, mental health, reproductive health, and substance use counselling. Saathiya centres: Adolescent-friendly health clinics at government PHCs. Peer Educator Programme: Trained adolescent health educators in schools and communities.",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

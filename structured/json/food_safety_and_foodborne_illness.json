@@ -1,0 +1,103 @@
+{
+  "doc_id": "who_food_safety_and_foodborne_illness_075",
+  "title": "Food Safety and Foodborne Illness",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/food-safety",
+  "topic": "Food Safety and Foodborne Illness",
+  "category": "Public Health / Environmental Health / Preventive Care",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Food safety refers to practices that prevent foodborne illness — diseases caused by eating contaminated food. Foodborne illnesses affect an estimated 600 million people globally every year, causing 420,000 deaths. In India, foodborne illness is a major public health problem, with contaminated food and water being leading causes of diarrhoea, typhoid, hepatitis A, and other conditions. Most foodborne illness is preventable through safe food handling.\n\n- 600 million people (1 in 10) become ill from eating contaminated food each year globally.\n- 420,000 people die from foodborne diseases annually.\n- Children under 5 carry 40% of the global foodborne disease burden.\n- In India, foodborne illness peaks during summer and monsoon seasons.\n- Common food safety violations: street food from unhygienic sources, unclean water for cooking, improper food storage.\n\nQ: Is food kept in the refrigerator always safe?\nA: No. Refrigeration slows bacterial growth but doesn't stop it. Cooked food should be consumed within 2–3 days. Raw meat within 1–2 days. Always reheat refrigerated cooked food thoroughly.\n\nQ: Is it safe to eat food that has been out for 4 hours?\nA: No. The danger zone for bacterial growth is 5–60°C. Food at room temperature for more than 2 hours should be discarded, especially in India's warm climate.\n\nQ: Are preservatives in packaged food harmful?\nA: FSSAI-approved preservatives in foods within regulated limits are generally considered safe. However, excessive consumption of highly processed foods with multiple additives is not recommended for overall health.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for food safety awareness. Suspected foodborne illness outbreaks (multiple people affected) should be reported to local health authorities or FSSAI (1800-11-2100). For severe symptoms, seek medical care immediately.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "| Disease | Common Source | Key Symptoms | |---|---|---| | Diarrhoea (bacterial) | Contaminated water, undercooked food | Loose stools, cramps | | Typhoid | Contaminated water/food | Persistent fever, abdominal pain | | Hepatitis A | Contaminated water/raw food | Jaundice, nausea, dark urine | | Cholera | Contaminated water | Profuse watery diarrhoea, dehydration | | Salmonellosis | Raw eggs, undercooked poultry | Diarrhoea, fever, vomiting | | Food poisoning (Staphylococcus) | Cooked food left at room temperature | Vomiting, cramps (rapid onset) | | Aflatoxin poisoning | Stored grains, peanuts with mould | Liver damage (long-term) |",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "KEEP CLEAN",
+      "Wash hands before handling food, after using toilet, after handling raw meat/eggs",
+      "Wash and sanitise all surfaces and equipment used for food preparation",
+      "Protect kitchen areas from insects, pests, and animals",
+      "SEPARATE RAW AND COOKED",
+      "Separate raw meat, poultry, and seafood from other foods",
+      "Use separate utensils and cutting boards for raw and cooked foods",
+      "Store raw meat in sealed containers at the bottom of the fridge",
+      "COOK THOROUGHLY",
+      "Cook food to at least 70°C (internal temperature) — especially meat, eggs, poultry",
+      "Reheat cooked food to 70°C",
+      "Never eat undercooked eggs, chicken, or pork",
+      "Bring soups and gravies to boil when reheating",
+      "KEEP FOOD AT SAFE TEMPERATURES",
+      "Do not leave cooked food at room temperature for more than 2 hours",
+      "Refrigerate perishables promptly",
+      "Do not thaw frozen food at room temperature — thaw in refrigerator",
+      "Do not store hot food in refrigerator — cool to room temperature first, then refrigerate",
+      "USE SAFE WATER AND RAW MATERIALS",
+      "Use safe, treated water for cooking and washing",
+      "Wash fruits and vegetables under running water before eating",
+      "Choose fresh, unprocessed foods",
+      "Do not use food beyond its expiry date",
+      "Discard food with visible mould (do not just cut off mouldy portion — toxins spread)",
+      "Street food is a major part of Indian food culture. To minimise risk:",
+      "Choose vendors where food is cooked fresh and hot in front of you",
+      "Avoid pre-cooked food sitting at room temperature for long periods",
+      "Avoid cut fruits, chutneys, or pani puri water from unknown/unclean sources",
+      "During monsoon and summer, extra caution is warranted",
+      "Choose vendors who maintain visible cleanliness (clean hands, covered food)",
+      "Avoid raw or partially cooked non-vegetarian items from street vendors",
+      "Milk and dairy:",
+      "Always consume pasteurised milk",
+      "Boil raw/unpackaged milk before drinking",
+      "Fermented dairy (curd, buttermilk) is generally safer than raw milk",
+      "Grains and pulses:",
+      "Store in dry, airtight containers — moisture promotes mould growth",
+      "Discard grain that smells musty or shows mould — do not consume (aflatoxin risk)",
+      "Wash rice and dal before cooking",
+      "Oils and fats:",
+      "Do not reuse cooking oil multiple times — repeated heating produces harmful compounds",
+      "Discard oil that has darkened, smokes at low temperature, or smells rancid",
+      "Packaged foods:",
+      "Check expiry date before purchasing or consuming",
+      "Look for FSSAI (Food Safety and Standards Authority of India) licence mark on packaged foods",
+      "Avoid damaged or swollen cans and packages",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "For suspected foodborne illness:",
+      "Diarrhoea with blood",
+      "High fever (above 38.5°C)",
+      "Signs of dehydration (no urination, extreme weakness)",
+      "Symptoms lasting more than 2 days",
+      "Multiple people in a household falling ill simultaneously (possible common source — report to local health authority)",
+      "Vomiting that prevents keeping fluids down"
+    ],
+    "india_specific_context": [
+      "FSSAI (Food Safety and Standards Authority of India) regulates food safety in India.",
+      "Look for the FSSAI logo on packaged foods — ensures regulatory compliance.",
+      "To report food safety violations: 1800-11-2100 (FSSAI toll-free helpline)",
+      "Eat Right India initiative: Promotes safe and healthy food choices",
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ]
+  }
+}

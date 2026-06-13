@@ -1,0 +1,62 @@
+{
+  "doc_id": "who_candidiasis_yeast_infection_029",
+  "title": "Candidiasis (yeast infection)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/candidiasis-(yeast-infection)",
+  "topic": "Candidiasis (yeast infection)",
+  "category": "Infectious Disease / Reproductive Health",
+  "last_updated": "9 April 2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Candidiasis, also known as a yeast infection, is a fungal infection primarily caused by Candida yeasts. Many of these yeasts are normally present in the human body as part of the natural microbiome, or in the surrounding environment, often without causing any problems. However, when conditions allow, such as a weakened immune system or changes in the body's natural environment (e.g., due to hormonal changes, antibiotic use or other reasons), Candida can overgrow and cause an infection. Candidiasis can affect various parts of the body, leading to a range of symptoms.\n\nCommon types of candidiasis include vulvovaginal candidiasis (vaginal yeast infection), which affects the vagina; oral candidiasis (thrush), which affects the mouth and throat; and invasive candidiasis, which is a serious systemic infection that can affect any organ in the body. Invasive candidiasis is a significant concern in critically ill and immunocompromised patients.\n\nWhile generally treatable with antifungal medications, some types can be hard to treat. For example, Candida auris is a multi-drug-resistant fungal species that has been responsible for outbreaks in hospitals and long-term care facilities. Prevention and proper management are crucial to reduce the risk and spread of these infections.\n\n- Candidiasis is a common fungal infection mostly caused by yeasts of the Candida species.\n- Candidiasis can affect various parts of the body, including the mouth (oral candidiasis or thrush), vagina (vaginal candidiasis), oesophagus, skin and bloodstream (invasive candidiasis).\n- Vulvovaginal candidiasis (VVC), or vaginal yeast infection, affects millions of women worldwide.\n- Oral candidiasis is more common in babies, people with weakened immune systems, individuals using steroid inhalers, denture wearers, people who inject drugs and those with conditions like uncontrolled diabetes.\n- Candidiasis can be treated with antifungal medications. Treatment can be more complex when infections are caused by drug-resistant species.\n- Candida auris is a fungal species that can be multi-drug resistant, cause invasive disease and lead to hospital outbreaks.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "Common types of candidiasis include vulvovaginal candidiasis (vaginal yeast infection), which affects the vagina; oral candidiasis (thrush), which affects the mouth and throat; and invasive candidiasis, which is a serious systemic infection that can affect any organ in the body. Invasive candidiasis is a significant concern in critically ill and immunocompromised patients.",
+      "While generally treatable with antifungal medications, some types can be hard to treat. For example, Candida auris is a multi-drug-resistant fungal species that has been responsible for outbreaks in hospitals and long-term care facilities. Prevention and proper management are crucial to reduce the risk and spread of these infections.",
+      "While not officially classified as a sexually transmitted infection, sexual activity can contribute to the development of VVC. Treating male partners is generally not recommended unless they exhibit symptoms themselves."
+    ],
+    "symptoms": [
+      "The symptoms of a vaginal yeast infection can be uncomfortable. Intense itching in the vagina and around the vulva is a common complaint. Redness and soreness of the vulva might also be experienced, accompanied by a thick, white, curd-like vaginal discharge. Painful urination and discomfort or pain during sexual intercourse can also occur. Yeast infections primarily affect the vagina and vulva and are not a typical cause of urinary tract infections.",
+      "Oral thrush is characterized by creamy, white lesions on the tongue, inner cheeks and gums, or hard white plaques that cannot be scraped off. Individuals may experience pain or soreness in the mouth, making it difficult to eat or swallow. Cracking and redness at the corners of the mouth, red, shiny patches on the palate or tongue, as well as altered or lost sense of taste, can also occur."
+    ],
+    "warning_signs": [
+      "Some Candida species, including Candida auris, are developing resistance to antifungal drugs, making them difficult to eradicate from hospital surfaces and equipment. These infections are serious and require urgent intravenous antifungal therapy."
+    ],
+    "risk_factors": [
+      "Several factors can contribute to the overgrowth of Candida in the vagina. Changes in the vagina's normal acidity, natural microbiome or hormonal balance can create an environment that encourages yeast overgrowth. Antibiotics can kill healthy bacteria in the vagina, which help maintain balance and keep yeast in check. Fluctuations in hormone levels, such as those during pregnancy, the menstrual cycle or the use of birth control pills, can increase the risk of yeast infections. Uncontrolled diabetes, leading to persistently high blood sugar levels, can also promote yeast growth. Additionally, a weakened immune system due to conditions or...",
+      "Several factors can lead to the development of oral thrush. People with compromised or immature immune systems, such as infants, older people and individuals living with HIV, are more prone to oral thrush. Antibiotics can disrupt the normal balance of microorganisms in the mouth, allowing Candida to overgrow. Steroid inhalers for asthma can also increase the risk of oral thrush. Additionally, ill-fitting dentures or poor oral hygiene can create an environment conducive to yeast overgrowth."
+    ],
+    "prevention": [
+      "While not officially classified as a sexually transmitted infection, sexual activity can contribute to the development of VVC. Treating male partners is generally not recommended unless they exhibit symptoms themselves.",
+      "Maintaining good hygiene, especially in moist areas, is important in preventing candidiasis on the skin. Good oral hygiene, cleaning dentures properly, controlling diabetes, avoiding smoking and using steroid inhalers properly can help prevent oral candidiasis.",
+      "Using antibiotics only when prescribed and necessary can help prevent disruptions in the body's natural microbiome. Managing underlying conditions such as diabetes can reduce the risk of candidiasis. For those with weakened immune systems, regular medical check-ups and prophylactic antifungal medications may be necessary to prevent invasive candidiasis.",
+      "For vulvovaginal candidiasis, wearing cotton underwear and loose clothing, avoiding synthetic fabrics, changing out of sweaty gym wear and swimsuits quickly, and not douching can all help to prevent yeast infections. Avoiding scented or harsh personal care products can also help prevent irritation and reduce the risk of yeast infections.",
+      "Athletes and individuals who engage in intense physical activity, as well as children, should be mindful of their hygiene. In environments where physical contact is frequent (e.g. gyms and sports facilities), it is important to clean and dry equipment and clothing regularly."
+    ],
+    "environmental_control": [
+      "Several factors can lead to the development of oral thrush. People with compromised or immature immune systems, such as infants, older people and individuals living with HIV, are more prone to oral thrush. Antibiotics can disrupt the normal balance of microorganisms in the mouth, allowing Candida to overgrow. Steroid inhalers for asthma can also increase the risk of oral thrush. Additionally, ill-fitting dentures or poor oral hygiene can create an environment conducive to yeast overgrowth.",
+      "Maintaining good hygiene, especially in moist areas, is important in preventing candidiasis on the skin. Good oral hygiene, cleaning dentures properly, controlling diabetes, avoiding smoking and using steroid inhalers properly can help prevent oral candidiasis.",
+      "Athletes and individuals who engage in intense physical activity, as well as children, should be mindful of their hygiene. In environments where physical contact is frequent (e.g. gyms and sports facilities), it is important to clean and dry equipment and clothing regularly."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Tests and treatments also need to improve and be more widely available, especially in low- and middle-income countries."
+    ],
+    "treatment_awareness_only": [
+      "Treatment for vaginal yeast infections typically involves antifungal medications. Topical treatments, such as creams, ointments or suppositories containing antifungal medications like clotrimazole, are commonly used. Prescription oral antifungal drugs, such as fluconazole, are also available. However, resistance to some antifungal medications is spreading and treatment does not always work.",
+      "Home remedies should be used with caution and discussed with a health-care provider before use.",
+      "Treatment for oral thrush typically involves antifungal medications. Topical treatments, such as antifungal mouthwashes or lozenges, are commonly used. Oral antifungal drugs may also be prescribed. Maintaining good oral hygiene through regular brushing and flossing can help prevent yeast overgrowth."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

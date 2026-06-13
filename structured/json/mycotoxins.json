@@ -1,0 +1,73 @@
+{
+  "doc_id": "who_mycotoxins_134",
+  "title": "Mycotoxins",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/mycotoxins",
+  "topic": "Mycotoxins",
+  "category": "Food Safety / Environmental Health",
+  "last_updated": "2 October 2023",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Mycotoxins are toxic compounds that are naturally produced by certain types of moulds (fungi). Moulds that can produce mycotoxins grow on numerous foodstuffs such as cereals, dried fruits, nuts and spices. Mould growth can occur either before harvest or after harvest, during storage, on/in the food itself often under warm, damp and humid conditions. Most mycotoxins are chemically stable and survive food processing.\n\nSeveral hundred different mycotoxins have been identified, but the most commonly observed mycotoxins that present a concern to human health and livestock include aflatoxins, ochratoxin A, patulin, fumonisins, zearalenone and nivalenol/deoxynivalenol. Mycotoxins appear in the food chain as a result of mould infection of crops both before and after harvest. Exposure to mycotoxins can happen either directly by eating infected food or indirectly from animals that are fed contaminated feed, in particular from milk.\n\n- Mycotoxins are naturally occurring toxins produced by certain moulds (fungi) and can be found in food.\n- The moulds grow on a variety of different crops and foodstuffs including cereals, nuts, spices, dried fruits, apples and coffee beans, often under warm and humid conditions.\n- Mycotoxins can cause a variety of adverse health effects and pose a serious health threat to both humans and livestock.\n- The adverse health effects of mycotoxins range from acute poisoning to long-term effects such as immune deficiency and cancer.\n- A scientific expert committee jointly convened by WHO and the Food and Agriculture Organization of the United Nations (FAO) – called JECFA – is the international body responsible for evaluating the health risk from natural toxins including mycotoxins.\n- International standards and codes of practice to limit exposure to mycotoxins from certain foods are established by the Codex Alimentarius Commission based on JECFA assessments.\n\n--- IMPORTANT SAFETY NOTE ---\nThis file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.",
+    "types": [
+      "The adverse health effects of mycotoxins range from acute poisoning to long-term effects such as immune deficiency and cancer.",
+      "Mycotoxins are toxic compounds that are naturally produced by certain types of moulds (fungi). Moulds that can produce mycotoxins grow on numerous foodstuffs such as cereals, dried fruits, nuts and spices. Mould growth can occur either before harvest or after harvest, during storage, on/in the food itself often under warm, damp and humid conditions. Most mycotoxins are chemically stable and survive food processing.",
+      "The effects of some food-borne mycotoxins are acute with symptoms of severe illness appearing quickly after consumption of food products contaminated with mycotoxins. Other mycotoxins occurring in food have been linked to long-term effects on health, including the induction of cancers and immune deficiency. Of the several hundred mycotoxins identified so far, about a dozen have gained the most attention due to their severe effects on human health and their occurrences in food.",
+      "WHO Food safety collaborative platform (FOSCOLLAB)"
+    ],
+    "symptoms": [
+      "Several hundred different mycotoxins have been identified, but the most commonly observed mycotoxins that present a concern to human health and livestock include aflatoxins, ochratoxin A, patulin, fumonisins, zearalenone and nivalenol/deoxynivalenol. Mycotoxins appear in the food chain as a result of mould infection of crops both before and after harvest. Exposure to mycotoxins can happen either directly by eating infected food or indirectly from animals that are fed contaminated feed, in particular from milk.",
+      "The effects of some food-borne mycotoxins are acute with symptoms of severe illness appearing quickly after consumption of food products contaminated with mycotoxins. Other mycotoxins occurring in food have been linked to long-term effects on health, including the induction of cancers and immune deficiency. Of the several hundred mycotoxins identified so far, about a dozen have gained the most attention due to their severe effects on human health and their occurrences in food."
+    ],
+    "warning_signs": [
+      "The effects of some food-borne mycotoxins are acute with symptoms of severe illness appearing quickly after consumption of food products contaminated with mycotoxins. Other mycotoxins occurring in food have been linked to long-term effects on health, including the induction of cancers and immune deficiency. Of the several hundred mycotoxins identified so far, about a dozen have gained the most attention due to their severe effects on human health and their occurrences in food.",
+      "These tolerable daily intakes are used by governments and international risk managers, such as the Codex Alimentarius Commission, to establish maximum levels for mycotoxins in food. The maximum levels for mycotoxins in food are very low due to their severe toxicity. For example, the maximum levels for aflatoxins set by the Codex in various nuts, grains, dried figs and milk are in the range of 0.5 to 15 µg/kg (a µg is one billionth of a kilogram ). The Codex maximum limit for patulin in apple juice is 50 µg/L."
+    ],
+    "risk_factors": [
+      "It is important to note that mould that produces mycotoxins can grow on a variety of different crops and foodstuff and can penetrate deep into food and do not just grow on the surface. Mould usually does not grow in properly dried and stored foods, so efficient drying of commodities and maintenance of the dry state, or proper storage, is an effective measure against mould growth and the production of mycotoxins.",
+      "To minimize the health risk from mycotoxins, people are advised to:",
+      "inspect whole grains (especially corn, sorghum, wheat, rice), dried figs and nuts such as peanuts, pistachio, almond, walnut, coconut, Brazil nuts and hazelnuts which are all regularly contaminated with aflatoxins for evidence of mould, and discard any that look mouldy, discoloured, or shrivelled;",
+      "avoid damage to grains before and during drying, and in storage, as damaged grain is more prone to invasion of moulds and therefore mycotoxin contamination;",
+      "buy grains and nuts as fresh as possible;",
+      "make sure that foods are stored properly – kept free of insects, dry, and not too warm;",
+      "not keep foods for extended periods of time before being used; and",
+      "ensure a diverse diet – this not only helps to reduce mycotoxins exposure, but also improves nutrition."
+    ],
+    "prevention": [
+      "It is important to note that mould that produces mycotoxins can grow on a variety of different crops and foodstuff and can penetrate deep into food and do not just grow on the surface. Mould usually does not grow in properly dried and stored foods, so efficient drying of commodities and maintenance of the dry state, or proper storage, is an effective measure against mould growth and the production of mycotoxins.",
+      "To minimize the health risk from mycotoxins, people are advised to:",
+      "inspect whole grains (especially corn, sorghum, wheat, rice), dried figs and nuts such as peanuts, pistachio, almond, walnut, coconut, Brazil nuts and hazelnuts which are all regularly contaminated with aflatoxins for evidence of mould, and discard any that look mouldy, discoloured, or shrivelled;",
+      "avoid damage to grains before and during drying, and in storage, as damaged grain is more prone to invasion of moulds and therefore mycotoxin contamination;",
+      "buy grains and nuts as fresh as possible;",
+      "make sure that foods are stored properly – kept free of insects, dry, and not too warm;",
+      "not keep foods for extended periods of time before being used; and",
+      "ensure a diverse diet – this not only helps to reduce mycotoxins exposure, but also improves nutrition."
+    ],
+    "environmental_control": [
+      "International standards and codes of practice to limit exposure to mycotoxins from certain foods are established by the Codex Alimentarius Commission based on JECFA assessments.",
+      "Several hundred different mycotoxins have been identified, but the most commonly observed mycotoxins that present a concern to human health and livestock include aflatoxins, ochratoxin A, patulin, fumonisins, zearalenone and nivalenol/deoxynivalenol. Mycotoxins appear in the food chain as a result of mould infection of crops both before and after harvest. Exposure to mycotoxins can happen either directly by eating infected food or indirectly from animals that are fed contaminated feed, in particular from milk.",
+      "The effects of some food-borne mycotoxins are acute with symptoms of severe illness appearing quickly after consumption of food products contaminated with mycotoxins. Other mycotoxins occurring in food have been linked to long-term effects on health, including the induction of cancers and immune deficiency. Of the several hundred mycotoxins identified so far, about a dozen have gained the most attention due to their severe effects on human health and their occurrences in food.",
+      "inspect whole grains (especially corn, sorghum, wheat, rice), dried figs and nuts such as peanuts, pistachio, almond, walnut, coconut, Brazil nuts and hazelnuts which are all regularly contaminated with aflatoxins for evidence of mould, and discard any that look mouldy, discoloured, or shrivelled;",
+      "ensure a diverse diet – this not only helps to reduce mycotoxins exposure, but also improves nutrition."
+    ],
+    "vaccination": [
+      "No vaccination-specific recommendation was identified in the extracted WHO fact-sheet text for this topic. Use vaccines only according to national immunization guidance and clinician advice."
+    ],
+    "diagnosis": [
+      "Diagnosis should be made by a qualified healthcare professional using appropriate history, examination, and tests where needed."
+    ],
+    "treatment_awareness_only": [
+      "JECFA or ad hoc FAO/WHO scientific expert groups consist of independent, international experts who conduct scientific reviews of all available studies and other relevant data on specific mycotoxins. The outcome of such health risk assessments can either be a maximum tolerable intake (exposure) level, or other guidance to indicate the level of health concern (such as the Margin of Exposure), including advice on risk management measures to prevent and control contamination, and on the analytical methods and monitoring and control activities."
+    ],
+    "when_to_see_a_doctor": [
+      "Consult a qualified healthcare professional if symptoms are severe, persistent, recurrent, worsening, or affecting daily life.",
+      "Seek urgent care for red-flag symptoms such as breathing difficulty, chest pain, heavy bleeding, severe dehydration, confusion, fainting, seizures, pregnancy danger signs, suspected poisoning/exposure, or signs of severe infection.",
+      "For prevention, screening, vaccination, sexual/reproductive health, child health, mental health, disability support, or chronic-condition concerns, use a government health facility, PHC/CHC, district hospital, or registered clinician."
+    ],
+    "india_specific_context": [
+      "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
+      "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
+      "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ]
+  }
+}

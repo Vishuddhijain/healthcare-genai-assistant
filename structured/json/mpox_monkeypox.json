@@ -1,0 +1,122 @@
+{
+  "doc_id": "who_mpox_monkeypox_130",
+  "title": "Mpox (Monkeypox)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/mpox",
+  "topic": "Mpox (Monkeypox)",
+  "category": "Communicable Disease / Zoonotic Disease / Global Health Emergency",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Mpox (formerly called monkeypox) is a viral disease caused by the monkeypox virus, a member of the Orthopoxvirus genus (same family as smallpox). It was first identified in humans in 1970 in the Democratic Republic of Congo. In 2022, a global outbreak of mpox occurred across multiple countries that had not previously reported cases. In 2024, a new Clade Ib variant caused another outbreak centred in Africa, prompting WHO to declare mpox a Public Health Emergency of International Concern (PHEIC) again. India has reported mpox cases and maintains active surveillance.\n\n- Mpox is caused by monkeypox virus; two clades (genetic groups): Clade I (Central Africa — more severe) and Clade II (West Africa — less severe; caused 2022 global outbreak).\n- The disease is usually self-limiting but can be severe, especially in children, pregnant women, and immunocompromised individuals.\n- Case fatality rate: ~3–6% with Clade I; <1% with Clade II in non-endemic settings.\n- Transmission: Through close physical contact with infected person, animal, or contaminated materials.\n- NOT primarily airborne — close skin-to-skin contact is the main route.\n- India detected its first mpox case in 2022; has maintained surveillance since.\n- Mpox vaccination is available; smallpox vaccines offer some cross-protection.\n- The name was changed from \"monkeypox\" to \"mpox\" by WHO in 2022 to avoid stigma.\n\nQ: Is mpox the same as smallpox?\nA: No. Mpox is related but distinct. Smallpox was eradicated in 1980. Mpox is milder than smallpox. However, swollen lymph nodes (not seen in smallpox) help differentiate mpox.\n\nQ: Is mpox only transmitted sexually?\nA: No. While sexual contact was a major transmission route in the 2022 global outbreak, mpox can spread through any close skin-to-skin contact, contaminated materials, or animal bites. It is not classified as a sexually transmitted infection (STI) exclusively.\n\nQ: Can I get mpox from my pet?\nA: Animals can in theory be infected by mpox from humans or the environment. Avoid contact with your pets while you are symptomatic with mpox.\n\nQ: How is mpox different from chickenpox?\nA: Mpox: Lymph node swelling, deep lesions all at same stage, rash starts on face before body, palms and soles affected. Chickenpox: No lymph node swelling, lesions at different stages, starts on trunk, rarely on palms/soles.\n\n--- IMPORTANT SAFETY NOTE ---\nMpox is usually mild but can be serious. If you have an unexplained rash with fever, consult a doctor promptly and mention any potential exposures. Isolation helps prevent spread. India has established surveillance — do not hide symptoms. All care at government hospitals is free for confirmed cases. Do not stigmatise affected individuals.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Incubation period: 5–21 days (usually 6–13 days)",
+      "Phase 1 — Prodrome (first 1–5 days):",
+      "Fever (sudden onset)",
+      "Intense headache",
+      "Swollen lymph nodes (lymphadenopathy — a KEY distinguishing feature from smallpox and chickenpox)",
+      "Muscle aches (myalgia)",
+      "Back pain",
+      "Fatigue",
+      "Chills",
+      "Phase 2 — Rash (begins 1–3 days after fever):",
+      "Rash typically starts on face, then spreads to arms, legs, palms, and soles",
+      "Rash progression: Flat spots (macules) → raised bumps (papules) → fluid-filled blisters (vesicles) → pus-filled lesions (pustules) → scabs → healing",
+      "Lesions are deep-seated, firm, and all at the same stage in the same area (unlike chickenpox)",
+      "Lesions may also appear in mouth, genitals, eyes, and anal region",
+      "Duration: Rash typically lasts 2–4 weeks"
+    ],
+    "warning_signs": [
+      "Seek medical attention immediately if:",
+      "Severe rash spreading rapidly",
+      "Difficulty swallowing or breathing (lesions in throat)",
+      "Eye pain or vision changes (ocular involvement)",
+      "Confusion or altered mental status",
+      "Signs of secondary bacterial infection (increasing redness, warmth, pus, pain)",
+      "Symptoms in children under 8, pregnant women, or immunocompromised individuals (higher risk of severe disease)",
+      "Rash on genitals or anal area — also see a doctor confidentially"
+    ],
+    "risk_factors": [
+      "Close physical contact with a confirmed mpox case",
+      "Direct contact with skin lesions, rash, scabs, or body fluids of infected person",
+      "Contact with contaminated bedding, towels, clothing",
+      "Healthcare workers without appropriate PPE",
+      "People with multiple sexual partners (in 2022 outbreak, most cases were among men who have sex with men — MSM — though mpox is NOT exclusively an STI)",
+      "Unvaccinated younger generations (smallpox vaccination — which offered cross-protection — was discontinued after 1980 global eradication)",
+      "Hunters/bushmeat handlers in endemic regions (animal-to-human transmission)",
+      "Immunocompromised individuals (HIV+, cancer patients)",
+      "Children in areas with Clade I (endemic Africa)",
+      "Person-to-person:",
+      "Close physical/skin-to-skin contact with rash, lesions, or scabs",
+      "Contact with body fluids (saliva, respiratory secretions during prolonged face-to-face contact)",
+      "Handling contaminated materials (bedding, clothing)",
+      "During 2022 outbreak: sexual contact was a major mode among adults",
+      "Animal-to-person:",
+      "Bites or scratches from infected animals (rodents, primates)",
+      "Handling/eating undercooked meat of infected animals (bushmeat)",
+      "NOT primarily airborne — but respiratory droplet transmission during prolonged close contact is possible",
+      "Does NOT spread via:",
+      "Casual contact (passing someone in a hallway)",
+      "Touching unaffected skin of infected person",
+      "Through water"
+    ],
+    "prevention": [
+      "Avoid close skin contact with anyone who has mpox symptoms (rash, lesions)",
+      "Avoid contact with wild animals, especially rodents and primates in endemic regions",
+      "Wash hands frequently with soap and water",
+      "Use appropriate PPE when caring for mpox patients",
+      "Safe sex practices (use condoms, reduce number of partners) during outbreaks",
+      "Do not share bedding, towels, or clothing with a known case",
+      "Cook all animal products (especially meat) thoroughly",
+      "Vaccination: Recommended for high-risk contacts and healthcare workers",
+      "Isolate at home until all skin lesions have healed completely and new skin has formed",
+      "Avoid close contact with family members — use separate rooms if possible",
+      "Cover all lesions if sharing space",
+      "Avoid contact with pets (animals can be infected)",
+      "Wash bedding and clothing separately with hot water"
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Smallpox vaccines (ACAM2000, JYNNEOS/Imvanex/Imvamune): Provide cross-protection against mpox",
+      "JYNNEOS (Bavarian Nordic): Specifically licensed for mpox prevention; safer (non-replicating virus)",
+      "India: Government has procured/evaluated mpox vaccines for high-risk groups and healthcare workers",
+      "Vaccination recommended as post-exposure prophylaxis within 4 days of exposure",
+      "Not universally available at present — consult NCDC or state health authorities"
+    ],
+    "diagnosis": [
+      "PCR testing of skin lesion swabs (vesicle fluid, crust, or lesion roof): Most reliable",
+      "Blood tests (PCR from blood in severe cases)",
+      "All suspected cases in India to be reported to state health authority and NCDC",
+      "Testing available at NCDC Delhi, NIV Pune, and designated state labs",
+      "Do NOT self-diagnose — multiple conditions can cause skin rashes; clinical + lab confirmation required"
+    ],
+    "treatment_awareness_only": [
+      "Most cases resolve on their own within 2–4 weeks with supportive care",
+      "Supportive treatment: Keep rash clean and dry, pain management, maintain hydration",
+      "Antiviral tecovirimat (TPOXX): Used in severe cases; under WHO access protocols",
+      "Secondary bacterial skin infections: Treated with antibiotics if confirmed",
+      "Isolation is important to prevent transmission while symptomatic"
+    ],
+    "when_to_see_a_doctor": [
+      "Unexplained rash with fever, especially if you have had recent contact with a confirmed or suspected mpox case",
+      "Rash that looks like clustered blisters at same stage of development",
+      "Return from a country with active mpox outbreak",
+      "Rash on genitals with or without lymph node swelling",
+      "Any child or pregnant woman with unexplained blistering rash"
+    ],
+    "india_specific_context": [
+      "India reported its first mpox case in July 2022 (Kerala)",
+      "NCDC (National Centre for Disease Control) coordinates surveillance; IDSP collects data",
+      "MoHFW issued guidelines for surveillance, diagnosis, and management",
+      "Designated isolation facilities at AIIMS, government medical colleges",
+      "Helpline: State health helplines + NCDC for case reporting guidance",
+      "India does not have endemic mpox; all cases have been travel-related or contact-traced",
+      "Stigma: Mpox is NOT a disease only of any specific group; anyone with close contact with a case is at risk"
+    ]
+  }
+}

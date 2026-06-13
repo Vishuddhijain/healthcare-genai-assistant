@@ -1,0 +1,139 @@
+{
+  "doc_id": "who_pneumonia_158",
+  "title": "Pneumonia",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/pneumonia",
+  "topic": "Pneumonia",
+  "category": "Communicable Disease / Respiratory Infection / Child Health",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Pneumonia is an infection that inflames the air sacs (alveoli) in one or both lungs, which can fill with fluid or pus, causing cough, fever, and difficulty breathing. It can be caused by bacteria, viruses, or fungi. Pneumonia is the single largest infectious cause of death in children worldwide, though it affects people of all ages, with the very young, elderly, and immunocompromised at highest risk. It is both preventable (through vaccination and good nutrition) and treatable (with appropriate antibiotics for bacterial pneumonia).\n\n- Pneumonia accounts for 14% of all deaths of children under 5 worldwide, killing over 700,000 children annually.\n- In India, pneumonia is one of the leading causes of under-5 mortality.\n- Pneumonia can be caused by bacteria (Streptococcus pneumoniae is most common), viruses (RSV, influenza), or fungi.\n- Vaccines against Hib, pneumococcus, and measles can prevent pneumonia in children.\n- Pneumonia is treatable with antibiotics when bacterial — but access to care and antibiotics remains a challenge in some areas.\n- Fast breathing and chest indrawing are the key warning signs of severe pneumonia in children (WHO IMNCI criteria).\n- Exclusive breastfeeding for the first 6 months significantly reduces pneumonia risk in infants.\n- India's Pneumonia Free India (Social Awareness and Action To Neutralize Pneumonia Successfully — SAANS) campaign targets reducing child pneumonia deaths.\n\nQ: Is pneumonia contagious?\nA: The germs that cause pneumonia (bacteria and viruses) can spread through respiratory droplets, but not everyone exposed develops pneumonia — it depends on individual risk factors and immune status.\n\nQ: How can I tell if my child's cold has turned into pneumonia?\nA: Watch for fast breathing, chest indrawing (the lower chest pulls in when breathing in), inability to feed, lethargy, or bluish lips. Any of these warrant immediate medical attention — these are the WHO danger signs for severe pneumonia in children.\n\nQ: Do all cases of pneumonia need antibiotics?\nA: No. Viral pneumonia does not respond to antibiotics and is managed with supportive care. However, distinguishing bacterial from viral pneumonia often requires clinical judgment by a healthcare provider — never self-medicate with antibiotics.\n\nQ: Can vaccines really prevent pneumonia?\nA: Yes. Vaccines against pneumococcus (PCV), Hib, measles, and influenza significantly reduce the risk of pneumonia, especially severe pneumonia in children. These are available free under India's UIP (PCV, Hib, MR).\n\nQ: Why is indoor air pollution linked to pneumonia?\nA: Smoke from solid fuel cooking (wood, dung, coal) damages the lining of airways and lungs, making them more susceptible to infection — particularly affecting children and women who spend more time near cooking fires.\n\n--- IMPORTANT SAFETY NOTE ---\nPneumonia can be life-threatening, especially in young children, the elderly, and people with chronic conditions, but it is preventable and treatable. Recognise the danger signs — fast breathing, chest indrawing, inability to feed, and lethargy in children — and seek immediate medical care. Free vaccines (PCV, Hib, MR) and treatment at government health facilities help prevent and manage pneumonia. Do not delay care if breathing difficulty is present.",
+    "types": [
+      "By causative organism:",
+      "Bacterial pneumonia: Streptococcus pneumoniae (most common bacterial cause), Haemophilus influenzae type b (Hib), Staphylococcus aureus",
+      "Viral pneumonia: Respiratory syncytial virus (RSV) — most common viral cause in young children; influenza viruses; SARS-CoV-2 (COVID-19)",
+      "Fungal pneumonia: Less common; primarily affects immunocompromised individuals (Pneumocystis jirovecii in HIV/AIDS patients)",
+      "Aspiration pneumonia: From inhaling food, liquid, vomit, or saliva into the lungs",
+      "By setting:",
+      "Community-acquired pneumonia (CAP): Acquired outside healthcare settings",
+      "Hospital-acquired pneumonia (HAP): Develops during hospital stay (48+ hours after admission)",
+      "Ventilator-associated pneumonia (VAP): Develops in patients on mechanical ventilation"
+    ],
+    "symptoms": [
+      "General symptoms (all ages):",
+      "Cough (may produce phlegm/sputum, sometimes blood-tinged)",
+      "Fever, chills, sweating",
+      "Difficulty breathing or rapid breathing",
+      "Chest pain that worsens with breathing or coughing",
+      "Fatigue and weakness",
+      "Nausea, vomiting, or diarrhoea (more common in children and elderly)",
+      "Loss of appetite",
+      "IN CHILDREN — WHO danger signs (severe pneumonia):",
+      "Fast breathing (age-specific thresholds):",
+      "Under 2 months: ≥60 breaths/minute",
+      "2–11 months: ≥50 breaths/minute",
+      "1–5 years: ≥40 breaths/minute",
+      "Chest indrawing (lower chest wall moves IN when breathing IN — a key danger sign)",
+      "Grunting with each breath",
+      "Inability to drink or breastfeed",
+      "Lethargy or unconsciousness",
+      "Convulsions",
+      "Stridor (high-pitched sound when breathing in)",
+      "IN ELDERLY: May present atypically — confusion, low body temperature instead of fever, general weakness, falls — pneumonia should be considered in any elderly person with sudden decline"
+    ],
+    "warning_signs": [
+      "In children:",
+      "Chest indrawing",
+      "Inability to drink/feed, or persistent vomiting",
+      "Convulsions",
+      "Lethargy, difficult to wake, or unconscious",
+      "Bluish lips or face (cyanosis)",
+      "Stridor",
+      "In adults/elderly:",
+      "Severe difficulty breathing or rapid breathing",
+      "Confusion or sudden change in mental status",
+      "Bluish lips or face",
+      "Chest pain that is severe or persistent",
+      "Coughing up blood",
+      "Oxygen saturation below 94% (if pulse oximeter available)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Age: Children under 5 (especially under 2) and adults over 65",
+      "Malnutrition: Significantly increases risk and severity in children",
+      "Lack of exclusive breastfeeding in infancy",
+      "Incomplete immunisation (Hib, pneumococcal, measles, pertussis vaccines)",
+      "Indoor air pollution: Cooking with solid fuels (wood, dung, coal) in poorly ventilated homes — major risk factor in rural India",
+      "Outdoor air pollution",
+      "Overcrowded living conditions",
+      "Smoking (active and passive/secondhand smoke)",
+      "Chronic diseases: COPD, asthma, diabetes, heart disease, HIV",
+      "Weakened immune system (HIV, cancer treatment, steroid use)",
+      "Recent viral respiratory infection (flu, COVID-19) — increases susceptibility to bacterial pneumonia",
+      "Hospitalisation, especially with mechanical ventilation"
+    ],
+    "prevention": [
+      "Vaccination:",
+      "Pneumococcal Conjugate Vaccine (PCV): Part of India's UIP in most states — prevents pneumococcal pneumonia",
+      "Hib vaccine (Pentavalent): Part of UIP — prevents Hib pneumonia and meningitis",
+      "Measles vaccine: Measles can lead to severe pneumonia — UIP includes MR/MMR vaccine",
+      "Influenza vaccine: Recommended for high-risk groups (elderly, chronic disease patients)",
+      "COVID-19 vaccine: Reduces risk of severe COVID pneumonia",
+      "Nutrition:",
+      "Exclusive breastfeeding for first 6 months — provides immune protection",
+      "Adequate complementary feeding after 6 months to prevent malnutrition",
+      "Vitamin A supplementation",
+      "Reducing environmental risk factors:",
+      "Use clean cooking fuels (LPG via Ujjwala Yojana) instead of solid fuels",
+      "Ensure good ventilation in kitchens",
+      "Avoid exposing children to tobacco smoke",
+      "Reduce indoor air pollution",
+      "Hygiene:",
+      "Handwashing with soap",
+      "Avoid close contact with people who have respiratory infections"
+    ],
+    "environmental_control": [
+      "Improved kitchen ventilation (chimneys, smokeless chulhas where LPG unavailable)",
+      "PMUY (Pradhan Mantri Ujjwala Yojana): Provides LPG connections to reduce indoor air pollution exposure",
+      "Reducing overcrowding in living spaces where feasible",
+      "Avoiding smoking indoors, especially around children and elderly"
+    ],
+    "vaccination": [
+      "PCV (Pneumococcal Conjugate Vaccine): 6, 10, 14 weeks (UIP, phased rollout across states)",
+      "Pentavalent (includes Hib): 6, 10, 14 weeks",
+      "MR (Measles-Rubella): 9–12 months, booster 16–18 months",
+      "Influenza: Recommended annually for high-risk groups (not part of UIP)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Clinical assessment: Respiratory rate, chest examination (listening for crackles/abnormal sounds), oxygen saturation",
+      "Chest X-ray: Confirms presence and extent of lung infection",
+      "Blood tests: White blood cell count, blood cultures (to identify bacteria in severe cases)",
+      "Sputum culture: To identify causative organism (when available)",
+      "Pulse oximetry: Quick, non-invasive measure of oxygen levels — important for severity assessment"
+    ],
+    "treatment_awareness_only": [
+      "Bacterial pneumonia: Antibiotics — first-line oral antibiotics (e.g., amoxicillin for children) for non-severe cases; injectable antibiotics for severe cases requiring hospitalisation",
+      "Viral pneumonia: Mainly supportive care (rest, fluids, fever management); antivirals for specific viruses (e.g., oseltamivir for influenza) if appropriate",
+      "Oxygen therapy: For low oxygen levels — available at government health facilities, including PHCs equipped under SAANS programme",
+      "Severe cases: Hospitalisation, IV antibiotics, oxygen, and close monitoring",
+      "Complete the full course of prescribed antibiotics even if symptoms improve"
+    ],
+    "when_to_see_a_doctor": [
+      "Any child with fast breathing or chest indrawing — seek care immediately (do not wait)",
+      "Fever with cough lasting more than 2-3 days, especially with breathing difficulty",
+      "Any of the emergency warning signs listed above",
+      "Elderly person with sudden confusion, weakness, or decline, even without typical fever/cough",
+      "Anyone with chronic disease (COPD, diabetes, heart disease) developing respiratory symptoms"
+    ],
+    "india_specific_context": [
+      "SAANS (Social Awareness and Action to Neutralize Pneumonia Successfully): National campaign launched by MoHFW to reduce child pneumonia deaths through early identification, referral, and treatment at health facilities",
+      "PCV introduction: Phased rollout across Indian states under UIP, prioritising high-burden states",
+      "Indoor air pollution from solid fuel use is a major contributor to pneumonia in rural India — PMUY (Ujjwala Yojana) addresses this by promoting LPG use",
+      "ASHA workers trained to recognise danger signs (fast breathing, chest indrawing) and refer children promptly",
+      "Ayushman Bharat PM-JAY covers hospitalisation for severe pneumonia at empanelled hospitals",
+      "Oxygen availability: Strengthened at PHCs and CHCs following COVID-19 pandemic, improving pneumonia care access in rural areas"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "doc_id": "who_mental_health_in_emergencies_124",
+  "title": "Mental Health in Emergencies",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-in-emergencies",
+  "topic": "Mental Health in Emergencies",
+  "category": "Mental Health / Disaster Response",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Emergencies — natural disasters (floods, cyclones, earthquakes), conflicts, and pandemics — significantly increase the prevalence of mental health conditions in affected populations. WHO estimates that approximately 1 in 5 people in conflict-affected areas experience depression, anxiety, PTSD, bipolar disorder, or schizophrenia, with around 1 in 11 having a moderate-to-severe condition. India regularly faces emergencies including floods (Kerala, Assam, Bihar), cyclones (Odisha, Andhra Pradesh, West Bengal), earthquakes, and was significantly affected by the COVID-19 pandemic's mental health impact. Mental health and psychosocial support (MHPSS) is now recognised as a critical component of emergency response.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Strong emotional reactions after an emergency are normal and usually improve with time and support. If symptoms persist, worsen, or interfere with daily functioning — especially for children — seek support. Tele-MANAS (14416) provides free, confidential support 24x7, including during disasters.",
+    "types": [
+      "Acute stress reactions: Normal responses to abnormal events — fear, shock, grief, sleep disturbances (usually resolve within weeks)",
+      "Adjustment disorders: Difficulty adapting to the changed circumstances after a disaster",
+      "PTSD (Post-Traumatic Stress Disorder): Persistent re-experiencing, avoidance, hyperarousal (see PTSD topic)",
+      "Depression and anxiety disorders: Often triggered or worsened by loss, displacement, uncertainty",
+      "Exacerbation of pre-existing mental illness: Disruption of medication/care access worsens existing conditions",
+      "Substance use: Increased risk as a coping mechanism",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Common (often normal) reactions in early days:",
+      "Shock, disbelief, numbness",
+      "Anxiety about safety, sleep difficulties",
+      "Irritability, difficulty concentrating",
+      "Grief reactions to loss of loved ones, homes, livelihoods",
+      "Concerning signs requiring support:",
+      "Symptoms persisting beyond a month and worsening",
+      "Inability to perform daily functions (self-care, caring for children)",
+      "Severe withdrawal or social isolation",
+      "Substance misuse as coping mechanism",
+      "Suicidal thoughts — see Suicide topic for immediate resources",
+      "In children: Regression (bedwetting, clinginess), nightmares, behavioural changes, refusal to be separated from caregivers",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Direct exposure to disaster (injury, loss of life of loved ones)",
+      "Loss of home, livelihood, or community",
+      "Displacement to shelters/relief camps",
+      "Pre-existing mental health conditions",
+      "Lack of social support",
+      "Prolonged uncertainty (recovery timeline, compensation, rebuilding)",
+      "Children and elderly are particularly vulnerable"
+    ],
+    "prevention": [
+      "Psychological First Aid (PFA): Basic, humane support — listening, providing comfort, connecting people to information and services; does NOT require mental health professional training",
+      "Maintaining routines where possible, especially for children",
+      "Facilitating family and community reunification",
+      "Providing accurate information to reduce uncertainty and rumours",
+      "Protecting vulnerable groups (unaccompanied children, elderly, disabled) in relief camps",
+      "Avoiding re-traumatisation (e.g. repeatedly asking survivors to recount traumatic events without purpose)",
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Safe, dignified shelter conditions in relief camps (privacy, security, separate facilities for women)",
+      "Child-friendly spaces in relief camps",
+      "Continuity of care for people with pre-existing mental illness (ensuring medication supply continues)"
+    ],
+    "vaccination": [
+      "Not directly applicable; but routine immunisation continuity is important during emergencies (cholera, measles outbreak risk in displacement settings)"
+    ],
+    "diagnosis": [
+      "Most acute reactions do not need formal diagnosis — supportive care is sufficient",
+      "Screening for those with persistent/severe symptoms by trained personnel",
+      "District Mental Health Programme teams can be deployed for disaster response"
+    ],
+    "treatment_awareness_only": [
+      "Psychological First Aid (PFA): First-line response by trained volunteers/community workers",
+      "Community-based psychosocial support: Group support, community activities, restoring social connections",
+      "Clinical care: For persistent/severe conditions — referral to mental health professionals (psychotherapy, medication if needed)",
+      "Continuity of medication: For those with pre-existing psychiatric conditions, ensuring medicines are not interrupted during displacement",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Symptoms persisting beyond 4 weeks and worsening",
+      "Inability to care for self or children",
+      "Substance use as coping mechanism",
+      "Any suicidal thoughts — immediate help via Tele-MANAS (14416)",
+      "Children showing significant behavioural regression or persistent distress",
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations."
+    ],
+    "india_specific_context": [
+      "NDMA (National Disaster Management Authority) includes psychosocial support in disaster response guidelines",
+      "District Mental Health Programme teams can be mobilised during disasters",
+      "Tele-MANAS (14416 / 1800-891-4416): 24x7 free helpline, especially valuable during/after disasters when in-person services may be disrupted",
+      "NIMHANS has developed disaster mental health response protocols and training materials",
+      "After major disasters (e.g. Kerala floods, Cyclone Amphan), state governments have deployed MHPSS teams to relief camps"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "doc_id": "who_legionellosis_legionnaires_disease_and_pontiac_fever_107",
+  "title": "Legionellosis (Legionnaires' Disease and Pontiac Fever)",
+  "source_name": "WHO Fact Sheet",
+  "source_url": "https://www.who.int/news-room/fact-sheets/detail/legionellosis",
+  "topic": "Legionellosis (Legionnaires' Disease and Pontiac Fever)",
+  "category": "Communicable Disease (Bacterial / Respiratory)",
+  "last_updated": "2024",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "Legionellosis is caused by Legionella bacteria (mainly L. pneumophila), found naturally in freshwater but multiplying in artificial warm water systems (cooling towers, hot water tanks, humidifiers, spa pools, AC systems). It causes two forms: Legionnaires' disease (severe pneumonia, fatality 5–10%) and Pontiac fever (mild flu-like illness, self-limiting). Not transmitted person-to-person.\n\n--- IMPORTANT SAFETY NOTE ---\nThis information is for health awareness only. Severe pneumonia with confusion requires urgent medical evaluation. Consult a qualified healthcare provider for diagnosis and treatment.",
+    "types": [
+      "Legionnaires' Disease: Severe pneumonia with systemic symptoms",
+      "Pontiac Fever: Mild, self-limiting flu-like illness without pneumonia"
+    ],
+    "symptoms": [
+      "Legionnaires' Disease:",
+      "High fever (often >40°C), chills, rigors",
+      "Cough (dry then productive), shortness of breath, chest pain",
+      "Confusion/delirium (more prominent than typical pneumonia)",
+      "Diarrhoea, nausea, abdominal pain, muscle aches, headache",
+      "Incubation: 2–10 days",
+      "Pontiac Fever:",
+      "Fever, chills, muscle aches, headache, fatigue (no pneumonia)",
+      "Resolves within 2–5 days without treatment"
+    ],
+    "warning_signs": [
+      "Severe pneumonia symptoms with confusion in elderly or immunocompromised",
+      "Recent travel/hotel stay (cooling tower exposure) with pneumonia symptoms"
+    ],
+    "risk_factors": [
+      "Age >50, smokers, chronic lung disease",
+      "Immunocompromised individuals (cancer, transplant, steroid use)",
+      "Recent hospital stay or travel/hotel stay",
+      "Exposure to cooling towers, spa pools, fountains, poorly maintained AC systems"
+    ],
+    "prevention": [
+      "Proper maintenance and disinfection of water systems",
+      "Regular flushing of infrequently-used taps/showers",
+      "Avoid stagnant water in cooling towers and decorative fountains"
+    ],
+    "environmental_control": [
+      "Hot water systems maintained above 60°C; cold water below 25°C",
+      "Regular cleaning/disinfection of cooling towers, especially in hospitals, hotels, malls",
+      "Water system risk assessments for large buildings"
+    ],
+    "vaccination": [
+      "No vaccine available"
+    ],
+    "diagnosis": [
+      "Urinary antigen test (rapid, most common)",
+      "Culture of respiratory secretions on special media",
+      "PCR testing",
+      "Chest X-ray/CT: Pneumonia changes"
+    ],
+    "treatment_awareness_only": [
+      "Antibiotics: Azithromycin or fluoroquinolones (doctor prescribed)",
+      "Hospitalisation usually required for Legionnaires' disease",
+      "Pontiac fever: Usually resolves without specific treatment",
+      "Treatment details are for awareness only. Consult a qualified healthcare professional."
+    ],
+    "when_to_see_a_doctor": [
+      "Severe pneumonia symptoms, especially with confusion, after travel or hotel stay",
+      "High fever with breathing difficulty not improving with usual care"
+    ],
+    "india_specific_context": [
+      "Underdiagnosed in India due to limited testing availability",
+      "Hospitals and large commercial buildings should maintain cooling tower hygiene per facility guidelines",
+      "Consider in cases of \"atypical pneumonia\" not responding to standard antibiotics"
+    ]
+  }
+}
