@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health",
   "topic": "Household air pollution",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "16 December 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -64,6 +64,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is cooking on a chulha (mud stove) or kerosene stove dangerous?",
+        "answer": "Yes. Burning wood, dung, crop residues, or kerosene indoors produces PM2.5, carbon monoxide, and carcinogens â equivalent to smoking several cigarettes per hour. Women and children in rural India who spend hours near chulhas are at high risk for chronic lung disease, heart disease, and lung cancer."
+      },
+      {
+        "question": "What is the Ujjwala Yojana and how does it help health?",
+        "answer": "Pradhan Mantri Ujjwala Yojana provides free LPG gas connections to BPL (Below Poverty Line) households. LPG is a cleaner fuel that dramatically reduces indoor air pollution compared to solid fuels. It has been linked to reduction in respiratory illness among women and children."
+      },
+      {
+        "question": "How do I reduce indoor air pollution if I cook on a solid fuel stove?",
+        "answer": "Keep windows and doors open while cooking. Use an exhaust fan or chimney if possible. Dry fuel burns cleaner than wet fuel. Cook outside when possible. An improved cookstove (better combustion design) reduces emissions significantly. Transition to LPG when possible."
+      },
+      {
+        "question": "Are incense sticks and mosquito coils indoors a health risk?",
+        "answer": "Yes. Burning agarbattis and mosquito coils indoors in poorly ventilated rooms produces PM2.5 and toxic compounds. Use them in well-ventilated areas or outdoors, limit burning time, and use electronic mosquito repellents instead of coils where possible."
+      }
     ]
   }
 }

@@ -61,3 +61,16 @@ Asbestos-related diseases can be prevented, and the most efficient way to preven
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is asbestos still used in India?
+A: Yes. India is one of the largest importers and users of asbestos, primarily in the construction (asbestos cement roofing sheets) and industrial sectors. Chrysotile (white) asbestos is still in use, despite being banned or restricted in many countries.
+
+Q: How does asbestos cause cancer?
+A: Inhaled asbestos fibres lodge permanently in lung tissue, causing chronic inflammation that leads to mesothelioma (cancer of the lining of lungs), lung cancer, and asbestosis over 20-40 years after exposure. There is no safe level of asbestos exposure.
+
+Q: Am I at risk if I live in a house with asbestos roofing?
+A: Intact, undisturbed asbestos sheets pose low risk. Risk increases when sheets are cracked, drilled, cut, or sanded â releasing fibres. If you need to repair or remove asbestos sheets, hire trained workers with protective equipment. Never cut or drill asbestos yourself.
+
+Q: Is asbestos-related disease treatable?
+A: Mesothelioma and asbestosis have no cure, though treatment can manage symptoms and extend life. Prevention through eliminating asbestos exposure is the only effective strategy. Workers in asbestos industries should have regular chest X-rays and lung function tests.

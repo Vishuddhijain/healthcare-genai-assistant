@@ -76,3 +76,16 @@ During outbreaks over the last decade, Zika virus infection was found to be asso
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has Zika virus been reported in India?
+A: Yes. India has reported Zika outbreaks — notably in Gujarat (2017), Rajasthan (2018), Kerala (2021), and Maharashtra (2021). Cases continue to be sporadically reported. India has the Aedes aegypti mosquito that transmits Zika, making surveillance important.
+
+Q: Why is Zika virus especially dangerous for pregnant women?
+A: Zika virus infection during pregnancy causes microcephaly (abnormally small head and brain) and other severe fetal brain defects (congenital Zika syndrome). Pregnant women should take extra precautions against mosquito bites and avoid areas with active Zika outbreaks.
+
+Q: Can Zika spread through sexual contact?
+A: Yes. Zika can be sexually transmitted by both men and women to their partners. The virus can persist in semen for up to 3 months after infection. Couples planning pregnancy in or returning from Zika-affected areas should use condoms for 3 months (men) or 2 months (women) after potential exposure.
+
+Q: Is there a vaccine or treatment for Zika?
+A: There is no licensed vaccine or specific treatment for Zika. Management is symptomatic — rest, fluids, paracetamol. Prevention focuses on mosquito control (eliminating breeding sites), personal protection (repellent, clothing), and sexual precautions. Follow all government advisories during active outbreaks.

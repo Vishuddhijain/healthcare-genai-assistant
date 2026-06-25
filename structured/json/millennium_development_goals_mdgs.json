@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/millennium-development-goals-(mdgs)",
   "topic": "Millennium Development Goals (MDGs)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "19 February 2018",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -62,6 +62,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What were the health-related Millennium Development Goals (MDGs) for India?",
+        "answer": "Key health MDGs for India: reducing child mortality (under-5 deaths) by two-thirds, reducing maternal mortality by three-quarters, halting/reversing HIV/AIDS, malaria, and TB. India made significant progress but did not fully achieve all targets by 2015."
+      },
+      {
+        "question": "What replaced the MDGs after 2015?",
+        "answer": "The Sustainable Development Goals (SDGs) — 17 goals adopted by all UN member states for 2030 — replaced the MDGs. SDG 3 (Good Health and Well-Being) has specific health targets including universal health coverage, reducing maternal and child deaths, and ending AIDS, TB, and malaria."
+      },
+      {
+        "question": "How does India track its SDG health progress?",
+        "answer": "NITI Aayog publishes India's SDG Index annually, ranking states on their progress. Key health indicators tracked include infant mortality rate, maternal mortality ratio, TB incidence, and health insurance coverage. India's health SDG performance varies significantly across states."
+      },
+      {
+        "question": "What can ordinary citizens do to support SDG health goals in India?",
+        "answer": "Vaccinate your children. Seek antenatal care. Use government health services. Avoid antibiotic misuse. Support healthcare workers. Vote for health-promoting policies. Demand accountability from elected officials on health spending and outcomes. Individual behaviour changes contribute to national health goals."
+      }
     ]
   }
 }

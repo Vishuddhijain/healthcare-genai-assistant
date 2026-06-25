@@ -1,5 +1,5 @@
 TOPIC: Echinococcosis
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/echinococcosis
 LAST UPDATED: 17 May 2021
 
@@ -96,3 +96,16 @@ Humans act as so-called accidental intermediate hosts in the sense that they acq
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is echinococcosis (hydatid disease) found in India?
+A: Yes. Cystic echinococcosis (caused by Echinococcus granulosus) occurs in India, particularly in sheep and cattle-herding communities in states like Rajasthan, Gujarat, Himachal Pradesh, and Jammu & Kashmir. Human cases are reported but underdiagnosed.
+
+Q: How do people get echinococcosis?
+A: Humans are infected by accidentally ingesting eggs of Echinococcus tapeworm shed in dog faeces. This happens through contaminated water, food, or soil, or by touching dogs that have eaten infected sheep organs and not washing hands afterwards.
+
+Q: What are the symptoms of hydatid (echinococcal) cyst?
+A: Cysts grow slowly over years, usually in the liver (70%) or lungs (20%). Symptoms depend on cyst size and location: abdominal pain, cough, allergic reactions if cyst leaks. Many cysts are discovered incidentally on ultrasound. A ruptured cyst causes severe allergic shock â emergency.
+
+Q: How is echinococcosis prevented?
+A: Wash hands thoroughly after contact with dogs, especially before eating. Do not allow dogs to eat raw sheep or cattle organs. Deworm dogs regularly. Cook meat thoroughly. Wash fruits and vegetables well. Regular deworming of livestock-herding dogs is a key public health measure.

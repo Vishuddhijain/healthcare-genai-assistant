@@ -4,7 +4,7 @@
   "source_name": "WHO Healthy Diet Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
   "topic": "Nutrition and Preventive Health",
-  "category": "Wellness / Preventive Care",
+  "category": "Public Health / Preventive Care",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -103,6 +103,24 @@
       "Cancer screening (oral, cervical, breast) for eligible age groups",
       "Find your nearest HWC: nhp.gov.in or call Ayushman Bharat helpline: 14555",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "How much water should I drink daily in India's climate?",
+        "answer": "Adults should drink 2-3 litres (8-10 glasses) of water daily, more in hot weather, during physical activity, or if ill. Drink before feeling thirsty — thirst is a late indicator of dehydration. Water is the best drink — avoid sugary sodas and excessive tea/coffee."
+      },
+      {
+        "question": "Is eating rice every day unhealthy?",
+        "answer": "Rice is fine as part of a balanced diet. The issue is portion size and accompaniments — large quantities of white rice with little protein, vegetables, or pulses leads to nutritional imbalance. Balance rice with dal, vegetables, curd, and seasonal fruits. Brown or hand-pounded rice retains more nutrients."
+      },
+      {
+        "question": "What is the single most important dietary change for better health?",
+        "answer": "Most Indians benefit most from: eating more vegetables and fruits (aim for 5 portions/day), reducing salt (use less than 5g/day), and reducing ultra-processed snack foods. These three changes address India's biggest nutritional challenges simultaneously."
+      },
+      {
+        "question": "How do I know if I am eating a healthy diet?",
+        "answer": "A healthy Indian diet includes: whole grains (atta chapati, brown rice), plenty of dal/pulses, diverse seasonal vegetables, fruits, curd, and limited oil, salt, and sugar. The plate should be colourful — variety ensures micronutrient coverage. Consult a registered dietitian for personalised guidance."
+      }
     ]
   }
 }

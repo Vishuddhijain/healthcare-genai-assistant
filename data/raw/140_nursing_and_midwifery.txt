@@ -1,5 +1,5 @@
 TOPIC: Nursing and midwifery
-CATEGORY: Health Workforce
+CATEGORY: Health Systems
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/nursing-and-midwifery
 LAST UPDATED: 17 July 2025
 
@@ -60,3 +60,16 @@ The SDNM comprises four policy focus areas: education, jobs, leadership, and ser
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the role of ASHA workers and ANMs in India's health system?
+A: ASHAs (Accredited Social Health Activists) are community health workers who serve as the link between communities and government health services — they promote health, mobilise people for services, and provide basic care. ANMs (Auxiliary Nurse Midwives) provide primary healthcare including maternal care, immunisation, and family planning at sub-centre level.
+
+Q: How do I become a nurse or midwife in India?
+A: After Class 12 (PCB), complete a B.Sc. Nursing (4 years) or GNM (General Nursing and Midwifery — 3.5 years) diploma from an Indian Nursing Council (INC) approved institution. Register with the State Nursing Council to practice. Midwifery specialisation is available post-basic.
+
+Q: What shortage of nurses exists in India?
+A: India has a significant nurse shortage — approximately 1.7 nurses per 1,000 population, far below WHO recommended 3 per 1,000. Rural areas are particularly underserved. The government has expanded nursing education capacity and offered rural posting incentives, but gaps remain.
+
+Q: What rights do patients have regarding nursing care in India?
+A: Patients have the right to be treated with dignity and respect, to receive adequate nursing care, to be informed about their care, and to have privacy maintained. Grievances can be reported to the hospital superintendent or State Nursing Council.

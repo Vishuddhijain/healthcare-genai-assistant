@@ -1,5 +1,5 @@
 TOPIC: Mental Disorders (Overview)
-CATEGORY: Mental Health (Non-Communicable)
+CATEGORY: Mental Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/mental-disorders | NIMHANS - nimhans.ac.in
 LAST UPDATED: 2024
 
@@ -108,3 +108,16 @@ This information is for health awareness only. Mental disorders are treatable me
 
 --- WHEN TO SEE A DOCTOR ---
 - Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How common are mental health conditions in India?
+A: Approximately 10.6% of adults in India have a mental health condition (National Mental Health Survey 2016). Depression and anxiety are most common. Despite this, only 20-30% receive any treatment — the treatment gap is enormous due to stigma, lack of awareness, and shortage of mental health professionals.
+
+Q: Are mental health conditions treatable?
+A: Yes. Most mental health conditions are treatable. Depression responds well to therapy and medication. Schizophrenia, bipolar disorder, and anxiety can be managed effectively. Recovery is possible. The key is early diagnosis and consistent treatment — not giving up.
+
+Q: Are mental health services free in India?
+A: Free psychiatric outpatient services are available at all government district hospitals and medical colleges. Tele MANAS (14416) provides free 24/7 telephone mental health support. The National Mental Health Programme funds district-level mental health services across India.
+
+Q: What is the difference between a psychiatrist, psychologist, and counsellor?
+A: Psychiatrist: Medical doctor who can prescribe medication and provide therapy for mental health conditions. Psychologist: Non-medical professional with psychology degree providing therapy and assessment; cannot prescribe medicines in India. Counsellor: Provides supportive talk therapy for milder issues. All three have important roles.

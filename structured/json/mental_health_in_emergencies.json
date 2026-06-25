@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-in-emergencies",
   "topic": "Mental Health in Emergencies",
-  "category": "Mental Health / Disaster Response",
+  "category": "Mental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -88,6 +88,24 @@
       "Tele-MANAS (14416 / 1800-891-4416): 24x7 free helpline, especially valuable during/after disasters when in-person services may be disrupted",
       "NIMHANS has developed disaster mental health response protocols and training materials",
       "After major disasters (e.g. Kerala floods, Cyclone Amphan), state governments have deployed MHPSS teams to relief camps"
+    ],
+    "faqs": [
+      {
+        "question": "How do disasters like floods affect mental health in India?",
+        "answer": "Disasters cause acute stress reactions, grief, post-traumatic stress disorder (PTSD), depression, and anxiety. Displacement, loss of livelihoods, and community disruption compound mental health burden. Mental health support is an integral part of disaster response in India."
+      },
+      {
+        "question": "What mental health support is available during disasters in India?",
+        "answer": "NIMHANS, government psychiatric teams, and trained counsellors are deployed during major disasters. Tele MANAS (14416) operates 24/7 including during emergencies. NDMA guidelines include psychosocial support as part of disaster response protocols."
+      },
+      {
+        "question": "Is it normal to feel extremely distressed after a disaster?",
+        "answer": "Yes. Fear, sadness, grief, anger, and sleep disturbance are normal responses to abnormal events. Most people recover naturally with time and community support. Seek professional help if distress is severe, persistent beyond 4 weeks, or significantly interferes with daily functioning."
+      },
+      {
+        "question": "How can community members support each other's mental health after a disaster?",
+        "answer": "Be present and listen actively. Share accurate information to counter rumours. Help with practical needs (food, shelter, connectivity). Reconnect people with family and community. Identify those showing severe distress and link them to mental health services. Social support is among the most powerful recovery factors."
+      }
     ]
   }
 }

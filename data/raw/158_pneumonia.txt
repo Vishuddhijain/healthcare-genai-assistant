@@ -1,5 +1,5 @@
 TOPIC: Pneumonia
-CATEGORY: Communicable Disease / Respiratory Infection / Child Health
+CATEGORY: Communicable Disease / Respiratory
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/pneumonia | NHP India | UNICEF | NHM India
 LAST UPDATED: 2024
 
@@ -146,6 +146,7 @@ In adults/elderly:
 - ASHA workers trained to recognise danger signs (fast breathing, chest indrawing) and refer children promptly
 - Ayushman Bharat PM-JAY covers hospitalisation for severe pneumonia at empanelled hospitals
 - Oxygen availability: Strengthened at PHCs and CHCs following COVID-19 pandemic, improving pneumonia care access in rural areas
+- For free treatment of pneumonia at government hospitals, call 104. PCV vaccine is free under India's UIP — contact your nearest PHC or Anganwadi centre. Emergency breathing difficulty: 112.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is pneumonia contagious?

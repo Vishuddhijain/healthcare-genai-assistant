@@ -1,5 +1,5 @@
 TOPIC: Bone Health — Osteoporosis and Calcium Deficiency
-CATEGORY: Non-Communicable Disease (Musculoskeletal / Metabolic Bone Disease)
+CATEGORY: Non-Communicable Disease / Musculoskeletal
 SOURCE: WHO + IOF + NHP India + ICMR - https://www.who.int/news-room/fact-sheets/detail/osteoporosis | nhp.gov.in | iofbonehealth.org
 LAST UPDATED: 2024
 
@@ -173,3 +173,16 @@ This information is for health awareness only. Do not self-supplement with high-
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How much calcium do I need daily and what foods provide it?
+A: Adults need 1000 mg of calcium per day (1200 mg after age 50). Best sources: milk (300 mg per cup), curd (yogurt, 150-200 mg per cup), paneer, ragi (finger millet â excellent plant source), sesame seeds, and fish with bones. Most Indians consume far less than recommended.
+
+Q: Is osteoporosis only a women's problem?
+A: No. While women have higher risk (especially after menopause), 1 in 5 men over 50 will have an osteoporotic fracture. Men are often underdiagnosed because osteoporosis is mistakenly seen as a women's disease. Men with risk factors should get bone density testing.
+
+Q: Does sunlight really help bones? How much exposure do I need?
+A: Yes. Sunlight triggers Vitamin D production in skin, which is essential for calcium absorption. 15-20 minutes of morning sunlight (before 10 AM) on arms and legs is sufficient for most Indians. However, despite India's sunshine, Vitamin D deficiency is almost universal due to indoor lifestyles and clothing coverage.
+
+Q: Can I reverse osteoporosis through diet and exercise alone?
+A: Diet and exercise help maintain bone density and slow loss, but cannot fully reverse established osteoporosis. Medical treatment (bisphosphonates, calcium, Vitamin D supplements) prescribed by a doctor is needed for diagnosed osteoporosis. Start preventive measures early â bone is best built before age 30.

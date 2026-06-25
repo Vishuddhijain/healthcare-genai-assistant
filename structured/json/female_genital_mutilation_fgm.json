@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation",
   "topic": "Female Genital Mutilation (FGM)",
-  "category": "Gender-Based Violence / Reproductive Health / Human Rights",
+  "category": "Reproductive Health / Gender Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -82,6 +82,20 @@
       "Existing laws (POCSO, IPC) can be applied to prosecute FGM on minors.",
       "NGOs like Sahiyo (sahiyo.com) work to end FGM in India and globally.",
       "Childline 1098: Report if a child is at risk."
+    ],
+    "faqs": [
+      {
+        "question": "Is FGM required by Islam or any other religion?",
+        "answer": "No. FGM is not required by Islam, Christianity, or any other religion. It is a cultural practice, not a religious obligation. Many Islamic scholars have stated that FGM has no basis in Islamic law."
+      },
+      {
+        "question": "Can FGM be reversed?",
+        "answer": "Surgical defibulation (for Type III) can open the vaginal closure and reduce complications, but FGM damage cannot be fully reversed. Prevention is essential."
+      },
+      {
+        "question": "What should I do if I know a girl at risk of FGM?",
+        "answer": "In India, contact Childline 1098 or local police. Healthcare professionals have a duty to report if they believe a child is at risk. You can also contact Sahiyo (sahiyo.com) for support."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/sugars-and-dental-caries",
   "topic": "Sugars and dental caries",
-  "category": "Preventive Care and Wellness",
+  "category": "Public Health / Preventive Care",
   "last_updated": "14 August 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -65,6 +65,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How does sugar cause tooth decay?",
+        "answer": "Bacteria in the mouth (Streptococcus mutans) ferment sugars and produce acids that dissolve tooth enamel, causing cavities (caries). Frequency of sugar exposure matters more than total amount — eating sugary snacks throughout the day continuously exposes teeth to acid. Sipping sweet drinks all day is particularly harmful."
+      },
+      {
+        "question": "Which sugary foods and drinks are worst for teeth?",
+        "answer": "Sticky sweets (toffees, gummies, mithai with sticky consistency), sugary drinks sipped slowly (cola, juice, tea/coffee with sugar), biscuits and crackers that stick to teeth, and dried fruits (raisins, dates). The stickier the food and the longer it stays on teeth, the more harmful it is."
+      },
+      {
+        "question": "Can adults get tooth decay or is it only a child's problem?",
+        "answer": "Adults can get tooth decay at any age, especially root caries (gum recession exposes roots). Adults on medications causing dry mouth are particularly vulnerable. Good oral hygiene, fluoride toothpaste, and limiting sugary food and drinks protects against caries throughout life."
+      },
+      {
+        "question": "Is fluoride toothpaste safe?",
+        "answer": "Yes. Fluoride toothpaste (with 1000-1500 ppm fluoride for adults; 500-1000 ppm for children under 6) is safe and effective at preventing tooth decay. Use a pea-sized amount for children. Do not swallow toothpaste. WHO and dental associations globally recommend fluoride toothpaste as the single most effective decay-prevention tool."
+      }
     ]
   }
 }

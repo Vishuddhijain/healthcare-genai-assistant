@@ -75,6 +75,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is African sleeping sickness found in India?",
+        "answer": "Human African Trypanosomiasis (HAT or sleeping sickness) is found only in sub-Saharan Africa and is transmitted by tsetse flies, which are not present in India. India is not at risk for indigenous transmission. Cases in India would be extremely rare imported infections."
+      },
+      {
+        "question": "What are the symptoms of sleeping sickness?",
+        "answer": "Stage 1 (haemolymphatic): Fever, headache, joint pain, itching, swollen lymph nodes. Stage 2 (neurological): Confusion, sensory disturbances, sleep cycle disruption (sleeping during day, awake at night — hence the name), personality changes, and coma if untreated."
+      },
+      {
+        "question": "How is sleeping sickness treated?",
+        "answer": "Treatment differs by stage and parasite species. First-line drugs include pentamidine (stage 1 gambiense) and fexinidazole (oral, stage 1 and 2 gambiense). Without treatment, sleeping sickness is fatal. WHO has been supporting elimination efforts — the disease burden has declined dramatically."
+      },
+      {
+        "question": "Why is awareness about HAT important in India?",
+        "answer": "India receives travellers and workers from Africa. Healthcare providers should consider HAT in patients with unexplained fever, neurological symptoms, and lymphadenopathy who have lived or worked in sub-Saharan Africa. Contact the nearest medical college's infectious disease department for evaluation."
+      }
     ]
   }
 }

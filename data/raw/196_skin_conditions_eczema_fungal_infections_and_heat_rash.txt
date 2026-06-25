@@ -1,5 +1,5 @@
 TOPIC: Skin Conditions — Eczema, Fungal Infections, and Heat Rash
-CATEGORY: Non-Communicable / Communicable Disease (Dermatology)
+CATEGORY: Non-Communicable Disease / Skin
 SOURCE: WHO + NHP India + IADVL - https://nhp.gov.in/disease/skin-disease | www.who.int/news-room/fact-sheets
 LAST UPDATED: 2024
 
@@ -142,6 +142,7 @@ Urticaria (Hives):
 - IADVL (Indian Association of Dermatologists, Venereologists and Leprologists) has issued national guidelines and campaigns on appropriate antifungal use
 - Free dermatology OPDs at government medical college hospitals and district hospitals
 - Tele-dermatology services increasingly available via eSanjeevani (esanjeevani.mohfw.gov.in)
+- For dermatology consultation at government hospitals, call 104. PM-JAY covers hospitalisation for severe skin conditions: 14555.
 
 --- IMPORTANT SAFETY NOTE ---
 This information is for health awareness only. Do not self-diagnose skin conditions or apply any cream — especially steroid-containing creams — without a qualified doctor's prescription. Many skin conditions look similar but require different treatments; incorrect treatment can worsen the condition or cause lasting skin damage.
@@ -172,3 +173,16 @@ This information is for health awareness only. Do not self-diagnose skin conditi
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is eczema curable?
+A: Atopic eczema (the most common type) is a chronic condition — it cannot be permanently cured but can be very well managed. Most children improve significantly with age. Avoiding triggers (certain soaps, detergents, wool, sweat), regular moisturising, and prescribed treatments (topical corticosteroids for flares) keep eczema controlled.
+
+Q: What is the difference between eczema and psoriasis?
+A: Both cause skin inflammation but differ: Eczema is intensely itchy, commonly affects skin folds (behind knees, inside elbows), often starts in childhood, associated with allergies. Psoriasis causes silver-scaled plaques on elbows, knees, scalp; less itchy; associated with joint disease in some patients. Both are manageable chronic conditions.
+
+Q: How do I treat heat rash (prickly heat/miliaria) in Indian summers?
+A: Heat rash resolves by cooling the skin: wear loose, light cotton clothing, stay in cool/shaded areas, take cool showers, apply calamine lotion for itching relief. Avoid heavy creams or oils (block sweat glands). Severe or infected heat rash needs a doctor's evaluation.
+
+Q: Are antifungal powders effective for fungal infections in India's humid climate?
+A: Antifungal powders help prevent fungal infections in skin folds by reducing moisture. However, for established infections (ringworm, intertrigo), antifungal creams or tablets prescribed by a doctor are more effective. Keep skin folds dry, wear breathable cotton, and treat promptly — fungal infections spread if neglected.

@@ -1,5 +1,5 @@
 TOPIC: Plague
-CATEGORY: Communicable Disease / Zoonotic Disease / Emergency Awareness
+CATEGORY: Communicable Disease / Zoonotic
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/plague | NCDC India | NHP India
 LAST UPDATED: 2024
 
@@ -128,6 +128,7 @@ Pneumonic plague specific:
 - NCDC (National Centre for Disease Control) and NIV Pune: Reference laboratories for plague diagnosis
 - Plague-endemic foci (areas where the bacteria persists in rodent populations) exist in parts of India — ongoing rodent surveillance is part of public health monitoring
 - Reporting: Any suspected case must be reported immediately to district health authorities under IDSP
+- Report suspected plague cases immediately to NVBDCP or local health authorities. National Health Helpline: 104. Emergency: 112.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is plague still a threat in India today?

@@ -71,3 +71,16 @@ White phosphorus is used for military purposes in grenades and artillery shells 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is white phosphorus and why is it a health concern?
+A: White phosphorus is a toxic, flammable chemical used in industrial applications and military munitions. It causes severe burns that are unique — they continue burning as long as oxygen is available. It also causes severe systemic toxicity affecting the liver, kidneys, and cardiovascular system.
+
+Q: What are the health effects of white phosphorus exposure?
+A: Contact burns that are extremely painful and difficult to extinguish, deep tissue destruction even from small exposures, 'phossy jaw' (jaw necrosis) from occupational chronic exposure in match factories (historically), and fatal systemic toxicity if absorbed in sufficient quantities.
+
+Q: What first aid should I give for a white phosphorus burn?
+A: Keep the affected area under water or wet cloth — this prevents oxygen contact and stops burning. Remove all contaminated clothing under water. Do NOT let the wound dry. Seek emergency care immediately — call 112. Remove visible particles under water using tweezers (do not touch with bare hands).
+
+Q: What industrial settings in India might expose workers to white phosphorus?
+A: Phosphorus compound manufacturing, fireworks and match manufacturing, and certain chemical industries. Workers must use full PPE — face shields, gloves, protective suits. Report any chemical exposure immediately to occupational health services.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/newborns-reducing-mortality",
   "topic": "Newborn mortality",
-  "category": "Child Health",
+  "category": "Maternal and Child Health / Child Health",
   "last_updated": "14 March 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -63,6 +63,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What causes most newborn deaths in India?",
+        "answer": "Leading causes: prematurity and low birth weight (35%), infections (sepsis, pneumonia, meningitis — 33%), birth asphyxia (suffocation at birth — 20%), and congenital malformations. 75% of under-5 deaths occur in the first 4 weeks (neonatal period) — this is when care is most critical."
+      },
+      {
+        "question": "What are the danger signs in a newborn that require emergency care?",
+        "answer": "Seek emergency care immediately if a newborn has: fast or difficult breathing, convulsions, unable to feed, fever (temperature above 38°C or below 36°C), jaundice appearing in first 24 hours or becoming severe, or is very lethargic. Do not wait."
+      },
+      {
+        "question": "What free newborn care is available in India?",
+        "answer": "Janani Shishu Suraksha Karyakram (JSSK) provides free delivery and newborn care at government hospitals including free treatment, medicines, diet, and transport. Special Newborn Care Units (SNCUs) and Newborn Care Corners in government hospitals manage sick newborns free of charge."
+      },
+      {
+        "question": "How can I protect my newborn during the first month of life?",
+        "answer": "Initiate breastfeeding within 1 hour of birth (colostrum is the baby's first vaccine). Keep the newborn warm (Kangaroo Mother Care for small babies). Ensure all newborn vaccines are given. Keep the umbilical cord clean and dry. Recognise danger signs and seek immediate care."
+      }
     ]
   }
 }

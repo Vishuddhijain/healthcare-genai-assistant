@@ -1,5 +1,5 @@
 TOPIC: ICD-11
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/icd-11
 LAST UPDATED: 10 February 2022
 
@@ -77,3 +77,16 @@ For the first time, ICD is fully electronic, currently providing access to 17 00
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is ICD-11 and why is it important for patients?
+A: ICD-11 (International Classification of Diseases, 11th Revision) is WHO's global standard for classifying diseases, health conditions, and causes of death. It matters for patients because it determines how conditions are coded for insurance claims, hospital records, and public health statistics in India.
+
+Q: Did ICD-11 change the classification of any major conditions?
+A: Yes. ICD-11 reclassified gender incongruence from a mental disorder to a condition of sexual health. Gaming disorder was added as a new condition. Burnout was formally defined as an occupational phenomenon. These changes reduce stigma and improve health system responses.
+
+Q: When did India adopt ICD-11?
+A: India has been transitioning to ICD-11 implementation from January 2022 (WHO's global implementation date). Healthcare providers and insurance companies in India are adopting the new coding system progressively.
+
+Q: How does ICD-11 affect health insurance claims in India?
+A: Insurance companies use ICD codes to process claims. ICD-11 introduces more precise codes, which may affect claim processing. Patients should ensure their diagnosis documentation uses correct ICD codes. Contact your insurer if you face claim issues related to coding.

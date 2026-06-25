@@ -1,5 +1,5 @@
 TOPIC: Trichomoniasis
-CATEGORY: Sexual Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/trichomoniasis
 LAST UPDATED: 21 November 2025
 
@@ -69,3 +69,16 @@ Correct and consistent use of condoms during sex can prevent trichomoniasis.
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is trichomoniasis and is it common in India?
+A: Trichomoniasis (trich) is the most common curable STI globally, caused by the parasite Trichomonas vaginalis. It is very common in India but significantly underdiagnosed due to limited testing and stigma. It increases susceptibility to HIV and is associated with preterm birth in pregnant women.
+
+Q: What are the symptoms of trichomoniasis?
+A: In women: itching, burning, redness, and frothy yellow-green vaginal discharge with a fishy odour. In men: most are asymptomatic, but some have penile irritation or discharge. About 70% of infected people have no symptoms — transmission from asymptomatic carriers is common.
+
+Q: How is trichomoniasis treated?
+A: Trichomoniasis is fully curable with a single dose of metronidazole or tinidazole. Both sexual partners must be treated simultaneously — treating only one partner leads to reinfection. Free testing and treatment at government ICTCs. Do not drink alcohol while taking metronidazole.
+
+Q: Can trichomoniasis affect pregnancy?
+A: Yes. Trichomoniasis in pregnancy is associated with preterm birth and low birth weight. Pregnant women with symptoms should be tested and treated. Metronidazole is safe in pregnancy after the first trimester. This is another reason why STI testing as part of antenatal care is important.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/gonorrhoea-(neisseria-gonorrhoeae-infection)",
   "topic": "Gonorrhoea and Sexually Transmitted Infections (STIs)",
-  "category": "Communicable / Sexually Transmitted Infection",
+  "category": "Communicable Disease / STI",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -100,6 +100,24 @@
       "NACO STI helpline: 1097 (confidential)",
       "Condoms available free from ASHA workers and government hospitals.",
       "Multi-drug resistant gonorrhoea cases are being reported in India — underscoring the need to avoid self-medication."
+    ],
+    "faqs": [
+      {
+        "question": "Can gonorrhoea go away on its own without treatment?",
+        "answer": "No. Gonorrhoea does not resolve on its own. Without treatment, it causes serious complications (infertility, PID) and continues to spread to others."
+      },
+      {
+        "question": "If I have no symptoms, do I still need to get tested?",
+        "answer": "Yes. Many people — especially women — have no symptoms. If you have had unprotected sex, testing is important. Untreated asymptomatic gonorrhoea still causes complications and spreads to partners."
+      },
+      {
+        "question": "Is gonorrhoea the same as a urinary tract infection?",
+        "answer": "No. Both cause burning urination but have different causes and treatments. Gonorrhoea is a bacterial STI. UTIs are usually caused by gut bacteria (E. coli) and are not sexually transmitted. A doctor's test differentiates them."
+      },
+      {
+        "question": "Will my doctor tell anyone I have gonorrhoea?",
+        "answer": "Gonorrhoea diagnosis is confidential. Healthcare providers may advise you to notify partners, but they will not disclose your identity to others."
+      }
     ]
   }
 }

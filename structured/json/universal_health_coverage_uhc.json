@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc)",
   "topic": "Universal health coverage (UHC)",
-  "category": "Government Schemes / Health Systems",
+  "category": "Government Health Schemes",
   "last_updated": "5 December 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -52,6 +52,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is Universal Health Coverage (UHC) and does India have it?",
+        "answer": "UHC means all people can access quality health services without financial hardship. India has made significant progress with PM-JAY, HWCs, and government hospitals, but full UHC is not yet achieved — gaps remain in coverage, quality, and financial protection, especially for the middle class and informal sector."
+      },
+      {
+        "question": "What should I do if I cannot afford healthcare in India?",
+        "answer": "Check PM-JAY eligibility at pmjay.gov.in (covers poorest 40%). Use government hospitals (free basic care). Jan Aushadhi Kendras for cheap medicines. Rashtriya Arogya Nidhi for serious illness in BPL patients. State government schemes (Aarogyasri, Karunya, Biju Swasthya Kalyan Yojana). Call 104 for health guidance."
+      },
+      {
+        "question": "Is the out-of-pocket expenditure for healthcare high in India?",
+        "answer": "Yes, significantly. India has one of the highest out-of-pocket health expenditure rates in the world — approximately 55% of total health expenditure is paid directly by patients. This causes financial catastrophe for 5-7% of Indian households annually. PM-JAY and UHC expansion aim to reduce this."
+      },
+      {
+        "question": "How does India compare to other countries on UHC?",
+        "answer": "India's UHC Service Coverage Index (SCI) has improved significantly but remains below the global median. Countries like Thailand and Sri Lanka (with lower GDPs) have achieved stronger UHC. India's healthcare spending as % of GDP (1.2-1.5%) is among the lowest — increased public investment is essential for UHC."
+      }
     ]
   }
 }

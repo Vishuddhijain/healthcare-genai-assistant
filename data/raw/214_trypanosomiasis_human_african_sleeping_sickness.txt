@@ -84,3 +84,16 @@ Tsetse flies inhabit sub-Saharan Africa and only certain species transmit the di
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is African sleeping sickness found in India?
+A: Human African Trypanosomiasis (HAT or sleeping sickness) is found only in sub-Saharan Africa and is transmitted by tsetse flies, which are not present in India. India is not at risk for indigenous transmission. Cases in India would be extremely rare imported infections.
+
+Q: What are the symptoms of sleeping sickness?
+A: Stage 1 (haemolymphatic): Fever, headache, joint pain, itching, swollen lymph nodes. Stage 2 (neurological): Confusion, sensory disturbances, sleep cycle disruption (sleeping during day, awake at night — hence the name), personality changes, and coma if untreated.
+
+Q: How is sleeping sickness treated?
+A: Treatment differs by stage and parasite species. First-line drugs include pentamidine (stage 1 gambiense) and fexinidazole (oral, stage 1 and 2 gambiense). Without treatment, sleeping sickness is fatal. WHO has been supporting elimination efforts — the disease burden has declined dramatically.
+
+Q: Why is awareness about HAT important in India?
+A: India receives travellers and workers from Africa. Healthcare providers should consider HAT in patients with unexplained fever, neurological symptoms, and lymphadenopathy who have lived or worked in sub-Saharan Africa. Contact the nearest medical college's infectious disease department for evaluation.

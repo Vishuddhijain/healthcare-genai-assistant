@@ -1,5 +1,5 @@
 TOPIC: Menopause
-CATEGORY: Women's Health / Reproductive Health (Non-Communicable)
+CATEGORY: Reproductive Health / Women's Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/menopause
 LAST UPDATED: 2024
 
@@ -93,6 +93,7 @@ Physical changes:
 - Cultural stigma and lack of open discussion about menopause symptoms remain barriers to seeking care
 - Osteoporosis risk is compounded by widespread Vitamin D deficiency in India — bone health awareness important post-menopause
 - Government health facilities can provide gynaecological evaluation for postmenopausal bleeding and bone health screening (where DEXA available)
+- For gynaecological consultation at government hospitals, call 104. For mental health support during menopause, contact Tele MANAS: 14416 or iCall: 9152987821.
 
 --- IMPORTANT SAFETY NOTE ---
 This information is for health awareness only. Menopause is a natural transition, not a disease, but symptoms are manageable and long-term health risks (bone, heart) are important to address. Any bleeding after 12 months without periods must be evaluated by a doctor. Consult a qualified healthcare provider for personalised management.
@@ -105,3 +106,16 @@ This information is for health awareness only. Menopause is a natural transition
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the most common symptoms of menopause?
+A: Hot flushes (sudden heat sensation in upper body), night sweats, irregular periods (before they stop), vaginal dryness, sleep disturbance, mood changes (irritability, anxiety, depression), difficulty concentrating, and weight changes. Symptoms vary widely — some women have minimal impact, others have significant disruption.
+
+Q: At what age does menopause occur in Indian women?
+A: The average age of natural menopause in Indian women is 46-47 years — about 4-5 years earlier than Western women. Premature menopause (before 40) occurs in about 1% of women and should be evaluated by a gynaecologist.
+
+Q: Is hormone replacement therapy (HRT) safe?
+A: HRT is effective for managing severe menopausal symptoms. Safety depends on individual risk factors (age, cardiovascular health, cancer history). A gynaecologist will assess suitability. HRT is not suitable for everyone — do not start without medical evaluation.
+
+Q: What can I do to manage menopause symptoms naturally?
+A: Regular exercise (reduces hot flushes and mood changes), maintaining healthy weight, limiting alcohol and caffeine (worsen hot flushes), yoga and mindfulness (for mood and sleep), dietary calcium and Vitamin D for bone health, and vaginal lubricants for dryness. Discuss all options with a gynaecologist.

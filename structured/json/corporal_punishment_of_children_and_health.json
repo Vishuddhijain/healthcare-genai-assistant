@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/corporal-punishment-and-health",
   "topic": "Corporal punishment of children and health",
-  "category": "Injury and Violence Prevention",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "11 May 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -66,6 +66,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is hitting or beating children for discipline legal in India?",
+        "answer": "No. Section 17 of the Right to Education Act (RTE) 2009 prohibits corporal punishment in schools. The Juvenile Justice Act and POCSO Act also protect children from physical harm. Corporal punishment in schools is illegal â report violations to school authorities or district education offices."
+      },
+      {
+        "question": "How does corporal punishment affect a child's mental health?",
+        "answer": "Research consistently shows corporal punishment increases aggression, anxiety, depression, and low self-esteem in children. It damages the parent-child or teacher-child relationship and teaches children that violence is an acceptable problem-solving tool."
+      },
+      {
+        "question": "What are positive alternatives to physical discipline?",
+        "answer": "Positive parenting techniques include natural consequences, time-out, logical consequences, redirection, praising positive behaviour, and clear consistent rules. These are more effective than punishment and build healthier relationships. Parenting skill programmes are available at government Anganwadi and social welfare centres."
+      },
+      {
+        "question": "How do I report corporal punishment in my child's school?",
+        "answer": "Report to the school principal first. If unresolved, file a complaint with the District Education Officer or the State Child Rights Commission (SCPCR). You can also contact CHILDLINE at 1098 for guidance."
+      }
     ]
   }
 }

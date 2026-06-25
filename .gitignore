@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Chroma Vector DB
+chroma_db/
+
+# VS Code
+.vscode/
+
+# Evaluation output
+eval_results.json
+
+# ZIP files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db

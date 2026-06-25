@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/opioid-overdose",
   "topic": "Opioid overdose",
-  "category": "Emergency Awareness",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "29 August 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -68,6 +68,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is opioid overdose a problem in India?",
+        "answer": "Yes, and growing. India has significant opioid misuse — from pharmaceutical opioids (tramadol, codeine) and illicit sources. Punjab has been particularly affected by opioid addiction. Globally, 600,000 deaths per year are attributed to drug use, with opioids causing the majority."
+      },
+      {
+        "question": "What are the signs of opioid overdose?",
+        "answer": "Unconsciousness or unresponsiveness, slow/shallow/stopped breathing, pinpoint (very small) pupils, blue lips or fingernails, gurgling sounds. This is a medical emergency — call 112 immediately."
+      },
+      {
+        "question": "What is naloxone and is it available in India?",
+        "answer": "Naloxone is an opioid antidote that rapidly reverses opioid overdose. It is a life-saving medication. In India, naloxone injection is available at government hospitals. The government has been expanding access in high-burden states. Trained family members of people with opioid use disorder can learn to administer it."
+      },
+      {
+        "question": "Where can someone with opioid addiction get help in India?",
+        "answer": "Integrated Rehabilitation Centre for Addicts (IRCA) — government-run de-addiction centres. National Drug Dependence Treatment Centre (NDDTC) at AIIMS Delhi. State-run de-addiction centres. Vandrevala Foundation: 1860-2662-345 (24/7). iCall: 9152987821. Treatment is free at government de-addiction centres."
+      }
     ]
   }
 }

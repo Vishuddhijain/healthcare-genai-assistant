@@ -78,3 +78,16 @@ MERS-CoV is a zoonotic virus and dromedary camels are the primary reservoir. Inf
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has MERS-CoV occurred in India?
+A: India has not reported MERS-CoV cases, but given significant travel between India and the Arabian Peninsula, preparedness is maintained. Airport screening and health advisories are in place for travellers from affected regions.
+
+Q: How does MERS-CoV spread?
+A: MERS-CoV spreads from dromedary camels to humans (primary zoonotic source), and then through close contact with infected humans (respiratory droplets). Sustained human-to-human transmission has mainly occurred in hospital settings. It does not spread as easily as COVID-19.
+
+Q: What should I do if I develop fever and respiratory symptoms after visiting the Middle East?
+A: Inform the doctor about your travel history immediately. MERS-CoV should be considered in patients with pneumonia who have been in the Arabian Peninsula within 14 days. Isolate and avoid contact with others while seeking medical attention.
+
+Q: Is there a vaccine or treatment for MERS?
+A: There is no approved vaccine or specific antiviral treatment for MERS-CoV. Management is supportive care. Experimental vaccines are in development. Prevention in endemic areas: avoid contact with camels, do not consume raw camel milk or undercooked camel meat.

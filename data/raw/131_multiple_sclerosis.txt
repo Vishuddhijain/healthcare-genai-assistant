@@ -1,5 +1,5 @@
 TOPIC: Multiple sclerosis
-CATEGORY: Neurological Health
+CATEGORY: Non-Communicable Disease / Neurological
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/multiple-sclerosis
 LAST UPDATED: 7 August 2023
 
@@ -72,3 +72,16 @@ The causes of MS are not known but a family history of the disease may increase 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is multiple sclerosis (MS) and is it common in India?
+A: MS is a chronic autoimmune disease where the immune system attacks myelin (protective sheath of nerve fibres) in the brain and spinal cord. MS is less common in India than in Western countries — India has lower prevalence (possibly 2-3 per 100,000), but cases are increasing with better diagnosis.
+
+Q: What are the early symptoms of MS?
+A: Early symptoms: visual disturbance (optic neuritis — blurred vision or pain in one eye), tingling or numbness in limbs, muscle weakness, balance problems, fatigue, bladder or bowel problems, and cognitive difficulties. Symptoms often come and go (relapsing-remitting pattern) in early stages.
+
+Q: Is MS curable?
+A: There is no cure for MS. Disease-modifying therapies (DMTs) significantly slow progression and reduce relapses. Symptomatic treatment manages fatigue, spasticity, and pain. Physiotherapy and rehabilitation maintain function. MS Society of India (mssindia.org) provides support and resources.
+
+Q: How can a person with MS maintain quality of life in India?
+A: Follow prescribed DMT consistently, engage in regular physiotherapy, use assistive devices as needed, manage heat (heat worsens MS symptoms — stay cool), maintain social connections, join MS support groups, and manage mental health (depression is common in MS). MS Society India provides peer support.

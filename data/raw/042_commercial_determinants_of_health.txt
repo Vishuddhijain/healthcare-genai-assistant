@@ -1,5 +1,5 @@
 TOPIC: Commercial determinants of health
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/commercial-determinants-of-health
 LAST UPDATED: 21 March 2023
 
@@ -72,3 +72,16 @@ Commercial determinants of health are a key social determinant, and refer to the
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are commercial determinants of health?
+A: Commercial determinants of health are the private sector activities that influence people's health â marketing of tobacco, alcohol, ultra-processed food, and gambling. These industries profit from behaviours that harm health. Understanding this helps people make more informed choices.
+
+Q: How does food marketing affect children's health in India?
+A: Aggressive marketing of high-sugar, high-salt packaged foods targets children through TV ads, school promotions, and social media. This contributes to rising childhood obesity and lifestyle disease. FSSAI regulations aim to restrict misleading health claims on packaged foods.
+
+Q: How can I protect myself from harmful commercial influences on health?
+A: Read food labels (look for FSSAI licence, check sugar/salt content), be sceptical of health claims in advertisements, limit screen time for children, choose whole foods over ultra-processed products, and support regulation of harmful industry marketing.
+
+Q: Is tobacco industry marketing regulated in India?
+A: Yes. The COTPA Act (Cigarettes and Other Tobacco Products Act) bans tobacco advertising in India. Graphic health warnings must cover 85% of cigarette packaging. However, surrogate advertising (through pan masala brands etc.) remains a challenge.

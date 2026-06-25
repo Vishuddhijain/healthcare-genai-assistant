@@ -75,6 +75,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Can I get rabies from a dog scratch (without bite)?",
+        "answer": "Yes. Rabies virus can be transmitted through scratches from infected animals if the scratch breaks the skin and is contaminated with saliva. Treat all scratches from potentially rabid animals as Category II or III exposure — wash thoroughly with soap and water for 15 minutes and go to a hospital for post-exposure prophylaxis assessment."
+      },
+      {
+        "question": "Is rabies PEP really free in India?",
+        "answer": "Yes. Rabies post-exposure prophylaxis (PEP) — including the vaccine course and Rabies Immunoglobulin (RIG) for Category III wounds — is free at all government hospitals and district hospitals in India. Never pay for rabies PEP at a government facility."
+      },
+      {
+        "question": "What if the dog that bit me was vaccinated?",
+        "answer": "Still go to a hospital. A doctor will assess the wound category and animal vaccination status and advise accordingly. If the vaccinated dog is healthy and can be observed for 10 days, PEP may be modified. Do not make this decision yourself — always get medical assessment."
+      },
+      {
+        "question": "Can rabies be treated once symptoms start?",
+        "answer": "Unfortunately, once rabies symptoms appear, it is almost universally fatal. Very rare 'Milwaukee Protocol' survivors exist but cannot be reliably replicated. This is why immediate post-exposure prophylaxis — before symptoms appear — is critical and life-saving. Never delay PEP."
+      }
     ]
   }
 }

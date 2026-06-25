@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/epilepsy",
   "topic": "Epilepsy",
-  "category": "Neurological / Non-Communicable Disease",
+  "category": "Non-Communicable Disease / Neurological",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -104,6 +104,24 @@
       "Epilepsy India: epilepsyindia.org — information and support.",
       "Neurocysticercosis prevention: Cook pork thoroughly, wash vegetables, improve sanitation.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is epilepsy hereditary?",
+        "answer": "Some forms of epilepsy have genetic components, but most cases are not directly inherited. Having epilepsy in the family does not mean you will get it."
+      },
+      {
+        "question": "Can a person die from a seizure?",
+        "answer": "Most seizures are not life-threatening. However, prolonged seizures (status epilepticus) and SUDEP (Sudden Unexpected Death in Epilepsy) are rare but real risks. Proper treatment significantly reduces these risks."
+      },
+      {
+        "question": "Can children with epilepsy go to school?",
+        "answer": "Yes. With proper seizure control, children with epilepsy should attend mainstream schools. Teachers should be informed about first aid for seizures."
+      },
+      {
+        "question": "Is it true you shouldn't put a spoon in someone's mouth during a seizure?",
+        "answer": "Correct — NEVER put anything in someone's mouth during a seizure. The \"swallowing tongue\" belief is a myth. Putting objects in the mouth causes injury."
+      }
     ]
   }
 }

@@ -51,6 +51,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What rights do persons with disabilities have in India?",
+        "answer": "The Rights of Persons with Disabilities Act (RPWD 2016) guarantees rights to education, employment, healthcare, social security, and non-discrimination. 21 categories of disability are recognised. The UDID card provides access to schemes and benefits. Contact your nearest District Disability Rehabilitation Centre (DDRC)."
+      },
+      {
+        "question": "What government schemes support persons with disabilities in India?",
+        "answer": "Key schemes: ADIP (free assistive devices), Scholarship schemes for students with disabilities, 4% reservation in government jobs, NIMHANS/NIMHR rehabilitation services, Deendayal Disabled Rehabilitation Scheme (DDRS), and PM-JAY health coverage. Contact district social welfare officer for details."
+      },
+      {
+        "question": "How do I get a disability certificate in India?",
+        "answer": "Apply at your district government hospital with a specialist panel (orthopaedic surgeon, psychiatrist, ENT etc. depending on disability type). The doctor certifies the type and percentage of disability. This certificate is required to access most disability benefits and schemes."
+      },
+      {
+        "question": "What is the Divyangjan scheme in India?",
+        "answer": "The Sugamya Bharat (Accessible India) Campaign and Divyangjan (Persons with Disabilities) schemes under the Ministry of Social Justice and Empowerment aim to improve accessibility of public spaces, transport, and government websites. Deendayal Disabled Rehabilitation Scheme provides grants to NGOs running disability services."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/alcohol",
   "topic": "Alcohol Use and Health",
-  "category": "Substance Use / Public Health / NCD Risk Factor",
+  "category": "Public Health / Substance Use",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -90,6 +90,24 @@
       "Drinking and driving is illegal in India (BAC limit 30 mg/100 ml blood).",
       "Many states have partial or full prohibition policies.",
       "Bootleg/illicit liquor is a serious hazard — hooch tragedies (mass poisoning from methanol-laced alcohol) occur periodically in India."
+    ],
+    "faqs": [
+      {
+        "question": "Is beer or wine safer than spirits?",
+        "answer": "No. All alcohol (beer, wine, spirits) contains ethanol — the same harmful substance. Risk depends on the total amount of alcohol consumed, not the type of drink."
+      },
+      {
+        "question": "Can I drink alcohol for heart health? I heard it is beneficial.",
+        "answer": "This is a myth. WHO states there is no safe level of alcohol. Any perceived cardiovascular benefit is outweighed by the increased cancer and other risks. Do not start drinking for health reasons."
+      },
+      {
+        "question": "Is it dangerous to suddenly stop drinking if I am dependent?",
+        "answer": "Yes. Sudden alcohol withdrawal in a dependent person can cause seizures, delirium, and death. Never stop abruptly without medical supervision. Seek doctor's help."
+      },
+      {
+        "question": "Can a person recover from alcohol dependence?",
+        "answer": "Yes. With proper medical treatment, counselling, and support, recovery is absolutely possible. Many people live alcohol-free, healthy lives after treatment."
+      }
     ]
   }
 }

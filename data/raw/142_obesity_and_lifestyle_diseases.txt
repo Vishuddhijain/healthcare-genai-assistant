@@ -1,5 +1,5 @@
 TOPIC: Obesity and Lifestyle Diseases
-CATEGORY: Non-Communicable Disease (Metabolic / Lifestyle)
+CATEGORY: Non-Communicable Disease / Lifestyle
 SOURCE: WHO Fact Sheet + NHP India + ICMR - https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight | nhp.gov.in/obesity
 LAST UPDATED: 2024
 
@@ -144,3 +144,16 @@ This information is for health awareness only. Obesity is a medical condition �
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is obesity a medical condition in India?
+A: Yes. Obesity (BMI above 30; or above 25 for Indians — as Indians develop health risks at lower BMI) is a chronic medical condition associated with diabetes, hypertension, heart disease, joint problems, and certain cancers. It requires medical assessment and management, not just willpower.
+
+Q: What is the best diet for weight loss in India?
+A: There is no single best diet. Evidence-based approaches include: reducing portion sizes, replacing refined grains with whole grains, increasing vegetable and pulse consumption, eliminating sugary drinks, limiting fried/processed food, and maintaining consistent meal times. A registered dietitian can provide a culturally appropriate plan.
+
+Q: Is bariatric (weight loss) surgery available in India?
+A: Yes. Bariatric surgery (sleeve gastrectomy, gastric bypass) is available at government medical colleges and private hospitals. It is considered for those with BMI above 37.5 (or 32.5 with serious comorbidities) who have not responded to other treatments. PM-JAY covers bariatric surgery at empanelled hospitals in some states.
+
+Q: Can childhood obesity be reversed?
+A: Yes. Unlike adult obesity, childhood obesity can often be reversed through family-based lifestyle changes — increased physical activity, reducing screen time, and healthier eating patterns. Early intervention is crucial. Consult a paediatrician for guidance — avoid restrictive dieting in children.

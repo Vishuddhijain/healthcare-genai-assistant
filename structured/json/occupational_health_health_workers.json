@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/occupational-health--health-workers",
   "topic": "Occupational health: health workers",
-  "category": "Health Workforce / Occupational Health",
+  "category": "Health Systems / Occupational Health",
   "last_updated": "7 November 2022",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -63,6 +63,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the most common occupational health risks for healthcare workers in India?",
+        "answer": "Healthcare workers face: needlestick injuries (risk of Hepatitis B, Hepatitis C, HIV), musculoskeletal injuries from patient handling, burnout and mental health problems, tuberculosis exposure, biological hazard exposure, and radiation (for X-ray technicians). Proper PPE and training reduce these risks."
+      },
+      {
+        "question": "Am I entitled to compensation for a work-related injury in India?",
+        "answer": "Yes. The Employees' Compensation Act 2010 entitles workers to compensation for work-related injury or occupational disease. Healthcare workers are specifically protected. Contact your employer's HR department or the Employee Compensation Commissioner for claims."
+      },
+      {
+        "question": "What should I do if I have a needlestick injury at work?",
+        "answer": "Wash the site immediately with soap and water for 10+ minutes. Report to your occupational health nurse or doctor immediately. HIV post-exposure prophylaxis (PEP) must start within 72 hours. Testing for Hepatitis B, C, and HIV should be done. All government hospitals should have a needlestick protocol."
+      },
+      {
+        "question": "Is occupational health regulated in India?",
+        "answer": "The Factories Act 1948 mandates occupational health and safety for factory workers. Specific rules under the Occupational Safety, Health and Working Conditions Code 2020 cover various sectors. Healthcare workers are protected under respective state health service rules and the Epidemic Diseases Act (amended 2020) against violence."
+      }
     ]
   }
 }

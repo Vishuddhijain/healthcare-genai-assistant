@@ -1,5 +1,5 @@
 TOPIC: Substandard and falsified medical products
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/substandard-and-falsified-medical-products
 LAST UPDATED: 3 December 2024
 
@@ -82,3 +82,16 @@ Both substandard and falsified medical products put patients’ health at risk, 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Are fake medicines a problem in India?
+A: Yes. Substandard and falsified (counterfeit) medical products are a significant problem in India — particularly for antibiotics, antimalarials, antihypertensives, and lifestyle drugs (erectile dysfunction, weight loss). They cause treatment failure, drug resistance, and death.
+
+Q: How can I verify if medicine is genuine?
+A: Buy only from licensed pharmacies. Look for proper labeling: manufacturer name, manufacturing and expiry date, batch number, CDSCO registration number, and MRP. Use the 'Drugs Verify App' or scan the barcode on medicines covered under track-and-trace systems. Check for FSSAI or CDSCO approval.
+
+Q: What are the signs of a fake medicine?
+A: Unusually low price, poor packaging quality (spelling errors, blurry printing, poor seal), incorrect labeling, crumbling tablets, unusual smell or colour, and from an unverified source. When in doubt, do not use the medicine and report to CDSCO.
+
+Q: How do I report a suspected counterfeit medicine in India?
+A: Report to CDSCO (Central Drugs Standard Control Organisation) at cdsco.gov.in, State Drug Controller, or through the Pharmacovigilance Programme of India (PvPI). Keep the sample and packaging. Also report to the pharmacy/manufacturer.

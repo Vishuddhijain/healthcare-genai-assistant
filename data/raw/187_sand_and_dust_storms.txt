@@ -65,3 +65,16 @@ There is a wealth of scientific evidence on associations between desert dust and
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do sand and dust storms affect health?
+A: Dust storms expose people to PM10 and PM2.5 particulate matter, bacteria, fungi, and toxic minerals. Health effects: respiratory irritation and aggravation of asthma and COPD, eye irritation, allergic reactions, and in severe cases, valley fever (in areas with Coccidioides spores). Dust also carries meningococcal bacteria in Africa (meningitis belt).
+
+Q: Are dust storms common in India?
+A: Yes. North and northwestern India (Rajasthan, UP, Delhi NCR, Punjab, Haryana) experience severe dust storms (aandhi) in pre-monsoon season (April-June). These can be sudden and intense, with AQI reaching hazardous levels within minutes.
+
+Q: How can I protect myself during a dust storm?
+A: Stay indoors and close windows and doors immediately. Seal gaps with wet towels if storm is severe. Cover mouth and nose with N95 mask or damp cloth if outdoors. Protect eyes with goggles. Avoid driving in dust storms. Those with respiratory or heart conditions should take extra precautions and have reliever medications accessible.
+
+Q: How do I know when a dust storm is coming?
+A: IMD (India Meteorological Department) issues dust storm alerts through the Mausam app, imd.gov.in, and national news. Follow local weather apps and news during pre-monsoon season in vulnerable areas. A yellowish sky and sudden wind increase are early warnings.

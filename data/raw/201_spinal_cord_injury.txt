@@ -1,5 +1,5 @@
 TOPIC: Spinal cord injury
-CATEGORY: Emergency Awareness / Injury Prevention
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury
 LAST UPDATED: 16 April 2024
 
@@ -86,3 +86,16 @@ Inappropriate management of SCI related impairments and secondary conditions oft
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the most common causes of spinal cord injury (SCI) in India?
+A: Road traffic accidents are the leading cause of traumatic SCI in India, followed by falls, diving accidents, violence, and sports injuries. Non-traumatic causes include spinal tuberculosis (Pott's disease), spinal cord tumours, and degenerative spine disease.
+
+Q: Is spinal cord injury always permanent?
+A: Incomplete spinal cord injuries — where some nerve fibres are intact — may have significant recovery potential, especially with early, intensive rehabilitation. Complete injuries (no sensation or movement below the injury) currently have limited recovery potential, though research in nerve regeneration is ongoing.
+
+Q: What first aid should be given for a suspected spinal injury?
+A: If someone may have a spinal injury (fall, road accident, diving): do not move them unless they are in immediate life-threatening danger. Stabilise the head and neck in the position found. Call 112 immediately. Moving an unstable spine can cause permanent paralysis.
+
+Q: What government support is available for people with SCI in India?
+A: UDID card provides access to disability benefits. ADIP scheme provides assistive devices. 4% reservation in government jobs. NIMHANS and government rehabilitation centres provide rehabilitation. PM-JAY covers acute SCI treatment at empanelled hospitals. Spinal Cord Injury Association of India (scii.in) provides peer support.

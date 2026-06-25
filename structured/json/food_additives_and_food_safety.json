@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/food-additives",
   "topic": "Food Additives and Food Safety",
-  "category": "Environmental Health / Nutrition / Public Health",
+  "category": "Environmental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -83,6 +83,20 @@
       "Food adulteration is a significant problem in India — spices mixed with artificial colours, milk adulterated with water/detergent.",
       "To report adulteration: FSSAI helpline 1800-11-2100 or file complaint at fssai.gov.in.",
       "FSSAI \"Eat Right India\" initiative promotes awareness of food labels and safe food choices."
+    ],
+    "faqs": [
+      {
+        "question": "Is MSG (ajinomoto) harmful?",
+        "answer": "MSG is approved by WHO, FSSAI, and FDA as safe. \"Chinese restaurant syndrome\" attributed to MSG has not been confirmed by controlled studies. Like any substance, excessive consumption may cause sensitivity in some individuals, but normal amounts in food are safe."
+      },
+      {
+        "question": "Are all E-numbers (like E300, E330) harmful?",
+        "answer": "No. Many E-numbers are vitamins and natural substances. E300 = Vitamin C, E330 = citric acid (found in lemons). The E-number just means it has been evaluated and approved in Europe. Always look up the specific E-number if unsure."
+      },
+      {
+        "question": "Should I avoid all packaged food with preservatives?",
+        "answer": "Not necessarily. Approved preservatives at regulated levels are safe. However, a diet based primarily on whole, unprocessed foods is healthier overall. Balance is key."
+      }
     ]
   }
 }

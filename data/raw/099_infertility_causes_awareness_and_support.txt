@@ -1,5 +1,5 @@
 TOPIC: Infertility — Causes, Awareness, and Support
-CATEGORY: Reproductive Health / Non-Communicable
+CATEGORY: Reproductive Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/infertility
 LAST UPDATED: 2024
 
@@ -135,6 +135,7 @@ Infertility evaluation should assess BOTH partners simultaneously.
 - Surrogacy (Regulation) Act 2021: Allows altruistic surrogacy by close relatives.
 - Government medical college fertility clinics offer subsidised evaluation and treatment.
 - ICMR guidelines on ART: icmr.gov.in
+- For fertility evaluation at government medical colleges, call the National Health Helpline: 104. iCall counselling: 9152987821.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: We have been trying for 8 months without success. Should we be worried?

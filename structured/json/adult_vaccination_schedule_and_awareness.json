@@ -4,7 +4,7 @@
   "source_name": "IAP / API Adult Immunisation Guidelines + NHM India + WHO",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/immunization-coverage",
   "topic": "Adult Vaccination Schedule and Awareness",
-  "category": "Preventive Health (Immunisation)",
+  "category": "Public Health / Preventive Care",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -135,6 +135,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Which vaccines do adults need in India?",
+        "answer": "Key adult vaccines include influenza (annual), Td/Tdap (every 10 years), Hepatitis B (if not vaccinated), and COVID-19 (as per current guidelines). High-risk groups may also need pneumococcal, HPV, and typhoid vaccines. Consult a doctor for a personalised schedule."
+      },
+      {
+        "question": "Are adult vaccines available free at government hospitals in India?",
+        "answer": "Some adult vaccines are free at government hospitals (e.g., COVID-19, Td for pregnant women). Others like influenza and pneumococcal are available at private clinics. Check with your nearest PHC or government hospital for current availability."
+      },
+      {
+        "question": "Do I need a flu vaccine every year?",
+        "answer": "Yes. Influenza viruses change each year, so the vaccine is reformulated annually to match circulating strains. Annual vaccination is recommended especially for elderly, pregnant women, healthcare workers, and those with chronic conditions."
+      },
+      {
+        "question": "I was vaccinated as a child. Do I still need adult boosters?",
+        "answer": "Yes. Some childhood vaccines (like Td for tetanus/diphtheria) require boosters every 10 years. Others may wane over time. Consult a doctor to review your vaccination history and identify any gaps."
+      }
     ]
   }
 }

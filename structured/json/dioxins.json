@@ -57,6 +57,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How are people in India exposed to dioxins?",
+        "answer": "The main exposure routes in India are: burning of waste (including electronic and medical waste), industrial processes (paper and pulp bleaching, metal smelting), and eating animal products (meat, fish, dairy â where dioxins accumulate in fatty tissues). Burning garbage and e-waste are particularly significant sources."
+      },
+      {
+        "question": "Are dioxins harmful in small amounts?",
+        "answer": "Dioxins are harmful even at low levels with chronic exposure. They are persistent (stay in the body for years) and accumulate in fatty tissues. Long-term exposure is linked to cancer, immune system damage, hormonal disruption, and reproductive problems."
+      },
+      {
+        "question": "Can I reduce my dioxin exposure?",
+        "answer": "Avoid burning household waste. Eat a balanced diet â don't overconsume fatty animal products from a single source. Maintain a healthy weight (dioxins store in fat). Support proper industrial waste management in your area. These measures significantly reduce individual exposure."
+      },
+      {
+        "question": "Is dioxin exposure regulated in India?",
+        "answer": "India has regulations on industrial dioxin emissions under the Environment Protection Act. The National Solid Waste Management Guidelines discourage open burning. However, enforcement remains inconsistent in many areas, particularly for informal waste burning."
+      }
     ]
   }
 }

@@ -68,6 +68,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the early warning signs of colorectal (colon) cancer?",
+        "answer": "Warning signs: change in bowel habits lasting more than 4 weeks, blood in stool, rectal bleeding, persistent abdominal discomfort, unexplained weight loss, and feeling that bowel does not empty completely. These symptoms need medical evaluation â they do not always mean cancer."
+      },
+      {
+        "question": "At what age should colorectal cancer screening start?",
+        "answer": "Screening should start at age 45-50 for average-risk individuals. People with a family history of colorectal cancer or polyps, or those with inflammatory bowel disease, should discuss earlier screening with a doctor. Colonoscopy is the gold standard test."
+      },
+      {
+        "question": "Can diet prevent colorectal cancer?",
+        "answer": "Diet plays a significant role. High fibre intake (fruits, vegetables, whole grains), limiting red and processed meat, limiting alcohol, avoiding smoking, maintaining healthy weight, and being physically active all reduce risk. India's traditional high-fibre diet is protective."
+      },
+      {
+        "question": "Is colorectal cancer treatable?",
+        "answer": "Yes, especially when detected early. Stage 1 colorectal cancer has over 90% 5-year survival. Treatment includes surgery, chemotherapy, and radiotherapy. PM-JAY covers colorectal cancer treatment at empanelled hospitals. Government medical college hospitals also provide treatment."
+      }
     ]
   }
 }

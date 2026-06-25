@@ -1,5 +1,5 @@
 TOPIC: Diabetes
-CATEGORY: Non-Communicable Disease (NCD)
+CATEGORY: Non-Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/diabetes
 LAST UPDATED: 2024
 
@@ -77,3 +77,17 @@ This information is for awareness purposes only. Diabetes management, medication
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+- For free diabetes screening at Ayushman Bharat HWCs, contact your nearest government health centre or call the National Health Helpline: 104. PM-JAY helpline: 14555.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can diabetes be reversed or cured?
+A: Type 2 diabetes can go into remission with significant weight loss, dietary changes, and exercise â blood sugar returns to normal without medication in some cases. However, it is not a permanent cure â the predisposition remains. Type 1 diabetes cannot currently be cured. Always work with a doctor.
+
+Q: What is prediabetes and should I worry about it?
+A: Prediabetes means blood sugar is higher than normal but not yet at diabetic levels. Without intervention, 15-30% of people with prediabetes develop Type 2 diabetes within 5 years. With lifestyle changes (weight loss, exercise, diet), prediabetes can be reversed. Take it seriously.
+
+Q: Is free diabetes screening available in India?
+A: Yes. Free blood sugar screening (fasting and post-meal) is available at all Ayushman Bharat Health and Wellness Centres for adults above 30 years. Government hospitals provide free HbA1c testing for diagnosed diabetics.
+
+Q: What should a diabetic patient absolutely avoid eating?
+A: No food is completely forbidden, but diabetics should strictly limit: white rice in large quantities, maida (refined flour) products, sugary drinks (soft drinks, fruit juice), sweets and mithai, deep-fried foods, and excessive fruit (especially high-sugar fruits like mango, banana). Consult a dietitian for a personalised plan.

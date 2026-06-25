@@ -68,6 +68,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Has West Nile Virus been reported in India?",
+        "answer": "Yes. West Nile Virus (WNV) has been detected in India — both in birds and in humans in Kerala (2011) and other states. It is maintained in bird-mosquito-bird cycles with Culex mosquitoes as the primary vector, and humans are dead-end hosts."
+      },
+      {
+        "question": "What are the symptoms of West Nile Virus infection?",
+        "answer": "Most infections (80%) have no symptoms. About 20% develop West Nile Fever: sudden fever, headache, body aches, nausea, rash. About 1% develop West Nile Neuroinvasive Disease (encephalitis, meningitis) — which can be severe and cause death or permanent neurological damage."
+      },
+      {
+        "question": "How does West Nile Virus spread?",
+        "answer": "Primarily through Culex mosquito bites (which bite at dawn and dusk). Also through blood transfusion, organ transplantation, and rarely through breastfeeding or pregnancy. It does NOT spread person-to-person through normal contact."
+      },
+      {
+        "question": "Is there a treatment or vaccine for West Nile Virus?",
+        "answer": "There is no specific antiviral treatment — management is supportive. No human vaccine is licensed. Prevention through mosquito control (eliminating stagnant water, using repellents, avoiding peak biting times, window screens) is the primary approach."
+      }
     ]
   }
 }

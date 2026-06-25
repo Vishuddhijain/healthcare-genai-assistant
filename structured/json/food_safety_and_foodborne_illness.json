@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/food-safety",
   "topic": "Food Safety and Foodborne Illness",
-  "category": "Public Health / Environmental Health / Preventive Care",
+  "category": "Environmental Health / Preventive Care",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -98,6 +98,20 @@
       "To report food safety violations: 1800-11-2100 (FSSAI toll-free helpline)",
       "Eat Right India initiative: Promotes safe and healthy food choices",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is food kept in the refrigerator always safe?",
+        "answer": "No. Refrigeration slows bacterial growth but doesn't stop it. Cooked food should be consumed within 2–3 days. Raw meat within 1–2 days. Always reheat refrigerated cooked food thoroughly."
+      },
+      {
+        "question": "Is it safe to eat food that has been out for 4 hours?",
+        "answer": "No. The danger zone for bacterial growth is 5–60°C. Food at room temperature for more than 2 hours should be discarded, especially in India's warm climate."
+      },
+      {
+        "question": "Are preservatives in packaged food harmful?",
+        "answer": "FSSAI-approved preservatives in foods within regulated limits are generally considered safe. However, excessive consumption of highly processed foods with multiple additives is not recommended for overall health."
+      }
     ]
   }
 }

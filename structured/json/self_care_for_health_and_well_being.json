@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/self-care-health-interventions",
   "topic": "Self-care for health and well-being",
-  "category": "Preventive Care and Wellness",
+  "category": "Public Health / Preventive Care",
   "last_updated": "3 June 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -65,6 +65,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is self-care in health and why is it important?",
+        "answer": "Self-care means the actions individuals take to maintain and improve their own health — beyond formal healthcare. It includes healthy eating, exercise, adequate sleep, stress management, medication adherence, and regular health checks. Good self-care reduces disease burden and health system strain."
+      },
+      {
+        "question": "What are practical daily self-care habits for good health?",
+        "answer": "Minimum daily self-care: 7-8 hours sleep, 30 minutes physical activity, 3 balanced meals, 2-3 litres water, no tobacco, limit alcohol, 10 minutes for relaxation/mindfulness, and maintaining social connections. These simple habits prevent most lifestyle diseases."
+      },
+      {
+        "question": "Is self-medication safe?",
+        "answer": "Limited self-medication for minor ailments (ORS for diarrhoea, paracetamol for mild fever, antifungal cream for mild thrush) with standard, approved medicines is reasonable. However, self-medicating with prescription drugs (antibiotics, steroids) without diagnosis is dangerous and contributes to drug resistance. When in doubt — consult a pharmacist or doctor."
+      },
+      {
+        "question": "How does mental self-care affect physical health?",
+        "answer": "Chronic stress and poor mental health directly worsen physical health — elevating blood pressure, suppressing immunity, worsening blood sugar control, and promoting inflammatory conditions. Practices like mindfulness, yoga, maintaining social connections, and adequate sleep protect both mental and physical health simultaneously."
+      }
     ]
   }
 }

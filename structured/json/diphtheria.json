@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/diphtheria",
   "topic": "Diphtheria",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "12 July 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -60,6 +60,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is diphtheria still a risk in India?",
+        "answer": "Yes. India continues to report diphtheria cases, largely in unvaccinated or under-vaccinated children. India's Universal Immunisation Programme (UIP) provides free DPT vaccine (diphtheria-pertussis-tetanus) to all children. Vaccination is the most effective prevention."
+      },
+      {
+        "question": "What are the warning signs of diphtheria?",
+        "answer": "Key warning sign: a tough, greyish-white membrane on the throat or tonsils that cannot be easily wiped off. Other signs: sore throat, hoarse voice, fever, and swollen neck ('bull neck' appearance). Diphtheria can block the airway â it is a medical emergency. Call 112."
+      },
+      {
+        "question": "Is diphtheria vaccine given free in India?",
+        "answer": "Yes. DPT vaccine (covering diphtheria, pertussis, and tetanus) is free under India's Universal Immunisation Programme. Given at 6, 10, and 14 weeks with boosters at 16-24 months and 5-6 years. Td booster is given at 10 and 16 years."
+      },
+      {
+        "question": "Can vaccinated children still get diphtheria?",
+        "answer": "Rarely and usually much less severely. Vaccine protection is high but not 100% â this is why maintaining community vaccination coverage above 95% (herd immunity) is essential to protect even unvaccinated individuals."
+      }
     ]
   }
 }

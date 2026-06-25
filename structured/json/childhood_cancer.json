@@ -67,6 +67,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is childhood cancer treatable?",
+        "answer": "Yes. Many childhood cancers have high cure rates with modern treatment â leukaemia (most common childhood cancer) has 80-90% survival rates in well-resourced settings. Early diagnosis is critical. Suspicious symptoms in a child should be evaluated by a paediatrician promptly."
+      },
+      {
+        "question": "What are the warning signs of cancer in children?",
+        "answer": "Warning signs (SEDA mnemonic â Swelling, Eye changes, Difficult bruising/bleeding, Anaemia/paleness, fever, weight loss, bone pain, abdominal mass). Persistent, unexplained symptoms lasting more than 2 weeks should be evaluated by a paediatrician."
+      },
+      {
+        "question": "Is childhood cancer treatment available in India?",
+        "answer": "Yes. Government hospitals like Tata Memorial Centre, AIIMS, and regional cancer centres treat childhood cancer. PM-JAY covers treatment costs at empanelled hospitals. NGOs like CanKids provide additional support for families."
+      },
+      {
+        "question": "Does childhood cancer run in families?",
+        "answer": "Some childhood cancers have genetic factors, but most are not directly hereditary. Genetic syndromes (Down syndrome, Li-Fraumeni syndrome) increase risk for specific cancers. Most childhood cancers arise from random mutations â parents should not blame themselves."
+      }
     ]
   }
 }

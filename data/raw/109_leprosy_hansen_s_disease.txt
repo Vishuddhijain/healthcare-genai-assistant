@@ -1,5 +1,5 @@
 TOPIC: Leprosy (Hansen's Disease)
-CATEGORY: Communicable Disease (Bacterial NTD)
+CATEGORY: Communicable Disease / Neglected Tropical Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/leprosy
 LAST UPDATED: 2024
 
@@ -66,3 +66,16 @@ This information is for health awareness only. Leprosy is curable and treatment 
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is leprosy still a problem in India?
+A: Yes. India accounts for about 60% of all new global leprosy cases. While India achieved official elimination (less than 1 case per 10,000) nationally in 2005, some states and districts still have high case loads. Free detection and treatment under the National Leprosy Eradication Programme (NLEP).
+
+Q: Is leprosy highly contagious?
+A: No. Leprosy is one of the least contagious infectious diseases. About 95% of people have natural immunity. Prolonged close contact with an untreated patient is required for transmission. Casual contact — handshaking, sitting together, sharing meals — does NOT transmit leprosy.
+
+Q: What are the early signs of leprosy?
+A: The earliest sign is a pale or reddish skin patch with reduced or absent sensation (cannot feel touch, pain, or temperature). Other signs: thickened nerves (felt as lumps), muscle weakness of hands or feet, and non-healing skin wounds. See a doctor at any PHC for free evaluation.
+
+Q: Can leprosy be cured?
+A: Yes. Leprosy is fully curable with Multi-Drug Therapy (MDT), which is provided FREE at all government PHCs and hospitals under NLEP. Paucibacillary leprosy: 6 months treatment. Multibacillary leprosy: 12 months treatment. Early treatment prevents disability.

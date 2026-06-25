@@ -51,6 +51,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is asbestos still used in India?",
+        "answer": "Yes. India is one of the largest importers and users of asbestos, primarily in the construction (asbestos cement roofing sheets) and industrial sectors. Chrysotile (white) asbestos is still in use, despite being banned or restricted in many countries."
+      },
+      {
+        "question": "How does asbestos cause cancer?",
+        "answer": "Inhaled asbestos fibres lodge permanently in lung tissue, causing chronic inflammation that leads to mesothelioma (cancer of the lining of lungs), lung cancer, and asbestosis over 20-40 years after exposure. There is no safe level of asbestos exposure."
+      },
+      {
+        "question": "Am I at risk if I live in a house with asbestos roofing?",
+        "answer": "Intact, undisturbed asbestos sheets pose low risk. Risk increases when sheets are cracked, drilled, cut, or sanded â releasing fibres. If you need to repair or remove asbestos sheets, hire trained workers with protective equipment. Never cut or drill asbestos yourself."
+      },
+      {
+        "question": "Is asbestos-related disease treatable?",
+        "answer": "Mesothelioma and asbestosis have no cure, though treatment can manage symptoms and extend life. Prevention through eliminating asbestos exposure is the only effective strategy. Workers in asbestos industries should have regular chest X-rays and lung function tests."
+      }
     ]
   }
 }

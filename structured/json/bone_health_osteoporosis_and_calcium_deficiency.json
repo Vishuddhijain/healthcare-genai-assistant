@@ -4,7 +4,7 @@
   "source_name": "WHO + IOF + NHP India + ICMR",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/osteoporosis",
   "topic": "Bone Health — Osteoporosis and Calcium Deficiency",
-  "category": "Non-Communicable Disease (Musculoskeletal / Metabolic Bone Disease)",
+  "category": "Non-Communicable Disease / Musculoskeletal",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -153,6 +153,24 @@
       "Few government hospitals have DEXA scanners outside major cities — private availability is growing",
       "Hip fracture care: Major challenge in rural India due to surgical infrastructure; many elderly with hip fractures do not receive surgery",
       "Ayushman Bharat PMJAY: Covers hip fracture surgery and orthopaedic procedures for eligible beneficiaries"
+    ],
+    "faqs": [
+      {
+        "question": "How much calcium do I need daily and what foods provide it?",
+        "answer": "Adults need 1000 mg of calcium per day (1200 mg after age 50). Best sources: milk (300 mg per cup), curd (yogurt, 150-200 mg per cup), paneer, ragi (finger millet â excellent plant source), sesame seeds, and fish with bones. Most Indians consume far less than recommended."
+      },
+      {
+        "question": "Is osteoporosis only a women's problem?",
+        "answer": "No. While women have higher risk (especially after menopause), 1 in 5 men over 50 will have an osteoporotic fracture. Men are often underdiagnosed because osteoporosis is mistakenly seen as a women's disease. Men with risk factors should get bone density testing."
+      },
+      {
+        "question": "Does sunlight really help bones? How much exposure do I need?",
+        "answer": "Yes. Sunlight triggers Vitamin D production in skin, which is essential for calcium absorption. 15-20 minutes of morning sunlight (before 10 AM) on arms and legs is sufficient for most Indians. However, despite India's sunshine, Vitamin D deficiency is almost universal due to indoor lifestyles and clothing coverage."
+      },
+      {
+        "question": "Can I reverse osteoporosis through diet and exercise alone?",
+        "answer": "Diet and exercise help maintain bone density and slow loss, but cannot fully reverse established osteoporosis. Medical treatment (bisphosphonates, calcium, Vitamin D supplements) prescribed by a doctor is needed for diagnosed osteoporosis. Start preventive measures early â bone is best built before age 30."
+      }
     ]
   }
 }

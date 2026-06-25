@@ -79,3 +79,16 @@ effective by providing evidence-based health care services to those who need the
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do I know if a hospital provides quality care in India?
+A: Look for NABH (National Accreditation Board for Hospitals and Healthcare Providers) accreditation — India's national quality standard. JCI (Joint Commission International) accreditation for international standard. Patient feedback, cleanliness, staff behaviour, and availability of essential medicines are practical indicators.
+
+Q: What is the Kayakalp award and what does it mean?
+A: Kayakalp is an MoHFW initiative that recognises government health facilities for maintaining high standards of cleanliness, hygiene, and infection control. Facilities are assessed and awarded based on independent assessment. It is a useful indicator of quality in government health facilities.
+
+Q: How can I give feedback about healthcare quality in India?
+A: Use the Patient Satisfaction Survey at the hospital. Report to the Medical Superintendent. File a complaint with the State Medical Council for clinical issues. Use Centralised Public Grievance Redress System (CPGRS) at pgportal.gov.in. For PM-JAY related complaints call 14555.
+
+Q: What are my rights if I receive poor quality healthcare?
+A: You can file a complaint with the State Medical Council (for medical negligence), approach consumer forums (DCDRC, SCDRC, NCDRC) for medical negligence cases, or file a complaint with the National Human Rights Commission for rights violations. Document all care received, keep copies of prescriptions and bills.

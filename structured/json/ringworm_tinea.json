@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/ringworm-(tinea)",
   "topic": "Ringworm (tinea)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "19 June 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -77,6 +77,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is ringworm actually caused by a worm?",
+        "answer": "No. Ringworm (tinea) is caused by fungi called dermatophytes — not worms. The name comes from the ring-like appearance of the rash. It is a very common, treatable fungal skin infection."
+      },
+      {
+        "question": "How does ringworm spread?",
+        "answer": "Through direct skin contact with an infected person, animal (dogs, cats, cattle), or contaminated surfaces (towels, gym mats, floors). Tinea pedis (athlete's foot) is commonly spread in wet public spaces like swimming pools, locker rooms, and communal bathrooms."
+      },
+      {
+        "question": "Is ringworm dangerous if left untreated?",
+        "answer": "Ringworm itself is not dangerous but can spread to other body parts and other people, and secondary bacterial infection of broken skin can occur. Tinea capitis (scalp ringworm) in children can cause permanent hair loss if untreated. Treatment is straightforward and effective."
+      },
+      {
+        "question": "How is ringworm treated in India?",
+        "answer": "Mild cases: Antifungal creams (clotrimazole, terbinafine) available over the counter at pharmacies without prescription. Extensive or scalp cases: Oral antifungal tablets (prescribed by a doctor). Avoid sharing towels, clothes, and combs. Complete the full treatment course even if the rash disappears early."
+      }
     ]
   }
 }

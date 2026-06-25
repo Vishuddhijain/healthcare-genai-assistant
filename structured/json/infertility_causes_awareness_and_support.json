@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/infertility",
   "topic": "Infertility — Causes, Awareness, and Support",
-  "category": "Reproductive Health / Non-Communicable",
+  "category": "Reproductive Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -116,7 +116,22 @@
       "The ART (Regulation) Act 2021 regulates fertility clinics and protects patients' rights.",
       "Surrogacy (Regulation) Act 2021: Allows altruistic surrogacy by close relatives.",
       "Government medical college fertility clinics offer subsidised evaluation and treatment.",
-      "ICMR guidelines on ART: icmr.gov.in"
+      "ICMR guidelines on ART: icmr.gov.in",
+      "For fertility evaluation at government medical colleges, call the National Health Helpline: 104. iCall counselling: 9152987821."
+    ],
+    "faqs": [
+      {
+        "question": "We have been trying for 8 months without success. Should we be worried?",
+        "answer": "Not yet — 8 months is within the normal range. Consult a doctor after 12 months (or 6 months if over 35). In the meantime, both partners should get a basic check-up."
+      },
+      {
+        "question": "Is infertility always permanent?",
+        "answer": "No. Many causes are treatable. Even unexplained infertility often resolves. ART has helped millions achieve pregnancy."
+      },
+      {
+        "question": "My husband refuses to get tested. What should I do?",
+        "answer": "Male factor is responsible in 40–50% of cases — it is essential both partners are tested. Share this information with your husband. Many men are unaware that infertility is equally a male issue. A doctor can counsel couples together."
+      }
     ]
   }
 }

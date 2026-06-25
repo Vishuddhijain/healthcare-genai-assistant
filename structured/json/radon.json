@@ -66,6 +66,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is radon a problem in India?",
+        "answer": "Yes. Elevated radon levels have been found in parts of Rajasthan (especially granite-rich areas), Himachal Pradesh, and some states with high natural radioactivity in soil and rocks. Underground workplaces (mines, basements) can accumulate radon. Radon is the second leading cause of lung cancer globally."
+      },
+      {
+        "question": "How does radon enter homes?",
+        "answer": "Radon is a naturally occurring radioactive gas from uranium decay in soil and rocks. It seeps through cracks in floors, foundations, and walls. It accumulates in poorly ventilated basements, ground floors, and underground spaces. You cannot see, smell, or taste it."
+      },
+      {
+        "question": "How can I test for radon in my home?",
+        "answer": "Radon testing kits are available from physics departments of government universities and environmental agencies in India. Contact your state pollution control board or BARC (Bhabha Atomic Research Centre) for guidance on radon measurement in high-risk areas."
+      },
+      {
+        "question": "How can I reduce radon levels in my home?",
+        "answer": "Seal cracks and gaps in floors and foundations. Increase ventilation — open windows and improve airflow. Sub-slab depressurisation (a pipe and fan system) is highly effective. Avoid spending long periods in unventilated basements. Radon levels in well-ventilated homes are generally safe."
+      }
     ]
   }
 }

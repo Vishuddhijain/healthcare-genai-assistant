@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/malnutrition",
   "topic": "Malnutrition",
-  "category": "Nutritional Health (Non-Communicable / Public Health)",
+  "category": "Public Health / Nutrition",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -92,6 +92,24 @@
       "Nutrition Rehabilitation Centres (NRCs): Government facilities for SAM management",
       "National Food Security Act: PDS (ration shops) provide subsidised food grains",
       "Mid-Day Meal Scheme (PM POSHAN): School nutrition for children"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between stunting, wasting, and underweight in children?",
+        "answer": "Stunting (low height for age) reflects chronic, long-term malnutrition. Wasting (low weight for height) reflects acute, recent malnutrition and is immediately dangerous. Underweight (low weight for age) reflects a combination. Wasting requires urgent treatment. Check growth at Anganwadi centres monthly."
+      },
+      {
+        "question": "Is malnutrition only a problem in poor families?",
+        "answer": "No. Hidden hunger (micronutrient deficiency) affects people across income levels. Families who eat calorie-sufficient but nutritionally poor diets (mostly refined grains, little fruit/vegetable diversity) can have children with micronutrient deficiencies. Urban malnutrition is a growing concern in India."
+      },
+      {
+        "question": "What free nutrition services are available for children in India?",
+        "answer": "Anganwadi centres provide free supplementary nutrition (khichdi, take-home rations), growth monitoring, Vitamin A supplementation, deworming, and nutrition counselling under ICDS and POSHAN Abhiyaan. These are for children 0-6 years and pregnant/lactating women. Visit your nearest Anganwadi."
+      },
+      {
+        "question": "How do I know if my child is growing well?",
+        "answer": "Monthly growth monitoring at Anganwadi centres uses a growth chart. The red zone (below -3 SD) indicates severe acute malnutrition. The yellow zone indicates moderate malnutrition. A child in the red zone needs immediate medical attention at a Nutrition Rehabilitation Centre (NRC) — free treatment."
+      }
     ]
   }
 }

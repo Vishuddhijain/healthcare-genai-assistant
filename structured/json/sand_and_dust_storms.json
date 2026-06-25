@@ -55,6 +55,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How do sand and dust storms affect health?",
+        "answer": "Dust storms expose people to PM10 and PM2.5 particulate matter, bacteria, fungi, and toxic minerals. Health effects: respiratory irritation and aggravation of asthma and COPD, eye irritation, allergic reactions, and in severe cases, valley fever (in areas with Coccidioides spores). Dust also carries meningococcal bacteria in Africa (meningitis belt)."
+      },
+      {
+        "question": "Are dust storms common in India?",
+        "answer": "Yes. North and northwestern India (Rajasthan, UP, Delhi NCR, Punjab, Haryana) experience severe dust storms (aandhi) in pre-monsoon season (April-June). These can be sudden and intense, with AQI reaching hazardous levels within minutes."
+      },
+      {
+        "question": "How can I protect myself during a dust storm?",
+        "answer": "Stay indoors and close windows and doors immediately. Seal gaps with wet towels if storm is severe. Cover mouth and nose with N95 mask or damp cloth if outdoors. Protect eyes with goggles. Avoid driving in dust storms. Those with respiratory or heart conditions should take extra precautions and have reliever medications accessible."
+      },
+      {
+        "question": "How do I know when a dust storm is coming?",
+        "answer": "IMD (India Meteorological Department) issues dust storm alerts through the Mausam app, imd.gov.in, and national news. Follow local weather apps and news during pre-monsoon season in vulnerable areas. A yellowish sky and sudden wind increase are early warnings."
+      }
     ]
   }
 }

@@ -58,6 +58,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is the radiation from X-rays and CT scans dangerous?",
+        "answer": "Medical radiation from standard X-rays is very low and the health benefit of accurate diagnosis far outweighs the minimal risk. CT scans use more radiation — doctors only order them when clinically necessary. Never refuse a medically necessary scan due to radiation fear, but avoid unnecessary scans."
+      },
+      {
+        "question": "Does living near mobile phone towers or using WiFi cause cancer?",
+        "answer": "No. Mobile towers and WiFi use non-ionizing radiation (like radio waves) — not ionizing radiation like X-rays or gamma rays. Non-ionizing radiation does not damage DNA and there is no established health risk at typical exposure levels. WHO has reviewed evidence extensively and found no causal link."
+      },
+      {
+        "question": "What is radon and should I be concerned in India?",
+        "answer": "Radon is a naturally occurring radioactive gas from soil and rocks — the second leading cause of lung cancer globally. In India, high radon levels have been found in parts of Rajasthan, Himachal Pradesh, and some underground workplaces. Ventilating enclosed spaces reduces radon accumulation."
+      },
+      {
+        "question": "How does radiation from nuclear accidents affect health?",
+        "answer": "High-dose radiation exposure (as in Chernobyl or Hiroshima) causes acute radiation syndrome and increases long-term cancer risk, especially thyroid cancer. India has nuclear safety regulations and emergency preparedness plans under the Atomic Energy Regulatory Board (AERB)."
+      }
     ]
   }
 }

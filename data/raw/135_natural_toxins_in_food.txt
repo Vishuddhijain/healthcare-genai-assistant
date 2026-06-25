@@ -85,3 +85,16 @@ Other sources of natural toxins are microscopic algae and plankton in oceans or 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Are there natural toxins in everyday Indian foods?
+A: Yes. Some common examples: raw kidney beans (rajma) contain phytohaemagglutinin — boil thoroughly; raw bitter almonds contain cyanogenic glycosides; underripe ackee (not common in India); green/sprouted potatoes contain solanine — discard green parts; raw cassava contains cyanide compounds — must be processed properly.
+
+Q: Is litchi (lychee) dangerous?
+A: Unripe litchi contains hypoglycin A and MCPG — compounds that block glucose synthesis, potentially causing fatal hypoglycemia in malnourished children who eat unripe litchi on an empty stomach. This is linked to the Muzaffarpur encephalitis outbreaks in Bihar. Children should not eat unripe litchi, especially on an empty stomach.
+
+Q: How do I safely prepare rajma (red kidney beans)?
+A: Raw or undercooked kidney beans contain phytohaemagglutinin, which causes severe nausea, vomiting, and diarrhoea. Always soak for 8 hours, discard soaking water, then boil vigorously for at least 10 minutes before slow cooking. Slow cookers alone may not reach sufficient temperature — boil first.
+
+Q: What should I do if someone has eaten something poisonous?
+A: Call 112 immediately. Do not induce vomiting unless advised by medical personnel (can worsen some poisonings). Note what was eaten and how much. Keep the packaging or sample if safe to do so. Poison Control: All India Institute of Medical Sciences (AIIMS) maintains a National Poison Information Centre.

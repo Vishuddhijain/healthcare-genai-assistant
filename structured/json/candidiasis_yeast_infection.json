@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/candidiasis-(yeast-infection)",
   "topic": "Candidiasis (yeast infection)",
-  "category": "Infectious Disease / Reproductive Health",
+  "category": "Communicable Disease / Reproductive Health",
   "last_updated": "9 April 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -57,6 +57,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is a vaginal yeast infection the same as bacterial vaginosis?",
+        "answer": "No. Both cause vaginal discharge but are different conditions. Yeast infection (candidiasis) causes thick, white, cottage cheese-like discharge with intense itching. Bacterial vaginosis causes thin, greyish discharge with a fishy odour. A doctor's test differentiates them â treatment is different for each."
+      },
+      {
+        "question": "Can I use over-the-counter antifungal cream for a yeast infection?",
+        "answer": "For mild, recurring yeast infections that you have had confirmed before, OTC antifungal creams (clotrimazole) are available at pharmacies. However, for a first-time or severe infection, or if pregnant, consult a doctor first to confirm diagnosis."
+      },
+      {
+        "question": "Why do some people get recurrent yeast infections?",
+        "answer": "Recurrent infections may be caused by antibiotic use (kills protective bacteria), uncontrolled diabetes, weakened immune system, hormonal changes, or wearing tight synthetic clothing. Controlling blood sugar, avoiding unnecessary antibiotics, and wearing breathable cotton underwear help prevent recurrence."
+      },
+      {
+        "question": "Can men get candidiasis?",
+        "answer": "Yes. Men can develop penile candidiasis (balanitis) â redness, itching, and white patches on the penis. It is more common in uncircumcised men and those with diabetes. Both partners may need treatment if infection keeps recurring."
+      }
     ]
   }
 }

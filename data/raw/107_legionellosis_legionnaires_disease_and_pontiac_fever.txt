@@ -1,5 +1,5 @@
 TOPIC: Legionellosis (Legionnaires' Disease and Pontiac Fever)
-CATEGORY: Communicable Disease (Bacterial / Respiratory)
+CATEGORY: Communicable Disease / Respiratory
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/legionellosis
 LAST UPDATED: 2024
 
@@ -70,3 +70,16 @@ This information is for health awareness only. Severe pneumonia with confusion r
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is Legionnaires' disease and is it found in India?
+A: Legionnaires' disease is a severe form of pneumonia caused by Legionella bacteria, which grow in warm water systems (cooling towers, hot water tanks, air conditioning systems). Cases have been reported in India, primarily in hospitals and large buildings with poorly maintained water systems.
+
+Q: How does Legionnaires' disease spread?
+A: Legionella does NOT spread person-to-person. Infection occurs by inhaling water droplets containing Legionella bacteria — from cooling towers, shower heads, decorative fountains, and hot tubs. It does not spread through drinking contaminated water.
+
+Q: Who is at highest risk of Legionnaires' disease?
+A: People over 50, smokers, those with chronic lung disease, diabetes, kidney failure, or weakened immune systems. Healthcare facility patients are at particular risk if water systems are not properly maintained.
+
+Q: How can hospitals and hotels prevent Legionella outbreaks?
+A: Maintain water at temperatures above 60°C in hot water systems (kills Legionella). Flush infrequently used taps regularly. Clean and disinfect cooling towers. Implement a Water Safety Plan per WHO guidelines. This is a building management responsibility, not individual.

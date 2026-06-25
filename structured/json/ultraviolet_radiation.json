@@ -67,6 +67,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is sunscreen necessary in India?",
+        "answer": "Yes. India's UV index is consistently high (often 8-11 in most regions), and excessive UV exposure causes sunburn, premature ageing, and skin cancer. Use a broad-spectrum SPF 30+ sunscreen daily on exposed skin, especially between 10 AM and 4 PM. Reapply every 2 hours outdoors."
+      },
+      {
+        "question": "Can dark-skinned Indians get skin cancer from the sun?",
+        "answer": "Yes. While darker skin provides more natural UV protection than fair skin, skin cancer does occur in Indians — particularly in sun-exposed areas in people who spend long hours outdoors. Oral cancers from tobacco, not skin cancer, are the leading cancer concern in India, but skin protection still matters."
+      },
+      {
+        "question": "Is getting a suntan harmless?",
+        "answer": "A tan is the skin's protective response to DNA damage from UV radiation — it is a sign of damage, not health. There is no safe tan. Prolonged UV exposure without protection causes cumulative skin ageing and increases cancer risk. Seek shade, wear protective clothing, and use sunscreen."
+      },
+      {
+        "question": "Can UV from welding or industrial sources cause eye damage?",
+        "answer": "Yes. UV from welding, arc lights, and industrial sources causes photokeratitis (welder's flash) — a painful sunburn of the cornea. Welders must always wear appropriate UV-protective welding shields. Sunglasses with UV protection are recommended for outdoor workers."
+      }
     ]
   }
 }

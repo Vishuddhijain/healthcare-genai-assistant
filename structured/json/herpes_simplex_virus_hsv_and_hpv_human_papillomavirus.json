@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus",
   "topic": "Herpes Simplex Virus (HSV) and HPV (Human Papillomavirus)",
-  "category": "Communicable / Sexually Transmitted Infection / Viral",
+  "category": "Communicable Disease / STI",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -116,6 +116,20 @@
       "India launched HPV vaccination as a national programme for adolescent girls — check eligibility at government health centres.",
       "Cervical cancer screening (VIA/Pap) is free at all Ayushman Bharat Health and Wellness Centres for women 30–65.",
       "Serosurveillance shows very high HPV prevalence in Indian women — underscoring the need for vaccination and screening."
+    ],
+    "faqs": [
+      {
+        "question": "If I get vaccinated against HPV, do I still need Pap smears?",
+        "answer": "Yes. The vaccine does not protect against all HPV types. Pap smears and screening are still recommended for vaccinated women."
+      },
+      {
+        "question": "Can men get vaccinated against HPV?",
+        "answer": "Yes. HPV vaccines protect men against anal cancer, penile cancer, throat cancer, and genital warts. Currently, India's programme focuses on girls, but vaccination of boys is recommended where available."
+      },
+      {
+        "question": "My partner was diagnosed with genital warts. What should I do?",
+        "answer": "Get examined by a doctor. Avoid sexual contact while warts are present. Consider HPV vaccination if not yet done. All STI testing is recommended."
+      }
     ]
   }
 }

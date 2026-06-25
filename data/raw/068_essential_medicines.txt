@@ -1,5 +1,5 @@
 TOPIC: Essential medicines
-CATEGORY: Health Systems / Medicines Awareness
+CATEGORY: Health Systems
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/essential-medicines
 LAST UPDATED: 26 January 2026
 
@@ -67,3 +67,16 @@ While essential medicines cover a wide range of global health needs, they repres
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are essential medicines and why do they matter?
+A: Essential medicines are those that satisfy the priority healthcare needs of a population â selected based on disease burden, effectiveness, safety, and cost. The WHO Essential Medicines List guides countries in ensuring access. India has its own National List of Essential Medicines (NLEM).
+
+Q: Are essential medicines free in India?
+A: Yes. Essential medicines on the NLEM are available free at government hospitals and PHCs. The Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) provides generic essential medicines at 50-90% lower cost at Jan Aushadhi Kendras (over 10,000 across India).
+
+Q: How do I find a Jan Aushadhi Kendra near me?
+A: Use the Jan Aushadhi app or visit janaushadhi.gov.in to locate the nearest Jan Aushadhi Kendra. Generic medicines here are chemically equivalent to branded medicines but at a fraction of the cost. Ask your doctor to prescribe generics.
+
+Q: Why are generic medicines cheaper than branded ones? Are they as effective?
+A: Generic medicines contain the same active ingredient in the same dose as branded medicines and meet the same quality standards. They are cheaper because manufacturers don't spend on original research or marketing. CDSCO-approved generics are safe and equally effective.

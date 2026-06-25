@@ -1,5 +1,5 @@
 TOPIC: Migraine and other headache disorders
-CATEGORY: Neurological Health
+CATEGORY: Non-Communicable Disease / Neurological
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/headache-disorders
 LAST UPDATED: 24 October 2025
 
@@ -63,3 +63,16 @@ Headache disorders, characterized by recurrent headaches, are among the most com
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do I know if my headache is a migraine?
+A: Migraine is typically moderate to severe, pulsating, unilateral (one side), lasting 4-72 hours, worsened by physical activity, and associated with nausea, vomiting, and sensitivity to light and sound. About 25% of migraines are preceded by aura (visual disturbances, tingling).
+
+Q: When is a headache a medical emergency?
+A: Seek emergency care immediately for: thunderclap headache (sudden, worst headache of life), headache with fever and stiff neck (meningitis), headache with neurological symptoms (weakness, speech difficulty, confusion), headache after head injury, or headache with vision loss.
+
+Q: Are there effective treatments for migraine in India?
+A: Yes. Acute treatment: triptans (sumatriptan), NSAIDs, paracetamol — prescribed by a neurologist. Preventive treatment for frequent migraines: beta-blockers, amitriptyline, topiramate — doctor-prescribed. Identifying and avoiding triggers (sleep deprivation, stress, certain foods, bright lights) is also important.
+
+Q: Is migraine just a bad headache or a real medical condition?
+A: Migraine is a genuine neurological disorder — the third most common disease in the world. It is associated with measurable brain changes and disability. It is significantly underdiagnosed and undertreated. A person with frequent migraines deserves proper neurological evaluation and treatment.

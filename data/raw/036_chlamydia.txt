@@ -1,5 +1,5 @@
 TOPIC: Chlamydia
-CATEGORY: Sexual Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/chlamydia
 LAST UPDATED: 21 November 2025
 
@@ -82,3 +82,16 @@ Correct and consistent use of condoms during sex is the most effective way to pr
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Does chlamydia always cause symptoms?
+A: No. About 70% of women and 50% of men with chlamydia have no symptoms. This is why it is called a silent STI. Regular testing is essential for sexually active people, especially those under 25 or with new/multiple partners.
+
+Q: Can chlamydia affect fertility?
+A: Yes. Untreated chlamydia spreads to the fallopian tubes in women, causing pelvic inflammatory disease (PID) which can cause infertility, ectopic pregnancy, and chronic pelvic pain. In men, it can cause epididymitis. Early diagnosis and treatment prevents these complications.
+
+Q: Is chlamydia curable?
+A: Yes. Chlamydia is easily treated with a short course of antibiotics (azithromycin or doxycycline) prescribed by a doctor. Sexual partners should also be tested and treated simultaneously. Free testing and treatment at government ICTCs (Integrated Counselling and Testing Centres).
+
+Q: How can I protect myself from chlamydia?
+A: Use condoms consistently for every sexual encounter. Get tested regularly if sexually active with new or multiple partners. Mutual monogamy with a tested, uninfected partner significantly reduces risk. Free condoms available from ASHA workers and government hospitals.

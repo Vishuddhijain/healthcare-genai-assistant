@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/refugee-and-migrant-mental-health",
   "topic": "Refugee and migrant mental health",
-  "category": "Mental Health Awareness",
+  "category": "Mental Health",
   "last_updated": "1 September 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -63,6 +63,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Why do migrants and refugees have higher mental health risks?",
+        "answer": "Pre-migration trauma (violence, persecution, disaster), loss of social networks and family separation, language barriers, discrimination, economic stress, and uncertainty about legal status create multiple mental health risk factors. Acculturation stress (adjusting to a new culture) adds further burden."
+      },
+      {
+        "question": "What mental health support is available for migrants in India?",
+        "answer": "Tele MANAS (14416) is available in multiple languages and accessible to all. iCall (9152987821) provides free counselling. MSF (Médecins Sans Frontières) and UNHCR-partnered NGOs provide mental health support to refugees. Government psychiatric hospitals provide care to all regardless of status."
+      },
+      {
+        "question": "How can I support a migrant friend or colleague with mental health struggles?",
+        "answer": "Maintain regular contact. Involve them in social activities. Help them navigate the local health system. Share information about mental health services. Listen without judgment. Do not dismiss their experiences as weakness. Social connection is protective for mental health in migrants."
+      },
+      {
+        "question": "Can untreated trauma affect physical health?",
+        "answer": "Yes. Untreated psychological trauma activates chronic stress responses affecting the immune system, cardiovascular system, and metabolic function. Trauma survivors have higher rates of heart disease, diabetes, and autoimmune conditions. Addressing mental health is essential for overall health."
+      }
     ]
   }
 }

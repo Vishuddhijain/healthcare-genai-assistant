@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
   "topic": "Malaria",
-  "category": "Communicable / Infectious Disease / Vector-Borne",
+  "category": "Communicable Disease / Vector-Borne",
   "last_updated": "December 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -80,6 +80,24 @@
     "india_specific_context": [
       "The National Vector Borne Disease Control Programme (NVBDCP) under the Ministry of Health manages malaria control in India. Free diagnosis and treatment are available at government facilities. Annual Mass Drug Administration (MDA) is conducted in high-burden areas.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Can I get malaria from a vaccinated area?",
+        "answer": "Malaria is spread by mosquitoes, not from person to person. If you are in a malaria-endemic area, you are at risk regardless of your vaccination status (there is no widely available malaria vaccine in India yet). Use bed nets, repellent, and antimalarials if recommended by a doctor for high-risk areas."
+      },
+      {
+        "question": "What is the difference between falciparum and vivax malaria?",
+        "answer": "P. falciparum is the most dangerous type — can cause cerebral malaria and death within 24-48 hours if untreated. P. vivax is less immediately dangerous but can cause relapses months or years later from dormant liver stages. Both require prompt treatment — falciparum is a medical emergency."
+      },
+      {
+        "question": "Is free malaria testing available in India?",
+        "answer": "Yes. Rapid Diagnostic Tests (RDTs) and blood smear microscopy are available free at all government PHCs, CHCs, and hospitals, especially in endemic areas. ASHA workers in endemic areas carry RDT kits for doorstep testing. Do not delay testing if you have fever in a malaria area."
+      },
+      {
+        "question": "Can malaria return after successful treatment?",
+        "answer": "P. vivax malaria can relapse after apparent cure because the parasite can remain dormant in the liver. Treatment with primaquine is given to prevent relapses. Primaquine must not be given to pregnant women or G6PD deficient individuals — a doctor will test first."
+      }
     ]
   }
 }

@@ -1,5 +1,5 @@
 TOPIC: Tungiasis
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/tungiasis
 LAST UPDATED: 28 April 2023
 
@@ -70,3 +70,16 @@ The only product shown to have high efficacy and safety for treatment is NYDA ®
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is tungiasis and is it found in India?
+A: Tungiasis is a skin disease caused by the jigger flea (Tunga penetrans), which burrows into the skin — usually the feet — causing painful lesions. It is primarily found in sub-Saharan Africa and Latin America. Sporadic cases have been reported in India among returned travellers from endemic areas.
+
+Q: What are the symptoms of tungiasis?
+A: A white or black dot-like lesion (the embedded flea) on the feet or toes, surrounded by inflamed skin, causing intense pain and itching. Secondary bacterial infections are common and can be serious. The flea can be seen as a white oval with a dark breathing pore.
+
+Q: How is tungiasis treated?
+A: Surgical extraction of the embedded flea by a trained healthcare provider, followed by wound care and tetanus prophylaxis if needed. Do not try to remove the flea at home — incomplete removal increases infection risk. Antibiotics for secondary infection.
+
+Q: How can I prevent tungiasis when travelling to endemic areas?
+A: Wear closed shoes at all times — do not walk barefoot on soil or sand in endemic areas (sub-Saharan Africa, South America). Use insect repellent on feet and lower legs. Inspect feet regularly for early lesions.

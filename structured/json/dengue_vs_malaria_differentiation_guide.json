@@ -4,7 +4,7 @@
   "source_name": "WHO + NHP India + NVBDCP",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
   "topic": "Dengue vs Malaria — Differentiation Guide",
-  "category": "Communicable Disease (Vector-Borne) — Comparative Reference",
+  "category": "Communicable Disease / Vector-Borne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -55,6 +55,24 @@
       "Dengue is endemic in all states, especially urban areas; higher in post-monsoon (Sep–Nov)",
       "Free RDTs and blood smear tests available at government PHCs and CHCs",
       "NVBDCP helpline and surveillance: nvbdcp.gov.in"
+    ],
+    "faqs": [
+      {
+        "question": "How can I tell the difference between dengue and malaria at home?",
+        "answer": "You cannot reliably differentiate them at home â both cause fever. Key differences: dengue causes severe bone/joint pain and rash; malaria causes cyclical chills and rigors. The only reliable differentiation is through blood tests (NS1/IgM for dengue; blood smear/RDT for malaria). See a doctor."
+      },
+      {
+        "question": "Can a person have dengue and malaria at the same time?",
+        "answer": "Yes, co-infection is possible, especially in India during monsoon when both mosquito types are active. This makes diagnosis more complex and potentially more dangerous. Blood tests for both should be done when fever is present in endemic areas."
+      },
+      {
+        "question": "Which is more dangerous â dengue or malaria?",
+        "answer": "Both can be fatal if untreated. Severe malaria (P. falciparum) can kill within 24-48 hours. Severe dengue (haemorrhagic fever) can also be rapidly fatal. Both require prompt medical attention. Do not wait to see a doctor for high fever during monsoon season."
+      },
+      {
+        "question": "Are the mosquitoes for dengue and malaria the same?",
+        "answer": "No. Dengue: Aedes aegypti (bites during DAY, breeds in CLEAN stagnant water). Malaria: Anopheles (bites at NIGHT, breeds in stagnant/slow-moving water). Both can be present in the same area, requiring combined prevention strategies."
+      }
     ]
   }
 }

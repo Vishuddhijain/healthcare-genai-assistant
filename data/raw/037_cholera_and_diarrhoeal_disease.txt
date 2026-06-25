@@ -1,5 +1,5 @@
 TOPIC: Cholera and Diarrhoeal Disease
-CATEGORY: Communicable / Waterborne Disease
+CATEGORY: Communicable Disease / Waterborne
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/cholera | https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease
 LAST UPDATED: 2024
 
@@ -108,6 +108,7 @@ Vaccination:
 - Post-flood water contamination is a major cause of cholera outbreaks.
 - IDSP (Integrated Disease Surveillance Programme) monitors diarrhoea outbreaks.
 - Report suspected cholera outbreaks to local health authorities.
+- Free ORS and zinc tablets are available at all government PHCs and through ASHA workers under India's Diarrhoea Control Programme. National Health Helpline: 104. For severe dehydration or suspected cholera outbreak, contact your nearest government hospital immediately or call Emergency: 112.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: How do I prepare ORS at home if sachets are not available?

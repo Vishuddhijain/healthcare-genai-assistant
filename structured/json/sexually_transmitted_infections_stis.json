@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)",
   "topic": "Sexually transmitted infections (STIs)",
-  "category": "Sexual Health / STI Awareness",
+  "category": "Communicable Disease / STI",
   "last_updated": "10 September 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -79,6 +79,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How common are STIs in India?",
+        "answer": "STIs are very common in India but significantly underreported due to stigma. India has one of the world's highest burdens of STIs including chlamydia, gonorrhoea, syphilis, herpes, and HPV. Many infections are asymptomatic — testing is the only way to know."
+      },
+      {
+        "question": "Is STI testing confidential in India?",
+        "answer": "Yes. STI testing and treatment at government ICTCs (Integrated Counselling and Testing Centres) is completely confidential. Healthcare providers cannot disclose your status without your consent. Free, confidential testing is available at all government hospitals."
+      },
+      {
+        "question": "Can STIs be cured?",
+        "answer": "Bacterial STIs (gonorrhoea, chlamydia, syphilis) are curable with antibiotics. Viral STIs (herpes, HPV, HIV) cannot be cured but can be effectively managed. Treatment requires a doctor's prescription — do not self-medicate. Partner treatment is essential to prevent reinfection."
+      },
+      {
+        "question": "How do I protect myself from STIs?",
+        "answer": "Consistent and correct condom use for every sexual encounter is the most effective protection against most STIs. HPV vaccine protects against HPV. Hepatitis B vaccine protects against HBV. Regular testing for sexually active people (especially with new/multiple partners) enables early treatment."
+      }
     ]
   }
 }

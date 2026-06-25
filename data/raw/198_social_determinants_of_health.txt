@@ -1,5 +1,5 @@
 TOPIC: Social determinants of health
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health
 LAST UPDATED: 6 May 2025
 
@@ -59,3 +59,16 @@ Health follows a social gradient whereby the more deprived the area in which peo
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are social determinants of health?
+A: Social determinants of health are the non-medical factors that influence health — income and poverty, education, employment and working conditions, food access, housing quality, social discrimination, and access to healthcare. These upstream factors often determine health more powerfully than individual behaviours.
+
+Q: Why do poor people in India have worse health outcomes?
+A: Poverty limits access to nutritious food, clean water, decent housing, and healthcare. It increases exposure to occupational hazards, environmental pollution, and stress. Poor literacy reduces health knowledge. These compound into dramatically worse health outcomes — India's health inequity by income is substantial.
+
+Q: What government programmes address social determinants of health in India?
+A: PM-JAY (health insurance), PDS (food security), PM Awas Yojana (housing), Midday Meal Scheme (child nutrition + education), MGNREGA (employment), Swachh Bharat (sanitation), Jal Jeevan Mission (clean water), and ICDS (early childhood) collectively address multiple social determinants.
+
+Q: Can individuals change social determinants of health?
+A: Individual control over social determinants is limited — they require collective action and policy change. However, community organisations, voting, advocacy, and supporting social welfare programmes contribute. Being aware of social determinants helps healthcare providers give more contextually appropriate care.

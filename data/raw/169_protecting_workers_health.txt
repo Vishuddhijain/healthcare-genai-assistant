@@ -1,5 +1,5 @@
 TOPIC: Protecting workers' health
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/protecting-workers'-health
 LAST UPDATED: 30 November 2017
 
@@ -68,3 +68,16 @@ Health risks at the workplace, such as heat, noise, dust, hazardous chemicals, u
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the occupational health rights of workers in India?
+A: Workers have the right to a safe workplace, information about hazards, personal protective equipment, health surveillance, and compensation for work-related injury or disease. The Occupational Safety, Health and Working Conditions Code 2020 consolidates these protections.
+
+Q: What occupational diseases are most common in India?
+A: Silicosis (dust lung disease — miners, sandblasters, quarry workers), asbestosis, byssinosis (cotton dust — textile workers), pesticide poisoning (agricultural workers), musculoskeletal disorders (construction, IT), noise-induced hearing loss, and heat stress are among the most significant occupational diseases in India.
+
+Q: Is silicosis recognised and compensated in India?
+A: Yes. Silicosis is a notifiable disease and a compensable occupational disease under the Employees' Compensation Act. Workers with confirmed silicosis can claim compensation. The Rajasthan Silicosis Policy provides financial assistance to affected mine workers. Diagnosis is at government chest hospitals.
+
+Q: Where can I report unsafe working conditions in India?
+A: Report to your factory/workplace safety officer first. If unresolved, contact the State Labour Department or Chief Inspector of Factories. For mines, contact the Directorate General of Mines Safety (DGMS). CPCB for environmental violations. Workers can also file complaints through Shramsuvidha portal.

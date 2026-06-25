@@ -1,5 +1,5 @@
 TOPIC: Typhoid Fever
-CATEGORY: Communicable Disease (Enteric / Waterborne)
+CATEGORY: Communicable Disease / Waterborne
 SOURCE: WHO Fact Sheet + NHP India - https://www.who.int/news-room/fact-sheets/detail/typhoid | https://nhp.gov.in/disease/communicable-disease/typhoid
 LAST UPDATED: 2024
 
@@ -94,3 +94,16 @@ This information is for health awareness only. Typhoid requires medical diagnosi
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is the Widal test reliable for diagnosing typhoid?
+A: The Widal test is widely used in India but has significant limitations — it can give false positive and false negative results, especially in areas where typhoid is endemic (immunity from past exposure affects results). Blood culture is the most reliable diagnostic test for typhoid. A positive Widal alone is insufficient for diagnosis — clinical correlation is essential.
+
+Q: Can I get typhoid from eating street food?
+A: Yes. Street food prepared with contaminated water or by infected food handlers is a common source of typhoid in India. Choose hot, freshly cooked street food; avoid raw salads, cut fruits, chutneys, and pani puri water from sources with uncertain hygiene.
+
+Q: Is there a vaccine for typhoid?
+A: Yes. Vi capsular polysaccharide vaccine (injectable, single dose) and oral Ty21a vaccine are available. The injectable vaccine is increasingly available at private clinics and some government hospitals. A new typhoid conjugate vaccine (TCV) provides stronger, longer protection and is being introduced into some states' immunisation programmes.
+
+Q: What happens if typhoid is left untreated?
+A: Untreated typhoid can cause intestinal perforation (a life-threatening surgical emergency with severe abdominal pain) or intestinal bleeding, sepsis, and death. This is why completing the full antibiotic course is essential even after feeling better.

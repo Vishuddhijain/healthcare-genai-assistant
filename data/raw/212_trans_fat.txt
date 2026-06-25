@@ -1,5 +1,5 @@
 TOPIC: Trans fat
-CATEGORY: Preventive Care and Wellness
+CATEGORY: Public Health / Preventive Care
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/trans-fat
 LAST UPDATED: 24 January 2024
 
@@ -63,3 +63,16 @@ Governments have a central role in creating healthy food environments that enabl
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are trans fats and are they found in Indian food?
+A: Trans fats are partially hydrogenated vegetable oils that raise bad cholesterol (LDL) and lower good cholesterol (HDL) — strongly linked to heart disease. In India, vanaspati (partially hydrogenated vegetable ghee), commercially baked goods, fried street food, and some packaged snacks contain trans fats.
+
+Q: Has India regulated trans fats?
+A: Yes. FSSAI reduced the maximum limit for trans fats in oils and fats to 2% (from 5%) effective 2022 — aligned with WHO guidelines. Partially hydrogenated oils are being phased out. However, compliance monitoring in the street food and small-scale food sector is still evolving.
+
+Q: How can I reduce trans fat consumption in India?
+A: Avoid vanaspati ghee for cooking — use filtered groundnut oil, mustard oil, or sunflower oil instead. Limit commercially baked goods (certain biscuits, cakes, namkeen), fried fast food, and packaged snacks. Check food labels for 'partially hydrogenated' in the ingredients list — this indicates trans fat.
+
+Q: How much trans fat is safe to eat daily?
+A: WHO recommends less than 1% of total daily calories from trans fats — approximately 2.2 grams for a 2000-calorie diet. The ideal is zero trans fat from industrial sources. Natural trans fats in small amounts from dairy and meat are not considered harmful.

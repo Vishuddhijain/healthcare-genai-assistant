@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/group-b-streptococcus-(gbs)",
   "topic": "Group B Streptococcus (GBS) and Guillain-Barré Syndrome",
-  "category": "Infectious Disease / Neurological / Maternal and Child Health",
+  "category": "Communicable Disease / Neurological",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -106,6 +106,20 @@
       "GBS is regularly reported in India, particularly AMAN variant after Campylobacter infections from contaminated poultry.",
       "Treatment (IVIG, plasmapheresis) is available at government medical colleges and tertiary hospitals.",
       "Respiratory support (ventilators) is critical — refer to tertiary hospital promptly."
+    ],
+    "faqs": [
+      {
+        "question": "Is GBS contagious?",
+        "answer": "No. GBS itself is not contagious. The triggering infections (like Campylobacter gastroenteritis) can spread, but GBS is the immune system's abnormal response — it cannot be transmitted person to person."
+      },
+      {
+        "question": "Will I fully recover from GBS?",
+        "answer": "Most people (about 80%) recover fully or nearly fully, though it can take months to years. About 15% have lasting weakness. Physiotherapy is crucial."
+      },
+      {
+        "question": "Can COVID-19 vaccine cause GBS?",
+        "answer": "The risk is extremely small (4–7 extra cases per million doses for adenoviral vector vaccines). The risk of severe COVID-19 and death is far greater without vaccination. Current mRNA vaccines have no confirmed GBS signal."
+      }
     ]
   }
 }

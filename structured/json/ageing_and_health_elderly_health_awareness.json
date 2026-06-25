@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/ageing-and-health",
   "topic": "Ageing and Health / Elderly Health Awareness",
-  "category": "Public Health / Geriatric Health",
+  "category": "Public Health / Ageing",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -90,6 +90,20 @@
       "Indira Gandhi National Old Age Pension Scheme (IGNOAPS): Monthly pension for BPL elderly.",
       "Free health check-ups for elderly at Ayushman Bharat Health and Wellness Centres.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is memory loss normal with ageing?",
+        "answer": "Some mild forgetfulness (e.g., occasionally misplacing items) is normal. But significant memory loss, confusion, getting lost in familiar places, or personality changes could indicate dementia. Consult a doctor."
+      },
+      {
+        "question": "Should elderly people avoid all exercise?",
+        "answer": "No. Regular moderate activity (walking, yoga) is one of the best things an elderly person can do for their health. Rest is only needed after injury or illness as advised by a doctor."
+      },
+      {
+        "question": "How often should an elderly person see a doctor?",
+        "answer": "Ideally every 3–6 months for those with chronic conditions. At minimum annually for blood pressure, blood sugar, and eye checks. More frequently if symptoms arise."
+      }
     ]
   }
 }

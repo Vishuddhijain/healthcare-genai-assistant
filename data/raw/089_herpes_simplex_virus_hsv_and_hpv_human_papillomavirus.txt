@@ -1,5 +1,5 @@
 TOPIC: Herpes Simplex Virus (HSV) and HPV (Human Papillomavirus)
-CATEGORY: Communicable / Sexually Transmitted Infection / Viral
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus | https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer
 LAST UPDATED: 2024
 

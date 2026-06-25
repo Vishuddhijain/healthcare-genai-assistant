@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/legionellosis",
   "topic": "Legionellosis (Legionnaires' Disease and Pontiac Fever)",
-  "category": "Communicable Disease (Bacterial / Respiratory)",
+  "category": "Communicable Disease / Respiratory",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -67,6 +67,24 @@
       "Underdiagnosed in India due to limited testing availability",
       "Hospitals and large commercial buildings should maintain cooling tower hygiene per facility guidelines",
       "Consider in cases of \"atypical pneumonia\" not responding to standard antibiotics"
+    ],
+    "faqs": [
+      {
+        "question": "What is Legionnaires' disease and is it found in India?",
+        "answer": "Legionnaires' disease is a severe form of pneumonia caused by Legionella bacteria, which grow in warm water systems (cooling towers, hot water tanks, air conditioning systems). Cases have been reported in India, primarily in hospitals and large buildings with poorly maintained water systems."
+      },
+      {
+        "question": "How does Legionnaires' disease spread?",
+        "answer": "Legionella does NOT spread person-to-person. Infection occurs by inhaling water droplets containing Legionella bacteria — from cooling towers, shower heads, decorative fountains, and hot tubs. It does not spread through drinking contaminated water."
+      },
+      {
+        "question": "Who is at highest risk of Legionnaires' disease?",
+        "answer": "People over 50, smokers, those with chronic lung disease, diabetes, kidney failure, or weakened immune systems. Healthcare facility patients are at particular risk if water systems are not properly maintained."
+      },
+      {
+        "question": "How can hospitals and hotels prevent Legionella outbreaks?",
+        "answer": "Maintain water at temperatures above 60°C in hot water systems (kills Legionella). Flush infrequently used taps regularly. Clean and disinfect cooling towers. Implement a Water Safety Plan per WHO guidelines. This is a building management responsibility, not individual."
+      }
     ]
   }
 }

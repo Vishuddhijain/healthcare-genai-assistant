@@ -79,6 +79,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Has Nipah virus occurred in India?",
+        "answer": "Yes. India has had multiple Nipah virus outbreaks — significantly in Kerala (2018, 2019, 2021, 2023). Kerala's strong public health surveillance and response system has contained each outbreak effectively, making India a global model for outbreak response."
+      },
+      {
+        "question": "How does Nipah virus spread?",
+        "answer": "Nipah spreads from fruit bats (primary reservoir) to humans through contact with contaminated fruit (bat-bitten fruits), raw date palm sap (contaminated by bat droppings), and from infected animals (pigs). Person-to-person spread occurs through close contact with body fluids of infected patients."
+      },
+      {
+        "question": "What are the symptoms of Nipah virus infection?",
+        "answer": "Fever, headache, dizziness, and altered consciousness (encephalitis — brain inflammation). Respiratory symptoms in some cases. Symptoms appear 4-14 days after exposure. Case fatality rate is 40-75%. There is no specific treatment — supportive intensive care."
+      },
+      {
+        "question": "How can I protect myself during a Nipah outbreak?",
+        "answer": "Avoid consuming raw date palm sap or fallen/bitten fruits from trees. Avoid contact with sick animals. Healthcare workers must use full PPE. Follow all government advisories during outbreaks. Contact state health authorities if you have had contact with a confirmed case."
+      }
     ]
   }
 }

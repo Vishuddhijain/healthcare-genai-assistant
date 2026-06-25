@@ -1,5 +1,5 @@
 TOPIC: Maternal Mortality
-CATEGORY: Maternal Health / Public Health
+CATEGORY: Maternal and Child Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/maternal-mortality
 LAST UPDATED: 2024
 
@@ -103,3 +103,16 @@ This information is for health awareness only. Most maternal deaths are preventa
 
 --- WHEN TO SEE A DOCTOR ---
 - Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is India's maternal mortality ratio and is it improving?
+A: India's MMR (Maternal Mortality Ratio) has improved dramatically from 254 per 100,000 live births (2004-06) to 97 per 100,000 (2018-20) — a 60% reduction. However, India still falls short of the SDG target of below 70. Rural-urban and state disparities remain significant.
+
+Q: What are the leading causes of maternal death in India?
+A: Leading causes: haemorrhage (excessive bleeding after delivery), hypertensive disorders (pre-eclampsia, eclampsia), sepsis (infection), and complications of unsafe abortion. Most are preventable with skilled birth attendance and emergency obstetric care.
+
+Q: How can I ensure a safe delivery in India?
+A: Attend all antenatal check-ups (minimum 4 ANC visits), deliver in a hospital or health facility with skilled birth attendants, know the danger signs of pregnancy (heavy bleeding, severe headache, convulsions, reduced fetal movement), and have a birth preparedness plan (transport, blood donor, money).
+
+Q: Is free maternity care available in India?
+A: Yes. Janani Shishu Suraksha Karyakram (JSSK) provides completely free delivery (normal and caesarean), medicines, diet, diagnostics, and blood transfusion at government hospitals. Janani Suraksha Yojana (JSY) provides cash incentive for institutional delivery to eligible women.

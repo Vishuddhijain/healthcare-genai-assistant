@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)",
   "topic": "Post COVID-19 condition (long COVID)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "26 February 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -60,6 +60,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is Long COVID and is it common?",
+        "answer": "Long COVID (Post-COVID-19 Condition) is characterised by persistent symptoms lasting more than 12 weeks after acute COVID-19 infection that cannot be explained by another diagnosis. It affects an estimated 10-20% of COVID-19 survivors. Common in India but significantly underdiagnosed."
+      },
+      {
+        "question": "What are the most common Long COVID symptoms?",
+        "answer": "Fatigue (most common — often debilitating), shortness of breath, cognitive difficulties ('brain fog' — memory, concentration problems), post-exertional malaise (symptoms worsen after activity), headache, sleep disturbance, joint pain, heart palpitations, and anxiety/depression."
+      },
+      {
+        "question": "Is Long COVID treatable?",
+        "answer": "There is no specific cure but management is improving. Rehabilitation (physiotherapy, occupational therapy, pulmonary rehab) significantly helps. Pacing (avoiding boom-bust activity cycles) is critical. Manage individual symptoms (sleep, pain, mood). Consult a doctor — do not push through fatigue."
+      },
+      {
+        "question": "Where can Long COVID patients get help in India?",
+        "answer": "Post-COVID clinics have been established at AIIMS Delhi, major government medical colleges, and many district hospitals. Tele MANAS (14416) provides mental health support for Long COVID. Document your symptoms thoroughly and seek specialist referral from a general physician."
+      }
     ]
   }
 }

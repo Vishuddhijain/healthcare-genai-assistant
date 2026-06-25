@@ -1,5 +1,5 @@
 TOPIC: Scabies
-CATEGORY: Communicable Disease / Skin Condition / Neglected Tropical Disease
+CATEGORY: Communicable Disease / Neglected Tropical Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/scabies | NHP India | IADVL
 LAST UPDATED: 2024
 
@@ -87,6 +87,7 @@ Scabies is a highly contagious skin condition caused by infestation with the mic
 - Government dermatology departments at district hospitals provide diagnosis and treatment, including permethrin and ivermectin
 - School health programmes (under Ayushman Bharat/RBSK) can help identify skin conditions including scabies in children for referral
 - Outbreaks in hostels/institutions require coordinated mass treatment approaches, often supported by local health authorities
+- For free scabies treatment at government PHCs and hospitals, call 104. During outbreaks in schools or institutions, contact the district health officer.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is scabies a sign of poor hygiene?

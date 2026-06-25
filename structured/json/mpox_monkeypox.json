@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/mpox",
   "topic": "Mpox (Monkeypox)",
-  "category": "Communicable Disease / Zoonotic Disease / Global Health Emergency",
+  "category": "Communicable Disease / Zoonotic",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -116,7 +116,26 @@
       "Designated isolation facilities at AIIMS, government medical colleges",
       "Helpline: State health helplines + NCDC for case reporting guidance",
       "India does not have endemic mpox; all cases have been travel-related or contact-traced",
-      "Stigma: Mpox is NOT a disease only of any specific group; anyone with close contact with a case is at risk"
+      "Stigma: Mpox is NOT a disease only of any specific group; anyone with close contact with a case is at risk",
+      "Report suspected mpox cases to the National Centre for Disease Control (NCDC): 011-23921401. National Health Helpline: 104. Emergency: 112."
+    ],
+    "faqs": [
+      {
+        "question": "Is mpox the same as smallpox?",
+        "answer": "No. Mpox is related but distinct. Smallpox was eradicated in 1980. Mpox is milder than smallpox. However, swollen lymph nodes (not seen in smallpox) help differentiate mpox."
+      },
+      {
+        "question": "Is mpox only transmitted sexually?",
+        "answer": "No. While sexual contact was a major transmission route in the 2022 global outbreak, mpox can spread through any close skin-to-skin contact, contaminated materials, or animal bites. It is not classified as a sexually transmitted infection (STI) exclusively."
+      },
+      {
+        "question": "Can I get mpox from my pet?",
+        "answer": "Animals can in theory be infected by mpox from humans or the environment. Avoid contact with your pets while you are symptomatic with mpox."
+      },
+      {
+        "question": "How is mpox different from chickenpox?",
+        "answer": "Mpox: Lymph node swelling, deep lesions all at same stage, rash starts on face before body, palms and soles affected. Chickenpox: No lymph node swelling, lesions at different stages, starts on trunk, rarely on palms/soles."
+      }
     ]
   }
 }

@@ -2,9 +2,9 @@
   "doc_id": "who_women_s_health_and_maternal_health_awareness_226",
   "title": "Women's Health and Maternal Health Awareness",
   "source_name": "NHM India",
-  "source_url": "",
+  "source_url": "https://nhm.gov.in | https://www.who.int/health-topics/maternal-health",
   "topic": "Women's Health and Maternal Health Awareness",
-  "category": "Maternal & Child Health / Preventive Care",
+  "category": "Maternal and Child Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -103,6 +103,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "What free maternal health services are available to all pregnant women in India?",
+        "answer": "Under JSSK (Janani Shishu Suraksha Karyakram): free delivery (normal and caesarean), free medicines, free diagnostics, free diet in hospital, free blood transfusion, and free transport to hospital and home. Under JSY: cash incentive for institutional delivery for eligible women. ANC visits are free at all government health centres."
+      },
+      {
+        "question": "How many antenatal check-ups are recommended during pregnancy?",
+        "answer": "WHO recommends at least 8 ANC contacts during pregnancy. India's guidelines recommend minimum 4 ANC visits: before 12 weeks, 14-26 weeks, 28-34 weeks, and 36+ weeks. Each visit includes blood pressure, haemoglobin check, ultrasound (as recommended), and free IFA tablets."
+      },
+      {
+        "question": "Is vaginal discharge always a sign of infection during pregnancy?",
+        "answer": "A small amount of clear or white, mild-smelling discharge is normal throughout pregnancy. However, report to a doctor if: discharge is green, yellow, or grey; has a strong fishy odour; causes itching or burning; or if there is a large amount of watery discharge (possible rupture of membranes — emergency)."
+      },
+      {
+        "question": "What is the safest spacing between pregnancies in India?",
+        "answer": "WHO recommends at least 24 months (2 years) between delivery and the next conception, and at least 6 months after a miscarriage. Shorter birth intervals increase risks of preterm birth, low birth weight, and maternal anaemia. Free family planning counselling and contraceptives at all government health centres."
+      }
     ]
   }
 }

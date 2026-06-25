@@ -1,5 +1,5 @@
 TOPIC: Malaria
-CATEGORY: Communicable / Infectious Disease / Vector-Borne
+CATEGORY: Communicable Disease / Vector-Borne
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/malaria
 LAST UPDATED: December 2025
 
@@ -100,3 +100,16 @@ This is awareness information only. Malaria treatment must be prescribed by a qu
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can I get malaria from a vaccinated area?
+A: Malaria is spread by mosquitoes, not from person to person. If you are in a malaria-endemic area, you are at risk regardless of your vaccination status (there is no widely available malaria vaccine in India yet). Use bed nets, repellent, and antimalarials if recommended by a doctor for high-risk areas.
+
+Q: What is the difference between falciparum and vivax malaria?
+A: P. falciparum is the most dangerous type — can cause cerebral malaria and death within 24-48 hours if untreated. P. vivax is less immediately dangerous but can cause relapses months or years later from dormant liver stages. Both require prompt treatment — falciparum is a medical emergency.
+
+Q: Is free malaria testing available in India?
+A: Yes. Rapid Diagnostic Tests (RDTs) and blood smear microscopy are available free at all government PHCs, CHCs, and hospitals, especially in endemic areas. ASHA workers in endemic areas carry RDT kits for doorstep testing. Do not delay testing if you have fever in a malaria area.
+
+Q: Can malaria return after successful treatment?
+A: P. vivax malaria can relapse after apparent cure because the parasite can remain dormant in the liver. Treatment with primaquine is given to prevent relapses. Primaquine must not be given to pregnant women or G6PD deficient individuals — a doctor will test first.

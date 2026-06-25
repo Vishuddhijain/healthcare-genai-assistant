@@ -81,3 +81,16 @@ Globally over 600 million people are estimated to be infected by S. stercoralis 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Are intestinal worms common in Indian children?
+A: Yes, very common. Soil-transmitted helminths (roundworm, hookworm, whipworm) affect hundreds of millions of people in India, particularly children in rural areas with poor sanitation. They cause anaemia, malnutrition, impaired cognitive development, and stunted growth.
+
+Q: What are the signs of worm infection in children?
+A: Abdominal pain and discomfort, poor appetite, weight loss, bloated abdomen, anaemia (paleness, weakness — especially hookworm), nutritional deficiency, occasionally worms visible in stool. Many infections are asymptomatic but still cause nutritional harm.
+
+Q: Is deworming free for children in India?
+A: Yes. Albendazole tablets are provided free to children aged 1-19 years twice yearly under the National Deworming Day (Rashtriya Krimi Mukt Bharat Abhiyan). This is one of the most cost-effective child health interventions. Ensure your child receives deworming tablets at school or Anganwadi.
+
+Q: How can I prevent worm infections in my family?
+A: Wash hands with soap before eating and after using the toilet. Cook food thoroughly. Wash fruits and vegetables well. Use a toilet — avoid open defecation. Wear footwear to prevent hookworm entry through feet. Drink safe water. These simple measures prevent most worm infections.

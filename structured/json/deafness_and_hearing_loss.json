@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss",
   "topic": "Deafness and Hearing Loss",
-  "category": "Sensory Health / Disability",
+  "category": "Disability and Rehabilitation",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -90,6 +90,20 @@
       "ADIP Scheme: Free hearing aids for people with disability below poverty line.",
       "RBSK (Rashtriya Bal Swasthya Karyakram): Screening children for hearing loss at birth and during school years.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is cotton bud cleaning safe for ears?",
+        "answer": "No. Cotton buds push wax deeper, can damage the eardrum, and cause infections. The ear is self-cleaning. Use cotton buds only on the outer ear opening."
+      },
+      {
+        "question": "Can hearing loss from earphones be reversed?",
+        "answer": "Noise-induced hearing loss is generally permanent. Prevention is key. Lower your volume and limit listening time."
+      },
+      {
+        "question": "At what age does hearing naturally decline?",
+        "answer": "Age-related hearing loss (presbycusis) typically begins around 60 years and is gradual. Regular hearing checks from age 60 are recommended."
+      }
     ]
   }
 }

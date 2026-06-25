@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/tungiasis",
   "topic": "Tungiasis",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "28 April 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -60,6 +60,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is tungiasis and is it found in India?",
+        "answer": "Tungiasis is a skin disease caused by the jigger flea (Tunga penetrans), which burrows into the skin — usually the feet — causing painful lesions. It is primarily found in sub-Saharan Africa and Latin America. Sporadic cases have been reported in India among returned travellers from endemic areas."
+      },
+      {
+        "question": "What are the symptoms of tungiasis?",
+        "answer": "A white or black dot-like lesion (the embedded flea) on the feet or toes, surrounded by inflamed skin, causing intense pain and itching. Secondary bacterial infections are common and can be serious. The flea can be seen as a white oval with a dark breathing pore."
+      },
+      {
+        "question": "How is tungiasis treated?",
+        "answer": "Surgical extraction of the embedded flea by a trained healthcare provider, followed by wound care and tetanus prophylaxis if needed. Do not try to remove the flea at home — incomplete removal increases infection risk. Antibiotics for secondary infection."
+      },
+      {
+        "question": "How can I prevent tungiasis when travelling to endemic areas?",
+        "answer": "Wear closed shoes at all times — do not walk barefoot on soil or sand in endemic areas (sub-Saharan Africa, South America). Use insect repellent on feet and lower legs. Inspect feet regularly for early lesions."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/lassa-fever",
   "topic": "Lassa Fever",
-  "category": "Communicable Disease (Viral Haemorrhagic Fever / Zoonotic)",
+  "category": "Communicable Disease / Viral Haemorrhagic",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -65,6 +65,24 @@
       "Not endemic in India; NCDC (ncdc.gov.in) and IDSP handle imported VHF cases",
       "International Health Regulations (IHR 2005) require reporting of suspect imported cases",
       "Report to NCDC Emergency Operations Centre: 011-23978046"
+    ],
+    "faqs": [
+      {
+        "question": "Has Lassa fever occurred in India?",
+        "answer": "Lassa fever is endemic to West Africa (Nigeria, Sierra Leone, Guinea, Liberia). There are no known cases indigenous to India. However, it can be imported through travellers from endemic areas, and India has airport surveillance for viral haemorrhagic fevers."
+      },
+      {
+        "question": "How does Lassa fever spread?",
+        "answer": "Lassa virus is carried by the Mastomys rat (multimammate rat). Humans are infected through contact with rat urine, faeces, or through eating contaminated food. Person-to-person spread is possible through direct contact with blood or body fluids of infected individuals."
+      },
+      {
+        "question": "What are the warning signs of Lassa fever?",
+        "answer": "Fever, weakness, headache, sore throat, followed by nausea, vomiting, diarrhoea, chest pain, and in severe cases haemorrhage. 80% of infections are mild. Severe disease causes hearing loss (even after recovery in 25% of cases), shock, and multi-organ failure."
+      },
+      {
+        "question": "Is Lassa fever treatable?",
+        "answer": "Antiviral drug ribavirin is effective, especially when given early. Supportive care is critical. Healthcare workers must use full personal protective equipment. Report any suspected case of viral haemorrhagic fever in a traveller from West Africa to the nearest government hospital and district health authority immediately."
+      }
     ]
   }
 }

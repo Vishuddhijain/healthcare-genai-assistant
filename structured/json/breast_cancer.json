@@ -78,6 +78,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What age should women start breast self-examination?",
+        "answer": "Women should start monthly breast self-examination from age 20. Choose the same time each month (1 week after your period ends). Report any new lump, skin change, nipple discharge, or persistent pain to a doctor promptly. Early detection significantly improves outcomes."
+      },
+      {
+        "question": "Is breast cancer hereditary?",
+        "answer": "About 5-10% of breast cancers are hereditary (BRCA1/BRCA2 gene mutations). Having a first-degree relative (mother, sister, daughter) with breast cancer roughly doubles your risk. If you have strong family history, discuss genetic counselling with a doctor."
+      },
+      {
+        "question": "Is breast cancer screening free in India?",
+        "answer": "Clinical breast examination is available free at Ayushman Bharat Health and Wellness Centres for women 30+. Mammography is available at government medical college hospitals, often at subsidised rates. PM-JAY covers breast cancer treatment at empanelled hospitals."
+      },
+      {
+        "question": "Can men get breast cancer?",
+        "answer": "Yes, though rare (less than 1% of all breast cancers). Men can develop breast cancer. Warning signs are the same: lump in the chest, nipple discharge, or skin changes. Men who notice these changes should see a doctor."
+      }
     ]
   }
 }

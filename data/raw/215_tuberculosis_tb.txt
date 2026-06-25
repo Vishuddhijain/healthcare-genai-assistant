@@ -1,5 +1,5 @@
 TOPIC: Tuberculosis (TB)
-CATEGORY: Communicable / Infectious Disease
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/tuberculosis
 LAST UPDATED: March 2026
 
@@ -85,3 +85,17 @@ TB treatment must be supervised by a healthcare provider. Never stop medication 
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+- NTEP free TB treatment and testing: available at all government PHCs and hospitals. Nikshay Poshan Yojana support: 1800-11-6666. National Health Helpline: 104.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How long does TB treatment take and can I stop early?
+A: Standard drug-sensitive TB treatment takes 6 months (2 months of 4 drugs + 4 months of 2 drugs). You must complete the FULL 6-month course even if you feel completely better. Stopping early leaves resistant bacteria, leading to MDR-TB which requires 18-24 months of much harder treatment. Never stop TB medication without your doctor's guidance.
+
+Q: Is TB treatment really free in India?
+A: Yes. Complete TB diagnosis and treatment is free under the National TB Elimination Programme (NTEP) at all government PHCs and hospitals. Free medications, diagnostic tests (sputum, X-ray, GeneXpert), and monthly nutritional support (₹500 under Nikshay Poshan Yojana) are provided.
+
+Q: Can I catch TB from a patient on treatment?
+A: After 2 weeks of effective treatment, a TB patient becomes non-infectious (cannot spread TB). Before that, the patient should wear a mask and limit close contact in enclosed spaces. Treatment is the most effective way to stop TB transmission.
+
+Q: What is MDR-TB and how does it happen?
+A: MDR-TB (Multi-Drug Resistant TB) develops when the TB bacteria become resistant to the two most powerful first-line drugs (isoniazid and rifampicin). This happens when people take incomplete or incorrect treatment. MDR-TB requires 18-24 months of treatment with more toxic drugs. Prevention: complete the full 6-month standard course.

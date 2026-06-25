@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/abuse-of-older-people",
   "topic": "Abuse of older people",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "15 June 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -54,6 +54,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What counts as elder abuse?",
+        "answer": "Elder abuse includes physical, emotional, sexual, and financial harm, as well as neglect of older people by caregivers or family members. It can happen at home, in care facilities, or in the community. Any act causing harm to an older person against their will is abuse."
+      },
+      {
+        "question": "Where can I report elder abuse in India?",
+        "answer": "You can call the Elder Helpline 14567 (free, pan-India), contact local police, or reach out to NGOs like HelpAge India (1800-180-1253). The Maintenance and Welfare of Parents and Senior Citizens Act 2007 protects elderly persons' rights in India."
+      },
+      {
+        "question": "How do I help an elderly family member who is being abused?",
+        "answer": "Listen without judgment, document signs of abuse (injuries, behavioural changes), and contact the Elder Helpline 14567 or local police. Encourage the person to speak to a trusted social worker or doctor. Do not confront the abuser directly if it may put the elderly person at risk."
+      },
+      {
+        "question": "Is financial exploitation of elderly a crime in India?",
+        "answer": "Yes. Financially exploiting an elderly person (theft, fraud, coercing them to sign documents) is a criminal offence under Indian law. The Maintenance and Welfare of Parents and Senior Citizens Act 2007 also entitles elderly parents to maintenance from children."
+      }
     ]
   }
 }

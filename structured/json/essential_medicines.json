@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/essential-medicines",
   "topic": "Essential medicines",
-  "category": "Health Systems / Medicines Awareness",
+  "category": "Health Systems",
   "last_updated": "26 January 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -55,6 +55,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are essential medicines and why do they matter?",
+        "answer": "Essential medicines are those that satisfy the priority healthcare needs of a population â selected based on disease burden, effectiveness, safety, and cost. The WHO Essential Medicines List guides countries in ensuring access. India has its own National List of Essential Medicines (NLEM)."
+      },
+      {
+        "question": "Are essential medicines free in India?",
+        "answer": "Yes. Essential medicines on the NLEM are available free at government hospitals and PHCs. The Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) provides generic essential medicines at 50-90% lower cost at Jan Aushadhi Kendras (over 10,000 across India)."
+      },
+      {
+        "question": "How do I find a Jan Aushadhi Kendra near me?",
+        "answer": "Use the Jan Aushadhi app or visit janaushadhi.gov.in to locate the nearest Jan Aushadhi Kendra. Generic medicines here are chemically equivalent to branded medicines but at a fraction of the cost. Ask your doctor to prescribe generics."
+      },
+      {
+        "question": "Why are generic medicines cheaper than branded ones? Are they as effective?",
+        "answer": "Generic medicines contain the same active ingredient in the same dose as branded medicines and meet the same quality standards. They are cheaper because manufacturers don't spend on original research or marketing. CDSCO-approved generics are safe and equally effective."
+      }
     ]
   }
 }

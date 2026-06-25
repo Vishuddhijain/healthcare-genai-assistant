@@ -1,5 +1,5 @@
 TOPIC: Buruli ulcer (Mycobacterium ulcerans infection)
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/buruli-ulcer-(mycobacterium-ulcerans-infection)
 LAST UPDATED: 12 January 2023
 
@@ -80,3 +80,16 @@ The annual number of cases can be found under Global Health Observatory .
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is Buruli ulcer found in India?
+A: Buruli ulcer cases have been reported sporadically in India, primarily in tribal communities in some states. It is more common in West Africa. Globally it is classified as a neglected tropical disease.
+
+Q: How does Buruli ulcer spread?
+A: The exact mode of transmission is not fully established, but it is thought to involve environmental exposure to Mycobacterium ulcerans, possibly through insect bites or contact with contaminated water in tropical environments.
+
+Q: What does a Buruli ulcer look like?
+A: It typically begins as a painless nodule or swelling, then progresses to a large, painless ulcer with irregular undermined edges. The lack of pain is deceptive â the infection can cause extensive tissue destruction. See a doctor immediately for any non-healing skin ulcer.
+
+Q: Is Buruli ulcer treatable?
+A: Yes. WHO recommends an 8-week course of oral antibiotics (rifampicin + clarithromycin or streptomycin). Early treatment prevents severe tissue destruction and the need for surgery. Free treatment is available at government hospitals with tropical disease expertise.

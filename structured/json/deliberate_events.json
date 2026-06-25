@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/deliberate-events",
   "topic": "Deliberate events",
-  "category": "Emergency Preparedness",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "2 April 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -46,6 +46,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are deliberate events in the context of public health?",
+        "answer": "Deliberate events refer to intentional release of chemical, biological, radiological, or nuclear (CBRN) agents to harm people â including bioterrorism, chemical attacks, and radiological incidents. Public health systems maintain preparedness plans for such events."
+      },
+      {
+        "question": "What should I do if I suspect a deliberate release of a harmful substance?",
+        "answer": "Evacuate the area immediately, avoid touching any suspicious substances, call emergency services (112), inform authorities about the location and nature of the suspected incident. Do not re-enter the area without clearance from emergency responders."
+      },
+      {
+        "question": "Is India prepared for bioterrorism threats?",
+        "answer": "India has the National Disaster Management Authority (NDMA) and the National Centre for Disease Control (NCDC) with plans for CBRN threats. India is also a signatory to the Biological Weapons Convention (BWC). Surveillance systems monitor for unusual disease clusters."
+      },
+      {
+        "question": "How would the public be notified of a deliberate health threat?",
+        "answer": "Public notifications would come through official government channels â All India Radio, Doordarshan, official state government alerts, and emergency broadcast systems. Always rely on official sources during any suspected public health emergency."
+      }
     ]
   }
 }

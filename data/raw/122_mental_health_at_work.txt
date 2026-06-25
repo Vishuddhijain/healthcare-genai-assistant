@@ -1,5 +1,5 @@
 TOPIC: Mental Health at Work
-CATEGORY: Mental Health / Occupational Health
+CATEGORY: Mental Health / Occupational
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work | NIMHANS - nimhans.ac.in
 LAST UPDATED: 2024
 
@@ -107,3 +107,16 @@ This information is for health awareness only. Workplace mental health concerns 
 
 --- WHEN TO SEE A DOCTOR ---
 - Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is workplace stress a mental health issue in India?
+A: Yes. Workplace stress, burnout, and mental health conditions significantly affect Indian workers — especially in high-pressure sectors like IT, banking, healthcare, and gig work. India's National Mental Health Programme recognises workplace mental health as a priority area.
+
+Q: Do Indian employers have any mental health obligations?
+A: The Mental Healthcare Act 2017 establishes rights of persons with mental illness, including non-discrimination in employment. While specific workplace mental health regulations are still evolving, progressive organisations implement Employee Assistance Programmes (EAPs) with counselling services.
+
+Q: What is burnout and how is it different from stress?
+A: Burnout (recognised by WHO in ICD-11 as an occupational phenomenon) is a state of chronic workplace stress that has not been managed successfully, resulting in exhaustion, mental distance from work, and reduced professional efficacy. Unlike occasional stress, burnout is prolonged and requires significant intervention.
+
+Q: What can I do if I am experiencing mental health problems at work?
+A: Talk to a trusted colleague or HR. Use Employee Assistance Programme (EAP) if available. Call iCall (9152987821) or Tele MANAS (14416) for free counselling. Take sick leave when needed — mental health is a valid reason for medical leave under Indian law. Consult a psychiatrist for formal evaluation.

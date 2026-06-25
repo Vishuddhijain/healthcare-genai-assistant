@@ -1,5 +1,5 @@
 TOPIC: Universal health coverage (UHC)
-CATEGORY: Government Schemes / Health Systems
+CATEGORY: Government Health Schemes
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc)
 LAST UPDATED: 5 December 2025
 
@@ -57,3 +57,16 @@ Achieving UHC is one of the targets the nations of the world set when they adopt
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is Universal Health Coverage (UHC) and does India have it?
+A: UHC means all people can access quality health services without financial hardship. India has made significant progress with PM-JAY, HWCs, and government hospitals, but full UHC is not yet achieved — gaps remain in coverage, quality, and financial protection, especially for the middle class and informal sector.
+
+Q: What should I do if I cannot afford healthcare in India?
+A: Check PM-JAY eligibility at pmjay.gov.in (covers poorest 40%). Use government hospitals (free basic care). Jan Aushadhi Kendras for cheap medicines. Rashtriya Arogya Nidhi for serious illness in BPL patients. State government schemes (Aarogyasri, Karunya, Biju Swasthya Kalyan Yojana). Call 104 for health guidance.
+
+Q: Is the out-of-pocket expenditure for healthcare high in India?
+A: Yes, significantly. India has one of the highest out-of-pocket health expenditure rates in the world — approximately 55% of total health expenditure is paid directly by patients. This causes financial catastrophe for 5-7% of Indian households annually. PM-JAY and UHC expansion aim to reduce this.
+
+Q: How does India compare to other countries on UHC?
+A: India's UHC Service Coverage Index (SCI) has improved significantly but remains below the global median. Countries like Thailand and Sri Lanka (with lower GDPs) have achieved stronger UHC. India's healthcare spending as % of GDP (1.2-1.5%) is among the lowest — increased public investment is essential for UHC.

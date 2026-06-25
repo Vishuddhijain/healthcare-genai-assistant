@@ -105,7 +105,11 @@ This file lists all sources used to compile the healthcare knowledge base for th
 | 094_human_t_lymphotropic_virus_1.txt | Human T-lymphotropic virus-1 | WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1 | https://www.who.int/news-room/fact-sheets/detail/human-t-lymphotropic-virus-type-1 |
 | 095_hypertension_high_blood_pressure.txt | Hypertension (High Blood Pressure) | WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/hypertension | https://www.who.int/news-room/fact-sheets/detail/hypertension |
 | 096_icd_11.txt | ICD-11 | WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/icd-11 | https://www.who.int/news-room/fact-sheets/detail/icd-11 |
-| 097_indian_government_health_schemes_and_public_resources.txt | Indian Government Health Schemes and Public Resources | NHM - nhm.gov.in / NHA - nha.gov.in / MoHFW - mohfw.gov.in / pmjay.gov.in | See file source metadata |
+| 097_indian_government_health_schemes_and_public_resources.txt | Indian Government Health Schemes and Public Resources (Overview) | NHM - nhm.gov.in / NHA - nha.gov.in / MoHFW - mohfw.gov.in / pmjay.gov.in | See file source metadata |
+| 097b_health_insurance_and_financial_protection_schemes.txt | Indian Government Health Insurance and Financial Protection Schemes | NHA - nha.gov.in / pmjay.gov.in / mohfw.gov.in | https://pmjay.gov.in<br>https://nha.gov.in<br>https://mohfw.gov.in |
+| 097c_maternal_child_and_adolescent_health_schemes.txt | Indian Government Maternal, Child, and Adolescent Health Schemes | NHM - nhm.gov.in | https://nhm.gov.in/index1.php?lang=1&level=1&sublinkid=969&lid=309 |
+| 097d_disease_control_immunisation_and_primary_care_schemes.txt | Indian Government Disease Control, Immunisation, and Primary Care Schemes | NHM - nhm.gov.in / NVBDCP - nvbdcp.gov.in / NTEP - ntep.in | https://nhm.gov.in<br>https://nvbdcp.gov.in<br>https://ntep.in |
+| 097e_sanitation_nutrition_elderly_and_disability_welfare_schemes.txt | Indian Government Sanitation, Nutrition, Elderly Care, and Disability Welfare Schemes (Health-Related) | Swachh Bharat Mission - swachhbharatmission.gov.in / POSHAN Abhiyaan - poshan.gov.in / DEPwD - socialjustice.gov.in | https://swachhbharatmission.gov.in<br>https://poshan.gov.in<br>https://socialjustice.gov.in |
 | 098_infant_and_young_child_feeding_breastfeeding_and_complementary_feeding.txt | Infant and Young Child Feeding (Breastfeeding and Complementary Feeding) | WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding / NHP India / POSHAN Abhiyaan - poshan.gov.in | https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding |
 | 099_infertility_causes_awareness_and_support.txt | Infertility — Causes, Awareness, and Support | WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/infertility | https://www.who.int/news-room/fact-sheets/detail/infertility |
 | 100_influenza_seasonal_and_avian_h5n1_h1n1.txt | Influenza — Seasonal and Avian (H5N1, H1N1) | WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal) / https://www.who.int/news-room/fact-sheets/detail/influenza-(avian-and-other-zoonotic) / MoHFW India | https://www.who.int/news-room/fact-sheets/detail/influenza-(avian-and-other-zoonotic)<br>https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal) |
@@ -243,9 +247,9 @@ This file lists all sources used to compile the healthcare knowledge base for th
 
 ---
 
-## Topics Covered (231 files)
+## Topics Covered (235 files)
 
-The raw knowledge-base files are numbered in alphabetical order by topic title.
+The raw knowledge-base files are numbered in alphabetical order by topic title. File 097 (Indian Government Health Schemes and Public Resources) was expanded from a single generic overview into a focused overview plus four detailed sub-files (097b–097e) covering health insurance/financial protection, maternal/child/adolescent health, disease control/immunisation/primary care, and sanitation/nutrition/elderly/disability welfare schemes — reflecting the breadth of the 300+ schemes listed under the Health & Wellness category on india.gov.in.
 
 ## Data Collection Method
 

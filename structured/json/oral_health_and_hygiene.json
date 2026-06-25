@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + NHP India + NHM Oral Health",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/oral-health",
   "topic": "Oral Health and Hygiene",
-  "category": "Non-Communicable Disease (Oral / Dental Health)",
+  "category": "Non-Communicable Disease / Oral Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -128,6 +128,24 @@
       "AYUSH integration: Promotion of traditional practices like oil pulling (as adjunct, not replacement for modern oral care)",
       "National Tobacco Cessation Programme: Quit tobacco helpline — 1800-11-2356 (toll-free)",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "How often should I brush my teeth and what is the correct technique?",
+        "answer": "Brush twice daily — morning and before bed. Use a soft-bristled toothbrush and fluoride toothpaste. Brush for 2 minutes using gentle circular motions covering all tooth surfaces. Replace your toothbrush every 3 months. Floss daily to clean between teeth."
+      },
+      {
+        "question": "Is oral health connected to overall body health?",
+        "answer": "Yes, significantly. Gum disease (periodontitis) is linked to heart disease, diabetes, preterm birth, and respiratory infections. Poor oral health indicates and worsens systemic conditions. Oral health is truly a window to overall health."
+      },
+      {
+        "question": "Is free dental treatment available in India?",
+        "answer": "Government dental colleges and teaching hospitals provide dental treatment at very low cost. Many PHCs and CHCs have dental clinics. Emergency tooth extraction, fillings, and basic treatment are available at government facilities. Contact your district health office for the nearest government dental facility."
+      },
+      {
+        "question": "How do I prevent tooth decay in children?",
+        "answer": "Fluoride toothpaste from first tooth. Limit sugary foods and drinks (especially juices and sweets). No bottle feeding at night (causes nursing bottle caries). First dental visit by age 1. Dental sealants for school-age children reduce cavities by 80%. Regular dental check-ups every 6 months."
+      }
     ]
   }
 }

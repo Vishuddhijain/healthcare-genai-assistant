@@ -1,5 +1,5 @@
 TOPIC: Civil registration and vital statistics
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/civil-registration-and-vital-statistics
 LAST UPDATED: 27 February 2024
 
@@ -67,3 +67,16 @@ Birth registration provides a basis for social inclusion and individual legal id
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Why is birth registration important for health?
+A: A birth certificate is the primary legal identity document. It enables access to education, healthcare, government schemes (PM-JAY, PM Matru Vandana Yojana), vaccination records, and legal protections. Unregistered children are invisible to the health system.
+
+Q: How do I register a birth in India?
+A: Register at your local Municipal Corporation, Gram Panchayat, or hospital (if born there). Registration should be done within 21 days of birth. Free registration at government hospitals immediately after delivery. The Birth and Deaths Registration Act 1969 governs this process.
+
+Q: What is the use of death registration?
+A: Death registration enables families to access legal benefits, inheritance, and pension claims. It also generates vital statistics data that governments use to plan public health services and allocate resources for disease control.
+
+Q: How do vital statistics help in disease control?
+A: Accurate birth and death data helps identify disease patterns, track mortality causes, and design targeted public health interventions. For example, high infant mortality in a district triggers targeted nutrition and vaccination programmes. Good data = better health policy.

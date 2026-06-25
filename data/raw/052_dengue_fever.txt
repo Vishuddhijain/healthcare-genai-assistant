@@ -1,5 +1,5 @@
 TOPIC: Dengue Fever
-CATEGORY: Communicable Disease (Vector-Borne)
+CATEGORY: Communicable Disease / Vector-Borne
 SOURCE: WHO Fact Sheet + NHP India - https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue | https://nhp.gov.in/disease/communicable-disease/dengue
 LAST UPDATED: 2024
 
@@ -95,3 +95,16 @@ This information is for health awareness only. Do not self-diagnose or self-medi
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is dengue contagious â can I get it from a dengue patient?
+A: No. Dengue does NOT spread directly from person to person. It spreads only through the bite of an infected Aedes mosquito. You cannot get dengue by touching, hugging, or sharing food with a dengue patient.
+
+Q: My platelet count is 80,000. Should I be admitted?
+A: Platelet count alone does not determine admission â clinical signs matter more. Active bleeding, severe abdominal pain, persistent vomiting, or warning signs despite normal-looking platelet count need hospitalisation. Always follow your doctor's assessment, not platelet numbers alone.
+
+Q: Can I eat papaya leaves for dengue?
+A: Papaya leaf extract is popular in India for dengue but evidence is limited and inconsistent. It has not been proven to significantly raise platelets in clinical trials. Do not delay medical care in favour of home remedies. Always inform your doctor about any herbal treatments.
+
+Q: How long does dengue fever last?
+A: Dengue typically lasts 7-10 days. Fever usually breaks around day 4-5. Warning signs most commonly occur between days 4-6 when fever drops â monitor closely during this period. Severe fatigue can persist for weeks after recovery.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/low-back-pain",
   "topic": "Low Back Pain",
-  "category": "Non-Communicable Disease (Musculoskeletal)",
+  "category": "Non-Communicable Disease / Musculoskeletal",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -86,7 +86,26 @@
       "Manual labourers (construction, agriculture, load-carrying) at high occupational risk",
       "Yoga, widely practised in India, has evidence-based benefit for chronic LBP",
       "Physiotherapy services available at government hospitals (often under-utilised)",
-      "Avoid unnecessary spinal surgery — second opinions recommended for surgical recommendations without red flags"
+      "Avoid unnecessary spinal surgery — second opinions recommended for surgical recommendations without red flags",
+      "For physiotherapy at government hospitals, contact your nearest district hospital or call 104. National Health Helpline: 104."
+    ],
+    "faqs": [
+      {
+        "question": "Is bed rest the best treatment for low back pain?",
+        "answer": "No — this is a common myth. Prolonged bed rest actually worsens most low back pain. Staying active, gentle movement, and stretching are recommended. Specific exercises prescribed by a physiotherapist are the most effective treatment for most low back pain."
+      },
+      {
+        "question": "What causes most low back pain in India?",
+        "answer": "Most low back pain is non-specific (no identifiable structural cause) — related to muscle strain, poor posture, sedentary behaviour, heavy lifting, and excess weight. Occupational factors (construction workers, farmers, IT professionals sitting long hours) are major contributors in India."
+      },
+      {
+        "question": "When should I see a doctor for back pain?",
+        "answer": "See a doctor if: pain follows a fall or injury, pain is severe and not improving, pain radiates down the leg below the knee (possible nerve involvement), pain is associated with bladder or bowel problems, or you have fever with back pain (possible infection)."
+      },
+      {
+        "question": "How can I prevent low back pain?",
+        "answer": "Maintain a healthy weight, strengthen core muscles (yoga, specific exercises), use correct lifting technique (bend knees, not the back), take regular breaks from sitting (every 30-45 minutes), use an ergonomic chair, and sleep on a firm mattress. Physiotherapy can teach proper technique."
+      }
     ]
   }
 }

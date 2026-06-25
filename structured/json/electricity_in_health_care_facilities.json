@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/electricity-in-health-care-facilities",
   "topic": "Electricity in health-care facilities",
-  "category": "Health Systems / Facility Safety",
+  "category": "Health Systems",
   "last_updated": "31 August 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -53,6 +53,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Why is electricity reliability in hospitals important for patient health?",
+        "answer": "Reliable electricity powers life-saving equipment (ventilators, operating theatres, ICUs, imaging machines), preserves vaccines and medicines requiring refrigeration, maintains lighting for safe procedures, and powers communication systems. Electricity failure in hospitals directly costs lives."
+      },
+      {
+        "question": "What happens to vaccines if power fails in government health centres?",
+        "answer": "Vaccines must be stored at specific temperatures (2-8Â°C). Power failure disrupts the cold chain, potentially rendering vaccines ineffective. Government health centres have backup generators and cold boxes for this purpose. Report power failures at your local health centre to the district health officer."
+      },
+      {
+        "question": "Is there a government programme to ensure electricity in health facilities?",
+        "answer": "Yes. The National Health Mission (NHM) includes infrastructure strengthening with reliable power supply. The PM-KUSUM scheme promotes solar power for rural health facilities. Many PHCs and CHCs now have solar backup systems."
+      },
+      {
+        "question": "What can patients do if a health facility has poor electricity?",
+        "answer": "Report to the Block Medical Officer or District Health Officer. You can also contact the State Health Department helpline or file a complaint through the public grievance portal (pgportal.gov.in). Reliable electricity in health facilities is your right."
+      }
     ]
   }
 }

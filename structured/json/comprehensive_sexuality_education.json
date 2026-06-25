@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/comprehensive-sexuality-education",
   "topic": "Comprehensive sexuality education",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "11 March 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -57,6 +57,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is comprehensive sexuality education (CSE) and why is it important?",
+        "answer": "CSE provides age-appropriate education about human development, reproduction, relationships, sexual health, and rights. It helps young people make informed decisions, prevents STIs and unintended pregnancy, and promotes gender equality. Evidence shows CSE delays sexual debut and reduces risk behaviours."
+      },
+      {
+        "question": "Is sexuality education taught in Indian schools?",
+        "answer": "India's Adolescence Education Programme (AEP) provides some reproductive health education in schools. However, comprehensive sexuality education is limited and varies by state. Many students lack access to accurate information, making them vulnerable to misinformation."
+      },
+      {
+        "question": "How can parents discuss sexual health with their adolescent children?",
+        "answer": "Start conversations early and use simple, factual, non-judgmental language. Normalise questions about puberty and relationships. Use books and trusted online resources as conversation starters. Emphasise consent, respect, and safety. Your openness encourages teens to come to you with concerns."
+      },
+      {
+        "question": "Where can young people get reliable sexual health information in India?",
+        "answer": "Saathiya Resource Kit (government programme), iCall (9152987821), TARSHI (tarshi.net), Love Matters India (lovematters.in), and Sangath (sangath.in) provide reliable, youth-friendly sexual health information in multiple Indian languages."
+      }
     ]
   }
 }

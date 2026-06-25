@@ -66,6 +66,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Has MERS-CoV occurred in India?",
+        "answer": "India has not reported MERS-CoV cases, but given significant travel between India and the Arabian Peninsula, preparedness is maintained. Airport screening and health advisories are in place for travellers from affected regions."
+      },
+      {
+        "question": "How does MERS-CoV spread?",
+        "answer": "MERS-CoV spreads from dromedary camels to humans (primary zoonotic source), and then through close contact with infected humans (respiratory droplets). Sustained human-to-human transmission has mainly occurred in hospital settings. It does not spread as easily as COVID-19."
+      },
+      {
+        "question": "What should I do if I develop fever and respiratory symptoms after visiting the Middle East?",
+        "answer": "Inform the doctor about your travel history immediately. MERS-CoV should be considered in patients with pneumonia who have been in the Arabian Peninsula within 14 days. Isolate and avoid contact with others while seeking medical attention."
+      },
+      {
+        "question": "Is there a vaccine or treatment for MERS?",
+        "answer": "There is no approved vaccine or specific antiviral treatment for MERS-CoV. Management is supportive care. Experimental vaccines are in development. Prevention in endemic areas: avoid contact with camels, do not consume raw camel milk or undercooked camel meat."
+      }
     ]
   }
 }

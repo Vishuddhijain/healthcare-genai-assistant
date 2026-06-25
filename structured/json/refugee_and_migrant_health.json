@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/refugee-and-migrant-health",
   "topic": "Refugee and migrant health",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "25 March 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -60,6 +60,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What health challenges do migrants and refugees face in India?",
+        "answer": "Internal migrants in India face barriers to healthcare access due to lack of local address proof, unfamiliarity with local health systems, language barriers, poverty, and discrimination. They may miss out on maternal care, child immunisation, and treatment for chronic conditions when they relocate."
+      },
+      {
+        "question": "Can migrants access government health services across states?",
+        "answer": "Yes. Government hospitals must provide emergency care to all. PM-JAY can be used nationally at empanelled hospitals. ABHA health ID enables health records portability across India. However, access to free medicines at PHCs may still require local registration in some states — this is being addressed."
+      },
+      {
+        "question": "Are there health risks specific to migrant workers in India?",
+        "answer": "Yes. Circular migrants (seasonal workers) face disruption in TB treatment (causing MDR-TB), loss of immunisation records, poor maternal care, occupational hazards (construction, mining), mental health issues from social isolation, and food insecurity during migration."
+      },
+      {
+        "question": "What legal health protections do refugees in India have?",
+        "answer": "India has not signed the 1951 Refugee Convention. Refugees and asylum seekers in India (including Rohingya and Afghan refugees under UNHCR) have limited formal health rights protections, though UNHCR and NGOs provide healthcare support. Emergency care at government hospitals must be provided to all."
+      }
     ]
   }
 }

@@ -1,5 +1,5 @@
 TOPIC: Cancer Awareness (General + Oral Cancer)
-CATEGORY: Non-Communicable Disease (Oncology)
+CATEGORY: Non-Communicable Disease / Cancer
 SOURCE: WHO Fact Sheet + ICMR + NHP India - https://www.who.int/news-room/fact-sheets/detail/cancer | https://nhp.gov.in/disease/non-communicable-disease/cancer | icmr.gov.in/ncrp.html
 LAST UPDATED: 2024
 
@@ -147,3 +147,17 @@ This information is for health awareness only. Cancer screening and diagnosis mu
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+- For cancer screening at government HWCs, contact your nearest PHC or call 104. Ayushman Bharat PM-JAY helpline: 14555. Tobacco cessation helpline: 1800-11-2356 (free).
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the most common cancers in India?
+A: For men: oral/mouth cancer, lung cancer, colorectal cancer, and stomach cancer. For women: breast cancer, cervical cancer, and oral cancer. Tobacco use drives a large proportion of cancers in India â quitting is the single most powerful cancer prevention step.
+
+Q: What is the biggest cancer risk factor for Indians?
+A: Tobacco â in all forms (cigarettes, bidi, gutka, khaini, paan masala with tobacco) â is the leading cause of cancer in India, responsible for 27% of all cancer deaths. Quitting tobacco at any age significantly reduces cancer risk.
+
+Q: Is cancer treatment free in India?
+A: Ayushman Bharat PM-JAY covers cancer treatment costs up to â¹5 lakh at empanelled hospitals. Government hospitals like Tata Memorial Centre (Mumbai), AIIMS (Delhi), and regional cancer centres provide treatment to all. Rashtriya Arogya Nidhi provides financial assistance for very poor patients.
+
+Q: At what age should cancer screening start?
+A: Free screening at government HWCs: oral cancer and breast clinical examination from age 30; cervical cancer (VIA/Pap smear) from age 30-65. For colorectal cancer, colonoscopy screening begins at 45-50. People with family history should consult a doctor for earlier screening.

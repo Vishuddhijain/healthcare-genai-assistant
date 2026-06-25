@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/chagas-disease-(american-trypanosomiasis)",
   "topic": "Chagas disease (also known as American trypanosomiasis)",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "8 April 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -71,6 +71,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is Chagas disease found in India?",
+        "answer": "Chagas disease is primarily endemic to Latin America, not India. It is caused by Trypanosoma cruzi spread by triatomine bugs (kissing bugs). However, it can be imported through travellers. It is included in awareness files as India receives international travellers and migrants."
+      },
+      {
+        "question": "How does Chagas disease spread?",
+        "answer": "It spreads through the bite of infected triatomine bugs (which defecate near the bite wound), blood transfusion, organ transplant, from mother to child during pregnancy, and rarely through contaminated food. It does not spread through casual contact."
+      },
+      {
+        "question": "What are the symptoms of Chagas disease?",
+        "answer": "Acute phase (first weeks): fever, swelling near the bug bite, fatigue, rash, body aches. Chronic phase (years later, in 30% of patients): heart disease, enlarged oesophagus or colon. Many people have no symptoms in the acute phase."
+      },
+      {
+        "question": "Is Chagas disease treatable?",
+        "answer": "Yes, especially in the acute phase. Antiparasitic drugs (benznidazole, nifurtimox) are effective early on. Chronic-phase heart disease is managed with cardiac medications. Diagnosis and treatment at government tropical disease hospitals."
+      }
     ]
   }
 }

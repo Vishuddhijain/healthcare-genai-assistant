@@ -63,3 +63,16 @@ Respiratory syncytial virus (RSV) is an RNA virus that belongs to the Pneumoviri
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is RSV and who does it most affect?
+A: Respiratory Syncytial Virus (RSV) is a common respiratory virus that causes cold-like illness in adults but severe bronchiolitis (small airway inflammation) and pneumonia in infants and young children. Almost all children have RSV infection by age 2. It is a leading cause of hospitalisation in infants globally.
+
+Q: What are the warning signs of severe RSV in an infant?
+A: Rapid breathing (count breaths per minute), chest indrawing (ribs visible with each breath), bluish lips or skin, extreme difficulty feeding, exhaustion, and wheezing. These are emergency signs — go to hospital immediately or call 112.
+
+Q: Is there a vaccine for RSV?
+A: An RSV vaccine for adults 60+ (Arexvy, Abrysvo) was approved in 2023 and is being rolled out globally. A maternal RSV vaccine (Abrysvo) protects newborns through maternal antibodies. Nirsevimab (monoclonal antibody) protects high-risk infants. These are not yet part of India's UIP but availability is increasing.
+
+Q: How is RSV treated?
+A: For most infants: supportive care — ensure adequate hydration, keep nasal passages clear, monitor breathing. Hospitalisation for severe cases with supplemental oxygen and sometimes ventilatory support. Antibiotics are NOT effective (RSV is a virus). Free treatment at government hospitals for severe cases.

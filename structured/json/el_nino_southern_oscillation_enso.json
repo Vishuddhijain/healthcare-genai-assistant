@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/el-nino-southern-oscillation-(enso)",
   "topic": "El Niño Southern Oscillation (ENSO)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "9 November 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -55,6 +55,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How does El NiÃ±o affect health in India?",
+        "answer": "El NiÃ±o years typically bring below-normal rainfall to India, increasing drought and food insecurity. Below-average monsoon reduces agricultural output, affecting nutrition especially for the poorest. La NiÃ±a years bring above-normal rainfall, increasing flood and waterborne disease risk."
+      },
+      {
+        "question": "Does El NiÃ±o increase disease risk in India?",
+        "answer": "Yes. El NiÃ±o-related drought increases malnutrition, heat stress, and respiratory illness from dust. La NiÃ±a-related flooding increases diarrhoea, cholera, hepatitis E, leptospirosis, and vector-borne diseases (malaria, dengue). Both extremes affect water security and health."
+      },
+      {
+        "question": "How can communities prepare for El NiÃ±o health impacts?",
+        "answer": "Monitor IMD (India Meteorological Department) seasonal forecasts. Ensure safe water storage before monsoon changes. Stock ORS. Strengthen immunisation coverage before outbreak seasons. Community awareness and early action plans save lives during climate extremes."
+      },
+      {
+        "question": "Where can I get El NiÃ±o forecasts relevant to India?",
+        "answer": "IMD (imd.gov.in) publishes seasonal rainfall forecasts and El NiÃ±o advisories. NDMA (ndma.gov.in) issues disaster risk advisories. State disaster management authorities provide local alerts for drought and flood preparedness."
+      }
     ]
   }
 }

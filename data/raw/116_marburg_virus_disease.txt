@@ -1,5 +1,5 @@
 TOPIC: Marburg Virus Disease
-CATEGORY: Communicable Disease (Viral Haemorrhagic Fever / Zoonotic)
+CATEGORY: Communicable Disease / Viral Haemorrhagic
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/marburg-virus-disease
 LAST UPDATED: 2024
 
@@ -71,3 +71,16 @@ This information is for health awareness only. Marburg virus disease is a medica
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has Marburg virus disease occurred in India?
+A: Marburg virus disease (MVD) is primarily endemic to Africa. India had a concerning Marburg case in Kerala in 2024, linked to international travel from an endemic area — the first confirmed case in India. India's outbreak response was swift and contained transmission.
+
+Q: How does Marburg virus spread?
+A: Marburg spreads through direct contact with the blood, body fluids, or organs of infected people or fruit bats (Rousettus aegyptiacus, the natural host). It does NOT spread through air. Healthcare workers are at highest risk without adequate PPE.
+
+Q: What are the symptoms of Marburg virus disease?
+A: Sudden onset of high fever, severe headache, muscle aches, followed by nausea, vomiting, diarrhoea. Severe cases develop haemorrhage (bleeding). Case fatality rates range from 24-88%. Symptoms appear 2-21 days after exposure.
+
+Q: What should I do if I think I have been exposed to Marburg virus?
+A: Contact state health authorities immediately. Do not go to a regular hospital without informing them first. Isolation is critical. India has designated isolation facilities for viral haemorrhagic fevers. Call the MoHFW helpline 1075 for guidance during outbreaks.

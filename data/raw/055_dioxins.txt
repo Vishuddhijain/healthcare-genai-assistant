@@ -69,3 +69,16 @@ The chemical name for dioxin is 2,3,7,8- tetrachlorodibenzo para dioxin (TCDD). 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How are people in India exposed to dioxins?
+A: The main exposure routes in India are: burning of waste (including electronic and medical waste), industrial processes (paper and pulp bleaching, metal smelting), and eating animal products (meat, fish, dairy â where dioxins accumulate in fatty tissues). Burning garbage and e-waste are particularly significant sources.
+
+Q: Are dioxins harmful in small amounts?
+A: Dioxins are harmful even at low levels with chronic exposure. They are persistent (stay in the body for years) and accumulate in fatty tissues. Long-term exposure is linked to cancer, immune system damage, hormonal disruption, and reproductive problems.
+
+Q: Can I reduce my dioxin exposure?
+A: Avoid burning household waste. Eat a balanced diet â don't overconsume fatty animal products from a single source. Maintain a healthy weight (dioxins store in fat). Support proper industrial waste management in your area. These measures significantly reduce individual exposure.
+
+Q: Is dioxin exposure regulated in India?
+A: India has regulations on industrial dioxin emissions under the Environment Protection Act. The National Solid Waste Management Guidelines discourage open burning. However, enforcement remains inconsistent in many areas, particularly for informal waste burning.

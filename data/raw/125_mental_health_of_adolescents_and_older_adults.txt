@@ -1,5 +1,5 @@
 TOPIC: Mental Health of Adolescents and Older Adults
-CATEGORY: Mental Health (Age-Specific)
+CATEGORY: Mental Health
 SOURCE: WHO Fact Sheets - https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health | https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults | NIMHANS - nimhans.ac.in
 LAST UPDATED: 2024
 
@@ -139,3 +139,16 @@ This information is for health awareness only. Adolescent and elderly mental hea
 
 --- WHEN TO SEE A DOCTOR ---
 - Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Why are adolescents at high risk for mental health problems?
+A: The adolescent brain is still developing — particularly the prefrontal cortex (decision-making, impulse control). Academic pressure, identity formation, peer relationships, social media comparison, and family stress create intense psychological demands during this sensitive period.
+
+Q: How do I know if my teenager is struggling with mental health?
+A: Warning signs: persistent withdrawal from friends/family, declining school performance, significant changes in sleep or eating, loss of interest in activities they enjoyed, increased irritability or anger, risky behaviour, and any talk of self-harm or death. Take these signs seriously — seek professional help.
+
+Q: Is depression in elderly people different from depression in younger adults?
+A: Yes. In elderly people, depression often presents with more physical complaints (pain, fatigue, digestive problems), less obvious sadness, more cognitive symptoms (poor concentration, memory complaints), and may be mistaken for normal ageing or dementia. It is significantly undertreated in India's elderly population.
+
+Q: Where can elderly people in India get mental health support?
+A: District hospital psychiatry OPDs (free), NIMHANS telepsychiatry services, HelpAge India (1800-180-1253), Tele MANAS (14416), and private geriatric psychiatrists. Family and social connection remain the most protective factor for elderly mental health.

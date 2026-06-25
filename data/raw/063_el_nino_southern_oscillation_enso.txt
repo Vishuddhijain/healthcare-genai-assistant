@@ -1,5 +1,5 @@
 TOPIC: El Niño Southern Oscillation (ENSO)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/el-nino-southern-oscillation-(enso)
 LAST UPDATED: 9 November 2023
 
@@ -61,3 +61,16 @@ El Niño Southern Oscillation (ENSO) is a naturally occurring large-scale climat
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How does El NiÃ±o affect health in India?
+A: El NiÃ±o years typically bring below-normal rainfall to India, increasing drought and food insecurity. Below-average monsoon reduces agricultural output, affecting nutrition especially for the poorest. La NiÃ±a years bring above-normal rainfall, increasing flood and waterborne disease risk.
+
+Q: Does El NiÃ±o increase disease risk in India?
+A: Yes. El NiÃ±o-related drought increases malnutrition, heat stress, and respiratory illness from dust. La NiÃ±a-related flooding increases diarrhoea, cholera, hepatitis E, leptospirosis, and vector-borne diseases (malaria, dengue). Both extremes affect water security and health.
+
+Q: How can communities prepare for El NiÃ±o health impacts?
+A: Monitor IMD (India Meteorological Department) seasonal forecasts. Ensure safe water storage before monsoon changes. Stock ORS. Strengthen immunisation coverage before outbreak seasons. Community awareness and early action plans save lives during climate extremes.
+
+Q: Where can I get El NiÃ±o forecasts relevant to India?
+A: IMD (imd.gov.in) publishes seasonal rainfall forecasts and El NiÃ±o advisories. NDMA (ndma.gov.in) issues disaster risk advisories. State disaster management authorities provide local alerts for drought and flood preparedness.

@@ -1,5 +1,5 @@
 TOPIC: Eye Health — Cataract, Glaucoma, and Common Eye Conditions
-CATEGORY: Non-Communicable Disease (Ophthalmology)
+CATEGORY: Non-Communicable Disease / Eye Health
 SOURCE: WHO Fact Sheet + NHP India + NPCB India - https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment | nhp.gov.in | npcb.nic.in
 LAST UPDATED: 2024
 
@@ -184,3 +184,16 @@ This information is for health awareness only. Do not use any eye drops (especia
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is cataract surgery free in India?
+A: Yes. Cataract surgery is available free at all government district hospitals and medical colleges under the National Programme for Control of Blindness and Visual Impairment (NPCBVI). Contact your nearest government hospital eye department. Do not delay â cataract is curable.
+
+Q: How do I know if I have glaucoma?
+A: Glaucoma is called the silent thief of sight â it usually has NO symptoms until significant vision is lost. Risk factors: age over 40, family history, diabetes, hypertension. The only way to detect it early is through a regular eye pressure check and optic nerve examination by an ophthalmologist.
+
+Q: Can using screens too much permanently damage my eyes?
+A: Prolonged screen use causes eye strain (dry eyes, headache, blurred vision) but does not cause permanent damage. Follow the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. Blink regularly and ensure good screen ergonomics.
+
+Q: My child squints one eye. Is it serious?
+A: Yes â any squinting in a child needs prompt evaluation by an eye specialist (paediatric ophthalmologist). Untreated squint can cause amblyopia (lazy eye) with permanent vision loss in that eye. Early treatment (glasses, patching, surgery) prevents permanent damage.

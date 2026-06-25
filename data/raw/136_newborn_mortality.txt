@@ -1,5 +1,5 @@
 TOPIC: Newborn mortality
-CATEGORY: Child Health
+CATEGORY: Maternal and Child Health / Child Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/newborns-reducing-mortality
 LAST UPDATED: 14 March 2024
 
@@ -75,3 +75,16 @@ Children continue to face different chances of survival based on where they are 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What causes most newborn deaths in India?
+A: Leading causes: prematurity and low birth weight (35%), infections (sepsis, pneumonia, meningitis — 33%), birth asphyxia (suffocation at birth — 20%), and congenital malformations. 75% of under-5 deaths occur in the first 4 weeks (neonatal period) — this is when care is most critical.
+
+Q: What are the danger signs in a newborn that require emergency care?
+A: Seek emergency care immediately if a newborn has: fast or difficult breathing, convulsions, unable to feed, fever (temperature above 38°C or below 36°C), jaundice appearing in first 24 hours or becoming severe, or is very lethargic. Do not wait.
+
+Q: What free newborn care is available in India?
+A: Janani Shishu Suraksha Karyakram (JSSK) provides free delivery and newborn care at government hospitals including free treatment, medicines, diet, and transport. Special Newborn Care Units (SNCUs) and Newborn Care Corners in government hospitals manage sick newborns free of charge.
+
+Q: How can I protect my newborn during the first month of life?
+A: Initiate breastfeeding within 1 hour of birth (colostrum is the baby's first vaccine). Keep the newborn warm (Kangaroo Mother Care for small babies). Ensure all newborn vaccines are given. Keep the umbilical cord clean and dry. Recognise danger signs and seek immediate care.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + NHP India + ICMR",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
   "topic": "Obesity and Lifestyle Diseases",
-  "category": "Non-Communicable Disease (Metabolic / Lifestyle)",
+  "category": "Non-Communicable Disease / Lifestyle",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -121,6 +121,24 @@
       "Eat Right India campaign (FSSAI): fssai.gov.in/eat-right-india",
       "Fit India Movement: fitindia.gov.in — promoting physical activity and lifestyle change",
       "Food safety labelling: FSSAI mandates nutritional labelling on packaged foods; reading labels helps make healthier choices"
+    ],
+    "faqs": [
+      {
+        "question": "Is obesity a medical condition in India?",
+        "answer": "Yes. Obesity (BMI above 30; or above 25 for Indians — as Indians develop health risks at lower BMI) is a chronic medical condition associated with diabetes, hypertension, heart disease, joint problems, and certain cancers. It requires medical assessment and management, not just willpower."
+      },
+      {
+        "question": "What is the best diet for weight loss in India?",
+        "answer": "There is no single best diet. Evidence-based approaches include: reducing portion sizes, replacing refined grains with whole grains, increasing vegetable and pulse consumption, eliminating sugary drinks, limiting fried/processed food, and maintaining consistent meal times. A registered dietitian can provide a culturally appropriate plan."
+      },
+      {
+        "question": "Is bariatric (weight loss) surgery available in India?",
+        "answer": "Yes. Bariatric surgery (sleeve gastrectomy, gastric bypass) is available at government medical colleges and private hospitals. It is considered for those with BMI above 37.5 (or 32.5 with serious comorbidities) who have not responded to other treatments. PM-JAY covers bariatric surgery at empanelled hospitals in some states."
+      },
+      {
+        "question": "Can childhood obesity be reversed?",
+        "answer": "Yes. Unlike adult obesity, childhood obesity can often be reversed through family-based lifestyle changes — increased physical activity, reducing screen time, and healthier eating patterns. Early intervention is crucial. Consult a paediatrician for guidance — avoid restrictive dieting in children."
+      }
     ]
   }
 }

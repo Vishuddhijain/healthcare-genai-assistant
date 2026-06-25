@@ -1,94 +1,47 @@
-TOPIC: Indian Government Health Schemes and Public Resources
-CATEGORY: Government Healthcare / Public Health Programmes
-SOURCE: NHM - nhm.gov.in | NHA - nha.gov.in | MoHFW - mohfw.gov.in | pmjay.gov.in
-LAST UPDATED: 2024
+TOPIC: Indian Government Health Schemes and Public Resources — Overview and Index
+CATEGORY: Government Health Schemes
+SOURCE: india.gov.in (Health & Wellness scheme category, 300+ listed schemes) | NHM - nhm.gov.in | NHA - nha.gov.in | MoHFW - mohfw.gov.in | myscheme.gov.in | https://nhm.gov.in | https://mohfw.gov.in | https://pmjay.gov.in
+LAST UPDATED: 2025
 
 --- OVERVIEW ---
-The Government of India runs several flagship health programmes to provide accessible and affordable healthcare to all citizens, especially the economically vulnerable. These schemes cover everything from free hospitalisation to maternal care, child immunisation, and mental health services.
+The Government of India runs over 300 health-related schemes and programmes at the central level alone (with many more at the state level), covering health insurance, maternal and child health, disease control, immunisation, primary care infrastructure, nutrition, sanitation, and welfare for senior citizens and persons with disabilities. To make this information easier to use, the schemes have been organised into four detailed companion files by category. This file serves as an index/overview — use it to identify which companion file covers the scheme or topic you are interested in.
 
---- 1. AYUSHMAN BHARAT - PMJAY ---
-Full Name: Pradhan Mantri Jan Arogya Yojana (PM-JAY)
-What it is: World's largest government-funded health insurance scheme.
-Coverage: Up to ₹5 lakh per family per year for secondary and tertiary hospitalisation.
-Who is eligible: Families identified as vulnerable in the Socio-Economic Caste Census (SECC) 2011 — approximately 10.74 crore poor and vulnerable families (50 crore+ individuals).
-Services covered: Over 1,500 medical and surgical procedures including surgery, cancer care, kidney dialysis, heart operations.
-How to check eligibility: Visit pmjay.gov.in or call 14555.
-Empanelled hospitals: Both government and private hospitals are empanelled. Cashless treatment available.
+--- HOW THE GOVERNMENT SCHEME FILES ARE ORGANISED ---
 
---- 2. AYUSHMAN BHARAT - HEALTH AND WELLNESS CENTRES (HWCs) ---
-What it is: 1.5 lakh+ Health and Wellness Centres (HWCs) across India providing comprehensive primary health care.
-Services offered FREE:
-- General outpatient services
-- Maternal and child health services
-- Screening for hypertension, diabetes, and 3 common cancers (oral, breast, cervical)
-- Basic diagnostic tests
-- Essential medicines
-- Telehealth consultations
-How to find: nhp.gov.in or ask at your local PHC (Primary Health Centre)
+FILE 097b — Health Insurance and Financial Protection Schemes
+Covers: Ayushman Bharat PM-JAY (₹5 lakh family health insurance), Ayushman Vay Vandana Card (additional ₹5 lakh cover for citizens aged 70+), Central Government Health Scheme (CGHS) for government employees/pensioners, Employees' State Insurance Scheme (ESIC) for formal sector workers, Rashtriya Arogya Nidhi (RAN) for financial assistance with major illnesses, and examples of state-level health insurance top-up schemes.
+Ask about: "Am I eligible for Ayushman Bharat", "health insurance for senior citizens", "CGHS for government employees", "financial help for cancer/heart surgery if not covered by insurance".
 
---- 3. JANANI SURAKSHA YOJANA (JSY) ---
-What it is: Safe motherhood scheme under NHM to reduce maternal and infant mortality.
-Who it benefits: Pregnant women, especially from BPL (Below Poverty Line) families in low-performing states.
-Benefits:
-- Cash assistance to encourage institutional delivery (delivery in hospitals)
-- Rural BPL women: ₹1,400; Urban BPL women: ₹1,000
-- Free antenatal and postnatal check-ups
+FILE 097c — Maternal, Child, and Adolescent Health Schemes
+Covers: Janani Suraksha Yojana (JSY) cash assistance for institutional delivery, Janani Shishu Suraksha Karyakram (JSSK) for completely free maternal and newborn care, Pradhan Mantri Matru Vandana Yojana (PMMVY) maternity benefit (₹5,000), Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA) free antenatal check-ups on the 9th of every month, Rashtriya Bal Swasthya Karyakram (RBSK) child health screening, Integrated Child Development Services (ICDS)/Anganwadi services, POSHAN Abhiyaan (nutrition mission), Rashtriya Kishor Swasthya Karyakram (RKSK) adolescent health programme, and National Deworming Day.
+Ask about: "free delivery in government hospital", "maternity benefit scheme", "free antenatal checkup", "Anganwadi services", "child health screening for birth defects", "adolescent health clinics".
 
---- 4. PRADHAN MANTRI MATRU VANDANA YOJANA (PMMVY) ---
-What it is: Maternity benefit programme.
-Benefit: ₹5,000 direct bank transfer in three instalments for the first living child.
-Eligibility: All pregnant women and lactating mothers.
-How to apply: Through ASHA worker, Anganwadi centre, or at government hospital.
+FILE 097d — Disease Control, Immunisation, and Primary Care Schemes
+Covers: Ayushman Bharat Health and Wellness Centres/Ayushman Arogya Mandirs, the Universal Immunisation Programme (UIP) and national immunisation schedule, Mission Indradhanush for catch-up vaccination, National Tuberculosis Elimination Programme (NTEP) including Ni-kshay Poshan Yojana, National Vector Borne Disease Control Programme (NVBDCP) for malaria/dengue/filariasis/kala-azar, National Leprosy Eradication Programme (NLEP), National Programme for Prevention and Control of NCDs (NP-NCD), National Mental Health Programme (NMHP) and Tele MANAS helpline, National Tobacco Control Programme (NTCP), and the Ayushman Bharat Digital Mission (ABHA health ID).
+Ask about: "free vaccination schedule for children", "TB testing and treatment", "malaria/dengue treatment at government hospital", "free mental health helpline", "quit smoking support", "NCD screening for diabetes and blood pressure", "what is ABHA health ID".
 
---- 5. NATIONAL IMMUNISATION PROGRAMME ---
-What it is: Free vaccines for children under India's Universal Immunisation Programme (UIP).
-Vaccines provided free:
-- BCG (Tuberculosis), Hepatitis B, OPV (Polio), DPT, Hib (Meningitis)
-- Measles-Rubella (MR), IPV (Inactivated Polio), Rotavirus, PCV (Pneumonia)
-- JE (Japanese Encephalitis) in selected districts
-- Td (for adolescents and pregnant women)
-Vaccination schedule follows the national immunization calendar from birth to 16 years.
-Where: All government hospitals, PHCs, and Anganwadi centres.
+FILE 097e — Sanitation, Nutrition, Elderly Care, and Disability Welfare Schemes
+Covers: Swachh Bharat Mission (sanitation/toilets), Jal Jeevan Mission (piped drinking water), Pradhan Mantri Ujjwala Yojana (free LPG connections), National Programme for Health Care of the Elderly (NPHCE), Rashtriya Vayoshri Yojana (free assistive devices for BPL seniors), ADIP scheme (assistive devices for persons with disabilities), National Trust schemes for autism/cerebral palsy/intellectual disability, and food fortification under Eat Right India.
+Ask about: "free LPG connection scheme", "toilet construction government scheme", "free wheelchair or hearing aid for elderly", "geriatric healthcare services", "disability assistive devices scheme", "helpline for senior citizens".
 
---- 6. RASHTRIYA KISHOR SWASTHYA KARYAKRAM (RKSK) ---
-What it is: Adolescent health programme (ages 10–19).
-Covers: Nutrition, mental health, sexual and reproductive health, substance abuse, injuries, and non-communicable diseases.
-Services: Adolescent-friendly health clinics (Saathiya centres) at PHCs.
-
---- 7. NATIONAL MENTAL HEALTH PROGRAMME (NMHP) ---
-What it is: Programme to ensure availability of mental healthcare services at all levels.
-District Mental Health Programme (DMHP): Free psychiatric services at district hospitals.
-Tele MANAS (launched 2022): National tele mental health helpline.
-Helpline: 14416 (24/7 free mental health support)
-Also available: iCall helpline: 9152987821 (TISS)
-
---- 8. MISSION INDRADHANUSH ---
-What it is: Intensified immunization programme to reach unvaccinated and partially vaccinated children.
-Target: Achieve 90%+ full immunization coverage.
-Focus areas: Children aged 0–2 years and pregnant women in low-coverage areas.
-
---- 9. NATIONAL TOBACCO CONTROL PROGRAMME (NTCP) ---
-Provides: Tobacco cessation counselling, awareness campaigns, and support for quitting.
-Tobacco quitline: 1800-11-2356 (free)
-COTPA (Cigarettes and Other Tobacco Products Act) bans smoking in public places.
-
---- KEY HEALTH HELPLINES (INDIA) ---
+--- KEY UNIVERSAL HEALTH HELPLINES (INDIA) ---
 | Helpline | Number | Purpose |
 |---|---|---|
-| Health Helpline | 104 | General health queries, ambulance |
+| Health Helpline | 104 | General health queries, ambulance guidance |
 | Emergency | 112 | Medical, police, fire emergencies |
-| Ayushman Bharat | 14555 | PM-JAY queries |
-| COVID-19 | 1075 | COVID-19 queries |
-| Mental Health (Tele MANAS) | 14416 | Mental health support |
+| Ayushman Bharat (PM-JAY) | 14555 / 1800-111-565 | PM-JAY eligibility, card, grievance |
+| COVID-19 | 1075 | COVID-19 related queries |
+| Mental Health (Tele MANAS) | 14416 / 1-800-91-4416 | Mental health support, 24/7 |
 | Tobacco Quitline | 1800-11-2356 | Quit tobacco support |
 | Child Helpline | 1098 | Child health and abuse |
 | Women Helpline | 181 | Women's health and safety |
+| Elderline (Senior Citizens) | 14567 | Elder abuse and welfare scheme information |
 
 --- IMPORTANT NOTE ---
-Eligibility criteria and benefits of schemes may change. Always verify current details at official government portals or by calling the helpline numbers above.
+Eligibility criteria, benefit amounts, and the full list of government health schemes change periodically — over 300 schemes are listed under the "Health & Wellness" category on india.gov.in alone, including many state-specific schemes not detailed in these files. Always verify current details at official government portals (pmjay.gov.in, nhm.gov.in, mohfw.gov.in, myscheme.gov.in) or by calling the helpline numbers above.
 
 --- TYPES ---
-- Not separately specified or not applicable in the available source text for this topic.
+- Not separately specified or not applicable in the available source text for this topic. See companion files 097b-097e for category-specific scheme details.
 
 --- SYMPTOMS ---
 - Not separately specified or not applicable in the available source text for this topic.
@@ -103,10 +56,10 @@ Eligibility criteria and benefits of schemes may change. Always verify current d
 - Not separately specified or not applicable in the available source text for this topic.
 
 --- ENVIRONMENTAL CONTROL ---
-- Not separately specified or not applicable in the available source text for this topic.
+- Not separately specified or not applicable in the available source text for this topic. See file 097e for sanitation, water, and clean cooking fuel schemes with significant environmental health impact.
 
 --- VACCINATION ---
-- Not separately specified or not applicable in the available source text for this topic.
+- Not separately specified or not applicable in the available source text for this topic. See file 097d for the Universal Immunisation Programme and Mission Indradhanush.
 
 --- DIAGNOSIS ---
 - Not separately specified or not applicable in the available source text for this topic.
@@ -119,3 +72,19 @@ Eligibility criteria and benefits of schemes may change. Always verify current d
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do I check if I am eligible for Ayushman Bharat PM-JAY?
+A: Visit pmjay.gov.in, enter your mobile number or ration card details, or call the PM-JAY helpline at 14555. You can also visit the nearest Ayushman Bharat empanelled hospital, Ayushman Arogya Mandir, or Common Service Centre (CSC) to check eligibility and get your Ayushman card. See file 097b for full details.
+
+Q: What is the difference between PHC, CHC, and district hospital in India?
+A: PHC (Primary Health Centre)/Ayushman Arogya Mandir: Serves 30,000-50,000 population; handles basic outpatient care, maternal health, vaccinations, and NCD/TB screening. CHC (Community Health Centre): Serves 80,000-1,20,000; has specialist services (surgery, gynaecology, paediatrics). District Hospital: Full secondary care including emergency surgery and specialised services. See file 097d for related programmes delivered at each level.
+
+Q: Are all medicines really free at government hospitals?
+A: Essential medicines on the National List of Essential Medicines (NLEM) should be available free at all government hospitals. If medicines are unavailable or being charged for, report to the Medical Superintendent or District Health Officer. Jan Aushadhi Kendras provide medicines at subsidised rates.
+
+Q: How do I get an Ayushman Bharat health card?
+A: Visit any empanelled hospital, Common Service Centre (CSC), or go to pmjay.gov.in with your Aadhaar card. Once eligibility is confirmed, an Ayushman card (Golden Card) is issued free. You can also download a digital card via the Ayushman Bharat app. See file 097b for full details.
+
+Q: There are so many government health schemes — how do I find the right one for my situation?
+A: Use this index file to identify the relevant category: insurance/financial help (097b), pregnancy/childbirth/child health (097c), disease testing/treatment/vaccination/mental health (097d), or sanitation/cooking fuel/elderly/disability support (097e). You can also use the myScheme portal (myscheme.gov.in) or the india.gov.in Health & Wellness scheme finder, which lists all central and state schemes and can help check your eligibility for specific schemes.

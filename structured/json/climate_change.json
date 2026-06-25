@@ -62,6 +62,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How does climate change directly affect my health in India?",
+        "answer": "Climate change worsens heat waves (more deaths from heatstroke), intensifies floods and droughts, extends dengue and malaria seasons, increases air pollution, and reduces crop yields leading to food insecurity. India's health burden from climate change is among the highest globally."
+      },
+      {
+        "question": "What can I do personally to protect my health from climate change?",
+        "answer": "Stay informed about heat wave alerts (IMD/NDMA), stay hydrated in summer, use mosquito protection year-round (dengue season now extends longer), eat local and seasonal produce, and reduce your carbon footprint (public transport, less meat, energy efficiency)."
+      },
+      {
+        "question": "Are diseases like dengue getting worse because of climate change?",
+        "answer": "Yes. Warmer temperatures and unpredictable rainfall create longer and more intense transmission seasons for mosquito-borne diseases like dengue, malaria, and chikungunya. Areas previously too cold for these mosquitoes are now becoming endemic."
+      },
+      {
+        "question": "How is India responding to climate change health risks?",
+        "answer": "India's National Action Plan on Climate Change includes health adaptation measures. State-level Heat Action Plans, early warning systems, and expanded vector control programmes are being implemented. India has also committed to net-zero emissions by 2070."
+      }
     ]
   }
 }

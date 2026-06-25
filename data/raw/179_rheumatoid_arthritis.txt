@@ -1,5 +1,5 @@
 TOPIC: Rheumatoid arthritis
-CATEGORY: Musculoskeletal Health
+CATEGORY: Non-Communicable Disease / Musculoskeletal
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/rheumatoid-arthritis
 LAST UPDATED: 28 June 2023
 
@@ -77,3 +77,16 @@ Common symptoms include chronic pain, stiffness, tenderness, heat and swelling i
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is rheumatoid arthritis the same as osteoarthritis?
+A: No. Osteoarthritis is wear-and-tear joint degeneration (most common in elderly, knees, hips). Rheumatoid arthritis (RA) is an autoimmune disease where the immune system attacks joints (can affect any age, often hands and wrists), causing inflammation, pain, and if untreated, joint destruction. Treatment is entirely different.
+
+Q: What are the early warning signs of RA?
+A: Morning stiffness lasting more than 30 minutes, symmetric joint pain and swelling (both hands, both wrists, both feet), fatigue, and low-grade fever. RA characteristically affects small joints (fingers, wrists, toes) symmetrically. Early diagnosis (within 6 months) prevents joint damage.
+
+Q: Can RA be treated and controlled?
+A: Yes. With early and aggressive treatment using DMARDs (Disease Modifying Anti-Rheumatic Drugs like methotrexate), biological agents, and NSAIDs, most RA patients can achieve remission or low disease activity and prevent joint damage. Free or subsidised treatment at government rheumatology clinics at medical colleges.
+
+Q: Does diet affect RA?
+A: No specific diet cures RA, but anti-inflammatory dietary patterns (Mediterranean diet — rich in omega-3 fatty acids, fruits, vegetables, olive oil; avoiding processed foods and excess red meat) may reduce inflammation. Weight management reduces joint stress. Always continue prescribed medications.

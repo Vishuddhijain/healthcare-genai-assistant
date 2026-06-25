@@ -1,5 +1,5 @@
 TOPIC: Mental Health Awareness
-CATEGORY: Mental Health / Public Health
+CATEGORY: Mental Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response | NIMHANS - nimhans.ac.in
 LAST UPDATED: 2024
 
@@ -107,3 +107,16 @@ If you or someone you know is in a mental health crisis or expressing suicidal t
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do I know if I need mental health help?
+A: Consider seeking help if: you feel persistently sad, anxious, or empty for more than 2 weeks; you are unable to function at work, school, or in relationships; you are using alcohol or substances to cope; you have thoughts of harming yourself; or someone close to you has expressed concern about your mental health.
+
+Q: Is taking mental health medication shameful?
+A: Absolutely not. Mental health medication corrects chemical imbalances in the brain — just as insulin corrects diabetes or antihypertensives control blood pressure. Needing medication for mental health is not weakness or something to be ashamed of. Follow your doctor's advice.
+
+Q: Can yoga and meditation replace mental health treatment?
+A: Yoga, meditation, and mindfulness are valuable complementary tools that reduce stress and improve mental wellbeing. However, they cannot replace professional treatment for clinical conditions like severe depression, bipolar disorder, or schizophrenia. Use them alongside, not instead of, professional care.
+
+Q: How can I support a family member with a mental health condition?
+A: Listen without judgment, educate yourself about their condition, encourage and accompany them to professional help, maintain regular contact, do not dismiss their experience as weakness. Avoid saying 'just cheer up' or 'it's all in your mind.' Family support is a key factor in recovery.

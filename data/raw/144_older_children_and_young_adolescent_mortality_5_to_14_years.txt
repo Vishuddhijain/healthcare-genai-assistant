@@ -1,5 +1,5 @@
 TOPIC: Older children and young adolescent mortality (5 to 14 years)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/older-children-and-young-adolescent-mortality-(5-to-14-years)
 LAST UPDATED: 28 January 2022
 
@@ -67,3 +67,16 @@ While preterm birth, birth trauma and infectious diseases cause the most deaths 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the leading causes of death in children aged 5-14 in India?
+A: Drowning, road traffic injuries, and violence are the leading causes of injury deaths in this age group. Pneumonia, diarrhoea, and malaria remain significant infectious disease causes. Malnutrition and anaemia contribute to susceptibility to illness.
+
+Q: Are school-age children vaccinated in India?
+A: India's UIP includes school-entry booster doses: DPT booster and OPV at 5-6 years, Td at 10 years and 16 years. School health programmes (RBSK) screen children for health conditions. If your child missed school vaccinations, visit the nearest government health centre for catch-up.
+
+Q: How can I protect my child from road traffic injuries?
+A: Always use helmets on bicycles and two-wheelers (insist on proper fitting). Teach road safety rules from an early age. Ensure children are supervised near roads. Children under 12 should sit in back seats. School authorities should ensure road safety around school zones.
+
+Q: What mental health support is available for school-age children in India?
+A: RBSK (Rashtriya Bal Swasthya Karyakram) screens children for developmental and mental health conditions. School counsellors are being deployed in many government schools. iCall (9152987821) provides counselling for young people. Parents should create open communication about mental health at home.

@@ -1,5 +1,5 @@
 TOPIC: Chromoblastomycosis
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/chromoblastomycosis
 LAST UPDATED: 15 November 2023
 
@@ -67,3 +67,16 @@ Chromoblastomycosis affects normal healthy people and is mainly seen in adults. 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is chromoblastomycosis and who is at risk?
+A: Chromoblastomycosis is a chronic fungal skin infection caused by dark-pigmented fungi found in soil and plant matter. It primarily affects barefoot agricultural workers who sustain minor skin injuries (thorn pricks, splinters) in tropical regions. India has reported cases, particularly in southern and eastern states.
+
+Q: How does chromoblastomycosis look on the skin?
+A: It begins as a small wart-like papule at the site of injury, slowly progressing over months to years into large, crusted, cauliflower-like skin lesions, usually on the feet and lower legs. It is painless initially but can cause swelling and disability if untreated.
+
+Q: Is chromoblastomycosis contagious?
+A: No. Chromoblastomycosis does not spread from person to person. It is acquired from the environment â contaminated soil and plant material. It is not a public health emergency but an occupational hazard for agricultural workers.
+
+Q: Can chromoblastomycosis be treated?
+A: Treatment is difficult and prolonged (months to years). Antifungal drugs (itraconazole, terbinafine) and sometimes surgery or cryotherapy are used. Early, small lesions respond better. Consult a dermatologist at a government medical college. Prevention: wear shoes and protective clothing when working in fields.

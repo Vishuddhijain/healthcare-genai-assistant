@@ -1,5 +1,5 @@
 TOPIC: Poliomyelitis (Polio)
-CATEGORY: Communicable Disease / Vaccine-Preventable Disease
+CATEGORY: Communicable Disease / Vaccine-Preventable
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/poliomyelitis | NHP India | UNICEF | Pulse Polio Programme India
 LAST UPDATED: 2024
 
@@ -111,6 +111,7 @@ Travellers:
 - Migrant polio monitoring: Children of migrants tracked at bus/rail stations
 - Polio survivors: India has millions of adults with polio-related paralysis — ALIMCO provides free/subsidised callipers, crutches, and wheelchairs
 - IPV was introduced into India's UIP in 2015 (replacing some OPV doses) to reduce vaccine-derived risk
+- Report any case of acute flaccid paralysis (AFP) immediately to your district health officer or call 104. Free polio vaccines at all government PHCs and immunisation centres.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is India still polio-free?

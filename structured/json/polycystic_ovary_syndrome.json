@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome",
   "topic": "Polycystic ovary syndrome",
-  "category": "Sexual Health / STI Awareness",
+  "category": "Communicable Disease / STI",
   "last_updated": "22 January 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -67,6 +67,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is PCOS common in Indian women?",
+        "answer": "Yes. PCOS (Polycystic Ovary Syndrome) affects approximately 10-20% of women of reproductive age in India — one of the highest rates globally. Sedentary lifestyle, high-carbohydrate diets, stress, and genetic factors contribute. It is the most common hormonal disorder in Indian women of reproductive age."
+      },
+      {
+        "question": "Does PCOS mean I cannot have children?",
+        "answer": "No. PCOS is a leading cause of fertility problems but does NOT mean infertility. With appropriate treatment (lifestyle changes, ovulation induction medications), most women with PCOS can conceive. Consult a gynaecologist — many options are available."
+      },
+      {
+        "question": "What are the signs of PCOS?",
+        "answer": "Irregular or absent periods, excessive hair growth on face/body (hirsutism), acne, thinning scalp hair (alopecia), difficulty losing weight, darkening of skin in body folds (acanthosis nigricans), and difficulty conceiving. Ultrasound showing multiple small cysts on ovaries confirms the name but is not required for diagnosis."
+      },
+      {
+        "question": "How is PCOS managed?",
+        "answer": "Lifestyle changes (weight loss of even 5-10% dramatically improves PCOS symptoms in overweight women), regular exercise, and a low-glycaemic diet are first-line management. Medications (oral contraceptive pills for cycle regulation, metformin for insulin resistance, ovulation induction for fertility) are prescribed by a gynaecologist. Free evaluation at government hospitals."
+      }
     ]
   }
 }

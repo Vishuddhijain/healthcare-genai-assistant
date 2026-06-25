@@ -1,5 +1,5 @@
 TOPIC: Preterm Birth
-CATEGORY: Maternal and Child Health / Preventive Care
+CATEGORY: Maternal and Child Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/preterm-birth | NHM India | UNICEF
 LAST UPDATED: 2024
 
@@ -148,6 +148,7 @@ For newborns/preterm babies:
 - Kangaroo Mother Care: Actively promoted in Indian health facilities and community settings (Facility-Based Newborn Care guidelines)
 - Anaemia Mukt Bharat and Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA): Provide free antenatal check-ups including for high-risk pregnancy identification
 - High-risk pregnancy clinics designated under PMSMA (9th of every month — free ANC checkups with specialists)
+- Free NICU and kangaroo mother care at government district hospitals under JSSK. Janani Suraksha Yojana helpline: 104. Emergency: 112.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Can all preterm babies survive?

@@ -1,5 +1,5 @@
 TOPIC: Occupational health: health workers
-CATEGORY: Health Workforce / Occupational Health
+CATEGORY: Health Systems / Occupational Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/occupational-health--health-workers
 LAST UPDATED: 7 November 2022
 
@@ -75,3 +75,16 @@ Health workers face a range of occupational risks associated with infections, un
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the most common occupational health risks for healthcare workers in India?
+A: Healthcare workers face: needlestick injuries (risk of Hepatitis B, Hepatitis C, HIV), musculoskeletal injuries from patient handling, burnout and mental health problems, tuberculosis exposure, biological hazard exposure, and radiation (for X-ray technicians). Proper PPE and training reduce these risks.
+
+Q: Am I entitled to compensation for a work-related injury in India?
+A: Yes. The Employees' Compensation Act 2010 entitles workers to compensation for work-related injury or occupational disease. Healthcare workers are specifically protected. Contact your employer's HR department or the Employee Compensation Commissioner for claims.
+
+Q: What should I do if I have a needlestick injury at work?
+A: Wash the site immediately with soap and water for 10+ minutes. Report to your occupational health nurse or doctor immediately. HIV post-exposure prophylaxis (PEP) must start within 72 hours. Testing for Hepatitis B, C, and HIV should be done. All government hospitals should have a needlestick protocol.
+
+Q: Is occupational health regulated in India?
+A: The Factories Act 1948 mandates occupational health and safety for factory workers. Specific rules under the Occupational Safety, Health and Working Conditions Code 2020 cover various sectors. Healthcare workers are protected under respective state health service rules and the Epidemic Diseases Act (amended 2020) against violence.

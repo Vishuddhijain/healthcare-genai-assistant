@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
   "topic": "Foodborne Trematode Infections",
-  "category": "Communicable / Parasitic Disease / Food Safety",
+  "category": "Communicable Disease / Food-Borne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -98,7 +98,22 @@
       "Paragonimus westermani is reported from Northeast India (Arunachal Pradesh, Nagaland, Meghalaya) and is often misdiagnosed as pulmonary TB.",
       "Fasciola gigantica (bovine liver fluke) causes sporadic human infections in India.",
       "Opisthorchis/Clonorchis: Less common in India compared to Southeast Asia but cases reported.",
-      "Awareness in medical community is critical for correct diagnosis."
+      "Awareness in medical community is critical for correct diagnosis.",
+      "For diagnosis and treatment at government hospitals, call the National Health Helpline: 104. Report food safety concerns to FSSAI: 1800-11-2100."
+    ],
+    "faqs": [
+      {
+        "question": "Can I get infected by eating thoroughly cooked fish?",
+        "answer": "No. Thorough cooking (70°C internally) destroys all trematode larvae. Proper cooking is the best prevention."
+      },
+      {
+        "question": "Is sushi from freshwater fish safe to eat?",
+        "answer": "Raw freshwater fish carries risk of fluke infection. Saltwater/marine fish sushi carries different risks (Anisakis). In India, avoid eating raw freshwater fish."
+      },
+      {
+        "question": "Is a trematode infection the same as a worm infection?",
+        "answer": "Trematodes (flukes) are a type of flatworm (platyhelminth) — different from roundworms (nematodes) or tapeworms (cestodes). All are parasitic worms but belong to different classes."
+      }
     ]
   }
 }

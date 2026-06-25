@@ -1,5 +1,5 @@
 TOPIC: Health literacy
-CATEGORY: Preventive Care and Wellness
+CATEGORY: Public Health / Preventive Care
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/health-literacy
 LAST UPDATED: 22 December 2025
 
@@ -63,3 +63,16 @@ WHO defines health literacy as “representing the personal knowledge and compet
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is health literacy and why does it matter?
+A: Health literacy is the ability to understand, evaluate, and use health information to make good decisions. Low health literacy leads to poor medication adherence, delayed care-seeking, misunderstanding of diagnoses, and worse health outcomes. High health literacy empowers people to manage their health effectively.
+
+Q: How can I improve my own health literacy?
+A: Ask your doctor to explain in simple language. Write down instructions. Ask 'What do I do if...?' questions. Use reliable sources: nhp.gov.in, who.int, and mohfw.gov.in. Be sceptical of health claims on social media. Ask a pharmacist to explain medicines.
+
+Q: Is health misinformation a problem in India?
+A: Yes, significantly. WhatsApp and social media spread health misinformation rapidly in India â false cancer cures, anti-vaccine content, dangerous home remedies. Always verify health information from official sources (NHP, WHO, government health portals) before following or sharing.
+
+Q: How can I spot health misinformation?
+A: Warning signs: promises of miraculous cures, claims that doctors hide the truth, extreme urgency to share, no credible source cited, appeals to conspiracy theories. Always cross-check with government or WHO sources. If in doubt, ask a qualified healthcare professional.

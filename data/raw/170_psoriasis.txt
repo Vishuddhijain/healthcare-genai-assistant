@@ -1,5 +1,5 @@
 TOPIC: Psoriasis
-CATEGORY: Non-Communicable Disease / Skin Condition / Autoimmune Disease
+CATEGORY: Non-Communicable Disease / Skin
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/psoriasis | NHP India | IADVL
 LAST UPDATED: 2024
 
@@ -124,6 +124,7 @@ General management:
 - IADVL (Indian Association of Dermatologists, Venereologists and Leprologists): Professional body providing guidelines for psoriasis management in India
 - Mental health support: Psoriasis-related stigma and visible skin lesions can significantly affect mental health and social participation — counselling support should be considered alongside dermatological treatment
 - Climate considerations: India's diverse climate means psoriasis may worsen in cold, dry winters in northern India, while humidity in some regions may help
+- For dermatology consultation at government medical colleges, call 104. PM-JAY covers hospitalisation for severe psoriasis at empanelled hospitals: 14555.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is psoriasis contagious?

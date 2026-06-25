@@ -1,5 +1,5 @@
 TOPIC: Refugee and migrant health
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/refugee-and-migrant-health
 LAST UPDATED: 25 March 2026
 
@@ -70,3 +70,16 @@ Climate change, in addition to conflicts and disasters, is transforming patterns
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What health challenges do migrants and refugees face in India?
+A: Internal migrants in India face barriers to healthcare access due to lack of local address proof, unfamiliarity with local health systems, language barriers, poverty, and discrimination. They may miss out on maternal care, child immunisation, and treatment for chronic conditions when they relocate.
+
+Q: Can migrants access government health services across states?
+A: Yes. Government hospitals must provide emergency care to all. PM-JAY can be used nationally at empanelled hospitals. ABHA health ID enables health records portability across India. However, access to free medicines at PHCs may still require local registration in some states — this is being addressed.
+
+Q: Are there health risks specific to migrant workers in India?
+A: Yes. Circular migrants (seasonal workers) face disruption in TB treatment (causing MDR-TB), loss of immunisation records, poor maternal care, occupational hazards (construction, mining), mental health issues from social isolation, and food insecurity during migration.
+
+Q: What legal health protections do refugees in India have?
+A: India has not signed the 1951 Refugee Convention. Refugees and asylum seekers in India (including Rohingya and Afghan refugees under UNHCR) have limited formal health rights protections, though UNHCR and NGOs provide healthcare support. Emergency care at government hospitals must be provided to all.

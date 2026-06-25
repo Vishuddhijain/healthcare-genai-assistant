@@ -1,5 +1,5 @@
 TOPIC: Oral Health and Hygiene
-CATEGORY: Non-Communicable Disease (Oral / Dental Health)
+CATEGORY: Non-Communicable Disease / Oral Health
 SOURCE: WHO Fact Sheet + NHP India + NHM Oral Health - https://www.who.int/news-room/fact-sheets/detail/oral-health | nhp.gov.in/oral-health
 LAST UPDATED: 2024
 
@@ -166,3 +166,16 @@ This information is for health awareness only. Pain in the mouth or jaw can some
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How often should I brush my teeth and what is the correct technique?
+A: Brush twice daily — morning and before bed. Use a soft-bristled toothbrush and fluoride toothpaste. Brush for 2 minutes using gentle circular motions covering all tooth surfaces. Replace your toothbrush every 3 months. Floss daily to clean between teeth.
+
+Q: Is oral health connected to overall body health?
+A: Yes, significantly. Gum disease (periodontitis) is linked to heart disease, diabetes, preterm birth, and respiratory infections. Poor oral health indicates and worsens systemic conditions. Oral health is truly a window to overall health.
+
+Q: Is free dental treatment available in India?
+A: Government dental colleges and teaching hospitals provide dental treatment at very low cost. Many PHCs and CHCs have dental clinics. Emergency tooth extraction, fillings, and basic treatment are available at government facilities. Contact your district health office for the nearest government dental facility.
+
+Q: How do I prevent tooth decay in children?
+A: Fluoride toothpaste from first tooth. Limit sugary foods and drinks (especially juices and sweets). No bottle feeding at night (causes nursing bottle caries). First dental visit by age 1. Dental sealants for school-age children reduce cavities by 80%. Regular dental check-ups every 6 months.

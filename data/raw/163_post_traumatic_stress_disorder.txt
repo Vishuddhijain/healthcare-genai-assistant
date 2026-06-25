@@ -1,5 +1,5 @@
 TOPIC: Post-traumatic stress disorder
-CATEGORY: Mental Health Awareness
+CATEGORY: Mental Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder
 LAST UPDATED: 27 May 2024
 
@@ -75,3 +75,16 @@ Up to 40% of people with PTSD recover within one year (1). There are many effect
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is PTSD and who can develop it?
+A: PTSD (Post-Traumatic Stress Disorder) can develop after experiencing or witnessing a traumatic event — violence, sexual assault, natural disasters, accidents, war, or serious illness. Anyone can develop PTSD — it is not a sign of weakness. In India, PTSD is significantly underdiagnosed due to stigma.
+
+Q: What are the symptoms of PTSD?
+A: Four symptom clusters: Re-experiencing (flashbacks, nightmares, intrusive memories), Avoidance (avoiding reminders of the trauma), Negative cognitions/mood (guilt, shame, feeling detached, loss of interest), Arousal (hypervigilance, startle response, irritability, sleep disturbance). Symptoms persist for more than a month.
+
+Q: Is PTSD treatable?
+A: Yes. PTSD responds well to trauma-focused psychotherapy — particularly EMDR (Eye Movement Desensitisation and Reprocessing) and Trauma-Focused CBT. Medications (SSRIs) also help. Recovery is possible. Seek help from a trained mental health professional at government medical college or call iCall (9152987821).
+
+Q: Can children develop PTSD?
+A: Yes. Children may show different symptoms than adults — regression (bedwetting, thumb-sucking), separation anxiety, repetitive traumatic play, and irritability. Children's trauma, including abuse, disasters, and witnessing violence, should be addressed by child mental health professionals promptly.

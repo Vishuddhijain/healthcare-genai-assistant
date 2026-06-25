@@ -1,5 +1,5 @@
 TOPIC: Patient safety
-CATEGORY: Health Systems / Patient Safety
+CATEGORY: Health Systems
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/patient-safety
 LAST UPDATED: 11 September 2023
 
@@ -90,3 +90,16 @@ Health care-associated infections. With a global rate of 0.14% (increasing by 0.
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the most common patient safety risks in Indian hospitals?
+A: Medication errors, healthcare-associated infections (HAIs), diagnostic errors, falls in hospital, surgical complications, and blood transfusion errors are among the most common. The National Accreditation Board for Hospitals (NABH) accreditation ensures hospitals meet safety standards.
+
+Q: How can I protect myself or a family member from medication errors?
+A: Always verify: the medicine name, dose, and frequency with the prescribing doctor. Bring all current medicines when consulting a new doctor. Inform about allergies. Ask the pharmacist to explain the medicine's purpose and side effects. Read the label before taking any medicine.
+
+Q: What should I do if I experience or witness a medical error?
+A: Report to the hospital's patient safety officer or medical superintendent. You can file a complaint with the State Medical Council or consumer forum for medical negligence. NABH-accredited hospitals have mandatory incident reporting and redressal systems.
+
+Q: Is it safe to ask doctors questions about my treatment?
+A: Absolutely yes. Asking questions is your right and improves patient safety. Ask: 'What is my diagnosis?', 'Why is this medicine prescribed?', 'What are the alternatives?', 'What should I do if symptoms worsen?' A good doctor welcomes informed, engaged patients.

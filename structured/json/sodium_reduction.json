@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/sodium-reduction",
   "topic": "Sodium reduction",
-  "category": "Preventive Care and Wellness",
+  "category": "Public Health / Preventive Care",
   "last_updated": "11 May 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -53,6 +53,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How much salt do Indians typically eat compared to recommendations?",
+        "answer": "The average Indian consumes approximately 11 grams of salt per day — more than double the WHO recommended maximum of 5 grams (about 1 teaspoon). This excess sodium is a major contributor to India's high hypertension burden."
+      },
+      {
+        "question": "How can I reduce salt in my diet without losing flavour?",
+        "answer": "Use herbs and spices (cumin, coriander, turmeric, black pepper, amchur, tamarind) instead of salt for flavour. Reduce salt gradually — taste buds adapt within 4-6 weeks. Avoid adding salt at the table. Limit high-salt foods: papad, pickles, sauces, namkeen, processed foods, instant noodles, and salty snacks."
+      },
+      {
+        "question": "Is low-sodium salt (potassium chloride substitutes) safe?",
+        "answer": "Low-sodium salt substitutes (partially replacing sodium chloride with potassium chloride) can reduce blood pressure. However, they are contraindicated in kidney disease and for people on certain medications (ACE inhibitors, potassium-sparing diuretics). Consult a doctor before switching, especially if you have any health conditions."
+      },
+      {
+        "question": "Which processed foods in India are highest in hidden salt?",
+        "answer": "Namkeen/chakli, instant noodles and soups, salty snacks, papad, pickles, packaged breads and biscuits, processed meats, and ready-to-eat meals are typically high in sodium. Read the nutrition label — choose products with less than 600mg sodium per 100g."
+      }
     ]
   }
 }

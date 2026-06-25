@@ -1,5 +1,5 @@
 TOPIC: Hypertension (High Blood Pressure)
-CATEGORY: Non-Communicable Disease (NCD) / Cardiovascular
+CATEGORY: Non-Communicable Disease / Cardiovascular
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/hypertension
 LAST UPDATED: 2025
 
@@ -88,3 +88,16 @@ This information is for awareness only. Blood pressure medication must only be p
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: At what blood pressure reading should I be concerned?
+A: A reading consistently above 140/90 mmHg indicates hypertension and requires medical evaluation. A reading of 180/120 or above with symptoms (severe headache, chest pain, blurred vision) is a hypertensive emergency â call 112 immediately.
+
+Q: Can I stop my BP medicines once my blood pressure is normal?
+A: No. Blood pressure is normal BECAUSE of the medication. Stopping it will usually cause BP to rise again. Hypertension is a chronic condition â most people need lifelong treatment. Never stop or reduce medication without your doctor's guidance.
+
+Q: Is free blood pressure monitoring available in India?
+A: Yes. Blood pressure checks are free at all Ayushman Bharat Health and Wellness Centres, PHCs, government hospitals, and even at many pharmacies. Adults above 30 should check blood pressure at least once a year even if they feel fine.
+
+Q: Can reducing salt really make a significant difference to blood pressure?
+A: Yes. Reducing daily salt intake from the average Indian intake (~11g/day) to the recommended 5g/day can lower systolic blood pressure by 5-8 mmHg â comparable to some medications. Avoid processed food, pickles, papad, namkeen, and adding extra salt to meals.

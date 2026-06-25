@@ -47,6 +47,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What assistive technology is available for people with disabilities in India?",
+        "answer": "Common assistive devices include hearing aids, wheelchairs, white canes, prosthetic limbs, low-vision aids, and communication devices. These are provided free or subsidised to eligible persons with disabilities under the ADIP scheme (Assistance to Disabled Persons)."
+      },
+      {
+        "question": "How do I apply for a free hearing aid or wheelchair in India?",
+        "answer": "Apply through the ADIP scheme at your nearest District Disability Rehabilitation Centre (DDRC) or government hospital. You need a disability certificate from a government doctor. Contact the Artificial Limbs Manufacturing Corporation (ALIMCO) or local district social welfare office."
+      },
+      {
+        "question": "What is the UDID card and why does a person with disability need it?",
+        "answer": "The Unique Disability ID (UDID) card is a national identity card for persons with disabilities in India. It enables access to government schemes, benefits, reservations, and concessions. Apply at swavlambancard.gov.in or nearest DDRC."
+      },
+      {
+        "question": "Are there apps or technology that help people with visual impairment use smartphones?",
+        "answer": "Yes. Android devices have TalkBack and iOS devices have VoiceOver â free built-in screen readers. Apps like Seeing AI, Be My Eyes, and Google Lookout help visually impaired users with daily tasks. These are free to download."
+      }
     ]
   }
 }

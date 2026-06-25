@@ -1,5 +1,5 @@
 TOPIC: Self-care for health and well-being
-CATEGORY: Preventive Care and Wellness
+CATEGORY: Public Health / Preventive Care
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/self-care-health-interventions
 LAST UPDATED: 3 June 2026
 
@@ -72,3 +72,16 @@ Self-care recognizes people as active agents in managing their own health care, 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is self-care in health and why is it important?
+A: Self-care means the actions individuals take to maintain and improve their own health — beyond formal healthcare. It includes healthy eating, exercise, adequate sleep, stress management, medication adherence, and regular health checks. Good self-care reduces disease burden and health system strain.
+
+Q: What are practical daily self-care habits for good health?
+A: Minimum daily self-care: 7-8 hours sleep, 30 minutes physical activity, 3 balanced meals, 2-3 litres water, no tobacco, limit alcohol, 10 minutes for relaxation/mindfulness, and maintaining social connections. These simple habits prevent most lifestyle diseases.
+
+Q: Is self-medication safe?
+A: Limited self-medication for minor ailments (ORS for diarrhoea, paracetamol for mild fever, antifungal cream for mild thrush) with standard, approved medicines is reasonable. However, self-medicating with prescription drugs (antibiotics, steroids) without diagnosis is dangerous and contributes to drug resistance. When in doubt — consult a pharmacist or doctor.
+
+Q: How does mental self-care affect physical health?
+A: Chronic stress and poor mental health directly worsen physical health — elevating blood pressure, suppressing immunity, worsening blood sugar control, and promoting inflammatory conditions. Practices like mindfulness, yoga, maintaining social connections, and adequate sleep protect both mental and physical health simultaneously.

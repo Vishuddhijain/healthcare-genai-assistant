@@ -1,5 +1,5 @@
 TOPIC: Rubella
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/rubella
 LAST UPDATED: 14 May 2024
 
@@ -73,3 +73,16 @@ Being vaccinated is the best way to prevent getting sick with rubella or spreadi
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is rubella still a risk in India?
+A: Yes. Despite significant progress, rubella cases and congenital rubella syndrome (CRS) still occur in India. The Measles-Rubella (MR) vaccination campaign has dramatically reduced cases, but maintaining high vaccination coverage is essential.
+
+Q: Why is rubella especially dangerous during pregnancy?
+A: Rubella infection in the first trimester of pregnancy causes Congenital Rubella Syndrome (CRS) in up to 90% of cases — causing deafness, blindness, heart defects, and intellectual disability in the baby. This is preventable with MR vaccination before pregnancy.
+
+Q: Is the rubella vaccine free in India?
+A: Yes. Measles-Rubella (MR) vaccine is free under India's Universal Immunisation Programme, given at 9 and 15 months. National MR campaigns have vaccinated hundreds of millions of children. Women of childbearing age who are not immune should receive the vaccine before getting pregnant (avoid in pregnancy).
+
+Q: How do I know if I am immune to rubella before planning pregnancy?
+A: A simple blood test (rubella IgG) checks immunity. It is recommended as part of preconception screening. If not immune, get the MR vaccine and wait 1 month before trying to conceive. Free preconception check-ups are available at government hospitals.

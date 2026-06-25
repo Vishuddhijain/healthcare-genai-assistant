@@ -1,5 +1,5 @@
 TOPIC: Shingles (herpes zoster)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/shingles-(herpes-zoster)
 LAST UPDATED: 24 March 2025
 
@@ -81,3 +81,16 @@ Shingles, also known as herpes zoster, is a viral infection that causes a painfu
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is shingles and who gets it?
+A: Shingles (herpes zoster) is caused by reactivation of the varicella-zoster virus — the same virus that causes chickenpox. After chickenpox, the virus remains dormant in nerve cells and can reactivate decades later, causing shingles. Anyone who has had chickenpox can get shingles — risk increases after age 50 or with weakened immunity.
+
+Q: Is shingles contagious?
+A: Shingles itself cannot be spread to others. However, the fluid from shingles blisters can spread the varicella-zoster virus to people who have never had chickenpox or been vaccinated, giving them chickenpox (not shingles). Keep blisters covered and avoid contact with pregnant women, newborns, and immunocompromised individuals.
+
+Q: What are the symptoms of shingles?
+A: Typically: one-sided burning pain, tingling, or itching in a band or strip on one side of the body, followed by a painful rash with fluid-filled blisters in the same area. The face and eye area can be affected (ophthalmological shingles — see a doctor urgently for this). Severe nerve pain (postherpetic neuralgia) can persist for months after the rash resolves.
+
+Q: Is there a vaccine for shingles available in India?
+A: Shingrix (recombinant zoster vaccine) provides over 90% protection against shingles and is recommended for adults 50+. It is available in India at private vaccination centres but is not currently part of India's UIP. Consult your doctor about suitability.

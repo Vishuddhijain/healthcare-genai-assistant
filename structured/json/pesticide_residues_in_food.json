@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/pesticide-residues-in-food",
   "topic": "Pesticide residues in food",
-  "category": "Sexual Health / STI Awareness",
+  "category": "Communicable Disease / STI",
   "last_updated": "15 September 2022",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -58,6 +58,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Are pesticide residues in Indian fruits and vegetables dangerous?",
+        "answer": "Pesticide residues below regulatory Maximum Residue Limits (MRLs) set by FSSAI are not considered immediately dangerous. However, some Indian produce — particularly green leafy vegetables, apples, and grapes — have been found with residues exceeding safe limits in surveillance studies. Long-term exposure to multiple residues at high levels raises health concerns."
+      },
+      {
+        "question": "How can I reduce pesticide exposure from food?",
+        "answer": "Wash all fruits and vegetables thoroughly under running water (even those with peels you won't eat). Peeling removes surface residues. Soak leafy vegetables in 2% salt water for 15 minutes then rinse. Blanching vegetables reduces residue. Choose locally grown, seasonal produce. Consider organic for highest-risk items (strawberries, grapes, apples)."
+      },
+      {
+        "question": "Is organic produce always free from pesticide residues?",
+        "answer": "Not necessarily. Organic farming uses approved natural pesticides, which can also have residues. However, organic produce generally has lower synthetic pesticide residues. The most important factor is washing all produce thoroughly regardless of whether it is organic or conventional."
+      },
+      {
+        "question": "Is FSSAI monitoring pesticide residues in India?",
+        "answer": "Yes. FSSAI conducts regular food safety surveillance including pesticide residue testing. Food Business Operators must comply with MRLs. Violations can result in product recall and penalties. Report suspected food safety issues to FSSAI at 1800-11-2100 or fssai.gov.in."
+      }
     ]
   }
 }

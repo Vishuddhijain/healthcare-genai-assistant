@@ -1,5 +1,5 @@
 TOPIC: Vector-borne diseases
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases
 LAST UPDATED: 26 September 2024
 
@@ -73,3 +73,16 @@ Vectors are living organisms that can transmit infectious pathogens between huma
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Which vector-borne diseases are most common in India?
+A: India has significant burden of: Dengue (Aedes mosquito), Malaria (Anopheles mosquito), Chikungunya (Aedes), Japanese Encephalitis (Culex), Kala Azar/Leishmaniasis (sandfly), Lymphatic Filariasis (Culex), and Scrub Typhus (mite). Different vectors, different prevention strategies.
+
+Q: Why do vector-borne diseases spike during and after monsoon in India?
+A: Monsoon rains create abundant stagnant water — breeding sites for mosquitoes. Higher humidity and temperature also accelerate mosquito breeding cycles and viral replication. Post-monsoon (September-November) is peak dengue season. Malaria peaks during monsoon.
+
+Q: What is the single most effective way to prevent multiple mosquito-borne diseases?
+A: Eliminating mosquito breeding sites around your home is the most effective community-level intervention: Empty, clean, or cover all stagnant water containers weekly (coolers, pots, tyres, flower pots, blocked drains). This prevents Aedes breeding (dengue, chikungunya) and is a simple, free, highly effective action.
+
+Q: How does the government control vector-borne diseases in India?
+A: NVBDCP (National Vector Borne Disease Control Programme) coordinates: indoor residual spraying (IRS) with insecticides, mass drug administration (for filariasis), larval control (distributing larvicide), bed net distribution, disease surveillance, and rapid response to outbreaks. Fogging (space spraying) is used during outbreaks but is less effective than source reduction.

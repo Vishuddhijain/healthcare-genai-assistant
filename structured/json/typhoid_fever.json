@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + NHP India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/typhoid",
   "topic": "Typhoid Fever",
-  "category": "Communicable Disease (Enteric / Waterborne)",
+  "category": "Communicable Disease / Waterborne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -88,6 +88,24 @@
       "Typhoid Conjugate Vaccine (TCV) being introduced in India's Universal Immunisation Programme (UIP) in a phased manner",
       "Government hospitals provide free blood culture testing in many states",
       "FSSAI (fssai.gov.in) provides food safety guidelines to reduce enteric disease transmission"
+    ],
+    "faqs": [
+      {
+        "question": "Is the Widal test reliable for diagnosing typhoid?",
+        "answer": "The Widal test is widely used in India but has significant limitations — it can give false positive and false negative results, especially in areas where typhoid is endemic (immunity from past exposure affects results). Blood culture is the most reliable diagnostic test for typhoid. A positive Widal alone is insufficient for diagnosis — clinical correlation is essential."
+      },
+      {
+        "question": "Can I get typhoid from eating street food?",
+        "answer": "Yes. Street food prepared with contaminated water or by infected food handlers is a common source of typhoid in India. Choose hot, freshly cooked street food; avoid raw salads, cut fruits, chutneys, and pani puri water from sources with uncertain hygiene."
+      },
+      {
+        "question": "Is there a vaccine for typhoid?",
+        "answer": "Yes. Vi capsular polysaccharide vaccine (injectable, single dose) and oral Ty21a vaccine are available. The injectable vaccine is increasingly available at private clinics and some government hospitals. A new typhoid conjugate vaccine (TCV) provides stronger, longer protection and is being introduced into some states' immunisation programmes."
+      },
+      {
+        "question": "What happens if typhoid is left untreated?",
+        "answer": "Untreated typhoid can cause intestinal perforation (a life-threatening surgical emergency with severe abdominal pain) or intestinal bleeding, sepsis, and death. This is why completing the full antibiotic course is essential even after feeling better."
+      }
     ]
   }
 }

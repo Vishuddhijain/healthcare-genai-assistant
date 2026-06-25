@@ -4,7 +4,7 @@
   "source_name": "WHO",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders",
   "topic": "Anxiety Disorders and Autism Spectrum Disorder (ASD)",
-  "category": "Mental Health / Neurodevelopmental",
+  "category": "Mental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -102,6 +102,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Does anxiety go away on its own?",
+        "answer": "Mild situational anxiety often resolves when the stressor passes. But anxiety disorders that interfere with daily life generally need treatment. Seeking help early is better — conditions can worsen without support."
+      },
+      {
+        "question": "Are anxiety and depression the same?",
+        "answer": "No. Anxiety is primarily about excessive fear and worry. Depression is primarily about persistent low mood and loss of interest. However, they frequently occur together. Both are treatable."
+      },
+      {
+        "question": "Is autism a mental illness?",
+        "answer": "No. Autism is a neurodevelopmental condition — a different way the brain develops and processes information. It is not a mental illness or intellectual disability (though some individuals with ASD may also have intellectual disability)."
+      },
+      {
+        "question": "Can adults be diagnosed with autism?",
+        "answer": "Yes. Many people, especially women and those with milder presentations, are diagnosed in adulthood. It is never too late to seek diagnosis and support."
+      }
     ]
   }
 }

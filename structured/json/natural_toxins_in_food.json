@@ -73,6 +73,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Are there natural toxins in everyday Indian foods?",
+        "answer": "Yes. Some common examples: raw kidney beans (rajma) contain phytohaemagglutinin — boil thoroughly; raw bitter almonds contain cyanogenic glycosides; underripe ackee (not common in India); green/sprouted potatoes contain solanine — discard green parts; raw cassava contains cyanide compounds — must be processed properly."
+      },
+      {
+        "question": "Is litchi (lychee) dangerous?",
+        "answer": "Unripe litchi contains hypoglycin A and MCPG — compounds that block glucose synthesis, potentially causing fatal hypoglycemia in malnourished children who eat unripe litchi on an empty stomach. This is linked to the Muzaffarpur encephalitis outbreaks in Bihar. Children should not eat unripe litchi, especially on an empty stomach."
+      },
+      {
+        "question": "How do I safely prepare rajma (red kidney beans)?",
+        "answer": "Raw or undercooked kidney beans contain phytohaemagglutinin, which causes severe nausea, vomiting, and diarrhoea. Always soak for 8 hours, discard soaking water, then boil vigorously for at least 10 minutes before slow cooking. Slow cookers alone may not reach sufficient temperature — boil first."
+      },
+      {
+        "question": "What should I do if someone has eaten something poisonous?",
+        "answer": "Call 112 immediately. Do not induce vomiting unless advised by medical personnel (can worsen some poisonings). Note what was eaten and how much. Keep the packaging or sample if safe to do so. Poison Control: All India Institute of Medical Sciences (AIIMS) maintains a National Poison Information Centre."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/maternal-mortality",
   "topic": "Maternal Mortality",
-  "category": "Maternal Health / Public Health",
+  "category": "Maternal and Child Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -92,6 +92,24 @@
       "LaQshya programme: Improves quality of care in labour rooms and maternity OTs",
       "102/108 ambulance services: Free transport for pregnant women to health facilities",
       "ASHA workers: Community-level support for ANC registration, institutional delivery promotion, postnatal visits"
+    ],
+    "faqs": [
+      {
+        "question": "What is India's maternal mortality ratio and is it improving?",
+        "answer": "India's MMR (Maternal Mortality Ratio) has improved dramatically from 254 per 100,000 live births (2004-06) to 97 per 100,000 (2018-20) — a 60% reduction. However, India still falls short of the SDG target of below 70. Rural-urban and state disparities remain significant."
+      },
+      {
+        "question": "What are the leading causes of maternal death in India?",
+        "answer": "Leading causes: haemorrhage (excessive bleeding after delivery), hypertensive disorders (pre-eclampsia, eclampsia), sepsis (infection), and complications of unsafe abortion. Most are preventable with skilled birth attendance and emergency obstetric care."
+      },
+      {
+        "question": "How can I ensure a safe delivery in India?",
+        "answer": "Attend all antenatal check-ups (minimum 4 ANC visits), deliver in a hospital or health facility with skilled birth attendants, know the danger signs of pregnancy (heavy bleeding, severe headache, convulsions, reduced fetal movement), and have a birth preparedness plan (transport, blood donor, money)."
+      },
+      {
+        "question": "Is free maternity care available in India?",
+        "answer": "Yes. Janani Shishu Suraksha Karyakram (JSSK) provides completely free delivery (normal and caesarean), medicines, diet, diagnostics, and blood transfusion at government hospitals. Janani Suraksha Yojana (JSY) provides cash incentive for institutional delivery to eligible women."
+      }
     ]
   }
 }

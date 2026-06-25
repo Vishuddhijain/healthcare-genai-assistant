@@ -1,5 +1,5 @@
 TOPIC: Antimicrobial Resistance (AMR)
-CATEGORY: Public Health / Infectious Disease / Drug Resistance
+CATEGORY: Public Health / Antimicrobial Resistance
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance
 LAST UPDATED: 2024
 

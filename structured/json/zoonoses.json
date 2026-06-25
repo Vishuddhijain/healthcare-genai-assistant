@@ -47,6 +47,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is a zoonosis and what are common examples in India?",
+        "answer": "A zoonosis is an infection that can spread from animals to humans. Common zoonoses in India: Rabies (dogs), Brucellosis (cattle/goats via raw milk), Leptospirosis (rats via contaminated water), Nipah virus (fruit bats), Bird flu H5N1 (poultry), Toxoplasmosis (cats), Anthrax (livestock), and Q fever (livestock)."
+      },
+      {
+        "question": "How can I protect my family from zoonotic diseases?",
+        "answer": "Vaccinate pet dogs and cats (especially rabies). Drink only pasteurised or boiled milk. Wash hands after contact with animals or animal products. Cook meat thoroughly. Avoid contact with sick or dead animals. Wear gloves when gardening (soil-borne zoonoses). Follow government advisories during animal disease outbreaks."
+      },
+      {
+        "question": "Is it safe to keep pets (dogs, cats) at home in India?",
+        "answer": "Yes, with proper precautions. Ensure pets are vaccinated (rabies, other vaccines). Deworm pets every 3 months. Regular vet check-ups. Wash hands after pet contact especially before eating. Do not allow pets to lick wounds. Pregnant women should avoid handling cat litter (Toxoplasma risk)."
+      },
+      {
+        "question": "What is the relationship between animal health and human health in India?",
+        "answer": "Animal health and human health are deeply connected (One Health). India's large livestock population (200+ million cattle, 150+ million goats) and close human-animal interface in rural areas creates significant zoonotic disease risk. Veterinary services and animal vaccination programmes directly protect human health."
+      }
     ]
   }
 }

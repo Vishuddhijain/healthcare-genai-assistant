@@ -90,3 +90,16 @@ The disease remains an important public health problem in many parts of the worl
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is tetanus still dangerous in India?
+A: Yes. India reports thousands of tetanus cases annually, including neonatal tetanus (from unhygienic delivery or cord care) and tetanus from wounds. Most cases occur in unvaccinated individuals. Tetanus is entirely preventable through vaccination.
+
+Q: What should I do if I get a deep or dirty wound?
+A: Clean the wound thoroughly with soap and water. Check vaccination history — if not vaccinated or last booster was more than 5 years ago, get a Td (tetanus-diphtheria) booster at any government hospital (free). Deep wounds may also need Tetanus Immunoglobulin (TIG) — doctor will advise. Seek medical care for any puncture wound, rusty nail injury, or animal bite.
+
+Q: What are the warning signs of tetanus?
+A: Jaw stiffness or lockjaw (trismus — difficulty opening the mouth) is the earliest and most characteristic sign. This progresses to muscle spasms throughout the body (which can be violent and extremely painful), arching of the back, and in severe cases breathing failure. Tetanus is a medical emergency.
+
+Q: Is the tetanus vaccine free in India?
+A: Yes. DPT (includes tetanus) is free in India's UIP for children. Td vaccine for adults (10-year boosters) is free at government hospitals. Pregnant women receive 2 doses of Td free under the UIP. All wounds requiring medical attention should include tetanus prophylaxis assessment.

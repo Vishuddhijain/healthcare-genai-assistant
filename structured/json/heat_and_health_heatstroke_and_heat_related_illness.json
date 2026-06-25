@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health",
   "topic": "Heat and Health / Heatstroke and Heat-Related Illness",
-  "category": "Environmental Health / Emergency / Climate Change Health",
+  "category": "Environmental Health / Climate",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -116,6 +116,20 @@
       "Loo (hot, dry wind): Extremely dangerous dust-laden wind in North India during summer (April–June) — avoid direct exposure; stay indoors.",
       "MNREGA workers and daily wage labourers are among the most vulnerable — employers must provide shade, water, rest periods.",
       "NIMHANS summer heat awareness: Heat also worsens mental health conditions."
+    ],
+    "faqs": [
+      {
+        "question": "How much water should I drink during a heat wave?",
+        "answer": "At least 8–10 glasses (2–2.5 litres) per day, more if working outdoors or sweating heavily. Drink before you feel thirsty. Add a pinch of salt and sugar to water if electrolytes are lost."
+      },
+      {
+        "question": "Is raw mango panna good for heat?",
+        "answer": "Yes. Kairi (raw mango) panna is a traditional Indian cooling drink that helps replace electrolytes and prevent heat exhaustion. It is widely recommended by health authorities in India."
+      },
+      {
+        "question": "What is the difference between heat exhaustion and heatstroke?",
+        "answer": "Heat exhaustion: heavy sweating, weakness, normal or slightly elevated temperature — manageable with cooling and hydration. Heatstroke: temperature ≥40°C, confusion or unconsciousness, hot dry skin — life-threatening emergency requiring 112."
+      }
     ]
   }
 }

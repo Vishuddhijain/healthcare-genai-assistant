@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/shingles-(herpes-zoster)",
   "topic": "Shingles (herpes zoster)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "24 March 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -73,6 +73,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is shingles and who gets it?",
+        "answer": "Shingles (herpes zoster) is caused by reactivation of the varicella-zoster virus — the same virus that causes chickenpox. After chickenpox, the virus remains dormant in nerve cells and can reactivate decades later, causing shingles. Anyone who has had chickenpox can get shingles — risk increases after age 50 or with weakened immunity."
+      },
+      {
+        "question": "Is shingles contagious?",
+        "answer": "Shingles itself cannot be spread to others. However, the fluid from shingles blisters can spread the varicella-zoster virus to people who have never had chickenpox or been vaccinated, giving them chickenpox (not shingles). Keep blisters covered and avoid contact with pregnant women, newborns, and immunocompromised individuals."
+      },
+      {
+        "question": "What are the symptoms of shingles?",
+        "answer": "Typically: one-sided burning pain, tingling, or itching in a band or strip on one side of the body, followed by a painful rash with fluid-filled blisters in the same area. The face and eye area can be affected (ophthalmological shingles — see a doctor urgently for this). Severe nerve pain (postherpetic neuralgia) can persist for months after the rash resolves."
+      },
+      {
+        "question": "Is there a vaccine for shingles available in India?",
+        "answer": "Shingrix (recombinant zoster vaccine) provides over 90% protection against shingles and is recommended for adults 50+. It is available in India at private vaccination centres but is not currently part of India's UIP. Consult your doctor about suitability."
+      }
     ]
   }
 }

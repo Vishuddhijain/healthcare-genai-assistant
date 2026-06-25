@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/japanese-encephalitis",
   "topic": "Japanese Encephalitis (JE)",
-  "category": "Communicable / Vector-Borne / Neurological",
+  "category": "Communicable Disease / Vector-Borne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -85,6 +85,20 @@
       "AES (Acute Encephalitic Syndrome) surveillance: All government hospitals in endemic areas are required to report AES cases.",
       "NVBDCP: Coordinates JE vaccination campaigns and vector control.",
       "Chandipura virus, Nipah virus: Other causes of encephalitis in India — separate conditions."
+    ],
+    "faqs": [
+      {
+        "question": "Is Japanese Encephalitis contagious (does it spread person to person)?",
+        "answer": "No. JE does NOT spread person to person. It spreads only through Culex mosquito bites. You cannot get JE from a patient with JE."
+      },
+      {
+        "question": "My child lives in Gorakhpur/UP. Is the JE vaccine available?",
+        "answer": "Yes. JE vaccine is free under India's UIP for children in endemic districts. Contact your nearest government PHC or Anganwadi centre."
+      },
+      {
+        "question": "Can adults get Japanese Encephalitis?",
+        "answer": "Yes, but most adults in endemic areas develop immunity through repeated exposure. Children are most vulnerable to clinical disease. Unimmune adults (travellers, migrants) can be severely affected."
+      }
     ]
   }
 }

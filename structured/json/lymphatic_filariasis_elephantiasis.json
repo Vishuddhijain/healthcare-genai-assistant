@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis",
   "topic": "Lymphatic Filariasis (Elephantiasis)",
-  "category": "Communicable Disease (Vector-Borne / Parasitic NTD)",
+  "category": "Communicable Disease / Vector-Borne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -76,7 +76,26 @@
       "India has made significant progress toward elimination; some districts have stopped MDA after meeting criteria",
       "Free MDA tablets distributed door-to-door annually in endemic districts — participate even without symptoms",
       "Hydrocele surgery available free at government hospitals under the programme",
-      "Lymphoedema morbidity management kits provided at PHCs in endemic areas"
+      "Lymphoedema morbidity management kits provided at PHCs in endemic areas",
+      "NVBDCP manages filariasis elimination. Free MDA tablets are distributed annually in endemic districts. National Health Helpline: 104."
+    ],
+    "faqs": [
+      {
+        "question": "What is lymphatic filariasis (elephantiasis) and where is it found in India?",
+        "answer": "Lymphatic filariasis is a parasitic disease caused by microscopic worms (filariae) spread by Culex mosquitoes. It causes lymphoedema (swelling of limbs) and hydrocele. India is among the countries with the highest burden globally — endemic in 21 states including UP, Bihar, AP, Odisha, and others."
+      },
+      {
+        "question": "How is lymphatic filariasis spread?",
+        "answer": "It spreads through the bite of infected Culex mosquitoes (which breed in dirty, stagnant water and bite at night). The worms migrate to and damage lymph nodes, causing progressive swelling. It is NOT spread person-to-person."
+      },
+      {
+        "question": "Can lymphatic filariasis be treated or cured?",
+        "answer": "Currently infected: Symptoms managed with elevation, compression, and hygiene care for affected limbs. Worm burden can be reduced with antifilarial drugs (DEC + albendazole) — free under the National Programme for Elimination of Lymphatic Filariasis (NPELF). Annual Mass Drug Administration (MDA) prevents new infections."
+      },
+      {
+        "question": "What is the MDA (Mass Drug Administration) programme for filariasis?",
+        "answer": "India's National Programme distributes free DEC (Diethylcarbamazine) + Albendazole tablets to everyone (except pregnant women, children under 2, and seriously ill) in endemic districts once a year — even to people who have no symptoms. Participate in MDA when it is conducted in your district."
+      }
     ]
   }
 }

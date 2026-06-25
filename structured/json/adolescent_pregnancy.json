@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/adolescent-pregnancy",
   "topic": "Adolescent pregnancy",
-  "category": "Reproductive and Maternal Health",
+  "category": "Maternal and Child Health",
   "last_updated": "10 April 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -51,6 +51,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the health risks of pregnancy before age 18?",
+        "answer": "Adolescent pregnancy carries higher risks of anaemia, pre-eclampsia, obstructed labour, and maternal death. Babies are more likely to be premature or underweight. Early antenatal care is essential."
+      },
+      {
+        "question": "Is adolescent pregnancy common in India?",
+        "answer": "India has one of the highest rates of adolescent pregnancy globally, especially in rural areas and among girls who marry early. The legal marriage age in India is 18 for girls and 21 for boys."
+      },
+      {
+        "question": "What support is available for pregnant adolescents in India?",
+        "answer": "Government hospitals provide free antenatal care. RKSK (Rashtriya Kishor Swasthya Karyakram) centres at PHCs offer adolescent-specific health services. ASHA workers provide doorstep support and counselling."
+      },
+      {
+        "question": "What can I do if I know an underage girl who is pregnant?",
+        "answer": "Support her to access medical care immediately. Contact local ASHA workers or PHC for free antenatal services. Child marriage is illegal in India â if you suspect forced early marriage, contact Childline at 1098."
+      }
     ]
   }
 }

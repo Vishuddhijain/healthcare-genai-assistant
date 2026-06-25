@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance",
   "topic": "Antimicrobial Resistance (AMR)",
-  "category": "Public Health / Infectious Disease / Drug Resistance",
+  "category": "Public Health / Antimicrobial Resistance",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -63,6 +63,24 @@
       "ICMR regularly publishes AMR data and antibiotic guidelines.",
       "Hospitals are implementing Antibiotic Stewardship Programmes.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "I have a cold. Should I take an antibiotic to recover faster?",
+        "answer": "No. Colds are caused by viruses. Antibiotics are useless against viruses. Rest, fluids, and symptomatic relief (paracetamol, steam) are all that's needed. Antibiotics will only cause side effects and contribute to resistance."
+      },
+      {
+        "question": "I stopped my antibiotic course after 3 days because I felt better. Is that okay?",
+        "answer": "No. You must complete the full prescribed course. Feeling better doesn't mean the infection is eliminated. Stopping early leaves partially-killed bacteria that can develop resistance."
+      },
+      {
+        "question": "What can I do if I'm prescribed an antibiotic and feel it's not necessary?",
+        "answer": "Ask your doctor politely — \"Is this antibiotic definitely needed? Is there a non-antibiotic option?\" It's okay to question. A good doctor will explain."
+      },
+      {
+        "question": "Are antibiotic-resistant infections treatable at all?",
+        "answer": "Many still respond to last-resort antibiotics, but these are more expensive, have more side effects, and may not be available everywhere. Prevention through proper antibiotic use is essential."
+      }
     ]
   }
 }

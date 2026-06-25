@@ -80,3 +80,16 @@ The largest outbreaks occurred in Greece, Israel, Romania, Russia and USA. Outbr
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has West Nile Virus been reported in India?
+A: Yes. West Nile Virus (WNV) has been detected in India — both in birds and in humans in Kerala (2011) and other states. It is maintained in bird-mosquito-bird cycles with Culex mosquitoes as the primary vector, and humans are dead-end hosts.
+
+Q: What are the symptoms of West Nile Virus infection?
+A: Most infections (80%) have no symptoms. About 20% develop West Nile Fever: sudden fever, headache, body aches, nausea, rash. About 1% develop West Nile Neuroinvasive Disease (encephalitis, meningitis) — which can be severe and cause death or permanent neurological damage.
+
+Q: How does West Nile Virus spread?
+A: Primarily through Culex mosquito bites (which bite at dawn and dusk). Also through blood transfusion, organ transplantation, and rarely through breastfeeding or pregnancy. It does NOT spread person-to-person through normal contact.
+
+Q: Is there a treatment or vaccine for West Nile Virus?
+A: There is no specific antiviral treatment — management is supportive. No human vaccine is licensed. Prevention through mosquito control (eliminating stagnant water, using repellents, avoiding peak biting times, window screens) is the primary approach.

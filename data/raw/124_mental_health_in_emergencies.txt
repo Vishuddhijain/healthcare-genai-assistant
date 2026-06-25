@@ -1,5 +1,5 @@
 TOPIC: Mental Health in Emergencies
-CATEGORY: Mental Health / Disaster Response
+CATEGORY: Mental Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/mental-health-in-emergencies | NIMHANS - nimhans.ac.in
 LAST UPDATED: 2024
 
@@ -99,3 +99,16 @@ This information is for health awareness only. Strong emotional reactions after 
 
 --- WHEN TO SEE A DOCTOR ---
 - Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do disasters like floods affect mental health in India?
+A: Disasters cause acute stress reactions, grief, post-traumatic stress disorder (PTSD), depression, and anxiety. Displacement, loss of livelihoods, and community disruption compound mental health burden. Mental health support is an integral part of disaster response in India.
+
+Q: What mental health support is available during disasters in India?
+A: NIMHANS, government psychiatric teams, and trained counsellors are deployed during major disasters. Tele MANAS (14416) operates 24/7 including during emergencies. NDMA guidelines include psychosocial support as part of disaster response protocols.
+
+Q: Is it normal to feel extremely distressed after a disaster?
+A: Yes. Fear, sadness, grief, anger, and sleep disturbance are normal responses to abnormal events. Most people recover naturally with time and community support. Seek professional help if distress is severe, persistent beyond 4 weeks, or significantly interferes with daily functioning.
+
+Q: How can community members support each other's mental health after a disaster?
+A: Be present and listen actively. Share accurate information to counter rumours. Help with practical needs (food, shelter, connectivity). Reconnect people with family and community. Identify those showing severe distress and link them to mental health services. Social support is among the most powerful recovery factors.

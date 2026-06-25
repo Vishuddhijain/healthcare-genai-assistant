@@ -4,7 +4,7 @@
   "source_name": "WHO + UNICEF + NHM India + NHP India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
   "topic": "Child Health — Diarrhoea, Pneumonia, and Malnutrition (Under-5 Children)",
-  "category": "Communicable Disease + Nutritional Disorder (Paediatric)",
+  "category": "Communicable Disease / Child Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -57,6 +57,24 @@
       "Child Helpline: 1098 (Childline India)",
       "ICDS via Anganwadi: Reach nearest Anganwadi centre",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "When should I take my child to a doctor for diarrhoea?",
+        "answer": "See a doctor if: diarrhoea has blood, lasts more than 2 days, the child shows signs of dehydration (sunken eyes, no tears, no urine for 6+ hours), or the child is very lethargic. Give ORS after every loose stool while waiting. Free ORS sachets available at government health centres."
+      },
+      {
+        "question": "What is a safe level of breathing rate for a child with pneumonia?",
+        "answer": "Fast breathing is a danger sign: over 60 breaths/minute in infants under 2 months; over 50 in infants 2-12 months; over 40 in children 1-5 years. Count for one full minute. If fast or difficult breathing is present â go to a hospital immediately."
+      },
+      {
+        "question": "My child's weight is on the red zone of the growth chart. What does that mean?",
+        "answer": "Red zone means severe acute malnutrition (SAM). The child needs urgent medical attention â go to the nearest government hospital or Nutrition Rehabilitation Centre (NRC). Treatment is free. Do not wait."
+      },
+      {
+        "question": "Are all childhood vaccines in India's schedule really necessary?",
+        "answer": "Yes. India's Universal Immunisation Programme (UIP) vaccines protect against up to 12 potentially fatal diseases. They are extensively tested for safety and effectiveness. Unvaccinated children face preventable risk of polio, measles, whooping cough, and other serious diseases. All vaccines are free at government health centres."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/hiv-drug-resistance",
   "topic": "HIV drug resistance",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "25 November 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -77,6 +77,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What causes HIV drug resistance?",
+        "answer": "HIV drug resistance develops when people stop or irregularly take their ART medication. HIV replicates rapidly and mutates â missing doses gives the virus opportunity to develop resistance to antiretrovirals. Consistent daily adherence to ART is the most important way to prevent resistance."
+      },
+      {
+        "question": "What happens if my HIV treatment stops working due to resistance?",
+        "answer": "Your doctor will conduct a drug resistance test and switch you to a second-line or third-line ART regimen. These are available free at government ART centres in India under NACO. Never change or stop ART on your own â always inform your doctor."
+      },
+      {
+        "question": "How common is HIV drug resistance in India?",
+        "answer": "Drug resistance is a growing concern in India. NACO monitors resistance patterns nationally. Pre-treatment resistance to first-line drugs has been detected in some populations. This underscores the critical importance of consistent ART adherence and regular viral load monitoring."
+      },
+      {
+        "question": "Can HIV drug resistance spread to others?",
+        "answer": "Yes. A drug-resistant strain of HIV can be transmitted to another person through unprotected sex, needle sharing, or from mother to child. This is why prevention (condoms, clean needles, PMTCT) combined with treatment adherence is critical from a public health perspective."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
   "topic": "Air Pollution and Health",
-  "category": "Environmental Health / Public Health",
+  "category": "Environmental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -98,6 +98,24 @@
       "BS-VI fuel standards: Implemented to reduce vehicle emissions.",
       "CPCB AQI monitoring: Real-time data at cpcb.nic.in and SAMEER app.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is it safe to exercise outdoors in Delhi/Mumbai in winter?",
+        "answer": "On days with AQI above 200 (Poor or worse), avoid outdoor exercise especially in the morning when pollution peaks. Use indoor exercise alternatives."
+      },
+      {
+        "question": "Do indoor plants improve air quality significantly?",
+        "answer": "Plants have a very minor effect on indoor air quality. They cannot replace proper ventilation or air purifiers. But they do improve wellbeing."
+      },
+      {
+        "question": "Are cloth masks effective against air pollution?",
+        "answer": "No. Cloth masks and surgical masks do not filter fine particles (PM2.5). Only N95 or N99 respirators provide meaningful protection against air pollution."
+      },
+      {
+        "question": "Is air pollution worse in winter in India?",
+        "answer": "Yes. In winter, cooler air traps pollutants close to the ground (thermal inversion), crop burning occurs in Punjab/Haryana, and dust from construction settles less. North India is particularly affected."
+      }
     ]
   }
 }

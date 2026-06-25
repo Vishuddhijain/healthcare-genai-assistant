@@ -58,3 +58,16 @@ Improving access to assistive technology can contribute to the achievement of th
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What assistive technology is available for people with disabilities in India?
+A: Common assistive devices include hearing aids, wheelchairs, white canes, prosthetic limbs, low-vision aids, and communication devices. These are provided free or subsidised to eligible persons with disabilities under the ADIP scheme (Assistance to Disabled Persons).
+
+Q: How do I apply for a free hearing aid or wheelchair in India?
+A: Apply through the ADIP scheme at your nearest District Disability Rehabilitation Centre (DDRC) or government hospital. You need a disability certificate from a government doctor. Contact the Artificial Limbs Manufacturing Corporation (ALIMCO) or local district social welfare office.
+
+Q: What is the UDID card and why does a person with disability need it?
+A: The Unique Disability ID (UDID) card is a national identity card for persons with disabilities in India. It enables access to government schemes, benefits, reservations, and concessions. Apply at swavlambancard.gov.in or nearest DDRC.
+
+Q: Are there apps or technology that help people with visual impairment use smartphones?
+A: Yes. Android devices have TalkBack and iOS devices have VoiceOver â free built-in screen readers. Apps like Seeing AI, Be My Eyes, and Google Lookout help visually impaired users with daily tasks. These are free to download.

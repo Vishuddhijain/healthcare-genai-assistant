@@ -1,5 +1,5 @@
 TOPIC: Osteoarthritis
-CATEGORY: Non-Communicable Disease / Musculoskeletal Health / Ageing
+CATEGORY: Non-Communicable Disease / Musculoskeletal
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/osteoarthritis | NHP India | ICMR
 LAST UPDATED: 2024
 
@@ -108,6 +108,7 @@ Surgical (for advanced OA, when conservative treatment fails):
 - AB-HWCs include musculoskeletal health screening as part of NCD services for older adults
 - Yoga and physiotherapy are widely accessible and recommended for joint health management
 - Rural agricultural workers face high occupational OA risk from repetitive bending and lifting
+- For physiotherapy and orthopaedic consultation at government hospitals, call 104. PM-JAY covers joint replacement at empanelled hospitals: helpline 14555.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is osteoarthritis the same as rheumatoid arthritis?

@@ -82,3 +82,16 @@ Common items in e-waste streams include computers, mobile phones, large househol
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is e-waste a health problem in India?
+A: Yes. India is the third largest e-waste generator globally. Informal e-waste recycling â burning, acid leaching â releases toxic heavy metals (lead, mercury, cadmium, chromium) causing serious health harm to recyclers and surrounding communities, especially children.
+
+Q: Where should I dispose of old phones, computers, and batteries in India?
+A: Use manufacturer take-back programmes (most major brands in India are required to collect e-waste). CPCB-authorised e-waste collection centres and recyclers (list at cpcb.nic.in). Many electronic shops also accept old devices for recycling. Never throw e-waste in regular rubbish.
+
+Q: What health effects does e-waste exposure cause?
+A: Children in communities near informal e-waste sites have elevated blood lead levels, affecting brain development, intelligence, and behaviour. Adult e-waste workers face risk of lung disease, kidney damage, cancer, and reproductive harm from toxic chemical exposure.
+
+Q: What is India doing about e-waste?
+A: The E-Waste (Management) Rules 2022 mandate extended producer responsibility â manufacturers must collect and recycle a percentage of their products. Penalties apply for improper e-waste disposal. However, the informal sector remains the primary recycler, and enforcement needs strengthening.

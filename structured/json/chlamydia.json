@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/chlamydia",
   "topic": "Chlamydia",
-  "category": "Sexual Health / STI Awareness",
+  "category": "Communicable Disease / STI",
   "last_updated": "21 November 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -72,6 +72,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Does chlamydia always cause symptoms?",
+        "answer": "No. About 70% of women and 50% of men with chlamydia have no symptoms. This is why it is called a silent STI. Regular testing is essential for sexually active people, especially those under 25 or with new/multiple partners."
+      },
+      {
+        "question": "Can chlamydia affect fertility?",
+        "answer": "Yes. Untreated chlamydia spreads to the fallopian tubes in women, causing pelvic inflammatory disease (PID) which can cause infertility, ectopic pregnancy, and chronic pelvic pain. In men, it can cause epididymitis. Early diagnosis and treatment prevents these complications."
+      },
+      {
+        "question": "Is chlamydia curable?",
+        "answer": "Yes. Chlamydia is easily treated with a short course of antibiotics (azithromycin or doxycycline) prescribed by a doctor. Sexual partners should also be tested and treated simultaneously. Free testing and treatment at government ICTCs (Integrated Counselling and Testing Centres)."
+      },
+      {
+        "question": "How can I protect myself from chlamydia?",
+        "answer": "Use condoms consistently for every sexual encounter. Get tested regularly if sexually active with new or multiple partners. Mutual monogamy with a tested, uninfected partner significantly reduces risk. Free condoms available from ASHA workers and government hospitals."
+      }
     ]
   }
 }

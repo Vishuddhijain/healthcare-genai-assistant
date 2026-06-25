@@ -1,5 +1,5 @@
 TOPIC: Group B Streptococcus (GBS) and Guillain-Barré Syndrome
-CATEGORY: Infectious Disease / Neurological / Maternal and Child Health
+CATEGORY: Communicable Disease / Neurological
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/group-b-streptococcus-(gbs) | https://www.who.int/news-room/fact-sheets/detail/guillain-barré-syndrome
 LAST UPDATED: 2024
 

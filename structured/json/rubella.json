@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/rubella",
   "topic": "Rubella",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "14 May 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -63,6 +63,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is rubella still a risk in India?",
+        "answer": "Yes. Despite significant progress, rubella cases and congenital rubella syndrome (CRS) still occur in India. The Measles-Rubella (MR) vaccination campaign has dramatically reduced cases, but maintaining high vaccination coverage is essential."
+      },
+      {
+        "question": "Why is rubella especially dangerous during pregnancy?",
+        "answer": "Rubella infection in the first trimester of pregnancy causes Congenital Rubella Syndrome (CRS) in up to 90% of cases — causing deafness, blindness, heart defects, and intellectual disability in the baby. This is preventable with MR vaccination before pregnancy."
+      },
+      {
+        "question": "Is the rubella vaccine free in India?",
+        "answer": "Yes. Measles-Rubella (MR) vaccine is free under India's Universal Immunisation Programme, given at 9 and 15 months. National MR campaigns have vaccinated hundreds of millions of children. Women of childbearing age who are not immune should receive the vaccine before getting pregnant (avoid in pregnancy)."
+      },
+      {
+        "question": "How do I know if I am immune to rubella before planning pregnancy?",
+        "answer": "A simple blood test (rubella IgG) checks immunity. It is recommended as part of preconception screening. If not immune, get the MR vaccine and wait 1 month before trying to conceive. Free preconception check-ups are available at government hospitals."
+      }
     ]
   }
 }

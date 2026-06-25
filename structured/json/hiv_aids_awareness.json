@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + NACO India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
   "topic": "HIV/AIDS Awareness",
-  "category": "Communicable Disease (Blood-Borne / Sexually Transmitted)",
+  "category": "Communicable Disease / STI",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -112,6 +112,24 @@
       "National AIDS Helpline: 1097 (toll-free, 24x7, multilingual)",
       "NACO: naco.gov.in",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Can HIV spread through mosquito bites?",
+        "answer": "No. HIV cannot spread through mosquito bites, coughing, sneezing, hugging, sharing food, or toilet seats. HIV is fragile outside the human body â it only spreads through specific bodily fluids: blood, semen, vaginal fluid, breast milk, and from mother to child."
+      },
+      {
+        "question": "If I take PrEP, do I still need to use condoms?",
+        "answer": "PrEP (Pre-Exposure Prophylaxis) is highly effective at preventing HIV when taken daily, but does not protect against other STIs (gonorrhoea, chlamydia, herpes, syphilis). Condoms protect against both HIV and other STIs. Using both together provides the most comprehensive protection."
+      },
+      {
+        "question": "Is HIV testing free and confidential in India?",
+        "answer": "Yes. HIV testing at government ICTCs (Integrated Counselling and Testing Centres) is completely free and strictly confidential. No one can access your results without your consent. Walk in to any government hospital ICTC. You can also test anonymously."
+      },
+      {
+        "question": "Can a person with HIV have children?",
+        "answer": "Yes. With proper ART treatment and medical support, HIV-positive women can have healthy, HIV-negative babies. The PMTCT (Prevention of Mother to Child Transmission) programme reduces transmission risk to below 2%. Consult a doctor before and during pregnancy."
+      }
     ]
   }
 }

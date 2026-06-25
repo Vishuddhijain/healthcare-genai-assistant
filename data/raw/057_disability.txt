@@ -59,3 +59,16 @@ Disability is part of being human and is integral to the human experience. It re
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What rights do persons with disabilities have in India?
+A: The Rights of Persons with Disabilities Act (RPWD 2016) guarantees rights to education, employment, healthcare, social security, and non-discrimination. 21 categories of disability are recognised. The UDID card provides access to schemes and benefits. Contact your nearest District Disability Rehabilitation Centre (DDRC).
+
+Q: What government schemes support persons with disabilities in India?
+A: Key schemes: ADIP (free assistive devices), Scholarship schemes for students with disabilities, 4% reservation in government jobs, NIMHANS/NIMHR rehabilitation services, Deendayal Disabled Rehabilitation Scheme (DDRS), and PM-JAY health coverage. Contact district social welfare officer for details.
+
+Q: How do I get a disability certificate in India?
+A: Apply at your district government hospital with a specialist panel (orthopaedic surgeon, psychiatrist, ENT etc. depending on disability type). The doctor certifies the type and percentage of disability. This certificate is required to access most disability benefits and schemes.
+
+Q: What is the Divyangjan scheme in India?
+A: The Sugamya Bharat (Accessible India) Campaign and Divyangjan (Persons with Disabilities) schemes under the Ministry of Social Justice and Empowerment aim to improve accessibility of public spaces, transport, and government websites. Deendayal Disabled Rehabilitation Scheme provides grants to NGOs running disability services.

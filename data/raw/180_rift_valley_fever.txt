@@ -94,3 +94,16 @@ Since then, outbreaks have been reported in sub-Saharan Africa. In 1977 an explo
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is Rift Valley Fever present in India?
+A: Rift Valley Fever (RVF) is primarily endemic to sub-Saharan Africa and the Arabian Peninsula. India is not endemic but is at risk through animal imports and traveller cases. India has been on alert for RVF given occasional outbreaks in neighbouring regions and imports of animals from Africa.
+
+Q: How does Rift Valley Fever spread?
+A: RVF spreads from infected animals (cattle, sheep, goats, camels) to humans through direct contact with blood, body fluids, or tissues of infected animals. Mosquito bites (primarily Aedes and Culex) also transmit the virus. Person-to-person spread is not established.
+
+Q: What are the symptoms of Rift Valley Fever?
+A: Most infections (mild): fever, muscle pain, weakness, headache resolving in 2-7 days. Severe cases (1-2%): haemorrhagic fever, encephalitis, or retinitis (eye infection that can cause permanent vision loss). Case fatality rate for severe forms is 10-35%.
+
+Q: How can animal handlers protect themselves from RVF?
+A: Wear gloves, eye protection, and apron when handling animals or animal products. Avoid contact with blood or placental material from animals without PPE. Cook meat and milk thoroughly. Follow animal disease reporting — report unusual deaths in livestock to veterinary authorities.

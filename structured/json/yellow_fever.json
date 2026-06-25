@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/yellow-fever",
   "topic": "Yellow Fever",
-  "category": "Communicable Disease / Vaccine-Preventable Disease / Travel Health",
+  "category": "Communicable Disease / Vaccine-Preventable",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -145,7 +145,30 @@
       "Designated Yellow Fever Vaccination Centres in India: AIIMS, RML Hospital (Delhi), BJ Medical College (Ahmedabad), Government Medical College (Mumbai), etc.",
       "NCDC Delhi: National reference for yellow fever testing and epidemiological surveillance",
       "Risk in India: Only from imported cases (travellers returning from Africa/South America)",
-      "Travel medicine clinics: Available in major cities for pre-travel consultation"
+      "Travel medicine clinics: Available in major cities for pre-travel consultation",
+      "For yellow fever vaccination certificate, contact licensed vaccination centres listed at mohfw.gov.in. Travel health advice: 104. Emergency: 112."
+    ],
+    "faqs": [
+      {
+        "question": "Is yellow fever present in India?",
+        "answer": "No. Yellow fever is not endemic in India. However, cases can be imported by travellers returning from Africa or South America. India requires proof of vaccination from travellers arriving from endemic countries."
+      },
+      {
+        "question": "How long does yellow fever vaccine protection last?",
+        "answer": "WHO now considers a single dose to provide lifelong protection for most people. A booster is not routinely required for international travel."
+      },
+      {
+        "question": "Do I need yellow fever vaccine to travel to Africa?",
+        "answer": "It depends on which country. Many Sub-Saharan African countries require vaccination. Even where not mandatory, vaccination is strongly recommended for travel to endemic areas. Consult a travel medicine doctor before travel."
+      },
+      {
+        "question": "What if I am allergic to eggs?",
+        "answer": "The yellow fever vaccine is grown in embryonated eggs. People with severe egg allergies may be at risk of allergic reaction. Consult a doctor — mild egg allergy may not be a contraindication; severe egg allergy may require skin testing before vaccination."
+      },
+      {
+        "question": "Where can I get the yellow fever vaccine in India?",
+        "answer": "At designated International Vaccination Centres — AIIMS, Safdarjung, and other government hospitals. Private travel clinics also offer it. Call ahead to confirm availability and make an appointment."
+      }
     ]
   }
 }

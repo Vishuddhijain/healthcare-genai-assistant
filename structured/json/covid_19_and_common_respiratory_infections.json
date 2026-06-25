@@ -4,7 +4,7 @@
   "source_name": "WHO",
   "source_url": "https://www.who.int/health-topics/coronavirus",
   "topic": "COVID-19 and Common Respiratory Infections",
-  "category": "Communicable / Infectious Disease / Respiratory",
+  "category": "Communicable Disease / Respiratory",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -98,6 +98,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is COVID-19 still a threat in 2024?",
+        "answer": "COVID-19 continues to circulate as an endemic virus with periodic surges from new variants. While most current infections are milder than earlier in the pandemic, high-risk groups (elderly, immunocompromised, unvaccinated) remain vulnerable to severe disease. Staying up to date with vaccines remains important."
+      },
+      {
+        "question": "Do I need a COVID-19 booster dose in India?",
+        "answer": "Booster recommendations change based on current guidelines. Check with your nearest government hospital or cowin.gov.in for current booster recommendations for your age group and risk status. High-risk groups (elderly, immunocompromised) are generally prioritised for boosters."
+      },
+      {
+        "question": "What is the difference between a cold, flu, and COVID-19?",
+        "answer": "Cold: gradual onset, runny nose, mild. Flu: sudden onset, severe muscle aches, high fever. COVID-19: variable symptoms â can mimic both; loss of taste/smell is characteristic but not always present. Testing (Rapid Antigen Test or RT-PCR) is the only way to confirm COVID-19."
+      },
+      {
+        "question": "Should I still wear a mask in public in India?",
+        "answer": "Mask wearing is no longer mandatory in most public settings in India but remains recommended in crowded indoor spaces, hospitals, and for high-risk individuals. During surges or if symptomatic, masking helps protect others. N95 masks provide the best protection."
+      }
     ]
   }
 }

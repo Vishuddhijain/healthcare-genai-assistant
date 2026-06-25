@@ -1,5 +1,5 @@
 TOPIC: Campylobacter
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/campylobacter
 LAST UPDATED: 1 May 2020
 
@@ -77,3 +77,16 @@ The most common clinical symptoms of Campylobacter infections include diarrhoea 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What causes Campylobacter food poisoning?
+A: Campylobacter infection most commonly comes from eating raw or undercooked poultry (chicken), drinking unpasteurised milk, or consuming contaminated water. It is one of the most common causes of bacterial diarrhoea globally.
+
+Q: Is Campylobacter infection dangerous?
+A: Most cases cause self-limiting diarrhoea lasting 3-7 days. However, in infants, elderly, and immunocompromised individuals it can be severe. Campylobacter is also associated with triggering Guillain-BarrÃ© Syndrome (GBS) in rare cases.
+
+Q: How do I prevent Campylobacter infection?
+A: Cook poultry thoroughly (no pink meat), wash hands after handling raw chicken, use separate cutting boards for raw meat and vegetables, and drink only pasteurised or boiled milk. Refrigerate leftovers promptly.
+
+Q: Does Campylobacter require antibiotic treatment?
+A: Most healthy adults recover without antibiotics â rest and oral rehydration is usually sufficient. Antibiotics are only prescribed for severe cases or immunocompromised patients. Never self-prescribe antibiotics.

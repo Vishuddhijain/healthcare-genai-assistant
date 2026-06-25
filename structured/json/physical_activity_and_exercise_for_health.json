@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
   "topic": "Physical Activity and Exercise for Health",
-  "category": "Preventive Health / Lifestyle / Non-Communicable Disease Prevention",
+  "category": "Public Health / Preventive Care",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -145,7 +145,30 @@
       "ICMR Dietary Guidelines for Indians (2024) recommend 45–60 minutes of moderate physical activity daily",
       "School physical education: Compulsory PE periods in schools; CBSE promotes sports",
       "Open-air gyms (Jan Jeevan gyms) installed in parks across major cities",
-      "Air quality consideration: On high-pollution days (AQI >200) in cities like Delhi, avoid vigorous outdoor exercise"
+      "Air quality consideration: On high-pollution days (AQI >200) in cities like Delhi, avoid vigorous outdoor exercise",
+      "For lifestyle disease counselling at Ayushman Bharat HWCs, contact your nearest PHC or call 104. Yoga and wellness programmes: ayush.gov.in."
+    ],
+    "faqs": [
+      {
+        "question": "Is walking enough for good health?",
+        "answer": "Yes, for most people brisk walking (fast enough that you can talk but feel slightly breathless) for 30 minutes most days of the week meets WHO guidelines and provides significant health benefits."
+      },
+      {
+        "question": "Does yoga count as physical activity?",
+        "answer": "Yes. Yoga improves flexibility, muscle strength, and balance. Active yoga sequences (like surya namaskar, power yoga) also count toward moderate-intensity aerobic activity targets."
+      },
+      {
+        "question": "Can people with diabetes exercise?",
+        "answer": "Yes — exercise is a cornerstone of diabetes management. It improves blood sugar control significantly. However, check blood sugar before and after exercise and discuss with your doctor about adjustments to medication if needed."
+      },
+      {
+        "question": "Is exercise safe during pregnancy?",
+        "answer": "For most healthy pregnant women, yes. Regular moderate exercise (like walking, swimming, prenatal yoga) is safe and beneficial. Avoid contact sports, activities with fall risk, and exercising on your back after the first trimester. Consult your doctor."
+      },
+      {
+        "question": "How much is too much exercise?",
+        "answer": "For most people, more activity (up to a point) provides more benefit. Overtraining syndrome (excessive without adequate rest) is mainly a concern for competitive athletes. Listen to your body and allow adequate rest and recovery."
+      }
     ]
   }
 }

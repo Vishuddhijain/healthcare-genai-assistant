@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/ebola-disease",
   "topic": "Ebola disease",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "24 April 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -79,6 +79,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Has Ebola ever occurred in India?",
+        "answer": "There have been no confirmed Ebola cases in India. Ebola outbreaks primarily occur in Central and West Africa. However, India has preparedness protocols for imported cases given international air travel. Airports have screening measures during active outbreaks."
+      },
+      {
+        "question": "How does Ebola spread?",
+        "answer": "Ebola spreads through direct contact with the blood, body fluids, or organs of infected people or animals (fruit bats, primates). It does NOT spread through air, water, or casual contact. Healthcare workers are at significant risk without proper protective equipment."
+      },
+      {
+        "question": "What are the symptoms of Ebola?",
+        "answer": "Sudden onset of fever, severe headache, muscle pain, weakness, followed by vomiting, diarrhoea, and in severe cases haemorrhage (bleeding). Symptoms appear 2-21 days after exposure. Case fatality rates range from 25-90% depending on the outbreak and healthcare access."
+      },
+      {
+        "question": "Is there a vaccine or treatment for Ebola?",
+        "answer": "Yes. An effective Ebola vaccine (rVSVÎG-ZEBOV-GP, Ervebo) is available and used in outbreak response. Monoclonal antibody treatments (Inmazeb, Ebanga) have also been approved. Both are deployed by WHO during outbreaks. Treatment is supportive plus these specific medications."
+      }
     ]
   }
 }

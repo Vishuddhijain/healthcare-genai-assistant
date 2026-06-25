@@ -76,6 +76,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is schistosomiasis present in India?",
+        "answer": "Classical schistosomiasis caused by Schistosoma mansoni and S. haematobium is not endemic in India. However, S. spindale (animal schistosome causing cercarial dermatitis or swimmer's itch) does occur in India — reported from Maharashtra, Karnataka, and Tamil Nadu."
+      },
+      {
+        "question": "What is swimmer's itch and is it dangerous?",
+        "answer": "Swimmer's itch (cercarial dermatitis) occurs when larval schistosomes from water snails penetrate human skin. It causes itching, redness, and small bumps at the site of penetration. It is self-limiting (resolves within a week) and not dangerous. The cercariae cannot complete their life cycle in humans."
+      },
+      {
+        "question": "How can I avoid cercarial dermatitis (swimmer's itch) in India?",
+        "answer": "Avoid swimming in stagnant ponds and slow-moving water bodies known to have snail populations, especially in areas where cattle and ducks (which harbour animal schistosomes) are present. Towel dry vigorously immediately after leaving water. Apply insect repellent before swimming in risk areas."
+      },
+      {
+        "question": "Why is global schistosomiasis awareness important for India?",
+        "answer": "India receives travellers from and sends workers to schistosomiasis-endemic areas in Africa and the Middle East. Healthcare professionals should consider schistosomiasis in patients with unexplained haematuria (blood in urine), liver problems, or eosinophilia who have lived or worked in endemic areas."
+      }
     ]
   }
 }

@@ -1,5 +1,5 @@
 TOPIC: Violence against children
-CATEGORY: Emergency Awareness / Violence Prevention
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/violence-against-children
 LAST UPDATED: 7 May 2026
 
@@ -84,3 +84,16 @@ Bullying (including cyber-bullying) is deliberate, unwanted aggressive behaviour
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What types of violence affect children in India?
+A: Children in India are affected by: physical punishment (in homes and schools), sexual abuse (under POCSO Act), emotional abuse, neglect, child labour (denied education, exploited for work), child marriage (girls especially), trafficking, and online/cyberbullying. All forms of violence harm children's development and health.
+
+Q: How common is child sexual abuse in India?
+A: Studies indicate approximately 53% of Indian children have experienced some form of sexual abuse. Most perpetrators are known to the child (family members, neighbours, teachers). Most children do not disclose due to shame, fear, or not recognising abuse. Creating safe spaces for children to speak is critical.
+
+Q: What should a child do if they experience violence or abuse?
+A: Tell a trusted adult — a parent, teacher, or other relative. If not heard, tell another adult. Remember: it is NEVER the child's fault. In immediate danger, call Childline 1098. For online/cyberbullying: screenshot and save evidence, report on the platform, block the abuser, tell a trusted adult.
+
+Q: How can parents protect children from sexual abuse?
+A: Teach children about body autonomy ('your body belongs to you'), safe vs. unsafe touch (private parts covered by swimsuit), the right to say no (even to known adults), and that secrets about body are never okay. Maintain open communication so children feel safe disclosing. Believe children if they disclose.

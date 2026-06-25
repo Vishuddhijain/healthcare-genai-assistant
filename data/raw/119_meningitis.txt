@@ -1,5 +1,5 @@
 TOPIC: Meningitis
-CATEGORY: Communicable Disease (Bacterial/Viral CNS Infection)
+CATEGORY: Communicable Disease / Neurological
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/meningitis
 LAST UPDATED: 2024
 
@@ -100,3 +100,16 @@ This information is for health awareness only. Bacterial meningitis is a medical
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the most dangerous type of meningitis?
+A: Bacterial meningitis (caused by Neisseria meningitidis, Streptococcus pneumoniae, or Haemophilus influenzae) is the most dangerous — it can be fatal within 24 hours and cause permanent disability (deafness, brain damage) in survivors. Viral meningitis is usually less severe and self-limiting.
+
+Q: How do I identify a meningitis rash?
+A: A distinctive non-blanching rash (petechiae or purpura — red/purple spots that do NOT fade when pressed with a glass) indicates possible meningococcal septicaemia — a medical emergency. This is the glass test. Call 112 immediately if this rash is present.
+
+Q: Are there vaccines for meningitis available in India?
+A: PCV (Pneumococcal Conjugate Vaccine) — free under UIP — protects against pneumococcal meningitis. Hib vaccine — free under UIP — protects against Hib meningitis. Meningococcal vaccine is recommended for high-risk individuals and travellers to high-incidence areas — available at private clinics.
+
+Q: Can meningitis be treated?
+A: Bacterial meningitis requires emergency hospitalisation and intravenous antibiotics — every hour of delay increases disability and death risk. Viral meningitis is usually managed with supportive care. If meningitis is suspected — do not wait — go to emergency department or call 112.

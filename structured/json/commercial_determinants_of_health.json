@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/commercial-determinants-of-health",
   "topic": "Commercial determinants of health",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "21 March 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -63,6 +63,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are commercial determinants of health?",
+        "answer": "Commercial determinants of health are the private sector activities that influence people's health â marketing of tobacco, alcohol, ultra-processed food, and gambling. These industries profit from behaviours that harm health. Understanding this helps people make more informed choices."
+      },
+      {
+        "question": "How does food marketing affect children's health in India?",
+        "answer": "Aggressive marketing of high-sugar, high-salt packaged foods targets children through TV ads, school promotions, and social media. This contributes to rising childhood obesity and lifestyle disease. FSSAI regulations aim to restrict misleading health claims on packaged foods."
+      },
+      {
+        "question": "How can I protect myself from harmful commercial influences on health?",
+        "answer": "Read food labels (look for FSSAI licence, check sugar/salt content), be sceptical of health claims in advertisements, limit screen time for children, choose whole foods over ultra-processed products, and support regulation of harmful industry marketing."
+      },
+      {
+        "question": "Is tobacco industry marketing regulated in India?",
+        "answer": "Yes. The COTPA Act (Cigarettes and Other Tobacco Products Act) bans tobacco advertising in India. Graphic health warnings must cover 85% of cigarette packaging. However, surrogate advertising (through pan masala brands etc.) remains a challenge."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/scabies",
   "topic": "Scabies",
-  "category": "Communicable Disease / Skin Condition / Neglected Tropical Disease",
+  "category": "Communicable Disease / Neglected Tropical Disease",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -78,7 +78,30 @@
       "Scabies is common in India, particularly in crowded settings like schools, hostels, slums, and during natural disaster displacement (relief camps)",
       "Government dermatology departments at district hospitals provide diagnosis and treatment, including permethrin and ivermectin",
       "School health programmes (under Ayushman Bharat/RBSK) can help identify skin conditions including scabies in children for referral",
-      "Outbreaks in hostels/institutions require coordinated mass treatment approaches, often supported by local health authorities"
+      "Outbreaks in hostels/institutions require coordinated mass treatment approaches, often supported by local health authorities",
+      "For free scabies treatment at government PHCs and hospitals, call 104. During outbreaks in schools or institutions, contact the district health officer."
+    ],
+    "faqs": [
+      {
+        "question": "Is scabies a sign of poor hygiene?",
+        "answer": "No. Scabies can affect anyone, regardless of personal hygiene — it spreads through close contact, particularly in crowded living situations. It is not a reflection of cleanliness."
+      },
+      {
+        "question": "Can I get scabies from my pet?",
+        "answer": "Generally no. Animal mange mites (a similar but different mite species) can occasionally cause temporary, mild itching in humans from brief contact, but they cannot establish a true infestation on human skin (they cannot reproduce there)."
+      },
+      {
+        "question": "Why does the itching continue even after treatment?",
+        "answer": "It's common for itching to persist for 2-4 weeks after successful treatment because the body's allergic reaction to mite proteins takes time to resolve, even after the mites are killed. This is different from treatment failure. A doctor can advise on managing this residual itching."
+      },
+      {
+        "question": "Do I need to treat my whole family if only one person has symptoms?",
+        "answer": "Often, yes — your doctor may recommend treating all household members/close contacts simultaneously, since the incubation period before symptoms appear can be several weeks, and others may be infested without yet showing symptoms. This prevents a cycle of re-infestation."
+      },
+      {
+        "question": "How do I clean my home to prevent reinfestation?",
+        "answer": "Wash bedding, clothing, and towels used in the past 3 days in hot water (>50°C) and dry on high heat. Items that can't be washed can be sealed in a plastic bag for 3-7 days, as the mites die without a host. Extensive home fumigation is generally not necessary."
+      }
     ]
   }
 }

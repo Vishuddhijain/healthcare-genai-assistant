@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/rheumatoid-arthritis",
   "topic": "Rheumatoid arthritis",
-  "category": "Musculoskeletal Health",
+  "category": "Non-Communicable Disease / Musculoskeletal",
   "last_updated": "28 June 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -67,6 +67,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is rheumatoid arthritis the same as osteoarthritis?",
+        "answer": "No. Osteoarthritis is wear-and-tear joint degeneration (most common in elderly, knees, hips). Rheumatoid arthritis (RA) is an autoimmune disease where the immune system attacks joints (can affect any age, often hands and wrists), causing inflammation, pain, and if untreated, joint destruction. Treatment is entirely different."
+      },
+      {
+        "question": "What are the early warning signs of RA?",
+        "answer": "Morning stiffness lasting more than 30 minutes, symmetric joint pain and swelling (both hands, both wrists, both feet), fatigue, and low-grade fever. RA characteristically affects small joints (fingers, wrists, toes) symmetrically. Early diagnosis (within 6 months) prevents joint damage."
+      },
+      {
+        "question": "Can RA be treated and controlled?",
+        "answer": "Yes. With early and aggressive treatment using DMARDs (Disease Modifying Anti-Rheumatic Drugs like methotrexate), biological agents, and NSAIDs, most RA patients can achieve remission or low disease activity and prevent joint damage. Free or subsidised treatment at government rheumatology clinics at medical colleges."
+      },
+      {
+        "question": "Does diet affect RA?",
+        "answer": "No specific diet cures RA, but anti-inflammatory dietary patterns (Mediterranean diet — rich in omega-3 fatty acids, fruits, vegetables, olive oil; avoiding processed foods and excess red meat) may reduce inflammation. Weight management reduces joint stress. Always continue prescribed medications."
+      }
     ]
   }
 }

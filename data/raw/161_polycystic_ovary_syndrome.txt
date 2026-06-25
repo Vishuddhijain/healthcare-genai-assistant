@@ -1,5 +1,5 @@
 TOPIC: Polycystic ovary syndrome
-CATEGORY: Sexual Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome
 LAST UPDATED: 22 January 2026
 
@@ -78,3 +78,16 @@ PCOS is a leading cause of irregular menstrual periods and one of the most commo
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is PCOS common in Indian women?
+A: Yes. PCOS (Polycystic Ovary Syndrome) affects approximately 10-20% of women of reproductive age in India — one of the highest rates globally. Sedentary lifestyle, high-carbohydrate diets, stress, and genetic factors contribute. It is the most common hormonal disorder in Indian women of reproductive age.
+
+Q: Does PCOS mean I cannot have children?
+A: No. PCOS is a leading cause of fertility problems but does NOT mean infertility. With appropriate treatment (lifestyle changes, ovulation induction medications), most women with PCOS can conceive. Consult a gynaecologist — many options are available.
+
+Q: What are the signs of PCOS?
+A: Irregular or absent periods, excessive hair growth on face/body (hirsutism), acne, thinning scalp hair (alopecia), difficulty losing weight, darkening of skin in body folds (acanthosis nigricans), and difficulty conceiving. Ultrasound showing multiple small cysts on ovaries confirms the name but is not required for diagnosis.
+
+Q: How is PCOS managed?
+A: Lifestyle changes (weight loss of even 5-10% dramatically improves PCOS symptoms in overweight women), regular exercise, and a low-glycaemic diet are first-line management. Medications (oral contraceptive pills for cycle regulation, metformin for insulin resistance, ovulation induction for fertility) are prescribed by a gynaecologist. Free evaluation at government hospitals.

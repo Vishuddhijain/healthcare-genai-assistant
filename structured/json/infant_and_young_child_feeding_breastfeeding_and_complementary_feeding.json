@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding",
   "topic": "Infant and Young Child Feeding (Breastfeeding and Complementary Feeding)",
-  "category": "Nutrition / Maternal and Child Health / Preventive Care",
+  "category": "Maternal and Child Health / Nutrition",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -118,7 +118,22 @@
       "Anganwadi centres: Provide monthly growth monitoring and nutrition counselling for children 0–6 years (free).",
       "ASHA workers: Provide doorstep counselling on breastfeeding and complementary feeding.",
       "National Breastfeeding Promotion Programme: 1st week of August is World Breastfeeding Week — celebrated with awareness campaigns across India.",
-      "Crèches at workplaces: Maternity Benefit Act requires employers to provide breastfeeding breaks and crèche facilities."
+      "Crèches at workplaces: Maternity Benefit Act requires employers to provide breastfeeding breaks and crèche facilities.",
+      "Contact your nearest ASHA worker or Anganwadi centre for free breastfeeding support. National Health Helpline: 104. POSHAN Abhiyaan: poshan.gov.in."
+    ],
+    "faqs": [
+      {
+        "question": "My baby is 3 months old and seems hungry after breastfeeding. Should I start solids?",
+        "answer": "No. Exclusive breastfeeding for 6 months is WHO and India's recommendation. If baby seems unsatisfied, increase feeding frequency — this stimulates more milk production. Consult an ANM or doctor before starting solids."
+      },
+      {
+        "question": "Can a mother with HIV breastfeed?",
+        "answer": "In India, HIV-positive mothers on ART can breastfeed if they are virally suppressed, with medical guidance. However, the recommendation depends on access to safe complementary feeding alternatives. Always consult a doctor."
+      },
+      {
+        "question": "Is formula feeding as good as breastfeeding?",
+        "answer": "Formula provides adequate nutrition but lacks antibodies, hormones, enzymes, and other bioactive components in breastmilk. Breastfed babies have significantly lower rates of infections, allergies, and chronic diseases. Breastfeeding is the recommended standard."
+      }
     ]
   }
 }

@@ -74,3 +74,16 @@ Anybody may need rehabilitation at some point in their lives, following an injur
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is rehabilitation and when is it needed?
+A: Rehabilitation is a set of interventions to optimise functioning and reduce disability after illness, injury, or surgery. It is needed after stroke, spinal cord injury, joint replacement, cardiac events, brain injury, amputation, prolonged hospitalisation, and for progressive conditions like Parkinson's and MS.
+
+Q: What types of rehabilitation are available in India?
+A: Physiotherapy (physical function), occupational therapy (daily activities and work), speech and language therapy (communication, swallowing), cognitive rehabilitation (memory, attention), vocational rehabilitation (return to work), and psychological rehabilitation. Government medical college hospitals provide all these services.
+
+Q: Is rehabilitation free in India?
+A: Rehabilitation services are available at government medical colleges and district hospitals, often free or at nominal cost. NIEPMD (National Institute for Empowerment of Persons with Multiple Disabilities) and NIMHANS provide specialised rehabilitation. PM-JAY covers rehabilitation needs post-hospitalisation at empanelled hospitals.
+
+Q: How soon after a stroke or injury should rehabilitation start?
+A: As early as possible — ideally within 24-48 hours after acute stroke (once medically stable), and within days after surgery or injury. Early rehabilitation dramatically improves outcomes. Do not wait until discharge from hospital — advocate for early rehabilitation for any hospitalised patient.

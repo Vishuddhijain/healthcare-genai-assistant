@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/violence-against-women",
   "topic": "Violence Against Women (VAW) and Domestic Violence",
-  "category": "Public Health / Gender Health / Mental Health / Emergency Awareness",
+  "category": "Public Health / Gender Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -168,6 +168,24 @@
       "iCall (TISS): 9152987821 — counselling support",
       "NCW (National Commission for Women): ncw.nic.in — complaints and advocacy",
       "COVID-19 and VAW: Domestic violence increased significantly during lockdowns (2020–21); government extended OSC reach"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between domestic violence and intimate partner violence?",
+        "answer": "Intimate Partner Violence (IPV) refers specifically to violence by a current or former intimate partner (husband, boyfriend). Domestic violence is broader — includes violence by any household member (in-laws, siblings, parents). In India, PWDVA covers both."
+      },
+      {
+        "question": "Can a woman file a complaint against her husband for marital rape in India?",
+        "answer": "India has not yet fully criminalised marital rape. However, under PWDVA, forced sexual acts by a husband are classified as domestic violence and a woman can seek protection. The Supreme Court of India has ongoing cases on this issue."
+      },
+      {
+        "question": "What should a woman do if she is afraid to leave an abusive partner?",
+        "answer": "Safety planning is critical. She should contact a helpline (181/112), reach a Sakhi/One-Stop Centre, or speak to a trusted person. She can apply for a protection order without leaving the home first. Social workers and NGOs can help plan safe exit strategies."
+      },
+      {
+        "question": "Is staying in an abusive relationship a personal choice?",
+        "answer": "No. Leaving is often the most dangerous time for an abused woman. Economic dependence, fear, trauma bonding, concern for children, social stigma, and lack of support all make it complex. Do not blame women for staying — help them access support."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/sepsis",
   "topic": "Sepsis",
-  "category": "Emergency Awareness",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "3 May 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -72,6 +72,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is sepsis and is it common in India?",
+        "answer": "Sepsis is a life-threatening organ dysfunction caused by a dysregulated body response to infection. It is extremely common and deadly globally — 11 million sepsis deaths per year. In India, sepsis is a leading cause of mortality in ICUs, in newborns, post-surgical patients, and those with chronic disease."
+      },
+      {
+        "question": "What are the warning signs of sepsis?",
+        "answer": "Think SEPSIS: Slurred speech or confusion, Extreme shivering or fever, Passing no urine, Severe breathlessness, It feels like death ('worst I have ever felt'), Skin mottled or discoloured. Any person with infection AND these signs needs emergency care — call 112 immediately."
+      },
+      {
+        "question": "Can sepsis be prevented?",
+        "answer": "Many sepsis cases can be prevented by: proper wound care and hygiene, vaccination (reduces infections that lead to sepsis), appropriate antibiotic use when genuinely needed, good hand hygiene in hospitals, and prompt treatment of infections before they progress."
+      },
+      {
+        "question": "How is sepsis treated?",
+        "answer": "Sepsis requires immediate hospitalisation, IV antibiotics within 1 hour (the 'golden hour'), IV fluids, oxygen, and monitoring. Delayed treatment dramatically increases mortality — sepsis is a time-critical emergency. Free treatment at government ICUs. If you suspect sepsis in yourself or anyone — do not wait, call 112."
+      }
     ]
   }
 }

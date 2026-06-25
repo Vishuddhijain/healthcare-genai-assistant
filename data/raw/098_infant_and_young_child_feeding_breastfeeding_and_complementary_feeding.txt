@@ -1,5 +1,5 @@
 TOPIC: Infant and Young Child Feeding (Breastfeeding and Complementary Feeding)
-CATEGORY: Nutrition / Maternal and Child Health / Preventive Care
+CATEGORY: Maternal and Child Health / Nutrition
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding | NHP India | POSHAN Abhiyaan - poshan.gov.in
 LAST UPDATED: 2024
 
@@ -129,6 +129,7 @@ Foods to avoid under 1 year:
 - ASHA workers: Provide doorstep counselling on breastfeeding and complementary feeding.
 - National Breastfeeding Promotion Programme: 1st week of August is World Breastfeeding Week — celebrated with awareness campaigns across India.
 - Crèches at workplaces: Maternity Benefit Act requires employers to provide breastfeeding breaks and crèche facilities.
+- Contact your nearest ASHA worker or Anganwadi centre for free breastfeeding support. National Health Helpline: 104. POSHAN Abhiyaan: poshan.gov.in.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: My baby is 3 months old and seems hungry after breastfeeding. Should I start solids?

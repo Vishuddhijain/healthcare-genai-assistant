@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work",
   "topic": "Mental Health at Work",
-  "category": "Mental Health / Occupational Health",
+  "category": "Mental Health / Occupational",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -95,7 +95,26 @@
       "Rights of Persons with Disabilities Act 2016: Includes mental illness; mandates reasonable accommodation",
       "IT/BPO sector: High prevalence of burnout due to night shifts, targets, and \"always-on\" culture — sector-specific wellness initiatives increasingly being adopted",
       "Tele-MANAS (14416 / 1800-891-4416): Free 24x7 mental health support, applicable to workplace stress as well",
-      "NIMHANS conducts workplace mental health research and training programmes"
+      "NIMHANS conducts workplace mental health research and training programmes",
+      "India's National Mental Health Programme (NMHP) covers workplace mental health awareness. The Mental Healthcare Act 2017 protects employees with mental health conditions from workplace discrimination. Tele MANAS (14416) provides free 24/7 mental health support. iCall (TISS): 9152987821. Employees can access free psychiatric care at government district hospitals. The Employees' State Insurance (ESI) scheme provides mental health coverage for eligible workers."
+    ],
+    "faqs": [
+      {
+        "question": "Is workplace stress a mental health issue in India?",
+        "answer": "Yes. Workplace stress, burnout, and mental health conditions significantly affect Indian workers — especially in high-pressure sectors like IT, banking, healthcare, and gig work. India's National Mental Health Programme recognises workplace mental health as a priority area."
+      },
+      {
+        "question": "Do Indian employers have any mental health obligations?",
+        "answer": "The Mental Healthcare Act 2017 establishes rights of persons with mental illness, including non-discrimination in employment. While specific workplace mental health regulations are still evolving, progressive organisations implement Employee Assistance Programmes (EAPs) with counselling services."
+      },
+      {
+        "question": "What is burnout and how is it different from stress?",
+        "answer": "Burnout (recognised by WHO in ICD-11 as an occupational phenomenon) is a state of chronic workplace stress that has not been managed successfully, resulting in exhaustion, mental distance from work, and reduced professional efficacy. Unlike occasional stress, burnout is prolonged and requires significant intervention."
+      },
+      {
+        "question": "What can I do if I am experiencing mental health problems at work?",
+        "answer": "Talk to a trusted colleague or HR. Use Employee Assistance Programme (EAP) if available. Call iCall (9152987821) or Tele MANAS (14416) for free counselling. Take sick leave when needed — mental health is a valid reason for medical leave under Indian law. Consult a psychiatrist for formal evaluation."
+      }
     ]
   }
 }

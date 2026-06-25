@@ -50,6 +50,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How does biodiversity loss affect human health?",
+        "answer": "Biodiversity loss disrupts ecosystems that provide clean water, clean air, and food. It reduces natural barriers to disease â deforestation brings humans into contact with wildlife, increasing zoonotic disease spillover (like Nipah, COVID-19). Loss of plant diversity also threatens medicinal sources."
+      },
+      {
+        "question": "What can ordinary people do to protect biodiversity?",
+        "answer": "Reduce plastic use, avoid illegal wildlife products, plant native trees, support sustainable farming, reduce meat consumption, and participate in local conservation efforts. Even small urban gardens support pollinators like bees and butterflies."
+      },
+      {
+        "question": "Are biodiversity and climate change related to health in India?",
+        "answer": "Yes. India's biodiversity is under pressure from deforestation, pollution, and climate change. This affects food security, water availability, flood risk, and disease patterns. Initiatives like Project Tiger and Project Elephant protect biodiversity and the ecosystems that support human health."
+      },
+      {
+        "question": "Is there a link between biodiversity and antibiotic resistance?",
+        "answer": "Yes. Diverse ecosystems contain natural microbial communities that suppress pathogen growth. Reduced biodiversity in soil and water is associated with higher prevalence of antibiotic-resistant bacteria. Preserving ecosystems is part of One Health â the connection between human, animal, and environmental health."
+      }
     ]
   }
 }

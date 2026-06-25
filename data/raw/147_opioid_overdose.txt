@@ -1,5 +1,5 @@
 TOPIC: Opioid overdose
-CATEGORY: Emergency Awareness
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/opioid-overdose
 LAST UPDATED: 29 August 2025
 
@@ -80,3 +80,16 @@ Worldwide, about 296 million people (or 5.8% of the global population aged 15–
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is opioid overdose a problem in India?
+A: Yes, and growing. India has significant opioid misuse — from pharmaceutical opioids (tramadol, codeine) and illicit sources. Punjab has been particularly affected by opioid addiction. Globally, 600,000 deaths per year are attributed to drug use, with opioids causing the majority.
+
+Q: What are the signs of opioid overdose?
+A: Unconsciousness or unresponsiveness, slow/shallow/stopped breathing, pinpoint (very small) pupils, blue lips or fingernails, gurgling sounds. This is a medical emergency — call 112 immediately.
+
+Q: What is naloxone and is it available in India?
+A: Naloxone is an opioid antidote that rapidly reverses opioid overdose. It is a life-saving medication. In India, naloxone injection is available at government hospitals. The government has been expanding access in high-burden states. Trained family members of people with opioid use disorder can learn to administer it.
+
+Q: Where can someone with opioid addiction get help in India?
+A: Integrated Rehabilitation Centre for Addicts (IRCA) — government-run de-addiction centres. National Drug Dependence Treatment Centre (NDDTC) at AIIMS Delhi. State-run de-addiction centres. Vandrevala Foundation: 1860-2662-345 (24/7). iCall: 9152987821. Treatment is free at government de-addiction centres.

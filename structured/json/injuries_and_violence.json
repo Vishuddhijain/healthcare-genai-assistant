@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/injuries-and-violence",
   "topic": "Injuries and violence",
-  "category": "Emergency Awareness / Violence Prevention",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "19 June 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -59,6 +59,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the most common causes of injury death in India?",
+        "answer": "Road traffic accidents are the leading cause, killing about 1.5 lakh people annually. Other major causes include drowning, falls, burns, poisoning, and violence. Young men aged 15-44 are at highest risk. Most of these deaths are preventable."
+      },
+      {
+        "question": "What should I do immediately after witnessing a road accident?",
+        "answer": "Call 112 immediately. Make the area safe (turn on hazard lights, warn oncoming traffic). Do not move the injured person unless there is immediate danger (fire, ongoing traffic). Apply pressure to bleeding wounds. Stay until emergency services arrive."
+      },
+      {
+        "question": "Is there any compensation for road accident victims in India?",
+        "answer": "Yes. The Motor Vehicles Act provides for compensation from the Motor Accident Claims Tribunal (MACT). Hit-and-run victims can claim from the Motor Accident Claims Scheme administered by state governments. Apply at the nearest MACT through a lawyer."
+      },
+      {
+        "question": "How can I protect myself from violence in India?",
+        "answer": "Stay in well-lit public areas, travel with others when possible, share your location with trusted people, use licensed transport (Ola/Uber with tracking), trust your instincts, and call 112 immediately in any threatening situation. Women can also contact the 181 Women Helpline."
+      }
     ]
   }
 }

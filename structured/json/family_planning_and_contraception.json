@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception",
   "topic": "Family Planning and Contraception",
-  "category": "Reproductive Health / Public Health",
+  "category": "Reproductive Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -104,6 +104,24 @@
       "Cash incentive for sterilisation to compensate for loss of wages",
       "ASHA workers provide doorstep counselling and contraceptive supply",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is the morning-after pill an abortion pill?",
+        "answer": "No. Emergency contraceptive pills prevent fertilisation or implantation — they do not terminate an existing pregnancy. They are most effective when taken as soon as possible after unprotected sex."
+      },
+      {
+        "question": "Does using contraception affect future fertility?",
+        "answer": "No. All reversible methods (pills, condoms, IUDs, injections) — fertility returns after stopping. Even after long-term use."
+      },
+      {
+        "question": "Are condoms 100% effective?",
+        "answer": "No contraceptive is 100% effective. Condoms used correctly and consistently are about 98% effective. They are the only method that also protects against STIs."
+      },
+      {
+        "question": "Is vasectomy better or worse than tubectomy?",
+        "answer": "Vasectomy is simpler, safer, faster, and has fewer complications. Both are equally effective. Men are encouraged to consider vasectomy — it should be a shared responsibility."
+      }
     ]
   }
 }

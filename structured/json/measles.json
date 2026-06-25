@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/measles",
   "topic": "Measles",
-  "category": "Communicable Disease (Vaccine-Preventable / Viral)",
+  "category": "Communicable Disease / Vaccine-Preventable",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -89,6 +89,24 @@
       "Outbreaks still occur in under-immunised pockets — urban slums, migrant populations, some northeastern states",
       "IDSP requires reporting of suspected measles cases/outbreaks",
       "Vitamin A supplementation programme (under POSHAN Abhiyaan) complements measles control"
+    ],
+    "faqs": [
+      {
+        "question": "Is measles still dangerous in India?",
+        "answer": "Yes. India is one of the countries with the highest measles burden globally. Outbreaks occur regularly among unvaccinated children. Measles can cause pneumonia, encephalitis (brain infection), blindness, and death. Vaccination (MR vaccine) is the only effective protection."
+      },
+      {
+        "question": "What are the signs of measles?",
+        "answer": "High fever, runny nose, red eyes (conjunctivitis), cough, followed by a characteristic red rash starting on the face and spreading downward. Koplik's spots (small white spots inside the mouth) are unique to measles. Measles is highly contagious — 1 infected person can infect 12-18 unvaccinated contacts."
+      },
+      {
+        "question": "Is the measles vaccine free in India?",
+        "answer": "Yes. Measles-Rubella (MR) vaccine is free under India's Universal Immunisation Programme. Given at 9 months and 15 months. National MR campaigns have been conducted to reach older unvaccinated children. If your child has missed the vaccine, go to the nearest PHC for catch-up vaccination."
+      },
+      {
+        "question": "Can a vaccinated person get measles?",
+        "answer": "Rarely. Two doses of MR vaccine provide 97% protection. Vaccinated people who do get measles have much milder illness. Community protection depends on achieving 95%+ vaccination coverage — this is why every child must be vaccinated."
+      }
     ]
   }
 }

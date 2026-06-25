@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease",
   "topic": "Sickle-cell disease",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "6 August 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -74,6 +74,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is sickle cell disease and who is most affected in India?",
+        "answer": "Sickle cell disease (SCD) is an inherited blood disorder where red blood cells become rigid and sickle-shaped, blocking blood flow and causing pain, organ damage, and anaemia. In India, it predominantly affects tribal communities in Maharashtra, Gujarat, Chhattisgarh, Madhya Pradesh, Odisha, and Jharkhand — with some of the world's highest carrier rates."
+      },
+      {
+        "question": "What are the symptoms of sickle cell disease?",
+        "answer": "Painful crises (sudden severe pain in bones, chest, or abdomen), chronic anaemia (fatigue, pallor), recurrent infections (bacterial), stroke risk, acute chest syndrome (life-threatening), and organ damage over time. Symptoms vary widely — some patients have frequent crises, others fewer."
+      },
+      {
+        "question": "Is sickle cell disease curable?",
+        "answer": "Bone marrow/stem cell transplantation can cure SCD but is available to only a small fraction of patients. Hydroxyurea reduces crisis frequency significantly. Newer gene therapies are showing promise but not yet widely available in India. Supportive treatment (pain management, infection prevention, blood transfusion) is the mainstay."
+      },
+      {
+        "question": "Is there a government programme for sickle cell disease in India?",
+        "answer": "Yes. The National Sickle Cell Anaemia Elimination Mission (launched 2023) aims to eliminate SCD by 2047 through universal screening, counselling, and treatment. Free screening, genetic counselling, and treatment are being rolled out in tribal districts. Contact your district health officer or tribal health centre."
+      }
     ]
   }
 }

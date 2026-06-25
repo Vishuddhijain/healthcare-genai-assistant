@@ -1,5 +1,5 @@
 TOPIC: Nutrition and Preventive Health
-CATEGORY: Wellness / Preventive Care
+CATEGORY: Public Health / Preventive Care
 SOURCE: WHO Healthy Diet Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/healthy-diet | NHP India - nhp.gov.in
 LAST UPDATED: 2024
 
@@ -124,3 +124,16 @@ General dietary advice is provided for awareness only. Specific diet plans for c
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How much water should I drink daily in India's climate?
+A: Adults should drink 2-3 litres (8-10 glasses) of water daily, more in hot weather, during physical activity, or if ill. Drink before feeling thirsty — thirst is a late indicator of dehydration. Water is the best drink — avoid sugary sodas and excessive tea/coffee.
+
+Q: Is eating rice every day unhealthy?
+A: Rice is fine as part of a balanced diet. The issue is portion size and accompaniments — large quantities of white rice with little protein, vegetables, or pulses leads to nutritional imbalance. Balance rice with dal, vegetables, curd, and seasonal fruits. Brown or hand-pounded rice retains more nutrients.
+
+Q: What is the single most important dietary change for better health?
+A: Most Indians benefit most from: eating more vegetables and fruits (aim for 5 portions/day), reducing salt (use less than 5g/day), and reducing ultra-processed snack foods. These three changes address India's biggest nutritional challenges simultaneously.
+
+Q: How do I know if I am eating a healthy diet?
+A: A healthy Indian diet includes: whole grains (atta chapati, brown rice), plenty of dal/pulses, diverse seasonal vegetables, fruits, curd, and limited oil, salt, and sugar. The plate should be colourful — variety ensures micronutrient coverage. Consult a registered dietitian for personalised guidance.

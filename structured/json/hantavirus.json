@@ -72,6 +72,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Has hantavirus been reported in India?",
+        "answer": "Hantavirus cases have been sporadically reported in India, though surveillance is limited. The Seoul virus (a hantavirus) has been detected in rats in India. Most cases globally are mild or unreported; severe Hantavirus Pulmonary Syndrome (HPS) is primarily reported from the Americas."
+      },
+      {
+        "question": "How does hantavirus spread?",
+        "answer": "Hantavirus spreads to humans through contact with infected rodents â their droppings, urine, saliva, or nesting material. Breathing dust contaminated with infected rodent excreta is the most common route. It does NOT spread person-to-person (except South American Andes strain)."
+      },
+      {
+        "question": "What are the symptoms of hantavirus infection?",
+        "answer": "Early: fever, fatigue, muscle aches, headache, dizziness, nausea, vomiting. In severe cases: sudden onset of respiratory difficulty (HPS). Symptoms appear 1-8 weeks after exposure. There is no specific treatment â management is supportive."
+      },
+      {
+        "question": "How can I protect myself from hantavirus?",
+        "answer": "Control rodents in and around the home â seal holes, store food in rodent-proof containers, use rat traps. When cleaning areas with rodent droppings, wear gloves and an N95 mask, wet the area with bleach solution before cleaning (do not sweep dry â disturbs dried excreta). Ventilate enclosed spaces before entering."
+      }
     ]
   }
 }

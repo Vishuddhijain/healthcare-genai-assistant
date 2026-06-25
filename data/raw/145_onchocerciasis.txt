@@ -1,5 +1,5 @@
 TOPIC: Onchocerciasis
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/onchocerciasis
 LAST UPDATED: 4 December 2025
 
@@ -69,3 +69,16 @@ Onchocerciasis is transmitted to humans through the bite of an infected blackfly
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is onchocerciasis (river blindness) found in India?
+A: Onchocerciasis is primarily endemic to sub-Saharan Africa and Yemen. India is not currently considered endemic for onchocerciasis. The disease is caused by Onchocerca volvulus worms spread by Simulium blackfly bites near fast-flowing rivers.
+
+Q: What are the symptoms of onchocerciasis?
+A: Skin: intense itching (often the first and most distressing symptom), skin nodules, skin depigmentation and thickening. Eyes: progressive visual deterioration leading to blindness (hence 'river blindness'). Symptoms develop years after infection as worms produce microfilariae that migrate to the skin and eyes.
+
+Q: How is onchocerciasis treated?
+A: Ivermectin (donated by Merck as Mectizan) is the primary treatment, given annually in community-based mass drug administration. It kills microfilariae and reduces symptoms but does not kill adult worms. The Global Programme to Eliminate Onchocerciasis has dramatically reduced prevalence globally.
+
+Q: Why is awareness about onchocerciasis important in India?
+A: India receives travellers, migrant workers, and refugees from endemic regions. Healthcare professionals should consider onchocerciasis in patients with chronic itching or visual disturbance who have lived or worked in West/Central Africa.

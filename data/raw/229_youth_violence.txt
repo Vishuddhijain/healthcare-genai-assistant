@@ -1,5 +1,5 @@
 TOPIC: Youth violence
-CATEGORY: Emergency Awareness / Violence Prevention
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/youth-violence
 LAST UPDATED: 8 May 2026
 
@@ -69,3 +69,16 @@ Youth violence refers to violence that occurs among individuals aged 10–29 yea
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is youth violence and why is it a public health issue?
+A: Youth violence includes physical assault, bullying, gang violence, and homicide affecting young people aged 15-29. It is a major public health problem globally and in India — causing death, injury, trauma, and long-term mental health consequences. Public health approaches (prevention, social support) are more effective than criminal justice alone.
+
+Q: How common is youth violence in India?
+A: Exact data is limited due to underreporting, but studies indicate significant prevalence of interpersonal violence among Indian youth — particularly in urban areas, educational institutions, and among at-risk populations (street youth, gang members). Road rage, eve teasing, and ragging are specific Indian public health concerns.
+
+Q: How can youth violence be prevented?
+A: Evidence-based approaches: social and emotional learning programmes in schools, mentoring, parenting support, reducing alcohol access, conflict mediation programmes, and addressing underlying poverty and inequality. The UGC Anti-Ragging regulations and POCSO Act provide legal frameworks.
+
+Q: What should I do if I witness or experience youth violence?
+A: In immediate danger: call 112. For sexual violence: call 112 or 181 (Women Helpline). For ragging: call UGC Anti-Ragging Helpline 1800-180-5522. For counselling after violence: iCall 9152987821, Tele MANAS 14416. Document evidence (photos, witness names) if safe to do so. You do not have to face this alone.

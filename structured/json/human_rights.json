@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/human-rights-and-health",
   "topic": "Human rights",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "1 December 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -58,6 +58,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the basic health-related human rights in India?",
+        "answer": "Under the Indian Constitution, the right to health is derived from Article 21 (right to life). Citizens have the right to free emergency treatment at any hospital, right to information about their health, right to refuse treatment, right to confidentiality, and right to non-discrimination in healthcare."
+      },
+      {
+        "question": "Can a private hospital refuse to treat me in an emergency?",
+        "answer": "No. The Supreme Court of India has held that all hospitals (public and private) must provide emergency stabilisation treatment without demanding advance payment. Refusing emergency care is a violation of the right to life. Report violations to the State Medical Council."
+      },
+      {
+        "question": "What are patient rights in India?",
+        "answer": "Key patient rights: right to information about diagnosis and treatment options, right to give informed consent, right to privacy and confidentiality, right to a second opinion, right to emergency treatment, and right to non-discrimination. The Clinical Establishments Act regulates patient rights standards."
+      },
+      {
+        "question": "Where can I complain about violation of my health rights in India?",
+        "answer": "State Medical Council (for doctor misconduct), National Consumer Disputes Redressal Commission (NCDRC) for medical negligence, State Human Rights Commission, or the National Human Rights Commission (NHRC) at nhrc.nic.in. You can also use the public grievance portal pgportal.gov.in."
+      }
     ]
   }
 }

@@ -60,3 +60,16 @@ PHC is rooted in a commitment to social justice, equity, solidarity and particip
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What services are available at a Primary Health Centre (PHC) in India?
+A: PHCs provide free outpatient care, maternal and child health services (ANC, delivery, immunisation), family planning, treatment of common diseases, first aid, health education, basic diagnostics (blood tests, urine), and essential medicines. PHCs serve 30,000-50,000 population in rural areas.
+
+Q: What is the difference between a Health and Wellness Centre (HWC) and a PHC?
+A: HWCs (Ayushman Bharat) are upgraded sub-centres or PHCs providing comprehensive primary care including NCD screening (diabetes, hypertension, cancer), mental health services, palliative care, oral health, ENT services, and basic specialist teleconsultations — a significant expansion of services compared to traditional PHCs.
+
+Q: Is primary healthcare available 24/7 in rural India?
+A: PHCs are mandated to provide 24/7 delivery services. General PHC services are usually available during working hours. Community Health Centres (CHCs) provide 24/7 emergency and obstetric care. Many states have established 24/7 PHC services in high-priority areas.
+
+Q: How do I register at a Primary Health Centre?
+A: Visit your nearest government PHC with an Aadhaar card. Registration is free and simple. Some states have integrated PHC registration with the Ayushman Bharat Digital Health Mission (ABHA health ID). No advance appointment is typically needed for outpatient consultations.

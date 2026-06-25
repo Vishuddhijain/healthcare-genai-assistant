@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/noma",
   "topic": "Noma",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "15 December 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -52,6 +52,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is Noma and does it occur in India?",
+        "answer": "Noma (cancrum oris) is a rapidly progressing, devastating oral infection that destroys the face. It primarily affects malnourished children with weakened immunity. While most common in sub-Saharan Africa, sporadic cases have been reported in impoverished communities in India."
+      },
+      {
+        "question": "What are the early warning signs of Noma?",
+        "answer": "Noma begins as a gum infection (gingivitis) with painful gums and foul-smelling breath. It rapidly progresses to a gangrenous ulcer that destroys facial tissue. Early stage is treatable — advanced stages cause permanent severe facial disfigurement. Seek medical care for any rapidly spreading mouth infection in a malnourished child."
+      },
+      {
+        "question": "Who is most at risk of Noma?",
+        "answer": "Severely malnourished children between 2-6 years with compromised immunity (from measles, malaria, HIV, or extreme poverty) are most vulnerable. Good nutrition, vaccination, and basic oral hygiene are the most effective preventive measures."
+      },
+      {
+        "question": "Can Noma be treated?",
+        "answer": "Early Noma responds to antibiotics and nutritional support. Advanced cases require complex reconstructive surgery. Prevention through nutrition, vaccination (especially measles), basic oral hygiene, and poverty reduction is the most effective approach."
+      }
     ]
   }
 }

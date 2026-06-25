@@ -1,5 +1,5 @@
 TOPIC: Millennium Development Goals (MDGs)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/millennium-development-goals-(mdgs)
 LAST UPDATED: 19 February 2018
 
@@ -70,3 +70,16 @@ While some countries have made impressive gains in achieving health-related targ
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What were the health-related Millennium Development Goals (MDGs) for India?
+A: Key health MDGs for India: reducing child mortality (under-5 deaths) by two-thirds, reducing maternal mortality by three-quarters, halting/reversing HIV/AIDS, malaria, and TB. India made significant progress but did not fully achieve all targets by 2015.
+
+Q: What replaced the MDGs after 2015?
+A: The Sustainable Development Goals (SDGs) — 17 goals adopted by all UN member states for 2030 — replaced the MDGs. SDG 3 (Good Health and Well-Being) has specific health targets including universal health coverage, reducing maternal and child deaths, and ending AIDS, TB, and malaria.
+
+Q: How does India track its SDG health progress?
+A: NITI Aayog publishes India's SDG Index annually, ranking states on their progress. Key health indicators tracked include infant mortality rate, maternal mortality ratio, TB incidence, and health insurance coverage. India's health SDG performance varies significantly across states.
+
+Q: What can ordinary citizens do to support SDG health goals in India?
+A: Vaccinate your children. Seek antenatal care. Use government health services. Avoid antibiotic misuse. Support healthcare workers. Vote for health-promoting policies. Demand accountability from elected officials on health spending and outcomes. Individual behaviour changes contribute to national health goals.

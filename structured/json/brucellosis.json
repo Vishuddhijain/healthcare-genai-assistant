@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis",
   "topic": "Brucellosis",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "29 July 2020",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -55,6 +55,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How do people get brucellosis in India?",
+        "answer": "Brucellosis in India is primarily contracted through consuming raw or unpasteurised milk, milk products (raw paneer, cream), or undercooked meat from infected animals (cattle, buffaloes, goats, pigs). Farmers, veterinarians, and slaughterhouse workers are also at risk through animal contact."
+      },
+      {
+        "question": "Is brucellosis common in India?",
+        "answer": "Yes. India has one of the highest burdens of animal brucellosis globally, and human cases are significantly underreported. It is most common in farming communities and those who consume unpasteurised dairy products."
+      },
+      {
+        "question": "What are the symptoms of brucellosis?",
+        "answer": "Undulant (wave-like) fever, sweating, fatigue, joint and back pain, and headache are characteristic. Symptoms can last weeks to months if untreated. It is often misdiagnosed as typhoid or viral fever. A blood culture or serology test confirms diagnosis."
+      },
+      {
+        "question": "Can brucellosis be cured?",
+        "answer": "Yes, with a prolonged course of antibiotics (typically 6 weeks of dual antibiotic therapy). It must be treated by a doctor â do not self-medicate. Relapse is possible, so completing the full course is essential. Prevention by avoiding raw milk is the best approach."
+      }
     ]
   }
 }

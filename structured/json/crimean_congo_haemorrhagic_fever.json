@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever",
   "topic": "Crimean-Congo haemorrhagic fever",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "20 February 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -79,6 +79,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Has Crimean-Congo Haemorrhagic Fever (CCHF) occurred in India?",
+        "answer": "Yes. India has reported CCHF outbreaks, primarily in Gujarat (Ahmedabad district) among people in contact with livestock. Cases have also been reported from healthcare workers infected during patient care, highlighting the need for strict infection control."
+      },
+      {
+        "question": "How does CCHF spread?",
+        "answer": "CCHF spreads through the bite of infected Hyalomma ticks (found on livestock), direct contact with blood or body fluids of infected animals or humans, and nosocomial (hospital) transmission if infection control fails. It does not spread through the air."
+      },
+      {
+        "question": "What are the danger signs of CCHF?",
+        "answer": "Sudden high fever, severe headache, muscle pain, followed by signs of haemorrhage (bleeding from gums, nose, under skin, in stool or urine). Rapid deterioration can occur. This is a medical emergency â isolate the patient and call emergency services immediately."
+      },
+      {
+        "question": "How can farmers and animal handlers protect themselves from CCHF?",
+        "answer": "Wear gloves and protective clothing when handling animals or slaughtering livestock. Use tick repellent. Remove ticks from animals and your body promptly using tweezers (do not crush ticks with bare hands). Report any unusual animal deaths to veterinary authorities."
+      }
     ]
   }
 }

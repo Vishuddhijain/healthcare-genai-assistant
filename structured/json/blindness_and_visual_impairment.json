@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment",
   "topic": "Blindness and Visual Impairment",
-  "category": "Sensory Health / Non-Communicable Disease",
+  "category": "Non-Communicable Disease / Sensory Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -97,6 +97,24 @@
       "Blindness helpline: 1800-180-5025",
       "Contact your District Blindness Control Society or government hospital eye department.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Can using screens too much permanently damage vision?",
+        "answer": "Extended screen use causes eye strain (dry eyes, fatigue, headache) but no permanent vision damage. Follow the 20-20-20 rule, ensure proper screen distance, and blink regularly."
+      },
+      {
+        "question": "Can wearing glasses make vision worse?",
+        "answer": "No. Glasses correct refractive errors; they do not worsen the underlying eye condition. In children, wearing correct glasses is essential for proper visual development."
+      },
+      {
+        "question": "Is cataract surgery safe?",
+        "answer": "Yes. Cataract surgery is one of the safest and most effective surgical procedures. It is performed millions of times a year in India with excellent outcomes. Free at government hospitals."
+      },
+      {
+        "question": "My child squints. Should I be concerned?",
+        "answer": "Yes — any squinting (one eye turning inward or outward) in a child needs prompt evaluation by an ophthalmologist. Early treatment prevents permanent vision problems (amblyopia/lazy eye)."
+      }
     ]
   }
 }

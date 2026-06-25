@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/protecting-workers'-health",
   "topic": "Protecting workers' health",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "30 November 2017",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -61,6 +61,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the occupational health rights of workers in India?",
+        "answer": "Workers have the right to a safe workplace, information about hazards, personal protective equipment, health surveillance, and compensation for work-related injury or disease. The Occupational Safety, Health and Working Conditions Code 2020 consolidates these protections."
+      },
+      {
+        "question": "What occupational diseases are most common in India?",
+        "answer": "Silicosis (dust lung disease — miners, sandblasters, quarry workers), asbestosis, byssinosis (cotton dust — textile workers), pesticide poisoning (agricultural workers), musculoskeletal disorders (construction, IT), noise-induced hearing loss, and heat stress are among the most significant occupational diseases in India."
+      },
+      {
+        "question": "Is silicosis recognised and compensated in India?",
+        "answer": "Yes. Silicosis is a notifiable disease and a compensable occupational disease under the Employees' Compensation Act. Workers with confirmed silicosis can claim compensation. The Rajasthan Silicosis Policy provides financial assistance to affected mine workers. Diagnosis is at government chest hospitals."
+      },
+      {
+        "question": "Where can I report unsafe working conditions in India?",
+        "answer": "Report to your factory/workplace safety officer first. If unresolved, contact the State Labour Department or Chief Inspector of Factories. For mines, contact the Directorate General of Mines Safety (DGMS). CPCB for environmental violations. Workers can also file complaints through Shramsuvidha portal."
+      }
     ]
   }
 }

@@ -60,3 +60,16 @@ Healthy communities are sustained by well-functioning ecosystems, which provide 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How does biodiversity loss affect human health?
+A: Biodiversity loss disrupts ecosystems that provide clean water, clean air, and food. It reduces natural barriers to disease â deforestation brings humans into contact with wildlife, increasing zoonotic disease spillover (like Nipah, COVID-19). Loss of plant diversity also threatens medicinal sources.
+
+Q: What can ordinary people do to protect biodiversity?
+A: Reduce plastic use, avoid illegal wildlife products, plant native trees, support sustainable farming, reduce meat consumption, and participate in local conservation efforts. Even small urban gardens support pollinators like bees and butterflies.
+
+Q: Are biodiversity and climate change related to health in India?
+A: Yes. India's biodiversity is under pressure from deforestation, pollution, and climate change. This affects food security, water availability, flood risk, and disease patterns. Initiatives like Project Tiger and Project Elephant protect biodiversity and the ecosystems that support human health.
+
+Q: Is there a link between biodiversity and antibiotic resistance?
+A: Yes. Diverse ecosystems contain natural microbial communities that suppress pathogen growth. Reduced biodiversity in soil and water is associated with higher prevalence of antibiotic-resistant bacteria. Preserving ecosystems is part of One Health â the connection between human, animal, and environmental health.

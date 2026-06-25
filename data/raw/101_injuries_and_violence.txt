@@ -1,5 +1,5 @@
 TOPIC: Injuries and violence
-CATEGORY: Emergency Awareness / Violence Prevention
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/injuries-and-violence
 LAST UPDATED: 19 June 2024
 
@@ -70,3 +70,16 @@ For people age 5-29 years, 3 of the top 5 causes of death are injury-related, na
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the most common causes of injury death in India?
+A: Road traffic accidents are the leading cause, killing about 1.5 lakh people annually. Other major causes include drowning, falls, burns, poisoning, and violence. Young men aged 15-44 are at highest risk. Most of these deaths are preventable.
+
+Q: What should I do immediately after witnessing a road accident?
+A: Call 112 immediately. Make the area safe (turn on hazard lights, warn oncoming traffic). Do not move the injured person unless there is immediate danger (fire, ongoing traffic). Apply pressure to bleeding wounds. Stay until emergency services arrive.
+
+Q: Is there any compensation for road accident victims in India?
+A: Yes. The Motor Vehicles Act provides for compensation from the Motor Accident Claims Tribunal (MACT). Hit-and-run victims can claim from the Motor Accident Claims Scheme administered by state governments. Apply at the nearest MACT through a lawyer.
+
+Q: How can I protect myself from violence in India?
+A: Stay in well-lit public areas, travel with others when possible, share your location with trusted people, use licensed transport (Ola/Uber with tracking), trust your instincts, and call 112 immediately in any threatening situation. Women can also contact the 181 Women Helpline.

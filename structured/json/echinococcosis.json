@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/echinococcosis",
   "topic": "Echinococcosis",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "17 May 2021",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -84,6 +84,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is echinococcosis (hydatid disease) found in India?",
+        "answer": "Yes. Cystic echinococcosis (caused by Echinococcus granulosus) occurs in India, particularly in sheep and cattle-herding communities in states like Rajasthan, Gujarat, Himachal Pradesh, and Jammu & Kashmir. Human cases are reported but underdiagnosed."
+      },
+      {
+        "question": "How do people get echinococcosis?",
+        "answer": "Humans are infected by accidentally ingesting eggs of Echinococcus tapeworm shed in dog faeces. This happens through contaminated water, food, or soil, or by touching dogs that have eaten infected sheep organs and not washing hands afterwards."
+      },
+      {
+        "question": "What are the symptoms of hydatid (echinococcal) cyst?",
+        "answer": "Cysts grow slowly over years, usually in the liver (70%) or lungs (20%). Symptoms depend on cyst size and location: abdominal pain, cough, allergic reactions if cyst leaks. Many cysts are discovered incidentally on ultrasound. A ruptured cyst causes severe allergic shock â emergency."
+      },
+      {
+        "question": "How is echinococcosis prevented?",
+        "answer": "Wash hands thoroughly after contact with dogs, especially before eating. Do not allow dogs to eat raw sheep or cattle organs. Deworm dogs regularly. Cook meat thoroughly. Wash fruits and vegetables well. Regular deworming of livestock-herding dogs is a key public health measure."
+      }
     ]
   }
 }

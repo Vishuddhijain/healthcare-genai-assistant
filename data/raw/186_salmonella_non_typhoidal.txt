@@ -1,5 +1,5 @@
 TOPIC: Salmonella (non-typhoidal)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/salmonella-(non-typhoidal)
 LAST UPDATED: 20 February 2018
 
@@ -79,3 +79,16 @@ Symptoms of salmonellosis are relatively mild and patients will make a recovery 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is salmonella only from chicken and eggs?
+A: Salmonella can contaminate many foods: raw or undercooked poultry and eggs (most common), raw milk, sprouts, raw vegetables contaminated with animal manure, and fruits. In India, contaminated street food and water are also significant sources.
+
+Q: What are the symptoms of salmonella food poisoning?
+A: Symptoms appear 6-72 hours after eating contaminated food: diarrhoea (may be bloody), fever, abdominal cramps, nausea, and vomiting. Most cases resolve within 4-7 days without treatment. Severe or bloody diarrhoea with high fever needs medical attention.
+
+Q: When does salmonella require antibiotic treatment?
+A: Most healthy adults recover without antibiotics. Antibiotics are recommended for: infants, elderly, immunocompromised individuals, people with severe illness, and when infection has spread beyond the gut (bacteraemia). A doctor determines necessity — do not self-prescribe antibiotics.
+
+Q: How can I prevent salmonella from eggs?
+A: Cook eggs until both white and yolk are firm (fully cooked). Refrigerate eggs promptly. Wash hands after handling raw eggs. Avoid dishes with raw or lightly cooked eggs (certain chutneys, half-boiled eggs) from uncertain sources. Commercial pasteurised eggs are safer for vulnerable individuals.

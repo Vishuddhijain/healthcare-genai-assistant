@@ -1,5 +1,5 @@
 TOPIC: Yaws
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/yaws
 LAST UPDATED: 12 January 2023
 
@@ -81,3 +81,16 @@ The disease is found primarily in poor communities in warm, humid and tropical f
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is yaws and does it occur in India?
+A: Yaws is a chronic bacterial infection (Treponema pallidum pertenue) that primarily affects skin, bone, and cartilage in children in tropical regions. India achieved interruption of yaws transmission nationally and was validated by WHO in 2016. However, vigilance is needed to prevent re-emergence.
+
+Q: How does yaws spread?
+A: Yaws spreads through direct skin contact with the fluid from skin lesions of infected individuals — not through sexual contact or insects. Close contact in poverty-affected tropical communities facilitates spread, particularly among children.
+
+Q: What are the symptoms of yaws?
+A: Begins as a painless skin nodule (primary yaw), which may develop into a large, wart-like growth. Secondary stage: widespread skin lesions, bone and joint pain. Tertiary yaws (late): destructive lesions of skin, bone, and cartilage — can cause severe disfigurement.
+
+Q: Was India's elimination of yaws a public health success?
+A: Yes. India's yaws eradication (along with guinea worm eradication) represents a major global public health achievement. It was accomplished through mass treatment campaigns with penicillin, active case detection, and community engagement — a model for other NTD elimination efforts.

@@ -82,6 +82,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is Rift Valley Fever present in India?",
+        "answer": "Rift Valley Fever (RVF) is primarily endemic to sub-Saharan Africa and the Arabian Peninsula. India is not endemic but is at risk through animal imports and traveller cases. India has been on alert for RVF given occasional outbreaks in neighbouring regions and imports of animals from Africa."
+      },
+      {
+        "question": "How does Rift Valley Fever spread?",
+        "answer": "RVF spreads from infected animals (cattle, sheep, goats, camels) to humans through direct contact with blood, body fluids, or tissues of infected animals. Mosquito bites (primarily Aedes and Culex) also transmit the virus. Person-to-person spread is not established."
+      },
+      {
+        "question": "What are the symptoms of Rift Valley Fever?",
+        "answer": "Most infections (mild): fever, muscle pain, weakness, headache resolving in 2-7 days. Severe cases (1-2%): haemorrhagic fever, encephalitis, or retinitis (eye infection that can cause permanent vision loss). Case fatality rate for severe forms is 10-35%."
+      },
+      {
+        "question": "How can animal handlers protect themselves from RVF?",
+        "answer": "Wear gloves, eye protection, and apron when handling animals or animal products. Avoid contact with blood or placental material from animals without PPE. Cook meat and milk thoroughly. Follow animal disease reporting — report unusual deaths in livestock to veterinary authorities."
+      }
     ]
   }
 }

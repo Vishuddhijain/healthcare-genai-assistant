@@ -1,5 +1,5 @@
 TOPIC: Prequalification of health products
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/prequalification-of-medicines-by-who
 LAST UPDATED: 11 June 2026
 
@@ -69,3 +69,16 @@ immunization devices and cold chain equipment: Established in 2007, the WHO Immu
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is WHO Prequalification and why does it matter for Indians?
+A: WHO Prequalification assesses the quality, safety, and efficacy of medicines, vaccines, and diagnostics — especially for use in international health programmes. Many medicines used in India's government programmes (for HIV, TB, malaria) are WHO-prequalified, ensuring international quality standards.
+
+Q: Are Indian medicines internationally trusted?
+A: Yes. India is the world's largest supplier of generic medicines globally — including to WHO programmes in Africa. Indian pharmaceutical companies are among the most WHO-prequalified manufacturers. India's medicine exports are valued at over $25 billion annually.
+
+Q: How can I ensure the medicine I buy in India is genuine?
+A: Buy from licensed pharmacies only. Look for CDSCO (Central Drugs Standard Control Organisation) approval on the package. Check manufacturing licence details. Avoid buying medicines from unlicensed sources or online platforms without prescription. Report suspect medicines to CDSCO at cdsco.gov.in.
+
+Q: What is the difference between WHO-prequalified and CDSCO-approved medicines?
+A: CDSCO approval is India's national regulatory approval — required for all medicines sold in India. WHO Prequalification is an international certification used for procurement by UN agencies and global health programmes. A medicine can be CDSCO-approved without WHO prequalification and vice versa. Both indicate quality assessment by a regulatory authority.

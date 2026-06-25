@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)",
   "topic": "Influenza — Seasonal and Avian (H5N1, H1N1)",
-  "category": "Communicable / Respiratory / Infectious Disease",
+  "category": "Communicable Disease / Respiratory",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -118,6 +118,20 @@
       "MoHFW issues guidelines during H5N1 outbreaks in poultry.",
       "Culling of infected poultry is conducted to control outbreaks.",
       "Report unusual poultry deaths to Animal Husbandry Department."
+    ],
+    "faqs": [
+      {
+        "question": "Is swine flu (H1N1) still a risk in India?",
+        "answer": "Yes. H1N1 now circulates as a regular seasonal flu strain. It can still cause severe illness in high-risk groups. Annual flu vaccine protects against H1N1."
+      },
+      {
+        "question": "Can I get bird flu from eating chicken?",
+        "answer": "No, if the chicken is properly cooked (70°C). The virus is killed by heat. Properly cooked poultry and eggs are safe."
+      },
+      {
+        "question": "Is the flu vaccine the same every year?",
+        "answer": "The vaccine is reformulated annually based on WHO predictions of which strains will circulate. This is why annual vaccination is needed."
+      }
     ]
   }
 }

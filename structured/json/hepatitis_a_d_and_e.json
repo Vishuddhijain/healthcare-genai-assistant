@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-a",
   "topic": "Hepatitis A, D, and E",
-  "category": "Communicable / Infectious Disease / Liver",
+  "category": "Communicable Disease / Liver",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -98,7 +98,22 @@
     "india_specific_context": [
       "Hepatitis E outbreaks are commonly reported after floods in India (Bihar, Assam, Odisha, etc.).",
       "NVHCP (National Viral Hepatitis Control Programme) includes Hepatitis A and E surveillance.",
-      "Post-flood public health response always includes hepatitis surveillance and safe water provision."
+      "Post-flood public health response always includes hepatitis surveillance and safe water provision.",
+      "NVHCP helpline for hepatitis testing and treatment: 1800-11-0123. Free testing at government ICTCs. National Health Helpline: 104."
+    ],
+    "faqs": [
+      {
+        "question": "How is Hepatitis A different from Hepatitis E — both seem the same?",
+        "answer": "Both are waterborne and cause jaundice. Key differences: Hepatitis E is especially dangerous in pregnancy (very high mortality); Hepatitis A vaccine exists and is effective; Hepatitis A is most common in children in India while Hepatitis E affects all ages."
+      },
+      {
+        "question": "Can I get Hepatitis D without Hepatitis B?",
+        "answer": "No. Hepatitis D virus cannot replicate without Hepatitis B. Getting vaccinated against Hepatitis B fully prevents Hepatitis D."
+      },
+      {
+        "question": "I was jaundiced 2 years ago. Am I immune to Hepatitis A now?",
+        "answer": "If confirmed Hepatitis A infection, you likely have lifelong immunity to Hepatitis A specifically. You are not immune to other forms of hepatitis. Blood test for anti-HAV IgG confirms past immunity."
+      }
     ]
   }
 }

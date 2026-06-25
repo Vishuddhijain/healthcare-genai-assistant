@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases",
   "topic": "Noncommunicable Diseases (NCDs) — Overview",
-  "category": "Non-Communicable Disease / Preventive Health / Public Health Policy",
+  "category": "Non-Communicable Disease / Public Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -114,6 +114,24 @@
       "Fit India Movement: Promotes physical activity nationwide",
       "ICMR-NCDIR (National Centre for Disease Informatics and Research): Tracks NCD burden through population-based cancer and NCD risk factor surveys",
       "PMUY (Ujjwala Yojana): Provides clean cooking gas to reduce indoor air pollution-related NCDs"
+    ],
+    "faqs": [
+      {
+        "question": "Are NCDs only a problem for older people?",
+        "answer": "No. While risk increases with age, NCDs increasingly affect younger people due to lifestyle factors — early-onset diabetes and hypertension are rising in India among people in their 20s and 30s."
+      },
+      {
+        "question": "Can NCDs be reversed?",
+        "answer": "Some conditions (like prediabetes, early hypertension, fatty liver) can be reversed or significantly improved with lifestyle changes. Others (like established diabetes or COPD) are managed rather than cured, but progression can be slowed significantly."
+      },
+      {
+        "question": "Where can I get free NCD screening in India?",
+        "answer": "At Ayushman Bharat Health and Wellness Centres (AB-HWCs), available in most communities. Ask your local ASHA worker or visit the nearest PHC/sub-centre for free blood pressure, blood sugar, and cancer screening."
+      },
+      {
+        "question": "Why are NCDs called the \"silent epidemic\"?",
+        "answer": "Because conditions like hypertension, diabetes, and early-stage cancers often have no symptoms for years while causing internal damage. Regular screening is the only way to catch them early."
+      }
     ]
   }
 }

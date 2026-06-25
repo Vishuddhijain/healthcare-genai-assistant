@@ -73,6 +73,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is e-waste a health problem in India?",
+        "answer": "Yes. India is the third largest e-waste generator globally. Informal e-waste recycling â burning, acid leaching â releases toxic heavy metals (lead, mercury, cadmium, chromium) causing serious health harm to recyclers and surrounding communities, especially children."
+      },
+      {
+        "question": "Where should I dispose of old phones, computers, and batteries in India?",
+        "answer": "Use manufacturer take-back programmes (most major brands in India are required to collect e-waste). CPCB-authorised e-waste collection centres and recyclers (list at cpcb.nic.in). Many electronic shops also accept old devices for recycling. Never throw e-waste in regular rubbish."
+      },
+      {
+        "question": "What health effects does e-waste exposure cause?",
+        "answer": "Children in communities near informal e-waste sites have elevated blood lead levels, affecting brain development, intelligence, and behaviour. Adult e-waste workers face risk of lung disease, kidney damage, cancer, and reproductive harm from toxic chemical exposure."
+      },
+      {
+        "question": "What is India doing about e-waste?",
+        "answer": "The E-Waste (Management) Rules 2022 mandate extended producer responsibility â manufacturers must collect and recycle a percentage of their products. Penalties apply for improper e-waste disposal. However, the informal sector remains the primary recycler, and enforcement needs strengthening."
+      }
     ]
   }
 }

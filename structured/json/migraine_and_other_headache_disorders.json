@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/headache-disorders",
   "topic": "Migraine and other headache disorders",
-  "category": "Neurological Health",
+  "category": "Non-Communicable Disease / Neurological",
   "last_updated": "24 October 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -56,6 +56,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How do I know if my headache is a migraine?",
+        "answer": "Migraine is typically moderate to severe, pulsating, unilateral (one side), lasting 4-72 hours, worsened by physical activity, and associated with nausea, vomiting, and sensitivity to light and sound. About 25% of migraines are preceded by aura (visual disturbances, tingling)."
+      },
+      {
+        "question": "When is a headache a medical emergency?",
+        "answer": "Seek emergency care immediately for: thunderclap headache (sudden, worst headache of life), headache with fever and stiff neck (meningitis), headache with neurological symptoms (weakness, speech difficulty, confusion), headache after head injury, or headache with vision loss."
+      },
+      {
+        "question": "Are there effective treatments for migraine in India?",
+        "answer": "Yes. Acute treatment: triptans (sumatriptan), NSAIDs, paracetamol — prescribed by a neurologist. Preventive treatment for frequent migraines: beta-blockers, amitriptyline, topiramate — doctor-prescribed. Identifying and avoiding triggers (sleep deprivation, stress, certain foods, bright lights) is also important."
+      },
+      {
+        "question": "Is migraine just a bad headache or a real medical condition?",
+        "answer": "Migraine is a genuine neurological disorder — the third most common disease in the world. It is associated with measurable brain changes and disability. It is significantly underdiagnosed and undertreated. A person with frequent migraines deserves proper neurological evaluation and treatment."
+      }
     ]
   }
 }

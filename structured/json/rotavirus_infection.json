@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/rotavirus",
   "topic": "Rotavirus Infection",
-  "category": "Communicable Disease / Vaccine-Preventable Disease / Child Health",
+  "category": "Communicable Disease / Vaccine-Preventable",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -104,6 +104,28 @@
       "ORS and zinc: Distributed through ASHA workers and Anganwadi centres as part of diarrhoea management; \"ORS-Zinc corner\" initiatives in many states",
       "Intensified Diarrhoea Control Fortnight (IDCF): Annual government campaign (usually during summer/monsoon) to promote ORS and zinc use and reduce diarrhoea deaths",
       "Swachh Bharat Mission and Jal Jeevan Mission: Address sanitation and water access, reducing overall diarrhoeal disease burden including rotavirus transmission"
+    ],
+    "faqs": [
+      {
+        "question": "If my child is vaccinated, can they still get rotavirus diarrhoea?",
+        "answer": "Yes, vaccination significantly reduces the risk of SEVERE rotavirus disease and hospitalisation, but it doesn't provide 100% protection against all diarrhoea. Vaccinated children who do get rotavirus typically have much milder illness."
+      },
+      {
+        "question": "Is rotavirus the same as \"food poisoning\"?",
+        "answer": "No. Rotavirus is a specific virus causing gastroenteritis, distinct from bacterial food poisoning (e.g., from contaminated food with bacteria like Salmonella). However, both cause diarrhoea and vomiting, and ORS is important for both."
+      },
+      {
+        "question": "Should I stop breastfeeding if my baby has diarrhoea?",
+        "answer": "No — continue breastfeeding. Breast milk provides hydration, nutrition, and some protective factors. Stopping feeding can worsen malnutrition and dehydration. Offer ORS in addition to continued feeding as advised by a healthcare provider."
+      },
+      {
+        "question": "How long does rotavirus diarrhoea last?",
+        "answer": "Typically 3-8 days, though it can vary. The main concern during this time is preventing dehydration through ORS, continued feeding, and zinc supplementation, and seeking care if warning signs of dehydration develop."
+      },
+      {
+        "question": "Can adults get rotavirus?",
+        "answer": "Yes, though it's much more common and severe in young children. Adults, especially caregivers of infected children, can get milder rotavirus infections. Good hand hygiene helps reduce household spread."
+      }
     ]
   }
 }

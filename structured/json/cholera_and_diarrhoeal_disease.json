@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/cholera",
   "topic": "Cholera and Diarrhoeal Disease",
-  "category": "Communicable / Waterborne Disease",
+  "category": "Communicable Disease / Waterborne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -116,7 +116,22 @@
       "Diarrhoea cases spike during monsoon season (July–October).",
       "Post-flood water contamination is a major cause of cholera outbreaks.",
       "IDSP (Integrated Disease Surveillance Programme) monitors diarrhoea outbreaks.",
-      "Report suspected cholera outbreaks to local health authorities."
+      "Report suspected cholera outbreaks to local health authorities.",
+      "Free ORS and zinc tablets are available at all government PHCs and through ASHA workers under India's Diarrhoea Control Programme. National Health Helpline: 104. For severe dehydration or suspected cholera outbreak, contact your nearest government hospital immediately or call Emergency: 112."
+    ],
+    "faqs": [
+      {
+        "question": "How do I prepare ORS at home if sachets are not available?",
+        "answer": "Emergency home ORS: 1 litre boiled water + 6 level teaspoons of sugar + ½ teaspoon salt. This is a temporary measure — get proper ORS sachets as soon as possible."
+      },
+      {
+        "question": "Is diarrhoea always an infection?",
+        "answer": "No. Diarrhoea can also be caused by lactose intolerance, IBS, food intolerance, medications, or anxiety. If diarrhoea is recurrent without infection signs, consult a doctor."
+      },
+      {
+        "question": "Should I avoid all dairy when I have diarrhoea?",
+        "answer": "In adults, you can continue a normal, light diet. Curd (yogurt with live cultures) may actually help gut recovery. Breastfeeding should continue for infants."
+      }
     ]
   }
 }

@@ -1,5 +1,5 @@
 TOPIC: Child maltreatment
-CATEGORY: Injury and Violence Prevention
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/child-maltreatment
 LAST UPDATED: 8 May 2026
 
@@ -78,3 +78,16 @@ Child maltreatment is the abuse and neglect that occurs to children under 18 yea
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What counts as child abuse or maltreatment?
+A: Child maltreatment includes physical abuse (hitting, burning), emotional abuse (constant criticism, rejection), sexual abuse (any sexual act involving a child), and neglect (failing to meet basic needs for food, shelter, healthcare, education). All forms are harmful and illegal in India.
+
+Q: How do I report suspected child abuse in India?
+A: Call Childline 1098 (free, 24/7) immediately. You can also report to local police or Child Welfare Committees (CWC). Under POCSO Act 2012, any person who suspects child sexual abuse has a legal duty to report it â not reporting is an offence.
+
+Q: What are the signs that a child is being abused?
+A: Signs include: unexplained injuries, age-inappropriate sexual knowledge, sudden behavioural changes (withdrawal, aggression, regression), fear of certain adults, poor hygiene or malnutrition, and missing school. Take any child's disclosure of abuse seriously.
+
+Q: Can a child recover from abuse?
+A: Yes. Children are resilient, especially with proper support. Early intervention including counselling, a safe environment, and supportive relationships significantly improves recovery outcomes. CHILDLINE, government-supported child care institutions, and NGOs provide therapeutic support.

@@ -1,5 +1,5 @@
 TOPIC: Noma
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/noma
 LAST UPDATED: 15 December 2023
 
@@ -63,3 +63,16 @@ Survivors suffer from severe facial disfigurement, have difficulty speaking and 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is Noma and does it occur in India?
+A: Noma (cancrum oris) is a rapidly progressing, devastating oral infection that destroys the face. It primarily affects malnourished children with weakened immunity. While most common in sub-Saharan Africa, sporadic cases have been reported in impoverished communities in India.
+
+Q: What are the early warning signs of Noma?
+A: Noma begins as a gum infection (gingivitis) with painful gums and foul-smelling breath. It rapidly progresses to a gangrenous ulcer that destroys facial tissue. Early stage is treatable — advanced stages cause permanent severe facial disfigurement. Seek medical care for any rapidly spreading mouth infection in a malnourished child.
+
+Q: Who is most at risk of Noma?
+A: Severely malnourished children between 2-6 years with compromised immunity (from measles, malaria, HIV, or extreme poverty) are most vulnerable. Good nutrition, vaccination, and basic oral hygiene are the most effective preventive measures.
+
+Q: Can Noma be treated?
+A: Early Noma responds to antibiotics and nutritional support. Advanced cases require complex reconstructive surgery. Prevention through nutrition, vaccination (especially measles), basic oral hygiene, and poverty reduction is the most effective approach.

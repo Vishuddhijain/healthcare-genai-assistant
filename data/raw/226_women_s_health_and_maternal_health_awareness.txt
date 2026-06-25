@@ -1,6 +1,6 @@
 TOPIC: Women's Health and Maternal Health Awareness
-CATEGORY: Maternal & Child Health / Preventive Care
-SOURCE: NHM India - nhm.gov.in | WHO Maternal Health - who.int/health-topics/maternal-health | MoHFW
+CATEGORY: Maternal and Child Health
+SOURCE: NHM India - nhm.gov.in | WHO Maternal Health - who.int/health-topics/maternal-health | MoHFW | https://nhm.gov.in | https://www.who.int/health-topics/maternal-health
 LAST UPDATED: 2024
 
 --- OVERVIEW ---
@@ -124,3 +124,16 @@ This is awareness information only. All pregnancy, delivery, and post-delivery c
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What free maternal health services are available to all pregnant women in India?
+A: Under JSSK (Janani Shishu Suraksha Karyakram): free delivery (normal and caesarean), free medicines, free diagnostics, free diet in hospital, free blood transfusion, and free transport to hospital and home. Under JSY: cash incentive for institutional delivery for eligible women. ANC visits are free at all government health centres.
+
+Q: How many antenatal check-ups are recommended during pregnancy?
+A: WHO recommends at least 8 ANC contacts during pregnancy. India's guidelines recommend minimum 4 ANC visits: before 12 weeks, 14-26 weeks, 28-34 weeks, and 36+ weeks. Each visit includes blood pressure, haemoglobin check, ultrasound (as recommended), and free IFA tablets.
+
+Q: Is vaginal discharge always a sign of infection during pregnancy?
+A: A small amount of clear or white, mild-smelling discharge is normal throughout pregnancy. However, report to a doctor if: discharge is green, yellow, or grey; has a strong fishy odour; causes itching or burning; or if there is a large amount of watery discharge (possible rupture of membranes — emergency).
+
+Q: What is the safest spacing between pregnancies in India?
+A: WHO recommends at least 24 months (2 years) between delivery and the next conception, and at least 6 months after a miscarriage. Shorter birth intervals increase risks of preterm birth, low birth weight, and maternal anaemia. Free family planning counselling and contraceptives at all government health centres.

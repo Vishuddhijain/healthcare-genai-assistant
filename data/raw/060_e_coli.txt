@@ -1,5 +1,5 @@
 TOPIC: E. coli
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/e-coli
 LAST UPDATED: 7 February 2018
 
@@ -74,3 +74,16 @@ STEC is destroyed by thorough cooking of foods until all parts reach a temperatu
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is E. coli always harmful?
+A: No. Most E. coli strains are harmless and naturally live in the intestines of humans and animals. Only certain strains â particularly E. coli O157:H7 and other Shiga toxin-producing strains â cause severe illness including bloody diarrhoea and kidney failure.
+
+Q: How do I prevent E. coli food poisoning?
+A: Cook beef and other meat thoroughly (70Â°C internal temperature), avoid unpasteurised milk and juices, wash fruits and vegetables well, wash hands before eating and after using the toilet, avoid cross-contamination between raw meat and ready-to-eat foods.
+
+Q: What is the most dangerous complication of E. coli O157 infection?
+A: Haemolytic Uraemic Syndrome (HUS) â a life-threatening condition causing kidney failure, anaemia, and low platelets â especially in young children. Signs: reduced urine output, pale skin, easy bruising after bloody diarrhoea. This is a medical emergency â call 112.
+
+Q: Should antibiotics be taken for E. coli diarrhoea?
+A: For most E. coli diarrhoea, antibiotics are NOT recommended â they may worsen outcomes in Shiga toxin-producing strains by triggering more toxin release. Treatment is supportive: ORS, rest, fluids. A doctor must evaluate and decide whether antibiotics are appropriate.

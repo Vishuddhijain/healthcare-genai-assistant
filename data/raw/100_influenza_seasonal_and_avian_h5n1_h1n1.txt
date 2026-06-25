@@ -1,5 +1,5 @@
 TOPIC: Influenza — Seasonal and Avian (H5N1, H1N1)
-CATEGORY: Communicable / Respiratory / Infectious Disease
+CATEGORY: Communicable Disease / Respiratory
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal) | https://www.who.int/news-room/fact-sheets/detail/influenza-(avian-and-other-zoonotic) | MoHFW India
 LAST UPDATED: 2024
 

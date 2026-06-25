@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/urban-health",
   "topic": "Urban health",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "19 March 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -49,6 +49,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the unique health challenges of living in Indian cities?",
+        "answer": "Urban Indians face: air pollution (major health risk), urban heat islands, mental health stress, sedentary lifestyles, traffic accident risk, poor housing and sanitation in slums, food insecurity, and NCDs (diabetes, hypertension, heart disease). Rural-to-urban migrants face additional barriers to healthcare access."
+      },
+      {
+        "question": "Is healthcare easily accessible in Indian cities?",
+        "answer": "Access varies dramatically. Upper and middle-income urban residents generally have good access to private healthcare. Urban poor — particularly slum residents — face barriers including distance, cost, lack of documentation, and discrimination. Government primary health centres and dispensaries exist but are often overcrowded."
+      },
+      {
+        "question": "What is an Urban Health Centre (UHC) in India?",
+        "answer": "Urban Health Centres (UHCs) are government-run primary healthcare facilities for urban populations, particularly urban poor and slum residents. They provide free outpatient care, maternal and child health services, immunisation, and NCDs screening. Look for your nearest UHC through your local municipal corporation."
+      },
+      {
+        "question": "How does urban planning affect health in Indian cities?",
+        "answer": "Cities designed for cars rather than people reduce physical activity, increase pollution, and create heat islands. Green spaces improve mental health and air quality. Walkable neighbourhoods increase physical activity. Safe water and sanitation in slums prevent disease. Urban planning decisions are public health decisions."
+      }
     ]
   }
 }

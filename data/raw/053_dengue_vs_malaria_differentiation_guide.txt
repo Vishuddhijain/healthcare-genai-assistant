@@ -1,5 +1,5 @@
 TOPIC: Dengue vs Malaria — Differentiation Guide
-CATEGORY: Communicable Disease (Vector-Borne) — Comparative Reference
+CATEGORY: Communicable Disease / Vector-Borne
 SOURCE: WHO + NHP India + NVBDCP - https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue | https://www.who.int/news-room/fact-sheets/detail/malaria | nvbdcp.gov.in
 LAST UPDATED: 2024
 
@@ -112,3 +112,16 @@ This information is for health awareness and educational differentiation only. D
 
 --- WHEN TO SEE A DOCTOR ---
 - Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How can I tell the difference between dengue and malaria at home?
+A: You cannot reliably differentiate them at home â both cause fever. Key differences: dengue causes severe bone/joint pain and rash; malaria causes cyclical chills and rigors. The only reliable differentiation is through blood tests (NS1/IgM for dengue; blood smear/RDT for malaria). See a doctor.
+
+Q: Can a person have dengue and malaria at the same time?
+A: Yes, co-infection is possible, especially in India during monsoon when both mosquito types are active. This makes diagnosis more complex and potentially more dangerous. Blood tests for both should be done when fever is present in endemic areas.
+
+Q: Which is more dangerous â dengue or malaria?
+A: Both can be fatal if untreated. Severe malaria (P. falciparum) can kill within 24-48 hours. Severe dengue (haemorrhagic fever) can also be rapidly fatal. Both require prompt medical attention. Do not wait to see a doctor for high fever during monsoon season.
+
+Q: Are the mosquitoes for dengue and malaria the same?
+A: No. Dengue: Aedes aegypti (bites during DAY, breeds in CLEAN stagnant water). Malaria: Anopheles (bites at NIGHT, breeds in stagnant/slow-moving water). Both can be present in the same area, requiring combined prevention strategies.

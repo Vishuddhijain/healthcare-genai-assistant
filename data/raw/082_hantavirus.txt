@@ -84,3 +84,16 @@ Hantaviruses present in North, Central and South America are known to cause HCPS
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has hantavirus been reported in India?
+A: Hantavirus cases have been sporadically reported in India, though surveillance is limited. The Seoul virus (a hantavirus) has been detected in rats in India. Most cases globally are mild or unreported; severe Hantavirus Pulmonary Syndrome (HPS) is primarily reported from the Americas.
+
+Q: How does hantavirus spread?
+A: Hantavirus spreads to humans through contact with infected rodents â their droppings, urine, saliva, or nesting material. Breathing dust contaminated with infected rodent excreta is the most common route. It does NOT spread person-to-person (except South American Andes strain).
+
+Q: What are the symptoms of hantavirus infection?
+A: Early: fever, fatigue, muscle aches, headache, dizziness, nausea, vomiting. In severe cases: sudden onset of respiratory difficulty (HPS). Symptoms appear 1-8 weeks after exposure. There is no specific treatment â management is supportive.
+
+Q: How can I protect myself from hantavirus?
+A: Control rodents in and around the home â seal holes, store food in rodent-proof containers, use rat traps. When cleaning areas with rodent droppings, wear gloves and an N95 mask, wet the area with bleach solution before cleaning (do not sweep dry â disturbs dried excreta). Ventilate enclosed spaces before entering.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/abortion",
   "topic": "Abortion",
-  "category": "Reproductive and Maternal Health",
+  "category": "Maternal and Child Health",
   "last_updated": "8 December 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -16,7 +16,8 @@
       "the availability and accessibility of information; and"
     ],
     "symptoms": [
-      "haemorrhage (heavy bleeding);"
+      "Signs that medical attention is needed after abortion: heavy bleeding (soaking more than 2 pads per hour for 2+ hours), severe abdominal pain or cramping not relieved by paracetamol, fever above 38°C lasting more than 24 hours, foul-smelling vaginal discharge, no bleeding within 24 hours of a medical abortion (may indicate failure), and continued pregnancy symptoms after 2 weeks.",
+      "Emotional symptoms are also common and valid: sadness, grief, relief, or mixed feelings. These are normal responses. Support is available through counselling services."
     ],
     "warning_signs": [
       "Lack of access to safe, affordable, timely and respectful abortion care, and the stigma associated with abortion, pose risks to women’s physical and mental well-being throughout the life-course.",
@@ -67,6 +68,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is abortion legal in India?",
+        "answer": "Yes. The Medical Termination of Pregnancy (MTP) Act 2021 permits legal abortion up to 20 weeks (and up to 24 weeks in special cases). Safe abortion services are available at registered government hospitals. Always consult a qualified doctor."
+      },
+      {
+        "question": "What are the health risks of unsafe abortion?",
+        "answer": "Unsafe abortions cause severe bleeding, infection, organ damage, and can be fatal. Always use a registered government or private medical facility. Never attempt self-abortion or use unverified medicines without medical supervision."
+      },
+      {
+        "question": "Where can I get a safe abortion in India?",
+        "answer": "Government hospitals and registered private clinics provide safe abortion services. The MTP Act ensures your right to safe care. Visit your nearest government district hospital or PHC for free or subsidised services."
+      },
+      {
+        "question": "Does abortion affect future fertility?",
+        "answer": "A safe, legal abortion performed by a qualified doctor generally does not affect future fertility. Unsafe abortions can cause complications that may impact fertility. Always seek care from a qualified healthcare provider."
+      }
     ]
   }
 }

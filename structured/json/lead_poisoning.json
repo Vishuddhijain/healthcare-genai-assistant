@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health",
   "topic": "Lead Poisoning",
-  "category": "Environmental Health / Toxicology",
+  "category": "Environmental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -75,7 +75,26 @@
       "ICMR studies show elevated BLLs in children in Delhi, Mumbai, Kolkata and industrial belts",
       "Spice adulteration with lead chromate remains a FSSAI enforcement priority",
       "Informal battery recycling exposes millions of workers/communities",
-      "Surma/kajal use remains common — public awareness campaigns needed"
+      "Surma/kajal use remains common — public awareness campaigns needed",
+      "Blood lead level testing is available at government medical college hospitals. Report suspected environmental lead contamination (paint, water, soil) to your State Pollution Control Board. National Health Helpline: 104. Free treatment for confirmed lead poisoning is available at government hospitals."
+    ],
+    "faqs": [
+      {
+        "question": "Is lead poisoning common in India?",
+        "answer": "Yes, significantly. Children in India face lead exposure from leaded paint in old buildings, contaminated soil near industrial areas, lead-glazed pottery, certain Ayurvedic medicines (sindoor, kajal), and air pollution from metal smelting. India removed lead from petrol in 2000 but other sources persist."
+      },
+      {
+        "question": "What are the signs of lead poisoning in children?",
+        "answer": "Lead poisoning is often silent — there are no specific early symptoms. As levels rise: irritability, loss of appetite, lethargy, learning difficulties, reduced IQ, and behavioural problems. Blood lead testing is the only reliable way to detect lead poisoning."
+      },
+      {
+        "question": "Is the sindoor (vermilion) applied to hair parting safe?",
+        "answer": "Traditional sindoor and some commercially sold sindoor contain lead — which can be absorbed through scalp skin. Use certified lead-free sindoor or natural alternatives. Keep sindoor away from children's reach. Commercial sindoor should display lead-free certification under Indian standards."
+      },
+      {
+        "question": "Can lead poisoning be treated?",
+        "answer": "For mild cases: removing the source of exposure is most important. For high blood lead levels: chelation therapy (binds lead for excretion) is prescribed by a doctor. There is no safe level of lead in blood — prevention through avoiding lead sources is the priority."
+      }
     ]
   }
 }

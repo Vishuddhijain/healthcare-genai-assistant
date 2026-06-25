@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/podoconiosis-(non-filarial-lymphoedema)",
   "topic": "Podoconiosis (non-filarial lymphoedema)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "1 May 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -48,6 +48,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is podoconiosis?",
+        "answer": "Podoconiosis is a non-infectious tropical lymphoedema caused by long-term barefoot exposure to irritant red clay soil (high in silica and aluminium). It causes progressive swelling of the lower legs. It is common in highland areas of East Africa and has been reported in parts of Northeast India among barefoot agricultural communities."
+      },
+      {
+        "question": "How is podoconiosis different from lymphatic filariasis (elephantiasis)?",
+        "answer": "Both cause leg swelling (lymphoedema) but have different causes. Filariasis is caused by a parasitic worm spread by mosquitoes. Podoconiosis is caused by soil minerals absorbed through bare feet — no infection, no mosquito, not contagious. Differentiation is important for correct management."
+      },
+      {
+        "question": "Can podoconiosis be prevented?",
+        "answer": "Yes — simple, effective prevention: wear shoes or sandals consistently when working in affected soil areas. Community shoe-wearing programmes in endemic African communities have demonstrated significant reduction in new cases. This is a poverty-related disease — access to affordable footwear is a key intervention."
+      },
+      {
+        "question": "Can podoconiosis be treated?",
+        "answer": "While lymphoedema cannot be completely reversed, progression can be halted and quality of life improved through: consistent foot hygiene, elevation of affected limbs, compression bandaging/garments, gentle exercise, and prompt treatment of secondary infections. Wearing shoes prevents further progression."
+      }
     ]
   }
 }

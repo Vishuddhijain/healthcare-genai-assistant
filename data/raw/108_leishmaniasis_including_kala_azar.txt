@@ -1,5 +1,5 @@
 TOPIC: Leishmaniasis (including Kala-Azar)
-CATEGORY: Communicable Disease (Vector-Borne / Parasitic NTD)
+CATEGORY: Communicable Disease / Vector-Borne
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/leishmaniasis
 LAST UPDATED: 2024
 
@@ -73,3 +73,16 @@ This information is for health awareness only. Kala-azar treatment is free at go
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is kala azar and where does it occur in India?
+A: Kala azar (visceral leishmaniasis) is a parasitic disease spread by sandfly bites. In India it is endemic in Bihar, Jharkhand, West Bengal, and parts of Uttar Pradesh. The National Kala Azar Elimination Programme aims to eliminate it from India (target: less than 1 case per 10,000 population).
+
+Q: What are the signs of kala azar?
+A: Prolonged fever (weeks to months), enlarged spleen and liver, significant weight loss, weakness, anaemia, and darkening of skin (kala azar literally means black fever). It can be fatal if untreated. Free diagnosis and treatment at government PHCs in endemic areas.
+
+Q: Is kala azar curable?
+A: Yes. Amphotericin B (liposomal) is the preferred treatment and is available free at government hospitals in endemic areas. Single-dose treatment is now possible. Treatment success rates are high when diagnosed and treated early. Consult the nearest PHC in endemic districts immediately if symptoms are present.
+
+Q: How can I avoid kala azar if I live in an endemic area?
+A: Sleep under insecticide-treated bed nets, use insect repellent on exposed skin in the evening (sandflies are small enough to pass through regular mosquito nets — use fine-mesh nets), spray indoor walls with insecticide (IRS - Indoor Residual Spraying is provided free by the government in endemic areas).

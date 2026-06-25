@@ -55,6 +55,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is Oropouche virus disease and is it in India?",
+        "answer": "Oropouche virus disease is a tropical arboviral illness caused by Oropouche orthobunyavirus, spread primarily by biting midges (Culicoides paraensis). It is endemic to South America and the Caribbean. India is not currently endemic but has been on alert since a 2024 outbreak in Brazil spread to travellers."
+      },
+      {
+        "question": "What are the symptoms of Oropouche fever?",
+        "answer": "Sudden fever, severe headache, joint and muscle pain, photophobia (light sensitivity), nausea, and vomiting — similar to dengue. Most recover within a week. Rarely, neurological complications (meningitis, encephalitis) occur. Differentiation from dengue requires laboratory testing."
+      },
+      {
+        "question": "How does Oropouche virus spread?",
+        "answer": "Primarily through the bite of infected Culicoides biting midges (also called no-see-ums). Some transmission by Culex mosquitoes. It does NOT spread person-to-person in most cases. A 2024 concern was about potential vertical transmission (mother to foetus) requiring further study."
+      },
+      {
+        "question": "How can I protect myself from Oropouche if travelling to endemic areas?",
+        "answer": "Use insect repellent (DEET/picaridin), wear long-sleeved protective clothing, stay in screened or air-conditioned accommodation, and use fine-mesh window screens (midges are smaller than mosquitoes and can pass through standard mosquito nets)."
+      }
     ]
   }
 }

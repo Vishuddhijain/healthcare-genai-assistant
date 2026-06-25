@@ -1,5 +1,5 @@
 TOPIC: Measles
-CATEGORY: Communicable Disease (Vaccine-Preventable / Viral)
+CATEGORY: Communicable Disease / Vaccine-Preventable
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/measles
 LAST UPDATED: 2024
 
@@ -96,3 +96,16 @@ This information is for health awareness only. Measles is highly contagious and 
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is measles still dangerous in India?
+A: Yes. India is one of the countries with the highest measles burden globally. Outbreaks occur regularly among unvaccinated children. Measles can cause pneumonia, encephalitis (brain infection), blindness, and death. Vaccination (MR vaccine) is the only effective protection.
+
+Q: What are the signs of measles?
+A: High fever, runny nose, red eyes (conjunctivitis), cough, followed by a characteristic red rash starting on the face and spreading downward. Koplik's spots (small white spots inside the mouth) are unique to measles. Measles is highly contagious — 1 infected person can infect 12-18 unvaccinated contacts.
+
+Q: Is the measles vaccine free in India?
+A: Yes. Measles-Rubella (MR) vaccine is free under India's Universal Immunisation Programme. Given at 9 months and 15 months. National MR campaigns have been conducted to reach older unvaccinated children. If your child has missed the vaccine, go to the nearest PHC for catch-up vaccination.
+
+Q: Can a vaccinated person get measles?
+A: Rarely. Two doses of MR vaccine provide 97% protection. Vaccinated people who do get measles have much milder illness. Community protection depends on achieving 95%+ vaccination coverage — this is why every child must be vaccinated.

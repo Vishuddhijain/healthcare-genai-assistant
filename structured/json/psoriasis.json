@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/psoriasis",
   "topic": "Psoriasis",
-  "category": "Non-Communicable Disease / Skin Condition / Autoimmune Disease",
+  "category": "Non-Communicable Disease / Skin",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -114,7 +114,30 @@
       "Dermatology departments at government medical colleges and district hospitals provide diagnosis, topical treatments, and phototherapy",
       "IADVL (Indian Association of Dermatologists, Venereologists and Leprologists): Professional body providing guidelines for psoriasis management in India",
       "Mental health support: Psoriasis-related stigma and visible skin lesions can significantly affect mental health and social participation — counselling support should be considered alongside dermatological treatment",
-      "Climate considerations: India's diverse climate means psoriasis may worsen in cold, dry winters in northern India, while humidity in some regions may help"
+      "Climate considerations: India's diverse climate means psoriasis may worsen in cold, dry winters in northern India, while humidity in some regions may help",
+      "For dermatology consultation at government medical colleges, call 104. PM-JAY covers hospitalisation for severe psoriasis at empanelled hospitals: 14555."
+    ],
+    "faqs": [
+      {
+        "question": "Is psoriasis contagious?",
+        "answer": "No. Psoriasis is an autoimmune condition, not an infection. It cannot be spread through touch, sharing clothes, towels, swimming pools, or any other form of contact."
+      },
+      {
+        "question": "Will psoriasis go away on its own?",
+        "answer": "Psoriasis is a chronic condition that typically requires ongoing management. It often follows a pattern of flares and remissions — periods of improvement do occur, sometimes for long stretches, but the underlying tendency usually remains. Treatment helps control symptoms and reduce flares."
+      },
+      {
+        "question": "Can diet affect psoriasis?",
+        "answer": "Some people find that certain foods or alcohol trigger flares, though this varies by individual. Maintaining a healthy weight is beneficial, as obesity is linked to more severe psoriasis. There's no single \"psoriasis diet,\" but a generally healthy, balanced diet supports overall management."
+      },
+      {
+        "question": "Is psoriasis just a \"skin problem\"?",
+        "answer": "No. Psoriasis is a systemic condition associated with increased risk of psoriatic arthritis, cardiovascular disease, diabetes, obesity, and mental health conditions like depression and anxiety. Comprehensive care addresses the whole person, not just the skin."
+      },
+      {
+        "question": "Can psoriasis affect children?",
+        "answer": "Yes, though it's less common than in adults. Guttate psoriasis, often triggered by strep throat, is more commonly seen in children and young adults."
+      }
     ]
   }
 }

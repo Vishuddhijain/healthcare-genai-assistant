@@ -1,5 +1,5 @@
 TOPIC: Human rights
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/human-rights-and-health
 LAST UPDATED: 1 December 2023
 
@@ -61,3 +61,16 @@ Human rights are enshrined in human rights instruments. All WHO Member States ha
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the basic health-related human rights in India?
+A: Under the Indian Constitution, the right to health is derived from Article 21 (right to life). Citizens have the right to free emergency treatment at any hospital, right to information about their health, right to refuse treatment, right to confidentiality, and right to non-discrimination in healthcare.
+
+Q: Can a private hospital refuse to treat me in an emergency?
+A: No. The Supreme Court of India has held that all hospitals (public and private) must provide emergency stabilisation treatment without demanding advance payment. Refusing emergency care is a violation of the right to life. Report violations to the State Medical Council.
+
+Q: What are patient rights in India?
+A: Key patient rights: right to information about diagnosis and treatment options, right to give informed consent, right to privacy and confidentiality, right to a second opinion, right to emergency treatment, and right to non-discrimination. The Clinical Establishments Act regulates patient rights standards.
+
+Q: Where can I complain about violation of my health rights in India?
+A: State Medical Council (for doctor misconduct), National Consumer Disputes Redressal Commission (NCDRC) for medical negligence, State Human Rights Commission, or the National Human Rights Commission (NHRC) at nhrc.nic.in. You can also use the public grievance portal pgportal.gov.in.

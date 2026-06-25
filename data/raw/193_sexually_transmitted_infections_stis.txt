@@ -1,5 +1,5 @@
 TOPIC: Sexually transmitted infections (STIs)
-CATEGORY: Sexual Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)
 LAST UPDATED: 10 September 2025
 
@@ -89,3 +89,16 @@ In addition, emerging outbreaks of new infections that can be acquired by sexual
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How common are STIs in India?
+A: STIs are very common in India but significantly underreported due to stigma. India has one of the world's highest burdens of STIs including chlamydia, gonorrhoea, syphilis, herpes, and HPV. Many infections are asymptomatic — testing is the only way to know.
+
+Q: Is STI testing confidential in India?
+A: Yes. STI testing and treatment at government ICTCs (Integrated Counselling and Testing Centres) is completely confidential. Healthcare providers cannot disclose your status without your consent. Free, confidential testing is available at all government hospitals.
+
+Q: Can STIs be cured?
+A: Bacterial STIs (gonorrhoea, chlamydia, syphilis) are curable with antibiotics. Viral STIs (herpes, HPV, HIV) cannot be cured but can be effectively managed. Treatment requires a doctor's prescription — do not self-medicate. Partner treatment is essential to prevent reinfection.
+
+Q: How do I protect myself from STIs?
+A: Consistent and correct condom use for every sexual encounter is the most effective protection against most STIs. HPV vaccine protects against HPV. Hepatitis B vaccine protects against HBV. Regular testing for sexually active people (especially with new/multiple partners) enables early treatment.

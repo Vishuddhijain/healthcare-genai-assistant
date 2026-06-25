@@ -1,5 +1,5 @@
 TOPIC: Pre-eclampsia
-CATEGORY: Maternal Health
+CATEGORY: Maternal and Child Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia
 LAST UPDATED: 10 December 2025
 
@@ -82,3 +82,16 @@ Pre-eclampsia is a high blood pressure disorder that typically develops after 20
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is pre-eclampsia and why is it dangerous?
+A: Pre-eclampsia is a serious pregnancy complication characterised by high blood pressure (140/90 or above) and signs of organ damage (protein in urine, liver or kidney abnormalities) after 20 weeks of pregnancy. It is a leading cause of maternal and fetal death globally and in India.
+
+Q: What are the warning signs of pre-eclampsia?
+A: Severe headache, visual disturbances (blurred vision, seeing flashing lights), upper abdominal pain (right side — under ribs), sudden swelling of face, hands, or feet, nausea/vomiting in the second half of pregnancy. ANY of these signs in a pregnant woman = go to hospital immediately.
+
+Q: Can pre-eclampsia be prevented?
+A: Low-dose aspirin (started before 16 weeks) reduces pre-eclampsia risk by 10-20% in high-risk women. Calcium supplementation (where dietary intake is low) reduces risk. Regular antenatal care with blood pressure monitoring is essential — pre-eclampsia must be detected early.
+
+Q: Is pre-eclampsia treatable?
+A: Pre-eclampsia requires hospitalisation and medical management (antihypertensives, magnesium sulphate to prevent seizures). The only definitive treatment is delivery of the baby. Free emergency obstetric care including magnesium sulphate is available at all government district hospitals under JSSK.

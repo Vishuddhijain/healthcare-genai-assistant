@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/health-literacy",
   "topic": "Health literacy",
-  "category": "Preventive Care and Wellness",
+  "category": "Public Health / Preventive Care",
   "last_updated": "22 December 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -51,6 +51,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is health literacy and why does it matter?",
+        "answer": "Health literacy is the ability to understand, evaluate, and use health information to make good decisions. Low health literacy leads to poor medication adherence, delayed care-seeking, misunderstanding of diagnoses, and worse health outcomes. High health literacy empowers people to manage their health effectively."
+      },
+      {
+        "question": "How can I improve my own health literacy?",
+        "answer": "Ask your doctor to explain in simple language. Write down instructions. Ask 'What do I do if...?' questions. Use reliable sources: nhp.gov.in, who.int, and mohfw.gov.in. Be sceptical of health claims on social media. Ask a pharmacist to explain medicines."
+      },
+      {
+        "question": "Is health misinformation a problem in India?",
+        "answer": "Yes, significantly. WhatsApp and social media spread health misinformation rapidly in India â false cancer cures, anti-vaccine content, dangerous home remedies. Always verify health information from official sources (NHP, WHO, government health portals) before following or sharing."
+      },
+      {
+        "question": "How can I spot health misinformation?",
+        "answer": "Warning signs: promises of miraculous cures, claims that doctors hide the truth, extreme urgency to share, no credible source cited, appeals to conspiracy theories. Always cross-check with government or WHO sources. If in doubt, ask a qualified healthcare professional."
+      }
     ]
   }
 }

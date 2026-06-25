@@ -69,6 +69,20 @@
     "india_specific_context": [
       "RKSK (Rashtriya Kishor Swasthya Karyakram): Free adolescent health services at government PHCs, including nutrition, mental health, reproductive health, and substance use counselling. Saathiya centres: Adolescent-friendly health clinics at government PHCs. Peer Educator Programme: Trained adolescent health educators in schools and communities.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is acne during puberty normal?",
+        "answer": "Yes, acne is very common during puberty due to hormonal changes. Wash face twice daily with mild soap. For severe acne, consult a doctor — do not use over-the-counter medications without advice."
+      },
+      {
+        "question": "Is it normal to feel very emotional or moody as a teenager?",
+        "answer": "Hormonal changes during puberty cause emotional ups and downs. However, persistent sadness, anxiety, or hopelessness lasting more than 2 weeks may indicate a mental health condition. Speak to a trusted adult or counsellor."
+      },
+      {
+        "question": "At what age should girls get the HPV vaccine?",
+        "answer": "Ideally between 9–14 years, before becoming sexually active. It is available at government health centres. Consult a doctor."
+      }
     ]
   }
 }

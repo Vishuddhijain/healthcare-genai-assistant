@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/suicide",
   "topic": "Suicide Prevention and Mental Health Crisis",
-  "category": "Mental Health / Public Health Emergency / Preventive Care",
+  "category": "Mental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -166,6 +166,28 @@
       "NIMHANS: National reference centre for mental health and suicide prevention research",
       "Mental Healthcare Act 2017: Decriminalised attempted suicide in India (previously punishable under IPC Section 309)",
       "UMANG Programme: NIMHANS initiative for student mental health in schools"
+    ],
+    "faqs": [
+      {
+        "question": "Does asking about suicide increase the risk?",
+        "answer": "No. Research consistently shows that asking about suicide does not plant the idea or increase risk. In fact, it can provide relief and open communication. Always ask if you are concerned."
+      },
+      {
+        "question": "Is suicide a sign of weakness or selfishness?",
+        "answer": "No. Suicide is associated with overwhelming psychological pain, mental illness, and sometimes neurobiological factors. Characterising it as weakness or selfishness prevents people from seeking help and is harmful to survivors."
+      },
+      {
+        "question": "Is it true that people who talk about suicide don't actually do it?",
+        "answer": "This is a dangerous myth. Most people who die by suicide have communicated their intent beforehand. All statements about suicidal thoughts must be taken seriously."
+      },
+      {
+        "question": "Was suicide decriminalised in India?",
+        "answer": "Yes. The Mental Healthcare Act 2017 effectively decriminalised suicide attempt in India. A person who attempts suicide is to be treated with care, not punishment."
+      },
+      {
+        "question": "How can I help someone without being intrusive?",
+        "answer": "Be present, be consistent, and be honest. Say: \"I've noticed you seem to be struggling and I care about you. Are you thinking about suicide?\" Listening without judgment is one of the most helpful things you can do."
+      }
     ]
   }
 }

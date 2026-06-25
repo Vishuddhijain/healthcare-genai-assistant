@@ -1,5 +1,5 @@
 TOPIC: Syphilis
-CATEGORY: Sexual Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/syphilis
 LAST UPDATED: 29 May 2025
 
@@ -71,3 +71,16 @@ Syphilis is transmitted during oral, vaginal and anal sex, in pregnancy and thro
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is syphilis increasing in India?
+A: Yes. Syphilis cases have been rising in India, particularly among men who have sex with men (MSM) and in some urban populations. Congenital syphilis (from mother to baby) also remains a significant problem. Free testing and treatment at government ICTCs.
+
+Q: What are the stages and symptoms of syphilis?
+A: Primary: Painless sore (chancre) at infection site. Secondary: Rash on palms and soles, flu-like illness, widespread sores. Latent: No symptoms but still infectious. Tertiary (after years): Serious damage to heart, brain, and other organs. Early stages are easily treatable.
+
+Q: Can syphilis be transmitted to a baby during pregnancy?
+A: Yes. Untreated syphilis in pregnancy causes miscarriage, stillbirth, neonatal death, or congenital syphilis (affecting bones, liver, eyes, brain). All pregnant women should be tested for syphilis at the first antenatal visit — free at government hospitals. Treatment of the mother prevents congenital syphilis.
+
+Q: Is syphilis curable?
+A: Yes. Syphilis is fully curable with penicillin at all stages (though organ damage from advanced disease cannot be reversed). A single injection of benzathine penicillin G cures early syphilis. Treatment is free at government hospitals. Sexual partners must be tested and treated.

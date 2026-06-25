@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/campylobacter",
   "topic": "Campylobacter",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "1 May 2020",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -65,6 +65,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What causes Campylobacter food poisoning?",
+        "answer": "Campylobacter infection most commonly comes from eating raw or undercooked poultry (chicken), drinking unpasteurised milk, or consuming contaminated water. It is one of the most common causes of bacterial diarrhoea globally."
+      },
+      {
+        "question": "Is Campylobacter infection dangerous?",
+        "answer": "Most cases cause self-limiting diarrhoea lasting 3-7 days. However, in infants, elderly, and immunocompromised individuals it can be severe. Campylobacter is also associated with triggering Guillain-BarrÃ© Syndrome (GBS) in rare cases."
+      },
+      {
+        "question": "How do I prevent Campylobacter infection?",
+        "answer": "Cook poultry thoroughly (no pink meat), wash hands after handling raw chicken, use separate cutting boards for raw meat and vegetables, and drink only pasteurised or boiled milk. Refrigerate leftovers promptly."
+      },
+      {
+        "question": "Does Campylobacter require antibiotic treatment?",
+        "answer": "Most healthy adults recover without antibiotics â rest and oral rehydration is usually sufficient. Antibiotics are only prescribed for severe cases or immunocompromised patients. Never self-prescribe antibiotics."
+      }
     ]
   }
 }

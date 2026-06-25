@@ -57,3 +57,16 @@ Antimicrobial resistance is a complicating factor in the control and prevention 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is a zoonosis and what are common examples in India?
+A: A zoonosis is an infection that can spread from animals to humans. Common zoonoses in India: Rabies (dogs), Brucellosis (cattle/goats via raw milk), Leptospirosis (rats via contaminated water), Nipah virus (fruit bats), Bird flu H5N1 (poultry), Toxoplasmosis (cats), Anthrax (livestock), and Q fever (livestock).
+
+Q: How can I protect my family from zoonotic diseases?
+A: Vaccinate pet dogs and cats (especially rabies). Drink only pasteurised or boiled milk. Wash hands after contact with animals or animal products. Cook meat thoroughly. Avoid contact with sick or dead animals. Wear gloves when gardening (soil-borne zoonoses). Follow government advisories during animal disease outbreaks.
+
+Q: Is it safe to keep pets (dogs, cats) at home in India?
+A: Yes, with proper precautions. Ensure pets are vaccinated (rabies, other vaccines). Deworm pets every 3 months. Regular vet check-ups. Wash hands after pet contact especially before eating. Do not allow pets to lick wounds. Pregnant women should avoid handling cat litter (Toxoplasma risk).
+
+Q: What is the relationship between animal health and human health in India?
+A: Animal health and human health are deeply connected (One Health). India's large livestock population (200+ million cattle, 150+ million goats) and close human-animal interface in rural areas creates significant zoonotic disease risk. Veterinary services and animal vaccination programmes directly protect human health.

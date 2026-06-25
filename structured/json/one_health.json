@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/one-health",
   "topic": "One Health",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "8 May 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -59,6 +59,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is the One Health concept?",
+        "answer": "One Health recognises that human health, animal health, and environmental health are interconnected. About 60% of human infectious diseases originate from animals (zoonoses). Healthy ecosystems support healthy animals, which supports healthy people. COVID-19, Nipah, Ebola, and bird flu all illustrate this connection."
+      },
+      {
+        "question": "How does One Health apply in India?",
+        "answer": "India's One Health framework involves collaboration between the Ministry of Health, Ministry of Agriculture, and Ministry of Environment. It covers antimicrobial resistance surveillance in humans AND animals, zoonotic disease control, food safety, and environmental monitoring."
+      },
+      {
+        "question": "How does antimicrobial resistance relate to One Health?",
+        "answer": "Antibiotics used in livestock farming contribute to antibiotic resistance that affects human health. Resistant bacteria move from animals to humans through food, environment, and direct contact. Reducing unnecessary antibiotic use in both human medicine and animal husbandry is essential."
+      },
+      {
+        "question": "What can individuals do to support One Health?",
+        "answer": "Do not demand antibiotics for viral infections. Support locally grown, sustainably produced food. Avoid contact with sick wild animals. Follow food safety practices. Support environmental conservation. These individual actions contribute to the health of the entire ecosystem."
+      }
     ]
   }
 }

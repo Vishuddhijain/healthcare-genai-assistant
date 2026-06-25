@@ -65,6 +65,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is endometriosis and how common is it in India?",
+        "answer": "Endometriosis occurs when tissue similar to the uterine lining grows outside the uterus â on ovaries, fallopian tubes, bowel, or bladder. It affects approximately 10% of women of reproductive age globally. In India it is significantly underdiagnosed due to normalisation of menstrual pain."
+      },
+      {
+        "question": "Is severe menstrual pain normal?",
+        "answer": "No. While some cramping is normal, severe period pain that interferes with daily activities, requires strong painkillers, or is getting worse over time is NOT normal. It may indicate endometriosis. Do not accept severe period pain as something you must tolerate â see a gynaecologist."
+      },
+      {
+        "question": "Can endometriosis cause infertility?",
+        "answer": "Yes. Endometriosis is a leading cause of female infertility, affecting up to 50% of women with infertility. It can block fallopian tubes, damage eggs, and create an inflammatory environment. Early diagnosis and treatment improves fertility outcomes."
+      },
+      {
+        "question": "Is endometriosis curable?",
+        "answer": "There is no complete cure, but it is very manageable. Hormonal treatments and laparoscopic surgery can significantly reduce pain and improve fertility. Symptoms often improve after menopause. A gynaecologist specialist in endometriosis can guide the best treatment plan for your situation."
+      }
     ]
   }
 }

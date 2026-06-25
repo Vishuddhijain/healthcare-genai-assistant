@@ -1,5 +1,5 @@
 TOPIC: Physical Activity and Exercise for Health
-CATEGORY: Preventive Health / Lifestyle / Non-Communicable Disease Prevention
+CATEGORY: Public Health / Preventive Care
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/physical-activity | NHP India | ICMR | Ministry of AYUSH
 LAST UPDATED: 2024
 
@@ -153,6 +153,7 @@ During or after exercise — seek immediate care if:
 - School physical education: Compulsory PE periods in schools; CBSE promotes sports
 - Open-air gyms (Jan Jeevan gyms) installed in parks across major cities
 - Air quality consideration: On high-pollution days (AQI >200) in cities like Delhi, avoid vigorous outdoor exercise
+- For lifestyle disease counselling at Ayushman Bharat HWCs, contact your nearest PHC or call 104. Yoga and wellness programmes: ayush.gov.in.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is walking enough for good health?

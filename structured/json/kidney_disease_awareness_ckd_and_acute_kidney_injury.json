@@ -4,7 +4,7 @@
   "source_name": "WHO + NHP India + ISN",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/chronic-kidney-disease",
   "topic": "Kidney Disease Awareness (CKD and Acute Kidney Injury)",
-  "category": "Non-Communicable Disease (Nephrology)",
+  "category": "Non-Communicable Disease / Kidney Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -138,6 +138,24 @@
       "To register as organ donor: notto.mohfw.gov.in/index.php/donor-registration",
       "Indian Society of Nephrology (ISN) awareness campaigns: theisn.org",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is foamy urine always a sign of kidney disease?",
+        "answer": "Foamy or bubbly urine can indicate protein leaking into urine (proteinuria) — a key sign of kidney damage. However, it can also result from urinating forcefully or concentrated urine. If foamy urine is persistent, get a urine protein test at a government hospital — it's inexpensive and important."
+      },
+      {
+        "question": "Can painkillers (like Combiflam, Voveran) damage my kidneys?",
+        "answer": "Yes. NSAIDs (ibuprofen, diclofenac, found in Combiflam, Voveran) reduce blood flow to kidneys and can cause acute kidney injury if taken frequently or in high doses, especially in people with dehydration, diabetes, or existing kidney disease. Use these medicines sparingly and only as directed."
+      },
+      {
+        "question": "Is free kidney disease screening available in India?",
+        "answer": "Serum creatinine tests (kidney function) are available free at government hospitals, especially for patients with diabetes and hypertension. Free dialysis is available at government hospitals under the Pradhan Mantri National Dialysis Programme for eligible patients."
+      },
+      {
+        "question": "Can a kidney patient eat normally?",
+        "answer": "No. CKD patients need specific dietary restrictions — reduced protein, potassium, phosphorus, and salt — tailored to their stage of disease. These restrictions differ from normal dietary advice and must be guided by a nephrologist and dietitian. General dietary advice can be harmful for kidney patients."
+      }
     ]
   }
 }

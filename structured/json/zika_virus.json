@@ -64,6 +64,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Has Zika virus been reported in India?",
+        "answer": "Yes. India has reported Zika outbreaks — notably in Gujarat (2017), Rajasthan (2018), Kerala (2021), and Maharashtra (2021). Cases continue to be sporadically reported. India has the Aedes aegypti mosquito that transmits Zika, making surveillance important."
+      },
+      {
+        "question": "Why is Zika virus especially dangerous for pregnant women?",
+        "answer": "Zika virus infection during pregnancy causes microcephaly (abnormally small head and brain) and other severe fetal brain defects (congenital Zika syndrome). Pregnant women should take extra precautions against mosquito bites and avoid areas with active Zika outbreaks."
+      },
+      {
+        "question": "Can Zika spread through sexual contact?",
+        "answer": "Yes. Zika can be sexually transmitted by both men and women to their partners. The virus can persist in semen for up to 3 months after infection. Couples planning pregnancy in or returning from Zika-affected areas should use condoms for 3 months (men) or 2 months (women) after potential exposure."
+      },
+      {
+        "question": "Is there a vaccine or treatment for Zika?",
+        "answer": "There is no licensed vaccine or specific treatment for Zika. Management is symptomatic — rest, fluids, paracetamol. Prevention focuses on mosquito control (eliminating breeding sites), personal protection (repellent, clothing), and sexual precautions. Follow all government advisories during active outbreaks."
+      }
     ]
   }
 }

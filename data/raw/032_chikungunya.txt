@@ -1,5 +1,5 @@
 TOPIC: Chikungunya
-CATEGORY: Communicable Disease (Vector-Borne)
+CATEGORY: Communicable Disease / Vector-Borne
 SOURCE: WHO Fact Sheet + NHP India - https://www.who.int/news-room/fact-sheets/detail/chikungunya | https://nhp.gov.in/disease/communicable-disease/chikungunya
 LAST UPDATED: 2024
 
@@ -72,6 +72,7 @@ No specific antiviral drug available. Management is supportive:
 - Major states affected: Maharashtra, Karnataka, Andhra Pradesh, Kerala, Delhi, Tamil Nadu, Gujarat
 - NVBDCP (nvbdcp.gov.in) provides surveillance and response guidance
 - Free testing available at government district hospitals during outbreaks
+- Report suspected outbreaks to NVBDCP or call the National Health Helpline: 104. For vector control and fogging requests, contact your local municipal corporation.
 
 --- IMPORTANT SAFETY NOTE ---
 This information is for health awareness purposes only. Do not self-diagnose or self-medicate. Always consult a qualified healthcare provider for diagnosis and treatment. Chikungunya symptoms closely resemble dengue — lab testing is necessary to distinguish them.
@@ -90,3 +91,16 @@ This information is for health awareness purposes only. Do not self-diagnose or 
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is chikungunya the same as dengue?
+A: No, but they share the same mosquito vector (Aedes aegypti) and similar early symptoms. Key difference: chikungunya causes severe, prolonged joint pain (arthralgia) â often debilitating â which is much milder or absent in dengue. Blood tests differentiate them.
+
+Q: Can chikungunya joint pain last for months?
+A: Yes. Chikungunya arthritis can persist for months to years in some patients, especially older adults. This is the hallmark of chikungunya. Anti-inflammatory medication, physiotherapy, and rest help manage it. Consult a doctor for persistent joint pain.
+
+Q: Is there a vaccine or specific treatment for chikungunya?
+A: A chikungunya vaccine (IXCHIQ) was approved in 2023 in the US but is not yet widely available in India. Treatment is supportive: rest, fluids, paracetamol for fever and pain. Do NOT take aspirin or ibuprofen (can increase bleeding risk if dengue is also possible).
+
+Q: How do I protect myself from chikungunya during monsoon?
+A: Eliminate stagnant water around your home (coolers, pots, tyres), use mosquito repellent during daytime hours, wear long sleeves, and use bed nets. Aedes mosquitoes breed in clean stagnant water and bite primarily during daylight hours.

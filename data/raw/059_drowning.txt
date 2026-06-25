@@ -1,5 +1,5 @@
 TOPIC: Drowning
-CATEGORY: Injury and Emergency Awareness
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/drowning
 LAST UPDATED: 1 May 2026
 
@@ -71,3 +71,16 @@ drowning death rates are more than three times higher in low- and middle-income 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Where do most drownings happen in India?
+A: Most drownings in India occur in natural water bodies â ponds, rivers, wells, and canals â particularly in rural areas. Children under 5 are at highest risk. Drownings spike during monsoon when water levels rise unpredictably. Many occur close to home.
+
+Q: What should I do if someone is drowning?
+A: Do NOT jump in unless you are a trained swimmer â you may drown too. Throw a rope, floating object, or extend a pole. Shout for help. Call 112. Once the person is safely out, check for breathing. Begin CPR if not breathing and you are trained. Keep them warm.
+
+Q: How can I protect my child from drowning?
+A: Never leave children unsupervised near any water. Cover or fence wells and ponds near the home. Teach children to swim at an early age. Keep non-swimmers away from deep water. Life jackets should be worn on boats â even in rivers and lakes.
+
+Q: Is CPR effective after drowning?
+A: Yes. Immediate CPR after drowning significantly improves survival, especially in children. Even without formal training, hands-only CPR (chest compressions) is better than nothing. Call 112 first, then begin CPR if the person is not breathing.

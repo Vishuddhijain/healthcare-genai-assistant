@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheets",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health",
   "topic": "Mental Health of Adolescents and Older Adults",
-  "category": "Mental Health (Age-Specific)",
+  "category": "Mental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -120,6 +120,24 @@
       "School Mental Health Programme: Increasingly integrated under various state education initiatives",
       "Joint family structures provide some protective social support, but increasing nuclear family trends and migration increase isolation risk for elderly",
       "NIMHANS geriatric and child & adolescent psychiatry departments provide specialised services"
+    ],
+    "faqs": [
+      {
+        "question": "Why are adolescents at high risk for mental health problems?",
+        "answer": "The adolescent brain is still developing — particularly the prefrontal cortex (decision-making, impulse control). Academic pressure, identity formation, peer relationships, social media comparison, and family stress create intense psychological demands during this sensitive period."
+      },
+      {
+        "question": "How do I know if my teenager is struggling with mental health?",
+        "answer": "Warning signs: persistent withdrawal from friends/family, declining school performance, significant changes in sleep or eating, loss of interest in activities they enjoyed, increased irritability or anger, risky behaviour, and any talk of self-harm or death. Take these signs seriously — seek professional help."
+      },
+      {
+        "question": "Is depression in elderly people different from depression in younger adults?",
+        "answer": "Yes. In elderly people, depression often presents with more physical complaints (pain, fatigue, digestive problems), less obvious sadness, more cognitive symptoms (poor concentration, memory complaints), and may be mistaken for normal ageing or dementia. It is significantly undertreated in India's elderly population."
+      },
+      {
+        "question": "Where can elderly people in India get mental health support?",
+        "answer": "District hospital psychiatry OPDs (free), NIMHANS telepsychiatry services, HelpAge India (1800-180-1253), Tele MANAS (14416), and private geriatric psychiatrists. Family and social connection remain the most protective factor for elderly mental health."
+      }
     ]
   }
 }

@@ -1,5 +1,5 @@
 TOPIC: Ringworm (tinea)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ringworm-(tinea)
 LAST UPDATED: 19 June 2025
 
@@ -85,3 +85,16 @@ Ringworm, also known as tinea, is a common fungal infection of the skin. It can 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is ringworm actually caused by a worm?
+A: No. Ringworm (tinea) is caused by fungi called dermatophytes — not worms. The name comes from the ring-like appearance of the rash. It is a very common, treatable fungal skin infection.
+
+Q: How does ringworm spread?
+A: Through direct skin contact with an infected person, animal (dogs, cats, cattle), or contaminated surfaces (towels, gym mats, floors). Tinea pedis (athlete's foot) is commonly spread in wet public spaces like swimming pools, locker rooms, and communal bathrooms.
+
+Q: Is ringworm dangerous if left untreated?
+A: Ringworm itself is not dangerous but can spread to other body parts and other people, and secondary bacterial infection of broken skin can occur. Tinea capitis (scalp ringworm) in children can cause permanent hair loss if untreated. Treatment is straightforward and effective.
+
+Q: How is ringworm treated in India?
+A: Mild cases: Antifungal creams (clotrimazole, terbinafine) available over the counter at pharmacies without prescription. Extensive or scalp cases: Oral antifungal tablets (prescribed by a doctor). Avoid sharing towels, clothes, and combs. Complete the full treatment course even if the rash disappears early.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + NHP India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
   "topic": "Dengue Fever",
-  "category": "Communicable Disease (Vector-Borne)",
+  "category": "Communicable Disease / Vector-Borne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -90,6 +90,24 @@
       "National Vector Borne Disease Control Programme (NVBDCP) under MoHFW monitors and responds to dengue outbreaks",
       "Most government hospitals provide free dengue testing during outbreaks",
       "Helpline: State health department helplines; NVBDCP: nvbdcp.gov.in"
+    ],
+    "faqs": [
+      {
+        "question": "Is dengue contagious â can I get it from a dengue patient?",
+        "answer": "No. Dengue does NOT spread directly from person to person. It spreads only through the bite of an infected Aedes mosquito. You cannot get dengue by touching, hugging, or sharing food with a dengue patient."
+      },
+      {
+        "question": "My platelet count is 80,000. Should I be admitted?",
+        "answer": "Platelet count alone does not determine admission â clinical signs matter more. Active bleeding, severe abdominal pain, persistent vomiting, or warning signs despite normal-looking platelet count need hospitalisation. Always follow your doctor's assessment, not platelet numbers alone."
+      },
+      {
+        "question": "Can I eat papaya leaves for dengue?",
+        "answer": "Papaya leaf extract is popular in India for dengue but evidence is limited and inconsistent. It has not been proven to significantly raise platelets in clinical trials. Do not delay medical care in favour of home remedies. Always inform your doctor about any herbal treatments."
+      },
+      {
+        "question": "How long does dengue fever last?",
+        "answer": "Dengue typically lasts 7-10 days. Fever usually breaks around day 4-5. Warning signs most commonly occur between days 4-6 when fever drops â monitor closely during this period. Severe fatigue can persist for weeks after recovery."
+      }
     ]
   }
 }

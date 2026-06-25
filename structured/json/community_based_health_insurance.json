@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/community-based-health-insurance-CBHI",
   "topic": "Community-based health insurance",
-  "category": "Health Systems / Government Schemes",
+  "category": "Government Health Schemes",
   "last_updated": "31 March 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -50,6 +50,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is community-based health insurance in India?",
+        "answer": "Community-based health insurance (CBHI) pools risk across a community group â often village cooperatives, SHGs (Self Help Groups), or microfinance groups. Members pay small premiums and receive healthcare benefits. It complements government schemes like PM-JAY for those not covered."
+      },
+      {
+        "question": "How is CBHI different from PM-JAY?",
+        "answer": "PM-JAY is a government scheme targeting the poorest 40% of the population. CBHI is a voluntary, community-managed scheme â often run by NGOs or cooperatives â that can cover people in the informal sector who may not qualify for PM-JAY or formal insurance."
+      },
+      {
+        "question": "Where can I find community health insurance options in India?",
+        "answer": "Contact your local SHG (Self Help Group), microfinance institution, cooperative society, or NGO. Some states have government-sponsored community insurance programmes. The National Health Authority (nha.gov.in) provides information on health coverage options."
+      },
+      {
+        "question": "Are there government-supported health insurance schemes for informal workers?",
+        "answer": "Yes. Pradhan Mantri Jan Arogya Yojana (PM-JAY) covers eligible families up to â¹5 lakh/year. Ayushman Bharat Digital Mission provides a health ID for everyone. State governments also run supplementary schemes (Aarogyasri, Karunya etc.)."
+      }
     ]
   }
 }

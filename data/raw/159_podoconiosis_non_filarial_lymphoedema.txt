@@ -1,5 +1,5 @@
 TOPIC: Podoconiosis (non-filarial lymphoedema)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/podoconiosis-(non-filarial-lymphoedema)
 LAST UPDATED: 1 May 2023
 
@@ -59,3 +59,16 @@ Interventions include prevention of contact with the soil through consistent wea
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is podoconiosis?
+A: Podoconiosis is a non-infectious tropical lymphoedema caused by long-term barefoot exposure to irritant red clay soil (high in silica and aluminium). It causes progressive swelling of the lower legs. It is common in highland areas of East Africa and has been reported in parts of Northeast India among barefoot agricultural communities.
+
+Q: How is podoconiosis different from lymphatic filariasis (elephantiasis)?
+A: Both cause leg swelling (lymphoedema) but have different causes. Filariasis is caused by a parasitic worm spread by mosquitoes. Podoconiosis is caused by soil minerals absorbed through bare feet — no infection, no mosquito, not contagious. Differentiation is important for correct management.
+
+Q: Can podoconiosis be prevented?
+A: Yes — simple, effective prevention: wear shoes or sandals consistently when working in affected soil areas. Community shoe-wearing programmes in endemic African communities have demonstrated significant reduction in new cases. This is a poverty-related disease — access to affordable footwear is a key intervention.
+
+Q: Can podoconiosis be treated?
+A: While lymphoedema cannot be completely reversed, progression can be halted and quality of life improved through: consistent foot hygiene, elevation of affected limbs, compression bandaging/garments, gentle exercise, and prompt treatment of secondary infections. Wearing shoes prevents further progression.

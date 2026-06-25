@@ -1,5 +1,5 @@
 TOPIC: Asthma and COPD (Chronic Obstructive Pulmonary Disease)
-CATEGORY: Non-Communicable Disease (Respiratory)
+CATEGORY: Non-Communicable Disease / Respiratory
 SOURCE: WHO Fact Sheets + NHP India - https://www.who.int/news-room/fact-sheets/detail/asthma | https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd) | nhp.gov.in
 LAST UPDATED: 2024
 
@@ -151,3 +151,16 @@ This information is for health awareness only. Asthma and COPD require proper di
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Are inhalers addictive or harmful with long-term use?
+A: No. Inhalers prescribed for asthma and COPD are not addictive. Long-term controller inhalers (corticosteroids) in inhaled form are safe when used as prescribed. Many people avoid them due to stigma â this is dangerous. Always follow your doctor's advice.
+
+Q: Can yoga or pranayama cure asthma?
+A: Breathing exercises like pranayama can improve lung capacity and symptom control as complementary therapy, but they cannot cure asthma or replace prescribed inhalers. Always continue prescribed medication alongside any complementary practice.
+
+Q: What triggers should an asthma patient avoid in India?
+A: Common triggers in India include dust, pollen, cockroaches, pet dander, smoke (tobacco and biomass), strong perfumes, cold air, and air pollution. During high AQI days, stay indoors and follow your asthma action plan.
+
+Q: COPD is not curable â is there any point in treating it?
+A: Absolutely yes. While COPD damage cannot be reversed, treatment (inhalers, pulmonary rehabilitation, quitting smoking) significantly slows progression, reduces breathlessness, prevents hospitalisations, and improves quality of life. Early treatment gives the best outcomes.

@@ -79,3 +79,16 @@ Latitude: the closer to the equator, the higher the UVR levels.
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is sunscreen necessary in India?
+A: Yes. India's UV index is consistently high (often 8-11 in most regions), and excessive UV exposure causes sunburn, premature ageing, and skin cancer. Use a broad-spectrum SPF 30+ sunscreen daily on exposed skin, especially between 10 AM and 4 PM. Reapply every 2 hours outdoors.
+
+Q: Can dark-skinned Indians get skin cancer from the sun?
+A: Yes. While darker skin provides more natural UV protection than fair skin, skin cancer does occur in Indians — particularly in sun-exposed areas in people who spend long hours outdoors. Oral cancers from tobacco, not skin cancer, are the leading cancer concern in India, but skin protection still matters.
+
+Q: Is getting a suntan harmless?
+A: A tan is the skin's protective response to DNA damage from UV radiation — it is a sign of damage, not health. There is no safe tan. Prolonged UV exposure without protection causes cumulative skin ageing and increases cancer risk. Seek shade, wear protective clothing, and use sunscreen.
+
+Q: Can UV from welding or industrial sources cause eye damage?
+A: Yes. UV from welding, arc lights, and industrial sources causes photokeratitis (welder's flash) — a painful sunburn of the cornea. Welders must always wear appropriate UV-protective welding shields. Sunglasses with UV protection are recommended for outdoor workers.

@@ -101,6 +101,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Does depression mean I'm weak?",
+        "answer": "Absolutely not. Depression is a medical illness — like diabetes or hypertension. It involves changes in brain chemistry. Seeking help for depression takes courage, not weakness."
+      },
+      {
+        "question": "Can antidepressants be stopped once I feel better?",
+        "answer": "No — not without your doctor's guidance. Stopping suddenly can cause withdrawal and relapse. Doctors usually taper the dose gradually. Always follow medical advice."
+      },
+      {
+        "question": "Is bipolar disorder the same as mood swings?",
+        "answer": "Normal mood swings last hours. Bipolar episodes of mania or depression last days to weeks and severely impact daily functioning. If in doubt, consult a psychiatrist."
+      },
+      {
+        "question": "Can bipolar disorder be cured?",
+        "answer": "Not cured, but it is very manageable. Most people with proper treatment (medication + therapy + lifestyle) maintain stable moods and live full, productive lives."
+      }
     ]
   }
 }

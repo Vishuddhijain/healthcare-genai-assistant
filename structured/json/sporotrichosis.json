@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/sporotrichosis",
   "topic": "Sporotrichosis",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "15 November 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -50,6 +50,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is sporotrichosis and is it found in India?",
+        "answer": "Sporotrichosis is a fungal infection caused by Sporothrix schenckii, found in soil and plant matter. It causes chronic skin lesions and lymph node involvement. Cases are reported in India, particularly among agricultural workers and gardeners. The dramatic zoonotic form ('cat-associated sporotrichosis') has caused large outbreaks in Brazil."
+      },
+      {
+        "question": "How does sporotrichosis spread?",
+        "answer": "Typically through skin injury from contaminated thorns, plant matter, or soil — common in gardeners, farmers, and florists. Can also spread from infected cats (who develop skin lesions) — bites or scratches from infected cats are an important transmission route."
+      },
+      {
+        "question": "What does sporotrichosis look like?",
+        "answer": "Begins as a small bump or ulcer at the site of injury, then spreads along lymphatic vessels causing a chain of nodular lesions tracking up the arm or leg (lymphocutaneous form). It is painless initially. Disseminated (systemic) form occurs in immunocompromised individuals."
+      },
+      {
+        "question": "Is sporotrichosis treatable?",
+        "answer": "Yes. Oral itraconazole (antifungal) is the treatment of choice — prescribed by a doctor for 3-6 months. Saturated solution of potassium iodide (SSKI) is an older alternative. Early treatment is important — untreated sporotrichosis spreads. Consult a dermatologist at a government medical college."
+      }
     ]
   }
 }

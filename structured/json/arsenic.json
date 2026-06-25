@@ -72,6 +72,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "How does arsenic get into drinking water in India?",
+        "answer": "Arsenic occurs naturally in groundwater in parts of India, especially West Bengal, Bihar, Jharkhand, Uttar Pradesh, and Assam. It leaches from rocks into aquifers used for drinking water. Agricultural pesticide runoff also contributes."
+      },
+      {
+        "question": "How can I test my water for arsenic?",
+        "answer": "Water testing kits are available at PHCs and gram panchayat offices. State governments in affected areas also conduct free water testing camps. You can also send samples to government-approved laboratories."
+      },
+      {
+        "question": "What are the first signs of arsenic poisoning?",
+        "answer": "Early signs include skin changes (dark spots, hardening of palms and soles), weakness, and digestive problems. Long-term exposure causes skin, lung, and bladder cancer. If you live in an endemic area and notice these signs, see a doctor immediately."
+      },
+      {
+        "question": "What is the safe level of arsenic in drinking water?",
+        "answer": "WHO and India's BIS standard set the safe limit at 10 micrograms per litre (Âµg/L). Many affected areas in India exceed this. Use piped treated water or install an arsenic removal filter if your groundwater is contaminated."
+      }
     ]
   }
 }

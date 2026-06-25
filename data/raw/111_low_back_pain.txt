@@ -1,5 +1,5 @@
 TOPIC: Low Back Pain
-CATEGORY: Non-Communicable Disease (Musculoskeletal)
+CATEGORY: Non-Communicable Disease / Musculoskeletal
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/low-back-pain
 LAST UPDATED: 2024
 
@@ -82,6 +82,7 @@ Low back pain (LBP) is the single leading cause of disability worldwide, affecti
 - Yoga, widely practised in India, has evidence-based benefit for chronic LBP
 - Physiotherapy services available at government hospitals (often under-utilised)
 - Avoid unnecessary spinal surgery — second opinions recommended for surgical recommendations without red flags
+- For physiotherapy at government hospitals, contact your nearest district hospital or call 104. National Health Helpline: 104.
 
 --- IMPORTANT SAFETY NOTE ---
 This information is for health awareness only. Most low back pain improves with activity and time. Any red flag symptoms (bladder/bowel changes, leg weakness, fever, unexplained weight loss) require urgent medical evaluation. Consult a qualified healthcare provider for persistent or severe pain.
@@ -91,3 +92,16 @@ This information is for health awareness only. Most low back pain improves with 
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is bed rest the best treatment for low back pain?
+A: No — this is a common myth. Prolonged bed rest actually worsens most low back pain. Staying active, gentle movement, and stretching are recommended. Specific exercises prescribed by a physiotherapist are the most effective treatment for most low back pain.
+
+Q: What causes most low back pain in India?
+A: Most low back pain is non-specific (no identifiable structural cause) — related to muscle strain, poor posture, sedentary behaviour, heavy lifting, and excess weight. Occupational factors (construction workers, farmers, IT professionals sitting long hours) are major contributors in India.
+
+Q: When should I see a doctor for back pain?
+A: See a doctor if: pain follows a fall or injury, pain is severe and not improving, pain radiates down the leg below the knee (possible nerve involvement), pain is associated with bladder or bowel problems, or you have fever with back pain (possible infection).
+
+Q: How can I prevent low back pain?
+A: Maintain a healthy weight, strengthen core muscles (yoga, specific exercises), use correct lifting technique (bend knees, not the back), take regular breaks from sitting (every 30-45 minutes), use an ergonomic chair, and sleep on a firm mattress. Physiotherapy can teach proper technique.

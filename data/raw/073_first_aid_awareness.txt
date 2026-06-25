@@ -1,6 +1,6 @@
 TOPIC: First Aid Awareness
-CATEGORY: Emergency / Preventive Care
-SOURCE: NHP India - nhp.gov.in/first-aid | WHO | Red Cross
+CATEGORY: Injury Prevention / Emergency Awareness
+SOURCE: NHP India - nhp.gov.in/first-aid | WHO | Red Cross | https://nhp.gov.in/first-aid | https://www.who.int/health-topics/emergency-care
 LAST UPDATED: 2024
 
 --- OVERVIEW ---
@@ -135,3 +135,16 @@ First aid information is for awareness and initial response only. It is NOT a su
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the most important first thing to do in any emergency?
+A: Ensure safety first â check for dangers to yourself and the victim. Then assess responsiveness. Call 112 for any serious emergency. Then provide first aid using DR ABC: Danger, Response, Airway, Breathing, Circulation. Never put yourself at risk.
+
+Q: Should I do CPR even if I am not trained?
+A: Yes. Hands-only CPR (chest compressions only, no mouth-to-mouth) is recommended for untrained bystanders. Push hard and fast (100-120 compressions per minute) on the centre of the chest. Any CPR is better than no CPR. Call 112 first, then start compressions.
+
+Q: What should I always keep in a home first aid kit?
+A: Essential items: adhesive bandages, sterile gauze pads, adhesive tape, antiseptic solution (betadine), scissors, tweezers, paracetamol tablets, ORS sachets, digital thermometer, disposable gloves, and emergency phone numbers (112, nearest hospital, personal doctor).
+
+Q: I burned my hand on the stove. Should I put ice on it?
+A: No â never apply ice, butter, or toothpaste on burns. Cool the burn immediately with cool (not cold) running water for at least 10-20 minutes. Cover loosely with a clean cloth. See a doctor for burns larger than the palm, or any burn on the face, hands, or feet.

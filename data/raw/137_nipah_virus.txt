@@ -86,3 +86,16 @@ In 2014, an outbreak was reported in the Philippines with no new cases since the
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has Nipah virus occurred in India?
+A: Yes. India has had multiple Nipah virus outbreaks — significantly in Kerala (2018, 2019, 2021, 2023). Kerala's strong public health surveillance and response system has contained each outbreak effectively, making India a global model for outbreak response.
+
+Q: How does Nipah virus spread?
+A: Nipah spreads from fruit bats (primary reservoir) to humans through contact with contaminated fruit (bat-bitten fruits), raw date palm sap (contaminated by bat droppings), and from infected animals (pigs). Person-to-person spread occurs through close contact with body fluids of infected patients.
+
+Q: What are the symptoms of Nipah virus infection?
+A: Fever, headache, dizziness, and altered consciousness (encephalitis — brain inflammation). Respiratory symptoms in some cases. Symptoms appear 4-14 days after exposure. Case fatality rate is 40-75%. There is no specific treatment — supportive intensive care.
+
+Q: How can I protect myself during a Nipah outbreak?
+A: Avoid consuming raw date palm sap or fallen/bitten fruits from trees. Avoid contact with sick animals. Healthcare workers must use full PPE. Follow all government advisories during outbreaks. Contact state health authorities if you have had contact with a confirmed case.

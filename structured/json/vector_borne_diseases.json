@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/vector-borne-diseases",
   "topic": "Vector-borne diseases",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "26 September 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -66,6 +66,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Which vector-borne diseases are most common in India?",
+        "answer": "India has significant burden of: Dengue (Aedes mosquito), Malaria (Anopheles mosquito), Chikungunya (Aedes), Japanese Encephalitis (Culex), Kala Azar/Leishmaniasis (sandfly), Lymphatic Filariasis (Culex), and Scrub Typhus (mite). Different vectors, different prevention strategies."
+      },
+      {
+        "question": "Why do vector-borne diseases spike during and after monsoon in India?",
+        "answer": "Monsoon rains create abundant stagnant water — breeding sites for mosquitoes. Higher humidity and temperature also accelerate mosquito breeding cycles and viral replication. Post-monsoon (September-November) is peak dengue season. Malaria peaks during monsoon."
+      },
+      {
+        "question": "What is the single most effective way to prevent multiple mosquito-borne diseases?",
+        "answer": "Eliminating mosquito breeding sites around your home is the most effective community-level intervention: Empty, clean, or cover all stagnant water containers weekly (coolers, pots, tyres, flower pots, blocked drains). This prevents Aedes breeding (dengue, chikungunya) and is a simple, free, highly effective action."
+      },
+      {
+        "question": "How does the government control vector-borne diseases in India?",
+        "answer": "NVBDCP (National Vector Borne Disease Control Programme) coordinates: indoor residual spraying (IRS) with insecticides, mass drug administration (for filariasis), larval control (distributing larvicide), bed net distribution, disease surveillance, and rapid response to outbreaks. Fogging (space spraying) is used during outbreaks but is less effective than source reduction."
+      }
     ]
   }
 }

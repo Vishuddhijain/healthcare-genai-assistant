@@ -2,9 +2,9 @@
   "doc_id": "who_first_aid_awareness_073",
   "title": "First Aid Awareness",
   "source_name": "NHP India",
-  "source_url": "",
+  "source_url": "https://nhp.gov.in/first-aid | https://www.who.int/health-topics/emergency-care",
   "topic": "First Aid Awareness",
-  "category": "Emergency / Preventive Care",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -116,6 +116,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "What is the most important first thing to do in any emergency?",
+        "answer": "Ensure safety first â check for dangers to yourself and the victim. Then assess responsiveness. Call 112 for any serious emergency. Then provide first aid using DR ABC: Danger, Response, Airway, Breathing, Circulation. Never put yourself at risk."
+      },
+      {
+        "question": "Should I do CPR even if I am not trained?",
+        "answer": "Yes. Hands-only CPR (chest compressions only, no mouth-to-mouth) is recommended for untrained bystanders. Push hard and fast (100-120 compressions per minute) on the centre of the chest. Any CPR is better than no CPR. Call 112 first, then start compressions."
+      },
+      {
+        "question": "What should I always keep in a home first aid kit?",
+        "answer": "Essential items: adhesive bandages, sterile gauze pads, adhesive tape, antiseptic solution (betadine), scissors, tweezers, paracetamol tablets, ORS sachets, digital thermometer, disposable gloves, and emergency phone numbers (112, nearest hospital, personal doctor)."
+      },
+      {
+        "question": "I burned my hand on the stove. Should I put ice on it?",
+        "answer": "No â never apply ice, butter, or toothpaste on burns. Cool the burn immediately with cool (not cold) running water for at least 10-20 minutes. Cover loosely with a clean cloth. See a doctor for burns larger than the palm, or any burn on the face, hands, or feet."
+      }
     ]
   }
 }

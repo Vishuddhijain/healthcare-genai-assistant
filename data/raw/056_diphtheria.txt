@@ -1,5 +1,5 @@
 TOPIC: Diphtheria
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/diphtheria
 LAST UPDATED: 12 July 2024
 
@@ -72,3 +72,16 @@ The diphtheria toxin causes damage to the respiratory tract and can spread throu
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is diphtheria still a risk in India?
+A: Yes. India continues to report diphtheria cases, largely in unvaccinated or under-vaccinated children. India's Universal Immunisation Programme (UIP) provides free DPT vaccine (diphtheria-pertussis-tetanus) to all children. Vaccination is the most effective prevention.
+
+Q: What are the warning signs of diphtheria?
+A: Key warning sign: a tough, greyish-white membrane on the throat or tonsils that cannot be easily wiped off. Other signs: sore throat, hoarse voice, fever, and swollen neck ('bull neck' appearance). Diphtheria can block the airway â it is a medical emergency. Call 112.
+
+Q: Is diphtheria vaccine given free in India?
+A: Yes. DPT vaccine (covering diphtheria, pertussis, and tetanus) is free under India's Universal Immunisation Programme. Given at 6, 10, and 14 weeks with boosters at 16-24 months and 5-6 years. Td booster is given at 10 and 16 years.
+
+Q: Can vaccinated children still get diphtheria?
+A: Rarely and usually much less severely. Vaccine protection is high but not 100% â this is why maintaining community vaccination coverage above 95% (herd immunity) is essential to protect even unvaccinated individuals.

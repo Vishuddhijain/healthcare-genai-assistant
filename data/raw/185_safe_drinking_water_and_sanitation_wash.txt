@@ -1,5 +1,5 @@
 TOPIC: Safe Drinking Water and Sanitation (WASH)
-CATEGORY: Public Health / Environmental Health (Preventive)
+CATEGORY: Environmental Health / Preventive Care
 SOURCE: WHO + UNICEF + NHM India + MoJAL - https://www.who.int/news-room/fact-sheets/detail/drinking-water | https://www.who.int/news-room/fact-sheets/detail/sanitation | jaljeevan.gov.in | swachhbharat.mygov.in
 LAST UPDATED: 2024
 
@@ -182,3 +182,16 @@ This information is for health awareness only. Safe water and sanitation are rig
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is tap water in Indian cities safe to drink directly?
+A: In most Indian cities, municipal tap water is treated but not consistently safe to drink without further treatment at the point of use, due to distribution system contamination (pipe leaks, old infrastructure). Boiling or using an RO/UV purifier is recommended for drinking water in urban areas.
+
+Q: How effective is boiling water for purification?
+A: Boiling water for 1 minute kills all pathogens (bacteria, viruses, parasites). It is the most reliable, low-cost water purification method. Cool boiled water in a covered container to prevent recontamination. Boiling does not remove chemical contamination (fluoride, arsenic, heavy metals).
+
+Q: Is ODF (Open Defecation Free) status verified in my village?
+A: ODF status is verified through community surveys and government assessments under Swachh Bharat Mission. Check with your gram panchayat or district administration. ODF certification requires 100% of the population to use toilets — it is a community achievement, not just infrastructure.
+
+Q: What is the Swachh Bharat Mission and what does it achieve for health?
+A: Swachh Bharat Mission has constructed 100+ million toilets, dramatically reducing open defecation. Studies show it has significantly reduced diarrhoea, cholera, stunting in children, and maternal anaemia in rural India. Clean India directly means healthier India.

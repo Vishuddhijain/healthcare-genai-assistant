@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b",
   "topic": "Hepatitis B and Hepatitis C",
-  "category": "Communicable / Infectious Disease / Liver Disease",
+  "category": "Communicable Disease / Liver",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -107,6 +107,28 @@
       "Free Hepatitis B treatment for eligible patients.",
       "Call 1800-11-0123 (health helpline) for NVHCP information.",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is Hepatitis B curable?",
+        "answer": "Not currently curable, but manageable. Antiviral treatment keeps the virus suppressed and prevents liver damage. With treatment, people with Hepatitis B can live normal lives."
+      },
+      {
+        "question": "Is Hepatitis C curable?",
+        "answer": "Yes! DAA drugs cure Hepatitis C in 8–12 weeks with over 95% success rate. Free treatment is available at government hospitals in India under NVHCP."
+      },
+      {
+        "question": "If I was vaccinated for Hepatitis B, do I need a booster?",
+        "answer": "The standard 3-dose course given in childhood provides long-lasting (likely lifelong) protection. Boosters are not routinely recommended for immunocompetent individuals."
+      },
+      {
+        "question": "Can I donate blood if I have Hepatitis B or C?",
+        "answer": "No. You are permanently deferred from blood donation if positive for Hepatitis B or C."
+      },
+      {
+        "question": "Can Hepatitis B spread from eating at the same table or sharing utensils?",
+        "answer": "No. Hepatitis B does not spread through food, water, shared utensils, or casual contact. It spreads through blood and bodily fluids only."
+      }
     ]
   }
 }

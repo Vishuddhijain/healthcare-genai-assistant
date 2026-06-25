@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
   "topic": "Tobacco Use, Smoking, and Smokeless Tobacco",
-  "category": "Non-Communicable Disease Prevention / Lifestyle / Public Health",
+  "category": "Non-Communicable Disease / Lifestyle",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -150,6 +150,28 @@
       "GATS India 2 (2016–17): Official national data on tobacco use; next round planned",
       "Scheme for eradication of tobacco from rural areas: NHM health education component",
       "Khaini/Zarda: Dominant in Bihar, UP, Jharkhand — oral cancer belt of India"
+    ],
+    "faqs": [
+      {
+        "question": "Is smokeless tobacco (gutka/khaini) safer than cigarettes?",
+        "answer": "No. Smokeless tobacco is NOT safer. It causes oral cancer, throat cancer, and oesophageal cancer, and is highly addictive. India has one of the world's highest rates of oral cancer, largely driven by smokeless tobacco use."
+      },
+      {
+        "question": "Is hookah/shisha safe because the smoke is filtered through water?",
+        "answer": "No. Water does NOT filter harmful chemicals or reduce nicotine. A single hookah session exposes users to 100× the volume of smoke from a cigarette, with equivalent tar, carbon monoxide, and carcinogens."
+      },
+      {
+        "question": "Are e-cigarettes a safe alternative?",
+        "answer": "E-cigarettes are NOT proven safe. They are banned in India (PECA 2019). While they may have fewer toxins than cigarettes, they are NOT harmless, particularly for adolescents whose developing lungs and brains are vulnerable. They are not a proven quit aid."
+      },
+      {
+        "question": "Will quitting smoking damage my lungs because the toxins will come out?",
+        "answer": "No. This is a myth. Quitting tobacco has ONLY benefits — no harmful effects of quitting. Cough may temporarily increase as cilia (hair-like structures) in the airways begin recovering, which is a sign of healing."
+      },
+      {
+        "question": "I've smoked for 30 years. Is it too late to quit?",
+        "answer": "Never too late. Even at 60–70 years, quitting reduces risk of heart attack, stroke, and cancer, and improves quality of life and breathing. Benefits begin within 20 minutes of the last cigarette."
+      }
     ]
   }
 }

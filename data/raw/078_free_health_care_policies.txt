@@ -1,5 +1,5 @@
 TOPIC: Free health care policies
-CATEGORY: Government Schemes / Health Financing
+CATEGORY: Government Health Schemes
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/free-health-care-policies
 LAST UPDATED: 17 July 2020
 
@@ -63,3 +63,16 @@ Free health care policies – or politiques de gratuité – are about removing 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is universally free at government hospitals in India?
+A: All government hospitals provide free: outpatient consultations, essential medicines (from NLEM), basic diagnostic tests, emergency care, maternity services (delivery, ANC), immunisation, and family planning services. Hospitalisation is free at PHCs and government district hospitals for all citizens.
+
+Q: Who is eligible for PM-JAY (Ayushman Bharat) in India?
+A: PM-JAY covers approximately 10.74 crore families identified in SECC 2011 as economically vulnerable. Eligible families get up to â¹5 lakh free hospitalisation per year at empanelled hospitals. Check eligibility at pmjay.gov.in or call 14555.
+
+Q: Are medicines free at government hospitals in India?
+A: Yes. Essential medicines on the National List of Essential Medicines (NLEM) must be provided free at all government hospitals. Jan Aushadhi Kendras provide generic medicines at heavily subsidised rates. If a government hospital is charging for essential medicines â report to the District Health Officer.
+
+Q: What if I cannot afford private healthcare? What are my options?
+A: Use government hospitals (free care), PM-JAY scheme (if eligible â up to â¹5 lakh), Jan Aushadhi Kendras (cheap generic medicines), Rashtriya Arogya Nidhi (financial assistance for serious illness for BPL patients), and state government schemes (Aarogyasri, Karunya etc.). Call 104 for health guidance.

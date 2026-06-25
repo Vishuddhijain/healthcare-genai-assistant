@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + NHP India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/chikungunya",
   "topic": "Chikungunya",
-  "category": "Communicable Disease (Vector-Borne)",
+  "category": "Communicable Disease / Vector-Borne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -75,7 +75,26 @@
       "Chikungunya is notifiable under India's Integrated Disease Surveillance Programme (IDSP)",
       "Major states affected: Maharashtra, Karnataka, Andhra Pradesh, Kerala, Delhi, Tamil Nadu, Gujarat",
       "NVBDCP (nvbdcp.gov.in) provides surveillance and response guidance",
-      "Free testing available at government district hospitals during outbreaks"
+      "Free testing available at government district hospitals during outbreaks",
+      "Report suspected outbreaks to NVBDCP or call the National Health Helpline: 104. For vector control and fogging requests, contact your local municipal corporation."
+    ],
+    "faqs": [
+      {
+        "question": "Is chikungunya the same as dengue?",
+        "answer": "No, but they share the same mosquito vector (Aedes aegypti) and similar early symptoms. Key difference: chikungunya causes severe, prolonged joint pain (arthralgia) â often debilitating â which is much milder or absent in dengue. Blood tests differentiate them."
+      },
+      {
+        "question": "Can chikungunya joint pain last for months?",
+        "answer": "Yes. Chikungunya arthritis can persist for months to years in some patients, especially older adults. This is the hallmark of chikungunya. Anti-inflammatory medication, physiotherapy, and rest help manage it. Consult a doctor for persistent joint pain."
+      },
+      {
+        "question": "Is there a vaccine or specific treatment for chikungunya?",
+        "answer": "A chikungunya vaccine (IXCHIQ) was approved in 2023 in the US but is not yet widely available in India. Treatment is supportive: rest, fluids, paracetamol for fever and pain. Do NOT take aspirin or ibuprofen (can increase bleeding risk if dengue is also possible)."
+      },
+      {
+        "question": "How do I protect myself from chikungunya during monsoon?",
+        "answer": "Eliminate stagnant water around your home (coolers, pots, tyres), use mosquito repellent during daytime hours, wear long sleeves, and use bed nets. Aedes mosquitoes breed in clean stagnant water and bite primarily during daylight hours."
+      }
     ]
   }
 }

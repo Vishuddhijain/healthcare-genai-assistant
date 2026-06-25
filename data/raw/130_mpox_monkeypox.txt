@@ -1,5 +1,5 @@
 TOPIC: Mpox (Monkeypox)
-CATEGORY: Communicable Disease / Zoonotic Disease / Global Health Emergency
+CATEGORY: Communicable Disease / Zoonotic
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/mpox | MoHFW India | NCDC
 LAST UPDATED: 2024
 
@@ -126,6 +126,7 @@ Does NOT spread via:
 - Helpline: State health helplines + NCDC for case reporting guidance
 - India does not have endemic mpox; all cases have been travel-related or contact-traced
 - Stigma: Mpox is NOT a disease only of any specific group; anyone with close contact with a case is at risk
+- Report suspected mpox cases to the National Centre for Disease Control (NCDC): 011-23921401. National Health Helpline: 104. Emergency: 112.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is mpox the same as smallpox?

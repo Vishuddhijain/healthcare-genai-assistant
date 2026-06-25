@@ -1,5 +1,5 @@
 TOPIC: Blood safety and availability
-CATEGORY: Health Systems / Patient Safety
+CATEGORY: Health Systems
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/blood-safety-and-availability
 LAST UPDATED: 30 May 2025
 
@@ -74,3 +74,16 @@ In 2018, 73 % of reporting countries, or 125 out of 171, had a national blood po
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Who can donate blood in India?
+A: Anyone between 18-65 years, weighing at least 45 kg, in good health, with haemoglobin above 12.5 g/dL (women) or 13 g/dL (men) can donate blood. You should not have donated blood in the past 3 months. People with certain conditions (HIV, Hepatitis B/C, active infections) cannot donate.
+
+Q: Is blood donation safe? Will I get an infection from donating?
+A: Yes, blood donation is completely safe. Sterile, single-use needles and equipment are used â you cannot get any infection from donating blood at a licensed blood bank. Each donation uses new sterile equipment.
+
+Q: Where can I donate blood in India?
+A: You can donate at government hospital blood banks, licensed private blood banks, and during blood donation camps. To find the nearest blood bank: eraktkosh.in (National Blood Bank Portal) or call 104. Voluntary, unpaid blood donation is encouraged.
+
+Q: How long does it take to recover after donating blood?
+A: Your body replaces the fluid within 24-48 hours. Red blood cells are replenished within 4-8 weeks. You can donate every 3 months (men) or every 4 months (women). Drink extra fluids and avoid strenuous activity on the day of donation.

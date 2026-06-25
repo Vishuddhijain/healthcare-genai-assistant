@@ -1,5 +1,5 @@
 TOPIC: Ebola disease
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ebola-disease
 LAST UPDATED: 24 April 2025
 
@@ -91,3 +91,16 @@ the blood or body fluids of a person who is sick with or has died from Ebola dis
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has Ebola ever occurred in India?
+A: There have been no confirmed Ebola cases in India. Ebola outbreaks primarily occur in Central and West Africa. However, India has preparedness protocols for imported cases given international air travel. Airports have screening measures during active outbreaks.
+
+Q: How does Ebola spread?
+A: Ebola spreads through direct contact with the blood, body fluids, or organs of infected people or animals (fruit bats, primates). It does NOT spread through air, water, or casual contact. Healthcare workers are at significant risk without proper protective equipment.
+
+Q: What are the symptoms of Ebola?
+A: Sudden onset of fever, severe headache, muscle pain, weakness, followed by vomiting, diarrhoea, and in severe cases haemorrhage (bleeding). Symptoms appear 2-21 days after exposure. Case fatality rates range from 25-90% depending on the outbreak and healthcare access.
+
+Q: Is there a vaccine or treatment for Ebola?
+A: Yes. An effective Ebola vaccine (rVSVÎG-ZEBOV-GP, Ervebo) is available and used in outbreak response. Monoclonal antibody treatments (Inmazeb, Ebanga) have also been approved. Both are deployed by WHO during outbreaks. Treatment is supportive plus these specific medications.

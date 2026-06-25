@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/burns",
   "topic": "Burns, Animal Bites, and Rabies Prevention",
-  "category": "Injury / Emergency / Public Health",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -96,6 +96,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "A dog bit me but the skin didn't break. Should I still get PEP?",
+        "answer": "If skin is unbroken (Category I), PEP is not needed. Wash the area thoroughly. If there is any uncertainty about whether skin was broken — consult a doctor."
+      },
+      {
+        "question": "Can I get rabies from a vaccinated dog?",
+        "answer": "Risk is very low, but not zero. The dog may not be fully protected, or the vaccine may have been administered incorrectly. Always consult a doctor after any animal bite."
+      },
+      {
+        "question": "I was bitten 3 weeks ago and didn't do anything. Is it too late?",
+        "answer": "No! Go to a hospital immediately. PEP can still prevent rabies before symptoms appear, regardless of how long ago the bite occurred."
+      },
+      {
+        "question": "If someone has rabies symptoms, can they be saved?",
+        "answer": "Unfortunately, once symptoms appear, rabies is almost universally fatal. This is why immediate post-exposure treatment is critical."
+      }
     ]
   }
 }

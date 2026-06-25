@@ -1,5 +1,5 @@
 TOPIC: Abortion
-CATEGORY: Reproductive and Maternal Health
+CATEGORY: Maternal and Child Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/abortion
 LAST UPDATED: 8 December 2025
 
@@ -78,3 +78,16 @@ Comprehensive abortion care includes the provision of information, abortion mana
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is abortion legal in India?
+A: Yes. The Medical Termination of Pregnancy (MTP) Act 2021 permits legal abortion up to 20 weeks (and up to 24 weeks in special cases). Safe abortion services are available at registered government hospitals. Always consult a qualified doctor.
+
+Q: What are the health risks of unsafe abortion?
+A: Unsafe abortions cause severe bleeding, infection, organ damage, and can be fatal. Always use a registered government or private medical facility. Never attempt self-abortion or use unverified medicines without medical supervision.
+
+Q: Where can I get a safe abortion in India?
+A: Government hospitals and registered private clinics provide safe abortion services. The MTP Act ensures your right to safe care. Visit your nearest government district hospital or PHC for free or subsidised services.
+
+Q: Does abortion affect future fertility?
+A: A safe, legal abortion performed by a qualified doctor generally does not affect future fertility. Unsafe abortions can cause complications that may impact fertility. Always seek care from a qualified healthcare provider.

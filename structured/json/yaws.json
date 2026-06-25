@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/yaws",
   "topic": "Yaws",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "12 January 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -71,6 +71,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is yaws and does it occur in India?",
+        "answer": "Yaws is a chronic bacterial infection (Treponema pallidum pertenue) that primarily affects skin, bone, and cartilage in children in tropical regions. India achieved interruption of yaws transmission nationally and was validated by WHO in 2016. However, vigilance is needed to prevent re-emergence."
+      },
+      {
+        "question": "How does yaws spread?",
+        "answer": "Yaws spreads through direct skin contact with the fluid from skin lesions of infected individuals — not through sexual contact or insects. Close contact in poverty-affected tropical communities facilitates spread, particularly among children."
+      },
+      {
+        "question": "What are the symptoms of yaws?",
+        "answer": "Begins as a painless skin nodule (primary yaw), which may develop into a large, wart-like growth. Secondary stage: widespread skin lesions, bone and joint pain. Tertiary yaws (late): destructive lesions of skin, bone, and cartilage — can cause severe disfigurement."
+      },
+      {
+        "question": "Was India's elimination of yaws a public health success?",
+        "answer": "Yes. India's yaws eradication (along with guinea worm eradication) represents a major global public health achievement. It was accomplished through mass treatment campaigns with penicillin, active case detection, and community engagement — a model for other NTD elimination efforts."
+      }
     ]
   }
 }

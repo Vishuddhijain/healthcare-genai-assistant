@@ -1,5 +1,5 @@
 TOPIC: Heart Disease and Cardiovascular Health
-CATEGORY: Non-Communicable Disease (Cardiovascular)
+CATEGORY: Non-Communicable Disease / Cardiovascular
 SOURCE: WHO Fact Sheet + NHP India + ICMR - https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) | https://nhp.gov.in/disease/non-communicable-disease/cardiovascular-disease
 LAST UPDATED: 2024
 
@@ -123,3 +123,16 @@ This information is for health awareness only. A heart attack and stroke are med
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can heart disease be prevented in young people?
+A: Yes. 80% of premature heart attacks and strokes are preventable. Young people should avoid tobacco, exercise regularly, eat healthy, manage stress, and control blood pressure and blood sugar. Don't wait until middle age â the foundation is built in your 20s and 30s.
+
+Q: What is the FASTEST way to tell if someone is having a heart attack?
+A: Classic signs: chest pain or tightness (may radiate to left arm or jaw), sweating, shortness of breath, nausea. In women: unusual fatigue, jaw pain, nausea without chest pain. If in doubt â CALL 112 immediately. Time lost = heart muscle lost.
+
+Q: Is ghee and coconut oil bad for the heart?
+A: Ghee and coconut oil are high in saturated fats. Moderate consumption (1-2 tsp/day of ghee) is unlikely to harm a healthy person, but excessive use increases LDL cholesterol and heart disease risk. For those with existing heart disease, a cardiologist and dietitian should guide dietary fat choices.
+
+Q: Is stress really as dangerous as physical risk factors for heart disease?
+A: Yes. Chronic stress is an independent risk factor for heart disease â it raises blood pressure, promotes inflammation, disrupts sleep, and encourages unhealthy behaviours. Stress management through yoga, exercise, adequate sleep, and social connection is an important part of heart health.

@@ -4,7 +4,7 @@
   "source_name": "WHO + UNICEF + NHM India + MoJAL",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/drinking-water",
   "topic": "Safe Drinking Water and Sanitation (WASH)",
-  "category": "Public Health / Environmental Health (Preventive)",
+  "category": "Environmental Health / Preventive Care",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -150,6 +150,24 @@
       "Jal Jeevan Mission: 1916 (water helpline in many states)",
       "Local Panchayat or PHC for water quality testing referral",
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is tap water in Indian cities safe to drink directly?",
+        "answer": "In most Indian cities, municipal tap water is treated but not consistently safe to drink without further treatment at the point of use, due to distribution system contamination (pipe leaks, old infrastructure). Boiling or using an RO/UV purifier is recommended for drinking water in urban areas."
+      },
+      {
+        "question": "How effective is boiling water for purification?",
+        "answer": "Boiling water for 1 minute kills all pathogens (bacteria, viruses, parasites). It is the most reliable, low-cost water purification method. Cool boiled water in a covered container to prevent recontamination. Boiling does not remove chemical contamination (fluoride, arsenic, heavy metals)."
+      },
+      {
+        "question": "Is ODF (Open Defecation Free) status verified in my village?",
+        "answer": "ODF status is verified through community surveys and government assessments under Swachh Bharat Mission. Check with your gram panchayat or district administration. ODF certification requires 100% of the population to use toilets — it is a community achievement, not just infrastructure."
+      },
+      {
+        "question": "What is the Swachh Bharat Mission and what does it achieve for health?",
+        "answer": "Swachh Bharat Mission has constructed 100+ million toilets, dramatically reducing open defecation. Studies show it has significantly reduced diarrhoea, cholera, stunting in children, and maternal anaemia in rural India. Clean India directly means healthier India."
+      }
     ]
   }
 }

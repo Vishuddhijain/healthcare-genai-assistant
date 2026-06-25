@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/civil-registration-and-vital-statistics",
   "topic": "Civil registration and vital statistics",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "27 February 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -56,6 +56,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Why is birth registration important for health?",
+        "answer": "A birth certificate is the primary legal identity document. It enables access to education, healthcare, government schemes (PM-JAY, PM Matru Vandana Yojana), vaccination records, and legal protections. Unregistered children are invisible to the health system."
+      },
+      {
+        "question": "How do I register a birth in India?",
+        "answer": "Register at your local Municipal Corporation, Gram Panchayat, or hospital (if born there). Registration should be done within 21 days of birth. Free registration at government hospitals immediately after delivery. The Birth and Deaths Registration Act 1969 governs this process."
+      },
+      {
+        "question": "What is the use of death registration?",
+        "answer": "Death registration enables families to access legal benefits, inheritance, and pension claims. It also generates vital statistics data that governments use to plan public health services and allocate resources for disease control."
+      },
+      {
+        "question": "How do vital statistics help in disease control?",
+        "answer": "Accurate birth and death data helps identify disease patterns, track mortality causes, and design targeted public health interventions. For example, high infant mortality in a district triggers targeted nutrition and vaccination programmes. Good data = better health policy."
+      }
     ]
   }
 }

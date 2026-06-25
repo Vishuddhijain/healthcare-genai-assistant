@@ -1,5 +1,5 @@
 TOPIC: Anaemia
-CATEGORY: Non-Communicable Disease (Nutritional / Blood Disorder)
+CATEGORY: Non-Communicable Disease / Nutritional
 SOURCE: WHO Fact Sheet + NHP India + NHM India - https://www.who.int/news-room/fact-sheets/detail/anaemia | https://nhp.gov.in/disease/non-communicable-disease/anaemia | nhm.gov.in/index4.php?lang=1&level=0&linkid=409
 LAST UPDATED: 2024
 
@@ -85,6 +85,7 @@ Government programmes:
 - Free IFA tablets distributed at government health centres, Anganwadi centres (ICDS), and schools
 - Thalassaemia screening recommended for couples before marriage in high-prevalence states (Gujarat, Maharashtra, Punjab, West Bengal)
 - POSHAN Abhiyaan (National Nutrition Mission) targets anaemia as part of broader nutrition goals
+- For anaemia screening and IFA tablets, contact your nearest Anganwadi centre or call the National Health Helpline: 104. Free haemoglobin testing is available at all government PHCs.
 
 --- IMPORTANT SAFETY NOTE ---
 This information is for health awareness only. Anaemia has multiple causes and requires proper diagnosis before treatment. Do not self-supplement with iron or other supplements without medical advice. Always consult a qualified healthcare provider for evaluation and treatment.
@@ -100,3 +101,16 @@ This information is for health awareness only. Anaemia has multiple causes and r
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can I treat anaemia just by eating more spinach?
+A: Spinach has iron but also oxalates that reduce iron absorption. While eating iron-rich foods helps prevent mild anaemia, diagnosed anaemia often requires iron supplements prescribed by a doctor. Pair iron foods with Vitamin C (lemon, amla) for better absorption.
+
+Q: Are IFA tablets available free in India?
+A: Yes. Iron-Folic Acid (IFA) tablets are free at all Anganwadi centres, PHCs, and government hospitals under the Anemia Mukt Bharat programme for children, adolescents, pregnant women, and women of reproductive age.
+
+Q: How do I know if I am anaemic?
+A: Common signs are persistent fatigue, pale skin and nails, breathlessness, and dizziness. A simple blood test (haemoglobin level) at any government hospital confirms anaemia. Do not self-diagnose based on symptoms alone.
+
+Q: Is anaemia dangerous during pregnancy?
+A: Yes. Severe anaemia in pregnancy increases risk of premature birth, low birth weight, and maternal death. All pregnant women should have haemoglobin tested at the first antenatal visit and receive free IFA supplements from government health centres.

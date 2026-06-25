@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/birth-defects",
   "topic": "Congenital disorders",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "27 February 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -81,6 +81,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is the most common congenital disorder in India?",
+        "answer": "Common congenital conditions in India include congenital heart defects (most common), neural tube defects (preventable with folic acid), Down syndrome, cleft lip/palate, and haemoglobinopathies (sickle cell disease, thalassaemia â prevalent in tribal and certain ethnic communities)."
+      },
+      {
+        "question": "Can congenital disorders be prevented?",
+        "answer": "Many can be prevented or detected early. Folic acid supplementation before and during early pregnancy prevents neural tube defects. Avoiding alcohol, tobacco, and unnecessary medications during pregnancy reduces risk. Prenatal screening detects many conditions early."
+      },
+      {
+        "question": "Is folic acid supplementation really important before pregnancy?",
+        "answer": "Critically important. Neural tube defects (spina bifida, anencephaly) occur in the first 28 days of pregnancy â often before a woman knows she is pregnant. All women of childbearing age should take 400 mcg of folic acid daily. Free IFA tablets at government health centres."
+      },
+      {
+        "question": "What government support is available for children with congenital disorders in India?",
+        "answer": "RBSK (Rashtriya Bal Swasthya Karyakram) screens children for 30 conditions including congenital defects, diseases, deficiencies, and disabilities â free. Corrective surgeries for some conditions (cleft lip, heart defects) are available free at government hospitals under RBSK and PM-JAY."
+      }
     ]
   }
 }

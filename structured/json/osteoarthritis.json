@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/osteoarthritis",
   "topic": "Osteoarthritis",
-  "category": "Non-Communicable Disease / Musculoskeletal Health / Ageing",
+  "category": "Non-Communicable Disease / Musculoskeletal",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -102,7 +102,26 @@
       "Ayushman Bharat PM-JAY covers joint replacement surgery for eligible beneficiaries at empanelled hospitals",
       "AB-HWCs include musculoskeletal health screening as part of NCD services for older adults",
       "Yoga and physiotherapy are widely accessible and recommended for joint health management",
-      "Rural agricultural workers face high occupational OA risk from repetitive bending and lifting"
+      "Rural agricultural workers face high occupational OA risk from repetitive bending and lifting",
+      "For physiotherapy and orthopaedic consultation at government hospitals, call 104. PM-JAY covers joint replacement at empanelled hospitals: helpline 14555."
+    ],
+    "faqs": [
+      {
+        "question": "Is osteoarthritis the same as rheumatoid arthritis?",
+        "answer": "No. Osteoarthritis is a \"wear and tear\" condition caused by cartilage breakdown, typically affecting one or a few joints. Rheumatoid arthritis is an autoimmune condition where the immune system attacks joint linings, often affecting multiple joints symmetrically and causing more inflammation. They require different treatments."
+      },
+      {
+        "question": "Should I avoid exercise if I have osteoarthritis?",
+        "answer": "No — appropriate exercise is one of the most effective treatments. While high-impact activities may worsen symptoms, low-impact exercises (swimming, cycling, walking, strengthening exercises) reduce pain and improve function. Consult a physiotherapist for a tailored programme."
+      },
+      {
+        "question": "Does cracking your knuckles cause osteoarthritis?",
+        "answer": "No scientific evidence supports this common belief. Joint cracking/popping (crepitus) can be a symptom of OA but does not cause it."
+      },
+      {
+        "question": "Is joint replacement the only option for severe knee OA?",
+        "answer": "Surgery is considered when conservative treatments (weight loss, physiotherapy, medication) no longer provide adequate relief and quality of life is significantly affected. Many people manage OA for years without surgery through lifestyle modification."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death",
   "topic": "Stroke (Brain Attack / Cerebrovascular Disease)",
-  "category": "Non-Communicable Disease / Neurological Emergency / Cardiovascular Disease",
+  "category": "Non-Communicable Disease / Neurological",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -134,6 +134,28 @@
       "AIIMS, PGI, state referral hospitals: Designated comprehensive stroke centres",
       "Telemedicine: Telestroke networks being developed in some states (Karnataka, Kerala, AP) to enable remote stroke diagnosis in rural areas",
       "Smoking + tobacco: Significant contributor in India — stopping tobacco is key stroke prevention"
+    ],
+    "faqs": [
+      {
+        "question": "What is the difference between a stroke and a heart attack?",
+        "answer": "A heart attack occurs when blood supply to the heart muscle is blocked. A stroke occurs when blood supply to the brain is blocked or when a vessel in the brain ruptures. Both are medical emergencies but involve different organs."
+      },
+      {
+        "question": "Can young people get strokes?",
+        "answer": "Yes. India has unusually high rates of stroke in young adults (20–45). Causes include rheumatic heart disease, uncontrolled blood pressure, smoking, illicit drug use, and genetic clotting disorders."
+      },
+      {
+        "question": "If stroke symptoms go away, do I still need to go to hospital?",
+        "answer": "YES, absolutely. Temporary symptoms (TIA — transient ischaemic attack) are a warning that a major stroke may be imminent, often within hours or days. Immediate evaluation and treatment can prevent a larger stroke."
+      },
+      {
+        "question": "Can stroke patients fully recover?",
+        "answer": "Recovery varies widely. Some recover fully; many have lasting disabilities. Early treatment (within 4.5 hours) dramatically improves recovery. Intensive rehabilitation (physiotherapy, speech therapy) helps maximise recovery."
+      },
+      {
+        "question": "Does taking aspirin during a stroke help?",
+        "answer": "Do NOT self-administer aspirin during a suspected stroke without medical advice. If the stroke is haemorrhagic (bleeding), aspirin makes it worse. Only take aspirin if directed by emergency personnel or a doctor."
+      }
     ]
   }
 }

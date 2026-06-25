@@ -1,5 +1,5 @@
 TOPIC: Lassa Fever
-CATEGORY: Communicable Disease (Viral Haemorrhagic Fever / Zoonotic)
+CATEGORY: Communicable Disease / Viral Haemorrhagic
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/lassa-fever
 LAST UPDATED: 2024
 
@@ -67,3 +67,16 @@ This information is for health awareness only. Lassa fever is not endemic in Ind
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Has Lassa fever occurred in India?
+A: Lassa fever is endemic to West Africa (Nigeria, Sierra Leone, Guinea, Liberia). There are no known cases indigenous to India. However, it can be imported through travellers from endemic areas, and India has airport surveillance for viral haemorrhagic fevers.
+
+Q: How does Lassa fever spread?
+A: Lassa virus is carried by the Mastomys rat (multimammate rat). Humans are infected through contact with rat urine, faeces, or through eating contaminated food. Person-to-person spread is possible through direct contact with blood or body fluids of infected individuals.
+
+Q: What are the warning signs of Lassa fever?
+A: Fever, weakness, headache, sore throat, followed by nausea, vomiting, diarrhoea, chest pain, and in severe cases haemorrhage. 80% of infections are mild. Severe disease causes hearing loss (even after recovery in 25% of cases), shock, and multi-organ failure.
+
+Q: Is Lassa fever treatable?
+A: Antiviral drug ribavirin is effective, especially when given early. Supportive care is critical. Healthcare workers must use full personal protective equipment. Report any suspected case of viral haemorrhagic fever in a traveller from West Africa to the nearest government hospital and district health authority immediately.

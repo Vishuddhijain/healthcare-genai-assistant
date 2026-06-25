@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/mycetoma",
   "topic": "Mycetoma",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "14 January 2022",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -47,6 +47,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is mycetoma and where does it occur in India?",
+        "answer": "Mycetoma is a chronic granulomatous infection of skin, subcutaneous tissue, and bone, caused by fungi (eumycetoma) or bacteria (actinomycetoma). India, particularly Rajasthan, Gujarat, and Tamil Nadu (the 'mycetoma belt'), has significant burden. It primarily affects agricultural workers who walk barefoot."
+      },
+      {
+        "question": "How does mycetoma spread?",
+        "answer": "Mycetoma is not contagious. It develops when soil-dwelling fungi or bacteria enter the body through minor skin injury — thorn pricks, splinters, or cuts while working barefoot in fields. Wearing protective footwear in fields is the most effective prevention."
+      },
+      {
+        "question": "What does mycetoma look like?",
+        "answer": "It begins as a painless swelling, usually on the foot, that slowly progresses to form draining sinuses (channels) that discharge granules (coloured grains — black, white, red or yellow depending on the causative organism). Advanced cases cause extensive bone destruction."
+      },
+      {
+        "question": "Can mycetoma be treated?",
+        "answer": "Actinomycetoma (bacterial): responds well to antibiotic treatment (combination therapy for 6-12 months). Eumycetoma (fungal): much more difficult to treat, requires antifungal drugs for years and often surgery. Early diagnosis gives the best outcomes. Consult a dermatologist at a government medical college."
+      }
     ]
   }
 }

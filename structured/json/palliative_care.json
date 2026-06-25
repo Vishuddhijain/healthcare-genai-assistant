@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/palliative-care",
   "topic": "Palliative care",
-  "category": "Care Awareness",
+  "category": "Disability and Rehabilitation",
   "last_updated": "5 August 2020",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -64,6 +64,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is palliative care and is it only for cancer patients?",
+        "answer": "Palliative care focuses on relieving suffering and improving quality of life for patients with serious illness — and for their families. It is NOT only for cancer. It applies to any serious condition: advanced heart failure, COPD, kidney failure, dementia, and other life-limiting conditions. It can be provided alongside curative treatment."
+      },
+      {
+        "question": "Is palliative care available in India?",
+        "answer": "Kerala has one of Asia's strongest palliative care systems — the Neighbourhood Network in Palliative Care (NNPC) serves thousands. The National Palliative Care Strategy 2012 aims to expand services nationwide. Government medical colleges are mandated to have palliative care services. Pain medicines including morphine are available at designated government hospitals."
+      },
+      {
+        "question": "Does palliative care mean giving up on treatment?",
+        "answer": "No. Palliative care is not giving up — it is about providing the best possible quality of life. It can be provided alongside active treatment. In many cases, patients receiving palliative care alongside standard treatment live longer and feel better than those receiving only aggressive treatment."
+      },
+      {
+        "question": "How do I access palliative care services in India?",
+        "answer": "Contact your nearest government medical college hospital or cancer centre. In Kerala: IndianPalliativeCare.net. Nationally: Institute of Palliative Medicine, Kozhikode (palliativemedicine.org). Cancer patients can access supportive care through their oncologist's referral."
+      }
     ]
   }
 }

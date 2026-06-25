@@ -87,3 +87,16 @@ Rabies spreads to people and animals via saliva, usually through bites , scratch
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can I get rabies from a dog scratch (without bite)?
+A: Yes. Rabies virus can be transmitted through scratches from infected animals if the scratch breaks the skin and is contaminated with saliva. Treat all scratches from potentially rabid animals as Category II or III exposure — wash thoroughly with soap and water for 15 minutes and go to a hospital for post-exposure prophylaxis assessment.
+
+Q: Is rabies PEP really free in India?
+A: Yes. Rabies post-exposure prophylaxis (PEP) — including the vaccine course and Rabies Immunoglobulin (RIG) for Category III wounds — is free at all government hospitals and district hospitals in India. Never pay for rabies PEP at a government facility.
+
+Q: What if the dog that bit me was vaccinated?
+A: Still go to a hospital. A doctor will assess the wound category and animal vaccination status and advise accordingly. If the vaccinated dog is healthy and can be observed for 10 days, PEP may be modified. Do not make this decision yourself — always get medical assessment.
+
+Q: Can rabies be treated once symptoms start?
+A: Unfortunately, once rabies symptoms appear, it is almost universally fatal. Very rare 'Milwaukee Protocol' survivors exist but cannot be reliably replicated. This is why immediate post-exposure prophylaxis — before symptoms appear — is critical and life-saving. Never delay PEP.

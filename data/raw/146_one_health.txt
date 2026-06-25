@@ -1,5 +1,5 @@
 TOPIC: One Health
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/one-health
 LAST UPDATED: 8 May 2026
 
@@ -71,3 +71,16 @@ The COVID-19 pandemic put a spotlight on the need for a global framework for imp
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the One Health concept?
+A: One Health recognises that human health, animal health, and environmental health are interconnected. About 60% of human infectious diseases originate from animals (zoonoses). Healthy ecosystems support healthy animals, which supports healthy people. COVID-19, Nipah, Ebola, and bird flu all illustrate this connection.
+
+Q: How does One Health apply in India?
+A: India's One Health framework involves collaboration between the Ministry of Health, Ministry of Agriculture, and Ministry of Environment. It covers antimicrobial resistance surveillance in humans AND animals, zoonotic disease control, food safety, and environmental monitoring.
+
+Q: How does antimicrobial resistance relate to One Health?
+A: Antibiotics used in livestock farming contribute to antibiotic resistance that affects human health. Resistant bacteria move from animals to humans through food, environment, and direct contact. Reducing unnecessary antibiotic use in both human medicine and animal husbandry is essential.
+
+Q: What can individuals do to support One Health?
+A: Do not demand antibiotics for viral infections. Support locally grown, sustainably produced food. Avoid contact with sick wild animals. Follow food safety practices. Support environmental conservation. These individual actions contribute to the health of the entire ecosystem.

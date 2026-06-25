@@ -1,5 +1,5 @@
 TOPIC: Malnutrition
-CATEGORY: Nutritional Health (Non-Communicable / Public Health)
+CATEGORY: Public Health / Nutrition
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/malnutrition
 LAST UPDATED: 2024
 
@@ -98,3 +98,16 @@ This information is for health awareness only. Severe Acute Malnutrition is a me
 
 --- WHEN TO SEE A DOCTOR ---
 - Seek medical care for severe, persistent, worsening, or red-flag symptoms. Use emergency number 112 for life-threatening situations.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the difference between stunting, wasting, and underweight in children?
+A: Stunting (low height for age) reflects chronic, long-term malnutrition. Wasting (low weight for height) reflects acute, recent malnutrition and is immediately dangerous. Underweight (low weight for age) reflects a combination. Wasting requires urgent treatment. Check growth at Anganwadi centres monthly.
+
+Q: Is malnutrition only a problem in poor families?
+A: No. Hidden hunger (micronutrient deficiency) affects people across income levels. Families who eat calorie-sufficient but nutritionally poor diets (mostly refined grains, little fruit/vegetable diversity) can have children with micronutrient deficiencies. Urban malnutrition is a growing concern in India.
+
+Q: What free nutrition services are available for children in India?
+A: Anganwadi centres provide free supplementary nutrition (khichdi, take-home rations), growth monitoring, Vitamin A supplementation, deworming, and nutrition counselling under ICDS and POSHAN Abhiyaan. These are for children 0-6 years and pregnant/lactating women. Visit your nearest Anganwadi.
+
+Q: How do I know if my child is growing well?
+A: Monthly growth monitoring at Anganwadi centres uses a growth chart. The red zone (below -3 SD) indicates severe acute malnutrition. The yellow zone indicates moderate malnutrition. A child in the red zone needs immediate medical attention at a Nutrition Rehabilitation Centre (NRC) — free treatment.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/trichomoniasis",
   "topic": "Trichomoniasis",
-  "category": "Sexual Health / STI Awareness",
+  "category": "Communicable Disease / STI",
   "last_updated": "21 November 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -58,6 +58,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is trichomoniasis and is it common in India?",
+        "answer": "Trichomoniasis (trich) is the most common curable STI globally, caused by the parasite Trichomonas vaginalis. It is very common in India but significantly underdiagnosed due to limited testing and stigma. It increases susceptibility to HIV and is associated with preterm birth in pregnant women."
+      },
+      {
+        "question": "What are the symptoms of trichomoniasis?",
+        "answer": "In women: itching, burning, redness, and frothy yellow-green vaginal discharge with a fishy odour. In men: most are asymptomatic, but some have penile irritation or discharge. About 70% of infected people have no symptoms — transmission from asymptomatic carriers is common."
+      },
+      {
+        "question": "How is trichomoniasis treated?",
+        "answer": "Trichomoniasis is fully curable with a single dose of metronidazole or tinidazole. Both sexual partners must be treated simultaneously — treating only one partner leads to reinfection. Free testing and treatment at government ICTCs. Do not drink alcohol while taking metronidazole."
+      },
+      {
+        "question": "Can trichomoniasis affect pregnancy?",
+        "answer": "Yes. Trichomoniasis in pregnancy is associated with preterm birth and low birth weight. Pregnant women with symptoms should be tested and treated. Metronidazole is safe in pregnancy after the first trimester. This is another reason why STI testing as part of antenatal care is important."
+      }
     ]
   }
 }

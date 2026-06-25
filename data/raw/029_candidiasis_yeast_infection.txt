@@ -1,5 +1,5 @@
 TOPIC: Candidiasis (yeast infection)
-CATEGORY: Infectious Disease / Reproductive Health
+CATEGORY: Communicable Disease / Reproductive Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/candidiasis-(yeast-infection)
 LAST UPDATED: 9 April 2025
 
@@ -69,3 +69,16 @@ While generally treatable with antifungal medications, some types can be hard to
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is a vaginal yeast infection the same as bacterial vaginosis?
+A: No. Both cause vaginal discharge but are different conditions. Yeast infection (candidiasis) causes thick, white, cottage cheese-like discharge with intense itching. Bacterial vaginosis causes thin, greyish discharge with a fishy odour. A doctor's test differentiates them â treatment is different for each.
+
+Q: Can I use over-the-counter antifungal cream for a yeast infection?
+A: For mild, recurring yeast infections that you have had confirmed before, OTC antifungal creams (clotrimazole) are available at pharmacies. However, for a first-time or severe infection, or if pregnant, consult a doctor first to confirm diagnosis.
+
+Q: Why do some people get recurrent yeast infections?
+A: Recurrent infections may be caused by antibiotic use (kills protective bacteria), uncontrolled diabetes, weakened immune system, hormonal changes, or wearing tight synthetic clothing. Controlling blood sugar, avoiding unnecessary antibiotics, and wearing breathable cotton underwear help prevent recurrence.
+
+Q: Can men get candidiasis?
+A: Yes. Men can develop penile candidiasis (balanitis) â redness, itching, and white patches on the penis. It is more common in uncircumcised men and those with diabetes. Both partners may need treatment if infection keeps recurring.

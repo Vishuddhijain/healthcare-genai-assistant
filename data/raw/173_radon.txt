@@ -78,3 +78,16 @@ Outdoors, radon quickly dilutes to very low concentrations and is generally not 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is radon a problem in India?
+A: Yes. Elevated radon levels have been found in parts of Rajasthan (especially granite-rich areas), Himachal Pradesh, and some states with high natural radioactivity in soil and rocks. Underground workplaces (mines, basements) can accumulate radon. Radon is the second leading cause of lung cancer globally.
+
+Q: How does radon enter homes?
+A: Radon is a naturally occurring radioactive gas from uranium decay in soil and rocks. It seeps through cracks in floors, foundations, and walls. It accumulates in poorly ventilated basements, ground floors, and underground spaces. You cannot see, smell, or taste it.
+
+Q: How can I test for radon in my home?
+A: Radon testing kits are available from physics departments of government universities and environmental agencies in India. Contact your state pollution control board or BARC (Bhabha Atomic Research Centre) for guidance on radon measurement in high-risk areas.
+
+Q: How can I reduce radon levels in my home?
+A: Seal cracks and gaps in floors and foundations. Increase ventilation — open windows and improve airflow. Sub-slab depressurisation (a pipe and fan system) is highly effective. Avoid spending long periods in unventilated basements. Radon levels in well-ventilated homes are generally safe.

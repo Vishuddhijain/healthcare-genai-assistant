@@ -1,5 +1,5 @@
 TOPIC: Foodborne Trematode Infections
-CATEGORY: Communicable / Parasitic Disease / Food Safety
+CATEGORY: Communicable Disease / Food-Borne
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections
 LAST UPDATED: 2024
 
@@ -100,6 +100,7 @@ Vaccination: No vaccine available. Prevention through food safety.
 - Fasciola gigantica (bovine liver fluke) causes sporadic human infections in India.
 - Opisthorchis/Clonorchis: Less common in India compared to Southeast Asia but cases reported.
 - Awareness in medical community is critical for correct diagnosis.
+- For diagnosis and treatment at government hospitals, call the National Health Helpline: 104. Report food safety concerns to FSSAI: 1800-11-2100.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Can I get infected by eating thoroughly cooked fish?

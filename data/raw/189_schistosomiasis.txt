@@ -83,3 +83,16 @@ Schistosomiasis is an acute and chronic parasitic disease caused by blood flukes
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is schistosomiasis present in India?
+A: Classical schistosomiasis caused by Schistosoma mansoni and S. haematobium is not endemic in India. However, S. spindale (animal schistosome causing cercarial dermatitis or swimmer's itch) does occur in India — reported from Maharashtra, Karnataka, and Tamil Nadu.
+
+Q: What is swimmer's itch and is it dangerous?
+A: Swimmer's itch (cercarial dermatitis) occurs when larval schistosomes from water snails penetrate human skin. It causes itching, redness, and small bumps at the site of penetration. It is self-limiting (resolves within a week) and not dangerous. The cercariae cannot complete their life cycle in humans.
+
+Q: How can I avoid cercarial dermatitis (swimmer's itch) in India?
+A: Avoid swimming in stagnant ponds and slow-moving water bodies known to have snail populations, especially in areas where cattle and ducks (which harbour animal schistosomes) are present. Towel dry vigorously immediately after leaving water. Apply insect repellent before swimming in risk areas.
+
+Q: Why is global schistosomiasis awareness important for India?
+A: India receives travellers from and sends workers to schistosomiasis-endemic areas in Africa and the Middle East. Healthcare professionals should consider schistosomiasis in patients with unexplained haematuria (blood in urine), liver problems, or eosinophilia who have lived or worked in endemic areas.

@@ -1,5 +1,5 @@
 TOPIC: Sodium reduction
-CATEGORY: Preventive Care and Wellness
+CATEGORY: Public Health / Preventive Care
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/sodium-reduction
 LAST UPDATED: 11 May 2026
 
@@ -60,3 +60,16 @@ Reducing sodium intake is one of the most cost-effective ways to improve health 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How much salt do Indians typically eat compared to recommendations?
+A: The average Indian consumes approximately 11 grams of salt per day — more than double the WHO recommended maximum of 5 grams (about 1 teaspoon). This excess sodium is a major contributor to India's high hypertension burden.
+
+Q: How can I reduce salt in my diet without losing flavour?
+A: Use herbs and spices (cumin, coriander, turmeric, black pepper, amchur, tamarind) instead of salt for flavour. Reduce salt gradually — taste buds adapt within 4-6 weeks. Avoid adding salt at the table. Limit high-salt foods: papad, pickles, sauces, namkeen, processed foods, instant noodles, and salty snacks.
+
+Q: Is low-sodium salt (potassium chloride substitutes) safe?
+A: Low-sodium salt substitutes (partially replacing sodium chloride with potassium chloride) can reduce blood pressure. However, they are contraindicated in kidney disease and for people on certain medications (ACE inhibitors, potassium-sparing diuretics). Consult a doctor before switching, especially if you have any health conditions.
+
+Q: Which processed foods in India are highest in hidden salt?
+A: Namkeen/chakli, instant noodles and soups, salty snacks, papad, pickles, packaged breads and biscuits, processed meats, and ready-to-eat meals are typically high in sodium. Read the nutrition label — choose products with less than 600mg sodium per 100g.

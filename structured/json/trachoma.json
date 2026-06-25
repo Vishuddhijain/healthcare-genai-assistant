@@ -73,6 +73,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is trachoma and does it occur in India?",
+        "answer": "Trachoma is a bacterial eye infection (Chlamydia trachomatis) that is the leading infectious cause of blindness globally. India was declared free of blinding trachoma in 2017 — a major public health achievement. However, trachoma remains prevalent in parts of Africa and some neighbouring countries."
+      },
+      {
+        "question": "How does trachoma spread?",
+        "answer": "Trachoma spreads through direct contact with discharge from the eyes and nose of infected individuals, and through flies that land on infected secretions. It is a disease of poverty — closely linked to lack of clean water and sanitation."
+      },
+      {
+        "question": "How can trachoma be prevented?",
+        "answer": "The SAFE strategy: Surgery (for advanced cases causing in-turned eyelashes), Antibiotics (azithromycin for active infection), Facial cleanliness (face washing with clean water), Environmental improvement (clean water, sanitation). India's elimination was achieved through sustained implementation of these measures."
+      },
+      {
+        "question": "Why should India maintain vigilance about trachoma even after elimination?",
+        "answer": "Trachoma can be reintroduced through population movement from endemic areas. Maintaining facial hygiene, clean water access, and surveillance is important to prevent re-emergence. Improvements in sanitation and water access that eliminated trachoma also prevent many other diseases."
+      }
     ]
   }
 }

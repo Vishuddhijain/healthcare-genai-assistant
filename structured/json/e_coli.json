@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/e-coli",
   "topic": "E. coli",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "7 February 2018",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -62,6 +62,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is E. coli always harmful?",
+        "answer": "No. Most E. coli strains are harmless and naturally live in the intestines of humans and animals. Only certain strains â particularly E. coli O157:H7 and other Shiga toxin-producing strains â cause severe illness including bloody diarrhoea and kidney failure."
+      },
+      {
+        "question": "How do I prevent E. coli food poisoning?",
+        "answer": "Cook beef and other meat thoroughly (70Â°C internal temperature), avoid unpasteurised milk and juices, wash fruits and vegetables well, wash hands before eating and after using the toilet, avoid cross-contamination between raw meat and ready-to-eat foods."
+      },
+      {
+        "question": "What is the most dangerous complication of E. coli O157 infection?",
+        "answer": "Haemolytic Uraemic Syndrome (HUS) â a life-threatening condition causing kidney failure, anaemia, and low platelets â especially in young children. Signs: reduced urine output, pale skin, easy bruising after bloody diarrhoea. This is a medical emergency â call 112."
+      },
+      {
+        "question": "Should antibiotics be taken for E. coli diarrhoea?",
+        "answer": "For most E. coli diarrhoea, antibiotics are NOT recommended â they may worsen outcomes in Shiga toxin-producing strains by triggering more toxin release. Treatment is supportive: ORS, rest, fluids. A doctor must evaluate and decide whether antibiotics are appropriate."
+      }
     ]
   }
 }

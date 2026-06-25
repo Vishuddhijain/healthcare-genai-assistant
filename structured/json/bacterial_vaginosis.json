@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/bacterial-vaginosis",
   "topic": "Bacterial vaginosis",
-  "category": "Reproductive Health / STI Awareness",
+  "category": "Communicable Disease / STI",
   "last_updated": "21 November 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -62,6 +62,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is bacterial vaginosis (BV) a sexually transmitted infection?",
+        "answer": "BV is not classified as a classic STI, but sexual activity â especially with new or multiple partners â increases risk. It results from an imbalance of vaginal bacteria. It can occur in women who are not sexually active, but is more common in sexually active women."
+      },
+      {
+        "question": "What are the signs of bacterial vaginosis?",
+        "answer": "The most common sign is a thin, greyish-white vaginal discharge with a fishy odour, especially after sex. Some women also experience mild itching or burning. Many women with BV have no symptoms at all."
+      },
+      {
+        "question": "Can BV go away on its own without treatment?",
+        "answer": "Sometimes BV resolves on its own, but it often recurs. Treatment with antibiotics (prescribed by a doctor) is recommended especially during pregnancy, before gynaecological procedures, and when symptomatic. Do not self-treat with OTC antifungal creams â BV is different from a yeast infection."
+      },
+      {
+        "question": "Is BV dangerous during pregnancy?",
+        "answer": "Yes. Untreated BV during pregnancy is associated with premature birth, low birth weight, and risk of infection. All pregnant women should report unusual vaginal discharge to their doctor. Free antenatal care is available at government hospitals."
+      }
     ]
   }
 }

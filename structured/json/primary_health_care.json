@@ -50,6 +50,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What services are available at a Primary Health Centre (PHC) in India?",
+        "answer": "PHCs provide free outpatient care, maternal and child health services (ANC, delivery, immunisation), family planning, treatment of common diseases, first aid, health education, basic diagnostics (blood tests, urine), and essential medicines. PHCs serve 30,000-50,000 population in rural areas."
+      },
+      {
+        "question": "What is the difference between a Health and Wellness Centre (HWC) and a PHC?",
+        "answer": "HWCs (Ayushman Bharat) are upgraded sub-centres or PHCs providing comprehensive primary care including NCD screening (diabetes, hypertension, cancer), mental health services, palliative care, oral health, ENT services, and basic specialist teleconsultations — a significant expansion of services compared to traditional PHCs."
+      },
+      {
+        "question": "Is primary healthcare available 24/7 in rural India?",
+        "answer": "PHCs are mandated to provide 24/7 delivery services. General PHC services are usually available during working hours. Community Health Centres (CHCs) provide 24/7 emergency and obstetric care. Many states have established 24/7 PHC services in high-priority areas."
+      },
+      {
+        "question": "How do I register at a Primary Health Centre?",
+        "answer": "Visit your nearest government PHC with an Aadhaar card. Registration is free and simple. Some states have integrated PHC registration with the Ayushman Bharat Digital Health Mission (ABHA health ID). No advance appointment is typically needed for outpatient consultations."
+      }
     ]
   }
 }

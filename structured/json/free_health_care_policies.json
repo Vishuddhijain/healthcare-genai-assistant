@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/free-health-care-policies",
   "topic": "Free health care policies",
-  "category": "Government Schemes / Health Financing",
+  "category": "Government Health Schemes",
   "last_updated": "17 July 2020",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -56,6 +56,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is universally free at government hospitals in India?",
+        "answer": "All government hospitals provide free: outpatient consultations, essential medicines (from NLEM), basic diagnostic tests, emergency care, maternity services (delivery, ANC), immunisation, and family planning services. Hospitalisation is free at PHCs and government district hospitals for all citizens."
+      },
+      {
+        "question": "Who is eligible for PM-JAY (Ayushman Bharat) in India?",
+        "answer": "PM-JAY covers approximately 10.74 crore families identified in SECC 2011 as economically vulnerable. Eligible families get up to â¹5 lakh free hospitalisation per year at empanelled hospitals. Check eligibility at pmjay.gov.in or call 14555."
+      },
+      {
+        "question": "Are medicines free at government hospitals in India?",
+        "answer": "Yes. Essential medicines on the National List of Essential Medicines (NLEM) must be provided free at all government hospitals. Jan Aushadhi Kendras provide generic medicines at heavily subsidised rates. If a government hospital is charging for essential medicines â report to the District Health Officer."
+      },
+      {
+        "question": "What if I cannot afford private healthcare? What are my options?",
+        "answer": "Use government hospitals (free care), PM-JAY scheme (if eligible â up to â¹5 lakh), Jan Aushadhi Kendras (cheap generic medicines), Rashtriya Arogya Nidhi (financial assistance for serious illness for BPL patients), and state government schemes (Aarogyasri, Karunya etc.). Call 104 for health guidance."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/pre-eclampsia",
   "topic": "Pre-eclampsia",
-  "category": "Maternal Health",
+  "category": "Maternal and Child Health",
   "last_updated": "10 December 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -75,6 +75,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is pre-eclampsia and why is it dangerous?",
+        "answer": "Pre-eclampsia is a serious pregnancy complication characterised by high blood pressure (140/90 or above) and signs of organ damage (protein in urine, liver or kidney abnormalities) after 20 weeks of pregnancy. It is a leading cause of maternal and fetal death globally and in India."
+      },
+      {
+        "question": "What are the warning signs of pre-eclampsia?",
+        "answer": "Severe headache, visual disturbances (blurred vision, seeing flashing lights), upper abdominal pain (right side — under ribs), sudden swelling of face, hands, or feet, nausea/vomiting in the second half of pregnancy. ANY of these signs in a pregnant woman = go to hospital immediately."
+      },
+      {
+        "question": "Can pre-eclampsia be prevented?",
+        "answer": "Low-dose aspirin (started before 16 weeks) reduces pre-eclampsia risk by 10-20% in high-risk women. Calcium supplementation (where dietary intake is low) reduces risk. Regular antenatal care with blood pressure monitoring is essential — pre-eclampsia must be detected early."
+      },
+      {
+        "question": "Is pre-eclampsia treatable?",
+        "answer": "Pre-eclampsia requires hospitalisation and medical management (antihypertensives, magnesium sulphate to prevent seizures). The only definitive treatment is delivery of the baby. Free emergency obstetric care including magnesium sulphate is available at all government district hospitals under JSSK."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/child-maltreatment",
   "topic": "Child maltreatment",
-  "category": "Injury and Violence Prevention",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "8 May 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -70,6 +70,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What counts as child abuse or maltreatment?",
+        "answer": "Child maltreatment includes physical abuse (hitting, burning), emotional abuse (constant criticism, rejection), sexual abuse (any sexual act involving a child), and neglect (failing to meet basic needs for food, shelter, healthcare, education). All forms are harmful and illegal in India."
+      },
+      {
+        "question": "How do I report suspected child abuse in India?",
+        "answer": "Call Childline 1098 (free, 24/7) immediately. You can also report to local police or Child Welfare Committees (CWC). Under POCSO Act 2012, any person who suspects child sexual abuse has a legal duty to report it â not reporting is an offence."
+      },
+      {
+        "question": "What are the signs that a child is being abused?",
+        "answer": "Signs include: unexplained injuries, age-inappropriate sexual knowledge, sudden behavioural changes (withdrawal, aggression, regression), fear of certain adults, poor hygiene or malnutrition, and missing school. Take any child's disclosure of abuse seriously."
+      },
+      {
+        "question": "Can a child recover from abuse?",
+        "answer": "Yes. Children are resilient, especially with proper support. Early intervention including counselling, a safe environment, and supportive relationships significantly improves recovery outcomes. CHILDLINE, government-supported child care institutions, and NGOs provide therapeutic support."
+      }
     ]
   }
 }

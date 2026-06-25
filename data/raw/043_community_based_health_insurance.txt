@@ -1,5 +1,5 @@
 TOPIC: Community-based health insurance
-CATEGORY: Health Systems / Government Schemes
+CATEGORY: Government Health Schemes
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/community-based-health-insurance-CBHI
 LAST UPDATED: 31 March 2025
 
@@ -57,3 +57,16 @@ Pooling of health risks and of funds occurs within a community or a group of peo
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is community-based health insurance in India?
+A: Community-based health insurance (CBHI) pools risk across a community group â often village cooperatives, SHGs (Self Help Groups), or microfinance groups. Members pay small premiums and receive healthcare benefits. It complements government schemes like PM-JAY for those not covered.
+
+Q: How is CBHI different from PM-JAY?
+A: PM-JAY is a government scheme targeting the poorest 40% of the population. CBHI is a voluntary, community-managed scheme â often run by NGOs or cooperatives â that can cover people in the informal sector who may not qualify for PM-JAY or formal insurance.
+
+Q: Where can I find community health insurance options in India?
+A: Contact your local SHG (Self Help Group), microfinance institution, cooperative society, or NGO. Some states have government-sponsored community insurance programmes. The National Health Authority (nha.gov.in) provides information on health coverage options.
+
+Q: Are there government-supported health insurance schemes for informal workers?
+A: Yes. Pradhan Mantri Jan Arogya Yojana (PM-JAY) covers eligible families up to â¹5 lakh/year. Ayushman Bharat Digital Mission provides a health ID for everyone. State governments also run supplementary schemes (Aarogyasri, Karunya etc.).

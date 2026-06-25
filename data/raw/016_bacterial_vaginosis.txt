@@ -1,5 +1,5 @@
 TOPIC: Bacterial vaginosis
-CATEGORY: Reproductive Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/bacterial-vaginosis
 LAST UPDATED: 21 November 2025
 
@@ -72,3 +72,16 @@ The exact cause of BV is not known. While many “good” bacteria are normally 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is bacterial vaginosis (BV) a sexually transmitted infection?
+A: BV is not classified as a classic STI, but sexual activity â especially with new or multiple partners â increases risk. It results from an imbalance of vaginal bacteria. It can occur in women who are not sexually active, but is more common in sexually active women.
+
+Q: What are the signs of bacterial vaginosis?
+A: The most common sign is a thin, greyish-white vaginal discharge with a fishy odour, especially after sex. Some women also experience mild itching or burning. Many women with BV have no symptoms at all.
+
+Q: Can BV go away on its own without treatment?
+A: Sometimes BV resolves on its own, but it often recurs. Treatment with antibiotics (prescribed by a doctor) is recommended especially during pregnancy, before gynaecological procedures, and when symptomatic. Do not self-treat with OTC antifungal creams â BV is different from a yeast infection.
+
+Q: Is BV dangerous during pregnancy?
+A: Yes. Untreated BV during pregnancy is associated with premature birth, low birth weight, and risk of infection. All pregnant women should report unusual vaginal discharge to their doctor. Free antenatal care is available at government hospitals.

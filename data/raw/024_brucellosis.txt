@@ -1,5 +1,5 @@
 TOPIC: Brucellosis
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/brucellosis
 LAST UPDATED: 29 July 2020
 
@@ -67,3 +67,16 @@ Worldwide, Brucella melitensis is the most prevalent species causing human bruce
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do people get brucellosis in India?
+A: Brucellosis in India is primarily contracted through consuming raw or unpasteurised milk, milk products (raw paneer, cream), or undercooked meat from infected animals (cattle, buffaloes, goats, pigs). Farmers, veterinarians, and slaughterhouse workers are also at risk through animal contact.
+
+Q: Is brucellosis common in India?
+A: Yes. India has one of the highest burdens of animal brucellosis globally, and human cases are significantly underreported. It is most common in farming communities and those who consume unpasteurised dairy products.
+
+Q: What are the symptoms of brucellosis?
+A: Undulant (wave-like) fever, sweating, fatigue, joint and back pain, and headache are characteristic. Symptoms can last weeks to months if untreated. It is often misdiagnosed as typhoid or viral fever. A blood culture or serology test confirms diagnosis.
+
+Q: Can brucellosis be cured?
+A: Yes, with a prolonged course of antibiotics (typically 6 weeks of dual antibiotic therapy). It must be treated by a doctor â do not self-medicate. Relapse is possible, so completing the full course is essential. Prevention by avoiding raw milk is the best approach.

@@ -68,6 +68,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are mycotoxins and how do they affect health in India?",
+        "answer": "Mycotoxins are toxic compounds produced by moulds (fungi) that contaminate stored food — especially grains, peanuts, spices, and dried fruits. Aflatoxins (from Aspergillus mould) are the most important in India, linked to liver cancer and immune suppression. Ochratoxin and fumonisins are also significant."
+      },
+      {
+        "question": "How can I tell if food is contaminated with mycotoxins?",
+        "answer": "Visible mould on food is a warning sign, but mycotoxins can be present even without visible mould. Aflatoxin contamination often has no visible signs. Discard any mouldy food — do not just cut off the mouldy part. Store grains and pulses in dry, airtight containers to prevent mould growth."
+      },
+      {
+        "question": "Which foods are highest risk for mycotoxin contamination in India?",
+        "answer": "Peanuts (groundnuts), maize, jowar, bajra, rice, stored spices (chilli, turmeric, pepper), dried figs, and tree nuts are highest-risk foods. Moisture and warm temperatures during harvest, storage, and transport promote mould growth."
+      },
+      {
+        "question": "Are mycotoxins regulated in India?",
+        "answer": "Yes. FSSAI (Food Safety and Standards Authority of India) sets maximum limits for mycotoxins (aflatoxin B1 limit: 10 µg/kg for most foods). Regular surveillance and testing of high-risk food commodities is conducted. Report suspected contaminated food to FSSAI at 1800-11-2100."
+      }
     ]
   }
 }

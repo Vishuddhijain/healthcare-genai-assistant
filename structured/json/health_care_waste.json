@@ -72,6 +72,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Why is healthcare waste dangerous to the public?",
+        "answer": "Improperly disposed healthcare waste (sharps, blood-soaked materials, infectious samples, expired medicines, chemicals) spreads infections (Hepatitis B, HIV, tuberculosis), causes injuries (needlestick), pollutes water and soil, and harms waste workers and communities near dumping sites."
+      },
+      {
+        "question": "How should I dispose of medicines and sharps at home?",
+        "answer": "Unused medicines: Return to a pharmacy or dispose in a sealed bag in solid waste (never flush down the toilet or drain). Sharps (needles for diabetes): Use a sharps disposal container or thick plastic bottle with lid. Many hospitals and pharmacies accept used sharps for safe disposal. Never recap needles."
+      },
+      {
+        "question": "Are hospitals required to manage their waste safely in India?",
+        "answer": "Yes. The Biomedical Waste Management Rules 2016 mandate segregation, treatment (autoclaving, incineration), and disposal of all categories of healthcare waste. CPCB (Central Pollution Control Board) regulates compliance. Report unsafe disposal of medical waste to CPCB or state pollution control boards."
+      },
+      {
+        "question": "I found a discarded syringe in a public area. What should I do?",
+        "answer": "Do not touch it with bare hands. Report to local municipal authorities or nearest government hospital for safe disposal. If a child or anyone is accidentally pricked, wash with soap and water and seek medical attention immediately for assessment of infection risk."
+      }
     ]
   }
 }

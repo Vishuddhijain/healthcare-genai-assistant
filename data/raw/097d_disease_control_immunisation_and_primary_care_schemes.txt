@@ -1,0 +1,148 @@
+TOPIC: Indian Government Disease Control, Immunisation, and Primary Care Schemes
+CATEGORY: Government Health Schemes
+SOURCE: NHM - nhm.gov.in | MoHFW - mohfw.gov.in | NCDC - ncdc.gov.in | NTEP - tbcindia.gov.in | NMHP/Tele MANAS - telemanas.mohfw.gov.in | myscheme.gov.in | https://nhm.gov.in | https://nvbdcp.gov.in | https://ntep.in
+LAST UPDATED: 2025
+
+--- OVERVIEW ---
+The Government of India runs a large set of National Health Programmes targeting specific diseases (tuberculosis, malaria, vector-borne diseases, leprosy, cancer, mental health, tobacco-related illness) as well as programmes that strengthen the primary healthcare system itself (immunisation, health and wellness centres, NCD screening). Most services under these programmes are free at government health facilities. For health insurance schemes, see 097b; for maternal, child, and adolescent schemes, see 097c.
+
+--- 1. AYUSHMAN BHARAT - HEALTH AND WELLNESS CENTRES / AYUSHMAN AROGYA MANDIRS (AB-HWCs) ---
+What it is: A network of 1.5 lakh+ Health and Wellness Centres (rebranded as "Ayushman Arogya Mandirs"), upgraded from existing Sub-Centres and PHCs, providing comprehensive primary health care (CPHC) close to where people live.
+Services offered FREE:
+- General outpatient services for common illnesses
+- Maternal and child health services, including antenatal care
+- Population-based screening for hypertension, diabetes, and three common cancers (oral, breast, cervical) for adults
+- Care for common communicable diseases (TB, leprosy) and basic management of mental health, neurological, and ophthalmic/ENT conditions
+- Basic diagnostic tests (blood pressure, blood sugar, basic lab tests)
+- Free essential medicines
+- Telehealth/e-Sanjeevani teleconsultation with doctors and specialists
+How to find: Ask at your local PHC/Sub-Centre, or check nhp.gov.in for the nearest Ayushman Arogya Mandir.
+
+--- 2. UNIVERSAL IMMUNISATION PROGRAMME (UIP) / NATIONAL IMMUNISATION SCHEDULE ---
+What it is: India's programme providing free vaccines to all children and pregnant women under the national immunisation calendar.
+Vaccines provided free (subject to state-wise variation and updates):
+- BCG (Tuberculosis) — at birth
+- Hepatitis B — birth dose and as part of Pentavalent vaccine
+- OPV (Oral Polio Vaccine) and IPV (Inactivated Polio Vaccine)
+- DPT (Diphtheria, Pertussis, Tetanus) / Pentavalent (DPT + Hepatitis B + Hib)
+- Hib (Haemophilus influenzae type b, prevents a form of meningitis/pneumonia)
+- Rotavirus vaccine (prevents severe diarrhoea)
+- PCV (Pneumococcal Conjugate Vaccine, prevents pneumonia/meningitis)
+- Measles-Rubella (MR) vaccine
+- JE (Japanese Encephalitis) vaccine — in JE-endemic districts
+- Td (Tetanus-diphtheria) — for adolescents and pregnant women
+- HPV vaccine — being introduced for adolescent girls in several states (prevents cervical cancer)
+Schedule: Follows the national immunisation calendar from birth to 16 years; specific ages for each dose are published by MoHFW and available at every government health facility.
+Where: All government hospitals, PHCs/Ayushman Arogya Mandirs, Sub-Centres, and Anganwadi centres (via VHSND - Village Health Sanitation and Nutrition Day sessions).
+
+--- 3. MISSION INDRADHANUSH / INTENSIFIED MISSION INDRADHANUSH (IMI) ---
+What it is: A focused, time-bound immunisation drive to reach children and pregnant women who have been left out of or have dropped out from the routine immunisation programme ("zero-dose" and partially immunised children).
+Target: Achieve 90%+ full immunisation coverage by accelerating coverage in low-performing districts/blocks.
+Focus areas: Children aged 0-2 years (and up to 5 years for catch-up doses) and pregnant women in identified high-priority districts and urban slum/migrant populations.
+How to access: IMI rounds are conducted as special campaigns with house-to-house mobilisation by ASHA/ANM workers — if your child has missed any scheduled vaccine, you can also get catch-up doses at any time at your nearest health facility, not only during IMI rounds.
+
+--- 4. NATIONAL TUBERCULOSIS ELIMINATION PROGRAMME (NTEP) ---
+What it is: India's programme to diagnose, treat, and eventually eliminate tuberculosis (TB), in line with India's goal to end TB ahead of the global 2030 target.
+Services: Free TB diagnosis (sputum testing, X-ray, and molecular tests like CB-NAAT/TrueNat where available), free TB treatment (Directly Observed Treatment Short-course - DOTS, and treatment for drug-resistant TB), and nutritional support.
+Ni-kshay Poshan Yojana: Provides ₹1,000 per month as a nutritional support direct benefit transfer to registered TB patients for the duration of their treatment.
+Ni-kshay Mitra: A community support initiative where individuals, organisations, and elected representatives can "adopt" TB patients to provide additional nutritional and diagnostic support.
+How to access: Free testing and treatment at any government TB unit/DOTS centre, designated microscopy centre, or government hospital; register on the Ni-kshay portal for benefit tracking (usually done by the treating health facility).
+
+--- 5. NATIONAL VECTOR BORNE DISEASE CONTROL PROGRAMME (NVBDCP) ---
+What it is: A programme for prevention and control of vector-borne diseases including malaria, dengue, chikungunya, lymphatic filariasis (elephantiasis), kala-azar (visceral leishmaniasis), and Japanese Encephalitis.
+Services: Free diagnosis (e.g., rapid diagnostic tests for malaria, NS1/IgM tests for dengue where available at government facilities) and free treatment (e.g., antimalarials, DEC tablets for filariasis under Mass Drug Administration).
+Vector control: Indoor residual spraying, larvicide application, distribution of insecticide-treated bed nets in endemic areas, and source reduction campaigns (e.g., anti-larval drives before monsoon for dengue/chikungunya prevention).
+How to access: Free testing and treatment at PHCs and government hospitals, especially during disease season; Mass Drug Administration (MDA) rounds for filariasis are conducted periodically in endemic districts — participate when ASHA/health workers visit.
+
+--- 6. NATIONAL LEPROSY ERADICATION PROGRAMME (NLEP) ---
+What it is: A programme for early detection and free treatment of leprosy (Hansen's disease) to eliminate it as a public health problem and prevent disability.
+Services: Free Multi-Drug Therapy (MDT) for leprosy, disability prevention and care, and contact screening of household members of diagnosed patients.
+How to access: Suspected leprosy cases (skin patches with loss of sensation, etc.) can be evaluated and treated free at any PHC or government hospital; door-to-door active case detection campaigns are periodically conducted in endemic areas.
+
+--- 7. NATIONAL PROGRAMME FOR PREVENTION AND CONTROL OF NON-COMMUNICABLE DISEASES (NP-NCD) ---
+What it is: A programme (incorporating the earlier NPCDCS) for screening, early diagnosis, and management of common non-communicable diseases (NCDs) — primarily hypertension, diabetes, and three common cancers (oral, breast, cervical) — integrated into Ayushman Arogya Mandirs.
+Services: Population-based screening for adults aged 30+ for hypertension and diabetes, oral/breast/cervical cancer screening for eligible age groups, free essential medicines for hypertension and diabetes management, and referral linkages for further care.
+How to access: Visit your nearest Ayushman Arogya Mandir/PHC for free NCD screening; community-level screening camps are also periodically organised.
+
+--- 8. NATIONAL MENTAL HEALTH PROGRAMME (NMHP) AND TELE MANAS ---
+What it is: A programme to ensure availability and accessibility of mental healthcare services at all levels of the health system.
+District Mental Health Programme (DMHP): Provides free psychiatric outpatient services, counselling, and essential psychiatric medicines at district hospitals and, increasingly, at community health centres.
+Tele MANAS (launched 2022): A national tele-mental health programme providing free, confidential telephonic counselling and referral services across states, available in multiple languages.
+Helplines:
+- Tele MANAS: 14416 (24/7 free mental health support) or toll-free 1-800-91-4416
+- iCall (TISS): 9152987821 (additional confidential counselling support, not a government helpline but widely referenced)
+How to access: Call the Tele MANAS helpline for confidential support and referral, or visit the psychiatry OPD/DMHP unit at your district hospital for free in-person consultation and medicines.
+
+--- 9. NATIONAL TOBACCO CONTROL PROGRAMME (NTCP) ---
+What it is: A programme combining tobacco cessation support, public awareness, and enforcement of tobacco control laws.
+Provides: Free tobacco cessation counselling at Tobacco Cessation Centres (typically located at district hospitals/medical colleges), awareness campaigns on the health hazards of tobacco, and support for quitting (behavioural counselling; medication support where available through a doctor).
+Tobacco Quitline: 1800-11-2356 (toll-free)
+Legal framework: The Cigarettes and Other Tobacco Products Act (COTPA) bans smoking in public places, prohibits tobacco advertising, and mandates health warnings on tobacco product packaging.
+How to access: Call the Tobacco Quitline for counselling support, or ask at your nearest district hospital for the Tobacco Cessation Centre.
+
+--- 10. AYUSHMAN BHARAT DIGITAL MISSION (ABDM) ---
+What it is: A digital health infrastructure initiative enabling every citizen to create a digital health ID (ABHA - Ayushman Bharat Health Account) to securely store and share health records electronically across healthcare providers.
+Benefits: Linking health records digitally can simplify access to past prescriptions, test reports, and discharge summaries across hospitals that are part of the digital health ecosystem, and supports the e-Sanjeevani telemedicine platform used at Ayushman Arogya Mandirs.
+How to access: Create an ABHA ID for free via the ABHA mobile app, abdm.gov.in, or at participating health facilities using your Aadhaar or mobile number.
+
+--- KEY HEALTH HELPLINES (INDIA) — GENERAL AND PROGRAMME-SPECIFIC ---
+| Helpline | Number | Purpose |
+|---|---|---|
+| Health Helpline | 104 | General health queries, ambulance guidance |
+| Emergency | 112 | Medical, police, fire emergencies |
+| Ayushman Bharat (PM-JAY) | 14555 / 1800-111-565 | PM-JAY queries (see file 097b) |
+| COVID-19 | 1075 | COVID-19 related queries |
+| Mental Health (Tele MANAS) | 14416 / 1-800-91-4416 | Mental health support |
+| Tobacco Quitline | 1800-11-2356 | Quit tobacco support |
+| Ni-kshay (TB) | Via local NTEP/DOTS centre | TB diagnosis, treatment, nutritional support |
+| Child Helpline | 1098 | Child health and abuse |
+| Women Helpline | 181 | Women's health and safety |
+
+--- TYPES ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- SYMPTOMS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- WARNING SIGNS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- RISK FACTORS ---
+- Not separately specified or not applicable in the available source text for this topic.
+
+--- PREVENTION ---
+- Not separately specified or not applicable in the available source text for this topic. See disease-specific files (e.g., tuberculosis, malaria, dengue, leprosy, hypertension, diabetes) for prevention details related to each programme's target condition.
+
+--- ENVIRONMENTAL CONTROL ---
+- NVBDCP-related vector control measures (indoor residual spraying, larviciding, bed nets, source reduction) are described under item 5 above. See disease-specific files for further environmental control guidance.
+
+--- VACCINATION ---
+- See item 2 (Universal Immunisation Programme) and item 3 (Mission Indradhanush) above for the full national immunisation schedule and catch-up vaccination support.
+
+--- DIAGNOSIS ---
+- Free diagnostic services under these programmes are described within each programme above (e.g., TB diagnostics under NTEP, malaria/dengue testing under NVBDCP, NCD screening under NP-NCD/AB-HWCs).
+
+--- TREATMENT (AWARENESS ONLY) ---
+- Treatment details are for awareness only. Consult a qualified healthcare professional. These programmes provide access to free or subsidised diagnosis and treatment but do not themselves constitute medical advice.
+
+--- WHEN TO SEE A DOCTOR ---
+- Seek medical care for severe, persistent, worsening, or red-flag symptoms related to any condition covered by these programmes (e.g., persistent cough lasting more than 2 weeks for possible TB, high fever with chills in malaria-endemic areas, suicidal thoughts or severe mental distress). Use emergency number 112 for life-threatening situations, and Tele MANAS (14416) for mental health crises.
+
+--- INDIA-SPECIFIC CONTEXT ---
+- Programme names, helpline numbers, and the specific list of services/vaccines under each scheme are periodically updated by MoHFW and NHM. Always verify current details through nhm.gov.in, mohfw.gov.in, your nearest Ayushman Arogya Mandir/PHC, or the relevant helpline.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the difference between PHC, CHC, and district hospital in India, and how do these schemes fit in?
+A: PHC (Primary Health Centre)/Ayushman Arogya Mandir: Serves roughly 30,000-50,000 population; handles basic outpatient care, maternal health, immunisation, and NCD/TB/leprosy screening under the programmes above. CHC (Community Health Centre): Serves 80,000-1,20,000; has specialist services (surgery, gynaecology, paediatrics) and serves as a referral point. District Hospital: Provides full secondary care including emergency surgery, DOTS-Plus for drug-resistant TB, and specialised services, and is often the site for RBSK referrals and PM-JAY empanelled treatment.
+
+Q: My child missed some vaccines due to illness or travel. Can they still get them for free?
+A: Yes. Catch-up vaccination under the Universal Immunisation Programme is available free at any time at government health facilities, not only during scheduled sessions. Additionally, Mission Indradhanush rounds specifically target children who have missed doses — ask your ANM/ASHA worker about the next round in your area, but you do not need to wait for a special round to get catch-up doses.
+
+Q: I have had a cough for more than 2 weeks. Is TB testing free?
+A: Yes. Under the National Tuberculosis Elimination Programme (NTEP), TB diagnosis (including sputum testing and, where available, molecular tests) is free at government health facilities. If diagnosed, treatment is also free, and registered patients receive ₹1,000/month nutritional support under Ni-kshay Poshan Yojana during treatment.
+
+Q: Are all medicines really free at government hospitals under these programmes?
+A: Essential medicines on the National List of Essential Medicines (NLEM), including those for TB, leprosy, malaria, hypertension, diabetes, and basic mental health conditions under the programmes above, should be available free at government hospitals and Ayushman Arogya Mandirs. If medicines are unavailable or you are charged, you can report this to the Medical Superintendent, District Health Officer, or via the Health Helpline 104. Jan Aushadhi Kendras also provide medicines at subsidised rates as an additional option.
+
+Q: How do I get free mental health support confidentially without visiting a hospital first?
+A: Call Tele MANAS at 14416 (or toll-free 1-800-91-4416), available 24/7 in multiple languages, for free and confidential telephonic counselling and guidance on further care. This does not require an in-person hospital visit to access initial support.

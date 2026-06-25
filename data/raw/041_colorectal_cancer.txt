@@ -77,3 +77,16 @@ In 2022, an estimated 1.9 million new cases of colorectal cancer and more than 9
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the early warning signs of colorectal (colon) cancer?
+A: Warning signs: change in bowel habits lasting more than 4 weeks, blood in stool, rectal bleeding, persistent abdominal discomfort, unexplained weight loss, and feeling that bowel does not empty completely. These symptoms need medical evaluation â they do not always mean cancer.
+
+Q: At what age should colorectal cancer screening start?
+A: Screening should start at age 45-50 for average-risk individuals. People with a family history of colorectal cancer or polyps, or those with inflammatory bowel disease, should discuss earlier screening with a doctor. Colonoscopy is the gold standard test.
+
+Q: Can diet prevent colorectal cancer?
+A: Diet plays a significant role. High fibre intake (fruits, vegetables, whole grains), limiting red and processed meat, limiting alcohol, avoiding smoking, maintaining healthy weight, and being physically active all reduce risk. India's traditional high-fibre diet is protective.
+
+Q: Is colorectal cancer treatable?
+A: Yes, especially when detected early. Stage 1 colorectal cancer has over 90% 5-year survival. Treatment includes surgery, chemotherapy, and radiotherapy. PM-JAY covers colorectal cancer treatment at empanelled hospitals. Government medical college hospitals also provide treatment.

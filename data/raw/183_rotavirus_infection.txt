@@ -1,5 +1,5 @@
 TOPIC: Rotavirus Infection
-CATEGORY: Communicable Disease / Vaccine-Preventable Disease / Child Health
+CATEGORY: Communicable Disease / Vaccine-Preventable
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/rotavirus | NHP India | UIP India | UNICEF
 LAST UPDATED: 2024
 

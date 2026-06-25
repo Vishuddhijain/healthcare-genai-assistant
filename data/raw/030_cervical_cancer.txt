@@ -89,3 +89,16 @@ Women living with HIV are six times more likely to develop cervical cancer compa
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can cervical cancer be prevented?
+A: Yes â cervical cancer is highly preventable through two key measures: HPV vaccination (ideally for girls 9-14 years before sexual exposure) and regular Pap smear or VIA screening (for women 30-65). Free screening is available at Ayushman Bharat Health and Wellness Centres.
+
+Q: What are the early warning signs of cervical cancer?
+A: Early cervical cancer typically has NO symptoms â which is why screening is essential. Later symptoms include unusual vaginal bleeding (between periods, after sex, or after menopause), unusual vaginal discharge, and pelvic pain. See a doctor immediately for these symptoms.
+
+Q: If I am vaccinated against HPV, do I still need Pap smears?
+A: Yes. HPV vaccines protect against 70-90% of cancer-causing HPV types but not all. Regular Pap smear or VIA screening is still recommended for all women regardless of vaccination status.
+
+Q: Is cervical cancer treatment available free in India?
+A: Yes. PM-JAY covers cervical cancer treatment at empanelled hospitals. Government medical college cancer centres (AIIMS, regional cancer centres) provide treatment. Early-stage cervical cancer has very good survival rates with treatment.

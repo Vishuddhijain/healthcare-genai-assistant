@@ -88,3 +88,16 @@ Invasive cancers can spread to nearby lymph nodes or other organs (metastasize).
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What age should women start breast self-examination?
+A: Women should start monthly breast self-examination from age 20. Choose the same time each month (1 week after your period ends). Report any new lump, skin change, nipple discharge, or persistent pain to a doctor promptly. Early detection significantly improves outcomes.
+
+Q: Is breast cancer hereditary?
+A: About 5-10% of breast cancers are hereditary (BRCA1/BRCA2 gene mutations). Having a first-degree relative (mother, sister, daughter) with breast cancer roughly doubles your risk. If you have strong family history, discuss genetic counselling with a doctor.
+
+Q: Is breast cancer screening free in India?
+A: Clinical breast examination is available free at Ayushman Bharat Health and Wellness Centres for women 30+. Mammography is available at government medical college hospitals, often at subsidised rates. PM-JAY covers breast cancer treatment at empanelled hospitals.
+
+Q: Can men get breast cancer?
+A: Yes, though rare (less than 1% of all breast cancers). Men can develop breast cancer. Warning signs are the same: lump in the chest, nipple discharge, or skin changes. Men who notice these changes should see a doctor.

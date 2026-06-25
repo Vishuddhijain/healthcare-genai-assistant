@@ -1,5 +1,5 @@
 TOPIC: Congenital disorders
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/birth-defects
 LAST UPDATED: 27 February 2023
 
@@ -93,3 +93,16 @@ Fig 1: Changes in causes of under 5 deaths as under 5 mortality rates decline
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is the most common congenital disorder in India?
+A: Common congenital conditions in India include congenital heart defects (most common), neural tube defects (preventable with folic acid), Down syndrome, cleft lip/palate, and haemoglobinopathies (sickle cell disease, thalassaemia â prevalent in tribal and certain ethnic communities).
+
+Q: Can congenital disorders be prevented?
+A: Many can be prevented or detected early. Folic acid supplementation before and during early pregnancy prevents neural tube defects. Avoiding alcohol, tobacco, and unnecessary medications during pregnancy reduces risk. Prenatal screening detects many conditions early.
+
+Q: Is folic acid supplementation really important before pregnancy?
+A: Critically important. Neural tube defects (spina bifida, anencephaly) occur in the first 28 days of pregnancy â often before a woman knows she is pregnant. All women of childbearing age should take 400 mcg of folic acid daily. Free IFA tablets at government health centres.
+
+Q: What government support is available for children with congenital disorders in India?
+A: RBSK (Rashtriya Bal Swasthya Karyakram) screens children for 30 conditions including congenital defects, diseases, deficiencies, and disabilities â free. Corrective surgeries for some conditions (cleft lip, heart defects) are available free at government hospitals under RBSK and PM-JAY.

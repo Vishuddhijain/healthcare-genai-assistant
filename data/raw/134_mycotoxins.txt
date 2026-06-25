@@ -78,3 +78,16 @@ Several hundred different mycotoxins have been identified, but the most commonly
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are mycotoxins and how do they affect health in India?
+A: Mycotoxins are toxic compounds produced by moulds (fungi) that contaminate stored food — especially grains, peanuts, spices, and dried fruits. Aflatoxins (from Aspergillus mould) are the most important in India, linked to liver cancer and immune suppression. Ochratoxin and fumonisins are also significant.
+
+Q: How can I tell if food is contaminated with mycotoxins?
+A: Visible mould on food is a warning sign, but mycotoxins can be present even without visible mould. Aflatoxin contamination often has no visible signs. Discard any mouldy food — do not just cut off the mouldy part. Store grains and pulses in dry, airtight containers to prevent mould growth.
+
+Q: Which foods are highest risk for mycotoxin contamination in India?
+A: Peanuts (groundnuts), maize, jowar, bajra, rice, stored spices (chilli, turmeric, pepper), dried figs, and tree nuts are highest-risk foods. Moisture and warm temperatures during harvest, storage, and transport promote mould growth.
+
+Q: Are mycotoxins regulated in India?
+A: Yes. FSSAI (Food Safety and Standards Authority of India) sets maximum limits for mycotoxins (aflatoxin B1 limit: 10 µg/kg for most foods). Regular surveillance and testing of high-risk food commodities is conducted. Report suspected contaminated food to FSSAI at 1800-11-2100.

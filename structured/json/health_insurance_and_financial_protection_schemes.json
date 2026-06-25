@@ -1,0 +1,75 @@
+{
+  "doc_id": "who_health_insurance_and_financial_protection_schemes_097b",
+  "title": "Indian Government Health Insurance and Financial Protection Schemes",
+  "source_name": "NHA",
+  "source_url": "https://pmjay.gov.in | https://nha.gov.in | https://mohfw.gov.in",
+  "topic": "Indian Government Health Insurance and Financial Protection Schemes",
+  "category": "Government Health Schemes",
+  "last_updated": "2025",
+  "retrieved_on": "2026-06-13",
+  "content": {
+    "overview": "The Government of India runs several health insurance and financial protection schemes to reduce out-of-pocket medical expenses, especially for hospitalisation and serious illness. These schemes range from the world's largest publicly funded health insurance programme (PM-JAY) to schemes for central government employees, formal sector workers, senior citizens, and patients needing financial assistance for life-threatening conditions. This file focuses specifically on insurance and financial assistance schemes; for primary care, immunisation, and disease control programmes, see 097b and 097c; for maternal, child, and family welfare schemes, see 097d.",
+    "types": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "symptoms": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "warning_signs": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "risk_factors": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "prevention": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "environmental_control": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "vaccination": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "diagnosis": [
+      "Not separately specified or not applicable in the available source text for this topic."
+    ],
+    "treatment_awareness_only": [
+      "Treatment details are for awareness only. Consult a qualified healthcare professional. These schemes provide financial coverage for treatment but do not themselves constitute medical advice."
+    ],
+    "when_to_see_a_doctor": [
+      "Seek medical care for severe, persistent, worsening, or red-flag symptoms regardless of insurance status. Use emergency number 112 for life-threatening situations — emergency care cannot be denied at any hospital regardless of ability to pay or insurance status."
+    ],
+    "india_specific_context": [
+      "Eligibility criteria, coverage amounts, and the list of empanelled hospitals for all schemes on this page change periodically. Always verify current details at pmjay.gov.in, cghs.gov.in, esic.gov.in, or by calling the relevant helpline. State-specific top-up schemes should be confirmed with the respective state health department.",
+      "--- 1. AYUSHMAN BHARAT - PRADHAN MANTRI JAN AROGYA YOJANA (PM-JAY) ---\nFull Name: Pradhan Mantri Jan Arogya Yojana (PM-JAY)\nWhat it is: World's largest government-funded health insurance scheme, launched in 2018.\nCoverage: Up to ₹5 lakh per family per year for secondary and tertiary hospitalisation — covers the entire family with no cap on family size or age.\nWho is eligible: Families identified as vulnerable under the Socio-Economic Caste Census (SECC) 2011 — approximately 12 crore poor and vulnerable families (about 55 crore individuals), covering roughly the bottom 40% of India's population.\nServices covered: Over 1,900 medical and surgical procedures/packages including surgery, cancer care (chemotherapy, radiotherapy), kidney dialysis, cardiac surgery, joint replacement, and ICU care. Pre-existing diseases are covered from day one.\nWhat is NOT covered: Outpatient (OPD) consultations, cosmetic procedures, and organ transplant in some categories — check current package list at pmjay.gov.in.\nHow to check eligibility: Visit pmjay.gov.in, use the \"Am I Eligible\" tool with mobile number/ration card/Aadhaar, or call the PM-JAY helpline 14555 / 1800-111-565.\nHow to get a card: Visit any empanelled hospital, Common Service Centre (CSC), or Ayushman Arogya Mandir (Health and Wellness Centre) with Aadhaar card. Once eligibility is confirmed, an Ayushman card (Golden Card/e-card) is issued free of cost.\nEmpanelled hospitals: Both government and private hospitals are empanelled across India. Cashless and paperless treatment is available at empanelled facilities — no payment should be made for covered procedures.\nPortability: PM-JAY is portable across India — beneficiaries can access cashless treatment at any empanelled hospital in any state, not only their home state.",
+      "--- 2. AYUSHMAN VAY VANDANA CARD (SENIOR CITIZEN COVERAGE, 2024-25 EXPANSION) ---\nWhat it is: A dedicated extension of PM-JAY launched for all senior citizens aged 70 years and above, regardless of income or existing PM-JAY eligibility.\nCoverage: An additional ₹5 lakh per year, separate from and on top of any existing family PM-JAY cover, specifically for the senior citizen(s) in the household aged 70+.\nWho is eligible: All Indian citizens aged 70 years or above — this is a universal scheme for seniors and is not restricted to SECC-listed families.\nHow to apply: Apply through the PM-JAY/Ayushman Bharat portal (pmjay.gov.in) or the Ayushman App using Aadhaar-based verification; a separate Vay Vandana card is issued for the senior citizen.\nWhy it matters: Senior citizens often have the highest hospitalisation costs (cardiac, orthopaedic, cancer care) — this scheme specifically protects households from catastrophic health expenditure linked to elderly care.",
+      "--- 3. CENTRAL GOVERNMENT HEALTH SCHEME (CGHS) ---\nWhat it is: A comprehensive healthcare scheme (established 1954) for serving and retired central government employees and their dependent family members.\nCoverage: Outpatient (OPD) care, inpatient (hospitalisation) care, diagnostics, and medicines through CGHS Wellness Centres and empanelled private hospitals/diagnostic centres in CGHS-covered cities.\nWho is eligible: Central government employees (serving and retired/pensioners), Members of Parliament, certain judges, and freedom fighters; family members as defined under CGHS rules.\nServices: Allopathic, homoeopathic, and AYUSH treatment; cashless treatment for pensioners at empanelled hospitals for many procedures.\nHow to access: Apply for a CGHS card through your department/office (serving employees) or through the CGHS website (pensioners); visit your nearest CGHS Wellness Centre.\nWhere available: CGHS Wellness Centres operate in major cities across India — coverage area is city-specific, so beneficiaries living outside CGHS-covered cities may need to use alternate arrangements (CS-MA for some categories).",
+      "--- 4. EMPLOYEES' STATE INSURANCE SCHEME (ESIC/ESI) ---\nWhat it is: A self-financing social security and health insurance scheme for workers in the organised/formal sector.\nCoverage: Medical care for the employee and dependent family members, sickness benefit (cash compensation during illness), maternity benefit, disability benefit, and dependents' benefit in case of death due to employment injury.\nWho is eligible: Employees earning up to a notified wage ceiling (subject to periodic revision) working in factories and establishments covered under the ESI Act, 1948.\nHow it works: Both employer and employee contribute a small percentage of wages to the ESI fund; employees and their families then receive free treatment at ESIC hospitals/dispensaries and tied-up private hospitals.\nHow to access: Registration is done by the employer; employees receive an ESIC Insurance Number/Pehchan card to access ESIC hospitals and dispensaries.",
+      "--- 5. RASHTRIYA AROGYA NIDHI (RAN) AND HEALTH MINISTRY'S DISCRETIONARY GRANT (HMDG) ---\nWhat it is: A central scheme providing financial assistance to patients living below the poverty line who are suffering from major life-threatening diseases, to obtain treatment at government super-specialty hospitals/institutes.\nCoverage: One-time financial assistance (case-by-case, based on treatment estimate) for conditions such as cancer, heart disease, kidney disease/transplant, and other major illnesses requiring treatment at designated government hospitals (e.g., AIIMS and other central government/state government tertiary hospitals).\nWho is eligible: BPL (Below Poverty Line) patients referred for treatment to one of the listed government hospitals/institutes; assistance is approved through the hospital's Rogi Kalyan Samiti and the RAN/HMDG scheme.\nHow to apply: Apply through the medical superintendent of the treating government hospital, who forwards the case to the Ministry of Health and Family Welfare for approval of financial assistance.\nNote: This scheme is distinct from PM-JAY and is intended as an additional safety net for very high-cost treatments at central government institutions.",
+      "--- 6. STATE-LEVEL HEALTH INSURANCE SCHEMES (EXAMPLES) ---\nMany states run their own health insurance schemes that operate alongside or are converged with PM-JAY:\n- Mukhyamantri/Chief Minister health insurance schemes (various states): Often extend coverage to families not covered under SECC criteria, or provide a higher coverage amount than PM-JAY's ₹5 lakh.\n- Aarogyasri (Telangana/Andhra Pradesh legacy scheme) and similar state cashless treatment schemes for BPL families, which were precursors to or now operate alongside PM-JAY.\n- Yeshasvini (Karnataka): A community-based health insurance scheme originally for cooperative society members/farmers, providing access to surgical and medical care at network hospitals at low premiums.\nHow to access: Check with your state health department or the PM-JAY state portal, as benefits and eligibility for state-specific top-up schemes vary and are periodically updated.",
+      "--- KEY HELPLINES FOR INSURANCE AND FINANCIAL ASSISTANCE SCHEMES ---\n| Helpline | Number | Purpose |\n|---|---|---|\n| Ayushman Bharat PM-JAY | 14555 / 1800-111-565 | Eligibility check, card issuance, grievance |\n| CGHS | Contact nearest CGHS Wellness Centre / cghs.gov.in | CGHS card, empanelled hospital queries |\n| ESIC | Contact nearest ESIC branch office / esic.gov.in | ESI registration, benefits, hospital list |\n| Health Helpline | 104 | General health queries, guidance to nearest facility |\n| Emergency | 112 | Medical, police, fire emergencies |"
+    ],
+    "faqs": [
+      {
+        "question": "How do I check if I am eligible for Ayushman Bharat PM-JAY?",
+        "answer": "Visit pmjay.gov.in, enter your mobile number or ration card/Aadhaar details under the \"Am I Eligible\" tool, or call the PM-JAY helpline at 14555. You can also visit the nearest Ayushman Bharat empanelled hospital, Ayushman Arogya Mandir, or Common Service Centre (CSC) to check eligibility and get your Ayushman card."
+      },
+      {
+        "question": "I am a senior citizen above 70. Do I get any health coverage even if my family is not eligible for PM-JAY?",
+        "answer": "Yes. Under the Ayushman Vay Vandana Card scheme, all citizens aged 70 and above are eligible for an additional ₹5 lakh per year health cover, regardless of their family's PM-JAY/SECC eligibility status. Apply via pmjay.gov.in or the Ayushman App with Aadhaar verification."
+      },
+      {
+        "question": "I am a central government employee. Can I use PM-JAY as well as CGHS?",
+        "answer": "CGHS and PM-JAY are separate schemes with different eligibility criteria — CGHS is specifically for central government employees/pensioners and their dependants, while PM-JAY is for SECC-identified vulnerable families. Generally, central government employees covered under CGHS are not the target group for PM-JAY. Check with your department and pmjay.gov.in for your specific situation."
+      },
+      {
+        "question": "What should I do if a hospital asks me to pay for a treatment that should be covered under PM-JAY?",
+        "answer": "PM-JAY treatment at empanelled hospitals is meant to be cashless and paperless for covered packages. If a hospital demands payment for a covered procedure, contact the PM-JAY helpline (14555) or the Arogya Mitra/help desk at the hospital to raise a grievance — beneficiaries should not be charged for covered treatments at empanelled facilities."
+      },
+      {
+        "question": "Is there any help available if I cannot afford treatment for cancer or a heart condition and am not covered by PM-JAY?",
+        "answer": "The Rashtriya Arogya Nidhi (RAN) and the Health Ministry's Discretionary Grant (HMDG) provide financial assistance to BPL patients for treatment of major life-threatening illnesses at designated government super-specialty hospitals. Speak to the medical superintendent's office or the Rogi Kalyan Samiti at the treating government hospital to apply."
+      }
+    ]
+  }
+}

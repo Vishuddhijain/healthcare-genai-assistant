@@ -1,5 +1,5 @@
 TOPIC: Taeniasis/cysticercosis
-CATEGORY: Sexual Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/taeniasis-cysticercosis
 LAST UPDATED: 11 January 2022
 
@@ -94,3 +94,16 @@ In the case of cysticercosis due to T. solium , the incubation period prior to t
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is cysticercosis and why is it common in India?
+A: Cysticercosis occurs when humans accidentally ingest Taenia solium (pork tapeworm) eggs — through contaminated water, food, or hand-to-mouth contact with an infected person's faeces. The larvae form cysts in muscles and the brain (neurocysticercosis). It is common in India, especially in pork-eating communities with poor sanitation.
+
+Q: Is neurocysticercosis a leading cause of epilepsy in India?
+A: Yes. Neurocysticercosis (NCC) — tapeworm cysts in the brain — is estimated to cause 30% of adult-onset epilepsy in India. It is among the most important preventable causes of seizures. Any person with new-onset seizures in India should be evaluated for NCC.
+
+Q: Do I need to avoid pork to prevent cysticercosis?
+A: Cooking pork thoroughly (70°C internal temperature) kills tapeworm larvae and prevents tapeworm infection (taeniasis). However, cysticercosis (the more dangerous egg stage) can be acquired without eating pork — through contaminated water/vegetables or contact with an infected person's faeces. Hand hygiene and safe water prevent egg transmission.
+
+Q: What is the treatment for taeniasis and cysticercosis?
+A: Taeniasis (intestinal tapeworm): Praziquantel or niclosamide — single dose, doctor-prescribed. Neurocysticercosis: More complex — anti-parasitic drugs (praziquantel/albendazole), anti-epileptic medication, and sometimes surgery — specialist management required. Available at government neurology centres.

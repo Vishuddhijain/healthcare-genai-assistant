@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + ICMR + NHP India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/cancer",
   "topic": "Cancer Awareness (General + Oral Cancer)",
-  "category": "Non-Communicable Disease (Oncology)",
+  "category": "Non-Communicable Disease / Cancer",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -125,7 +125,26 @@
       "PMJAY (Pradhan Mantri Jan Arogya Yojana): Covers treatment costs for many cancer types for eligible beneficiaries",
       "National Cancer Grid (NCG): Network of cancer centres across India for standardised treatment",
       "Tata Memorial Centre and AIIMS cancer centres: National centres of excellence",
-      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+      "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.",
+      "For cancer screening at government HWCs, contact your nearest PHC or call 104. Ayushman Bharat PM-JAY helpline: 14555. Tobacco cessation helpline: 1800-11-2356 (free)."
+    ],
+    "faqs": [
+      {
+        "question": "What are the most common cancers in India?",
+        "answer": "For men: oral/mouth cancer, lung cancer, colorectal cancer, and stomach cancer. For women: breast cancer, cervical cancer, and oral cancer. Tobacco use drives a large proportion of cancers in India â quitting is the single most powerful cancer prevention step."
+      },
+      {
+        "question": "What is the biggest cancer risk factor for Indians?",
+        "answer": "Tobacco â in all forms (cigarettes, bidi, gutka, khaini, paan masala with tobacco) â is the leading cause of cancer in India, responsible for 27% of all cancer deaths. Quitting tobacco at any age significantly reduces cancer risk."
+      },
+      {
+        "question": "Is cancer treatment free in India?",
+        "answer": "Ayushman Bharat PM-JAY covers cancer treatment costs up to â¹5 lakh at empanelled hospitals. Government hospitals like Tata Memorial Centre (Mumbai), AIIMS (Delhi), and regional cancer centres provide treatment to all. Rashtriya Arogya Nidhi provides financial assistance for very poor patients."
+      },
+      {
+        "question": "At what age should cancer screening start?",
+        "answer": "Free screening at government HWCs: oral cancer and breast clinical examination from age 30; cervical cancer (VIA/Pap smear) from age 30-65. For colorectal cancer, colonoscopy screening begins at 45-50. People with family history should consult a doctor for earlier screening."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/older-children-and-young-adolescent-mortality-(5-to-14-years)",
   "topic": "Older children and young adolescent mortality (5 to 14 years)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "28 January 2022",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -56,6 +56,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are the leading causes of death in children aged 5-14 in India?",
+        "answer": "Drowning, road traffic injuries, and violence are the leading causes of injury deaths in this age group. Pneumonia, diarrhoea, and malaria remain significant infectious disease causes. Malnutrition and anaemia contribute to susceptibility to illness."
+      },
+      {
+        "question": "Are school-age children vaccinated in India?",
+        "answer": "India's UIP includes school-entry booster doses: DPT booster and OPV at 5-6 years, Td at 10 years and 16 years. School health programmes (RBSK) screen children for health conditions. If your child missed school vaccinations, visit the nearest government health centre for catch-up."
+      },
+      {
+        "question": "How can I protect my child from road traffic injuries?",
+        "answer": "Always use helmets on bicycles and two-wheelers (insist on proper fitting). Teach road safety rules from an early age. Ensure children are supervised near roads. Children under 12 should sit in back seats. School authorities should ensure road safety around school zones."
+      },
+      {
+        "question": "What mental health support is available for school-age children in India?",
+        "answer": "RBSK (Rashtriya Bal Swasthya Karyakram) screens children for developmental and mental health conditions. School counsellors are being deployed in many government schools. iCall (9152987821) provides counselling for young people. Parents should create open communication about mental health at home."
+      }
     ]
   }
 }

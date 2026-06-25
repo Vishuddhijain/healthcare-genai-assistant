@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/drowning",
   "topic": "Drowning",
-  "category": "Injury and Emergency Awareness",
+  "category": "Injury Prevention / Emergency Awareness",
   "last_updated": "1 May 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -60,6 +60,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Where do most drownings happen in India?",
+        "answer": "Most drownings in India occur in natural water bodies â ponds, rivers, wells, and canals â particularly in rural areas. Children under 5 are at highest risk. Drownings spike during monsoon when water levels rise unpredictably. Many occur close to home."
+      },
+      {
+        "question": "What should I do if someone is drowning?",
+        "answer": "Do NOT jump in unless you are a trained swimmer â you may drown too. Throw a rope, floating object, or extend a pole. Shout for help. Call 112. Once the person is safely out, check for breathing. Begin CPR if not breathing and you are trained. Keep them warm."
+      },
+      {
+        "question": "How can I protect my child from drowning?",
+        "answer": "Never leave children unsupervised near any water. Cover or fence wells and ponds near the home. Teach children to swim at an early age. Keep non-swimmers away from deep water. Life jackets should be worn on boats â even in rivers and lakes."
+      },
+      {
+        "question": "Is CPR effective after drowning?",
+        "answer": "Yes. Immediate CPR after drowning significantly improves survival, especially in children. Even without formal training, hands-only CPR (chest compressions) is better than nothing. Call 112 first, then begin CPR if the person is not breathing."
+      }
     ]
   }
 }

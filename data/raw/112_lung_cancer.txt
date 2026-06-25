@@ -1,5 +1,5 @@
 TOPIC: Lung Cancer
-CATEGORY: Non-Communicable Disease (Oncology)
+CATEGORY: Non-Communicable Disease / Cancer
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/lung-cancer
 LAST UPDATED: 2024
 
@@ -93,3 +93,16 @@ This information is for health awareness only. Lung cancer symptoms often appear
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is lung cancer only caused by smoking?
+A: No. While tobacco smoking (cigarettes and bidi) causes 80-85% of lung cancer cases, other causes include secondhand smoke, indoor air pollution (cooking on solid fuels), radon gas, asbestos exposure, occupational exposures (silica, chromium), and in some cases, no identifiable cause.
+
+Q: What are the early warning signs of lung cancer?
+A: Early lung cancer often has NO symptoms. Warning signs that appear later: persistent cough (lasting more than 3 weeks), coughing blood, shortness of breath, chest pain, hoarseness, unexplained weight loss, and recurrent chest infections. See a doctor for any of these symptoms.
+
+Q: Is lung cancer treatable?
+A: Yes, especially when detected early. Surgery, chemotherapy, radiotherapy, and targeted therapies are available. Early-stage lung cancer has significantly better outcomes. PM-JAY covers lung cancer treatment at empanelled hospitals. Tata Memorial Centre and AIIMS provide comprehensive lung cancer care.
+
+Q: Is low-dose CT screening for lung cancer available in India?
+A: Low-dose CT screening is recommended for heavy smokers aged 50-80 years in many countries. In India, availability at government hospitals is limited, but is available at major government medical colleges and cancer centres. Discuss with a pulmonologist if you are a heavy smoker.

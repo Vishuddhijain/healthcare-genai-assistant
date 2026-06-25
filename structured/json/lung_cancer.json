@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/lung-cancer",
   "topic": "Lung Cancer",
-  "category": "Non-Communicable Disease (Oncology)",
+  "category": "Non-Communicable Disease / Cancer",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -89,6 +89,24 @@
       "National Tobacco Control Programme; COTPA 2003 bans smoking in public places, tobacco advertising",
       "Tata Memorial Centre, AIIMS, and National Cancer Grid hospitals provide specialised lung cancer care",
       "PM Ujjwala Yojana promotes clean cooking fuel to reduce household air pollution-linked lung cancer in women"
+    ],
+    "faqs": [
+      {
+        "question": "Is lung cancer only caused by smoking?",
+        "answer": "No. While tobacco smoking (cigarettes and bidi) causes 80-85% of lung cancer cases, other causes include secondhand smoke, indoor air pollution (cooking on solid fuels), radon gas, asbestos exposure, occupational exposures (silica, chromium), and in some cases, no identifiable cause."
+      },
+      {
+        "question": "What are the early warning signs of lung cancer?",
+        "answer": "Early lung cancer often has NO symptoms. Warning signs that appear later: persistent cough (lasting more than 3 weeks), coughing blood, shortness of breath, chest pain, hoarseness, unexplained weight loss, and recurrent chest infections. See a doctor for any of these symptoms."
+      },
+      {
+        "question": "Is lung cancer treatable?",
+        "answer": "Yes, especially when detected early. Surgery, chemotherapy, radiotherapy, and targeted therapies are available. Early-stage lung cancer has significantly better outcomes. PM-JAY covers lung cancer treatment at empanelled hospitals. Tata Memorial Centre and AIIMS provide comprehensive lung cancer care."
+      },
+      {
+        "question": "Is low-dose CT screening for lung cancer available in India?",
+        "answer": "Low-dose CT screening is recommended for heavy smokers aged 50-80 years in many countries. In India, availability at government hospitals is limited, but is available at major government medical colleges and cancer centres. Discuss with a pulmonologist if you are a heavy smoker."
+      }
     ]
   }
 }

@@ -1,5 +1,5 @@
 TOPIC: Urban health
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/urban-health
 LAST UPDATED: 19 March 2025
 
@@ -60,3 +60,16 @@ Infectious diseases like COVID-19, tuberculosis, dengue and diarrhoea thrive in 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What are the unique health challenges of living in Indian cities?
+A: Urban Indians face: air pollution (major health risk), urban heat islands, mental health stress, sedentary lifestyles, traffic accident risk, poor housing and sanitation in slums, food insecurity, and NCDs (diabetes, hypertension, heart disease). Rural-to-urban migrants face additional barriers to healthcare access.
+
+Q: Is healthcare easily accessible in Indian cities?
+A: Access varies dramatically. Upper and middle-income urban residents generally have good access to private healthcare. Urban poor — particularly slum residents — face barriers including distance, cost, lack of documentation, and discrimination. Government primary health centres and dispensaries exist but are often overcrowded.
+
+Q: What is an Urban Health Centre (UHC) in India?
+A: Urban Health Centres (UHCs) are government-run primary healthcare facilities for urban populations, particularly urban poor and slum residents. They provide free outpatient care, maternal and child health services, immunisation, and NCDs screening. Look for your nearest UHC through your local municipal corporation.
+
+Q: How does urban planning affect health in Indian cities?
+A: Cities designed for cars rather than people reduce physical activity, increase pollution, and create heat islands. Green spaces improve mental health and air quality. Walkable neighbourhoods increase physical activity. Safe water and sanitation in slums prevent disease. Urban planning decisions are public health decisions.

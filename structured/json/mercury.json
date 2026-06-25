@@ -52,6 +52,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is mercury in fish dangerous?",
+        "answer": "Large, long-lived predatory fish (shark, swordfish, large tuna) accumulate high mercury levels. Regular consumption of these fish poses health risks — especially for pregnant women and young children (mercury affects developing brains). In India, smaller fish (sardines, mackerel, rohu) have much lower mercury levels and are safe."
+      },
+      {
+        "question": "Is mercury in thermometers dangerous?",
+        "answer": "Liquid mercury thermometers contain small amounts of mercury. A broken thermometer can release mercury vapour — ventilate the room immediately, avoid touching mercury with bare hands, collect using tape and seal in a container, and contact local authorities for disposal. Many hospitals have switched to digital thermometers."
+      },
+      {
+        "question": "Are certain Ayurvedic medicines dangerous due to mercury?",
+        "answer": "Yes. Some traditional Ayurvedic preparations (Rasa Shastra formulations containing Parada/mercury, Kajal, and other compounds) contain heavy metals including mercury, lead, and arsenic. Only use AYUSH-approved, licensed Ayurvedic medicines. Report adverse effects from traditional medicines to pharmacovigilance authorities."
+      },
+      {
+        "question": "How does mercury affect health?",
+        "answer": "Mercury is a potent neurotoxin. Exposure causes tremors, memory loss, cognitive impairment, sensory disturbances, and kidney damage. Developing brains (foetuses, young children) are most vulnerable. Methylmercury from fish accumulates in the body over time — limit high-mercury fish consumption."
+      }
     ]
   }
 }

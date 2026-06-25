@@ -61,6 +61,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is HTLV-1 and is it found in India?",
+        "answer": "Human T-Lymphotropic Virus Type 1 (HTLV-1) is a retrovirus that causes adult T-cell leukaemia/lymphoma (ATL) and HTLV-1-associated myelopathy (HAM), a progressive neurological disease. India has reported HTLV-1 in specific populations â studies show prevalence in some tribal communities and among sex workers."
+      },
+      {
+        "question": "How does HTLV-1 spread?",
+        "answer": "HTLV-1 spreads through: breastfeeding (primary route), sexual contact, blood transfusion, and sharing needles. Transmission is similar to HIV but less efficient. Avoiding risky behaviours significantly reduces transmission."
+      },
+      {
+        "question": "What are the symptoms of HTLV-1 infection?",
+        "answer": "Most people with HTLV-1 (95%) remain asymptomatic for life. About 5% develop ATL (blood cancer) or HAM (spinal cord disease causing progressive leg weakness, bladder problems) â typically decades after infection. Regular monitoring is recommended for those who test positive."
+      },
+      {
+        "question": "Is there a vaccine or treatment for HTLV-1?",
+        "answer": "There is no vaccine for HTLV-1. ATL is treated with chemotherapy and bone marrow transplant (with limited success). HAM is managed with corticosteroids and antiretrovirals (partial benefit). Prevention through blood screening and reducing high-risk behaviours is the primary strategy."
+      }
     ]
   }
 }

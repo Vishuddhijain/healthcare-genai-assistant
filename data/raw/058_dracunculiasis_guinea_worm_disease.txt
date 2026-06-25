@@ -1,5 +1,5 @@
 TOPIC: Dracunculiasis (Guinea-worm disease)
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/dracunculiasis-(guinea-worm-disease)
 LAST UPDATED: 30 January 2025
 
@@ -63,3 +63,16 @@ Dracunculiasis, also called Guinea-worm disease, is a parasitic disease transmit
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is guinea worm disease present in India?
+A: Guinea worm disease has been eradicated from India â India was certified guinea worm-free in 2000. It persists only in a handful of countries in sub-Saharan Africa. Global eradication efforts are ongoing and near-complete.
+
+Q: How was guinea worm eliminated?
+A: Eradication was achieved without any vaccine or medicine â solely through behaviour change (filtering drinking water) and surveillance. This makes guinea worm eradication one of the greatest public health achievements driven by community-level intervention.
+
+Q: What are the symptoms of guinea worm disease?
+A: One year after infection, a slow-growing blister forms on the skin (usually the foot or leg) as a long worm (up to 1 metre) emerges over weeks. The process is extremely painful and can cause secondary infections leading to disability.
+
+Q: Can guinea worm come back to India?
+A: Risk is very low but not zero given global travel. Maintaining drinking water safety and surveillance for imported cases is important. Any unusual skin lesion with a worm-like structure in a traveller from endemic areas should be reported to public health authorities.

@@ -1,5 +1,5 @@
 TOPIC: Pesticide residues in food
-CATEGORY: Sexual Health / STI Awareness
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/pesticide-residues-in-food
 LAST UPDATED: 15 September 2022
 
@@ -70,3 +70,16 @@ The toxicity of a pesticide depends on its function and other factors. For examp
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Are pesticide residues in Indian fruits and vegetables dangerous?
+A: Pesticide residues below regulatory Maximum Residue Limits (MRLs) set by FSSAI are not considered immediately dangerous. However, some Indian produce — particularly green leafy vegetables, apples, and grapes — have been found with residues exceeding safe limits in surveillance studies. Long-term exposure to multiple residues at high levels raises health concerns.
+
+Q: How can I reduce pesticide exposure from food?
+A: Wash all fruits and vegetables thoroughly under running water (even those with peels you won't eat). Peeling removes surface residues. Soak leafy vegetables in 2% salt water for 15 minutes then rinse. Blanching vegetables reduces residue. Choose locally grown, seasonal produce. Consider organic for highest-risk items (strawberries, grapes, apples).
+
+Q: Is organic produce always free from pesticide residues?
+A: Not necessarily. Organic farming uses approved natural pesticides, which can also have residues. However, organic produce generally has lower synthetic pesticide residues. The most important factor is washing all produce thoroughly regardless of whether it is organic or conventional.
+
+Q: Is FSSAI monitoring pesticide residues in India?
+A: Yes. FSSAI conducts regular food safety surveillance including pesticide residue testing. Food Business Operators must comply with MRLs. Violations can result in product recall and penalties. Report suspected food safety issues to FSSAI at 1800-11-2100 or fssai.gov.in.

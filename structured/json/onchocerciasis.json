@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/onchocerciasis",
   "topic": "Onchocerciasis",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "4 December 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -62,6 +62,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is onchocerciasis (river blindness) found in India?",
+        "answer": "Onchocerciasis is primarily endemic to sub-Saharan Africa and Yemen. India is not currently considered endemic for onchocerciasis. The disease is caused by Onchocerca volvulus worms spread by Simulium blackfly bites near fast-flowing rivers."
+      },
+      {
+        "question": "What are the symptoms of onchocerciasis?",
+        "answer": "Skin: intense itching (often the first and most distressing symptom), skin nodules, skin depigmentation and thickening. Eyes: progressive visual deterioration leading to blindness (hence 'river blindness'). Symptoms develop years after infection as worms produce microfilariae that migrate to the skin and eyes."
+      },
+      {
+        "question": "How is onchocerciasis treated?",
+        "answer": "Ivermectin (donated by Merck as Mectizan) is the primary treatment, given annually in community-based mass drug administration. It kills microfilariae and reduces symptoms but does not kill adult worms. The Global Programme to Eliminate Onchocerciasis has dramatically reduced prevalence globally."
+      },
+      {
+        "question": "Why is awareness about onchocerciasis important in India?",
+        "answer": "India receives travellers, migrant workers, and refugees from endemic regions. Healthcare professionals should consider onchocerciasis in patients with chronic itching or visual disturbance who have lived or worked in West/Central Africa."
+      }
     ]
   }
 }

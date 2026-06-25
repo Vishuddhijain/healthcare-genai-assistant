@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/salmonella-(non-typhoidal)",
   "topic": "Salmonella (non-typhoidal)",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "20 February 2018",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -67,6 +67,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is salmonella only from chicken and eggs?",
+        "answer": "Salmonella can contaminate many foods: raw or undercooked poultry and eggs (most common), raw milk, sprouts, raw vegetables contaminated with animal manure, and fruits. In India, contaminated street food and water are also significant sources."
+      },
+      {
+        "question": "What are the symptoms of salmonella food poisoning?",
+        "answer": "Symptoms appear 6-72 hours after eating contaminated food: diarrhoea (may be bloody), fever, abdominal cramps, nausea, and vomiting. Most cases resolve within 4-7 days without treatment. Severe or bloody diarrhoea with high fever needs medical attention."
+      },
+      {
+        "question": "When does salmonella require antibiotic treatment?",
+        "answer": "Most healthy adults recover without antibiotics. Antibiotics are recommended for: infants, elderly, immunocompromised individuals, people with severe illness, and when infection has spread beyond the gut (bacteraemia). A doctor determines necessity — do not self-prescribe antibiotics."
+      },
+      {
+        "question": "How can I prevent salmonella from eggs?",
+        "answer": "Cook eggs until both white and yolk are firm (fully cooked). Refrigerate eggs promptly. Wash hands after handling raw eggs. Avoid dishes with raw or lightly cooked eggs (certain chutneys, half-boiled eggs) from uncertain sources. Commercial pasteurised eggs are safer for vulnerable individuals."
+      }
     ]
   }
 }

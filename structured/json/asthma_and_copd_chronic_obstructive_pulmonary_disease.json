@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheets + NHP India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/asthma",
   "topic": "Asthma and COPD (Chronic Obstructive Pulmonary Disease)",
-  "category": "Non-Communicable Disease (Respiratory)",
+  "category": "Non-Communicable Disease / Respiratory",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -123,6 +123,24 @@
       "Post-TB obstructive lung disease is a significant unrecognised cause of COPD in India",
       "National Programme for NCD (NPNCD): Provides free spirometry and respiratory care at select government facilities",
       "Free inhalers available at some government dispensaries/CHCs"
+    ],
+    "faqs": [
+      {
+        "question": "Are inhalers addictive or harmful with long-term use?",
+        "answer": "No. Inhalers prescribed for asthma and COPD are not addictive. Long-term controller inhalers (corticosteroids) in inhaled form are safe when used as prescribed. Many people avoid them due to stigma â this is dangerous. Always follow your doctor's advice."
+      },
+      {
+        "question": "Can yoga or pranayama cure asthma?",
+        "answer": "Breathing exercises like pranayama can improve lung capacity and symptom control as complementary therapy, but they cannot cure asthma or replace prescribed inhalers. Always continue prescribed medication alongside any complementary practice."
+      },
+      {
+        "question": "What triggers should an asthma patient avoid in India?",
+        "answer": "Common triggers in India include dust, pollen, cockroaches, pet dander, smoke (tobacco and biomass), strong perfumes, cold air, and air pollution. During high AQI days, stay indoors and follow your asthma action plan."
+      },
+      {
+        "question": "COPD is not curable â is there any point in treating it?",
+        "answer": "Absolutely yes. While COPD damage cannot be reversed, treatment (inhalers, pulmonary rehabilitation, quitting smoking) significantly slows progression, reduces breathlessness, prevents hospitalisations, and improves quality of life. Early treatment gives the best outcomes."
+      }
     ]
   }
 }

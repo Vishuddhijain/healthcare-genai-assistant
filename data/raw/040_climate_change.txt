@@ -71,3 +71,16 @@ Climate change is also having an impact on our health workforce and infrastructu
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How does climate change directly affect my health in India?
+A: Climate change worsens heat waves (more deaths from heatstroke), intensifies floods and droughts, extends dengue and malaria seasons, increases air pollution, and reduces crop yields leading to food insecurity. India's health burden from climate change is among the highest globally.
+
+Q: What can I do personally to protect my health from climate change?
+A: Stay informed about heat wave alerts (IMD/NDMA), stay hydrated in summer, use mosquito protection year-round (dengue season now extends longer), eat local and seasonal produce, and reduce your carbon footprint (public transport, less meat, energy efficiency).
+
+Q: Are diseases like dengue getting worse because of climate change?
+A: Yes. Warmer temperatures and unpredictable rainfall create longer and more intense transmission seasons for mosquito-borne diseases like dengue, malaria, and chikungunya. Areas previously too cold for these mosquitoes are now becoming endemic.
+
+Q: How is India responding to climate change health risks?
+A: India's National Action Plan on Climate Change includes health adaptation measures. State-level Heat Action Plans, early warning systems, and expanded vector control programmes are being implemented. India has also committed to net-zero emissions by 2070.

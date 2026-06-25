@@ -1,5 +1,5 @@
 TOPIC: Corporal punishment of children and health
-CATEGORY: Injury and Violence Prevention
+CATEGORY: Injury Prevention / Emergency Awareness
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/corporal-punishment-and-health
 LAST UPDATED: 11 May 2026
 
@@ -78,3 +78,16 @@ Other non-physical forms of punishment can be cruel and degrading. They are also
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is hitting or beating children for discipline legal in India?
+A: No. Section 17 of the Right to Education Act (RTE) 2009 prohibits corporal punishment in schools. The Juvenile Justice Act and POCSO Act also protect children from physical harm. Corporal punishment in schools is illegal â report violations to school authorities or district education offices.
+
+Q: How does corporal punishment affect a child's mental health?
+A: Research consistently shows corporal punishment increases aggression, anxiety, depression, and low self-esteem in children. It damages the parent-child or teacher-child relationship and teaches children that violence is an acceptable problem-solving tool.
+
+Q: What are positive alternatives to physical discipline?
+A: Positive parenting techniques include natural consequences, time-out, logical consequences, redirection, praising positive behaviour, and clear consistent rules. These are more effective than punishment and build healthier relationships. Parenting skill programmes are available at government Anganwadi and social welfare centres.
+
+Q: How do I report corporal punishment in my child's school?
+A: Report to the school principal first. If unresolved, file a complaint with the District Education Officer or the State Child Rights Commission (SCPCR). You can also contact CHILDLINE at 1098 for guidance.

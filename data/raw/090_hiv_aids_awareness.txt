@@ -1,5 +1,5 @@
 TOPIC: HIV/AIDS Awareness
-CATEGORY: Communicable Disease (Blood-Borne / Sexually Transmitted)
+CATEGORY: Communicable Disease / STI
 SOURCE: WHO Fact Sheet + NACO India - https://www.who.int/news-room/fact-sheets/detail/hiv-aids | naco.gov.in
 LAST UPDATED: 2024
 
@@ -162,3 +162,16 @@ This information is for health awareness only. HIV testing is free and confident
 
 --- INDIA-SPECIFIC CONTEXT ---
 - Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Can HIV spread through mosquito bites?
+A: No. HIV cannot spread through mosquito bites, coughing, sneezing, hugging, sharing food, or toilet seats. HIV is fragile outside the human body â it only spreads through specific bodily fluids: blood, semen, vaginal fluid, breast milk, and from mother to child.
+
+Q: If I take PrEP, do I still need to use condoms?
+A: PrEP (Pre-Exposure Prophylaxis) is highly effective at preventing HIV when taken daily, but does not protect against other STIs (gonorrhoea, chlamydia, herpes, syphilis). Condoms protect against both HIV and other STIs. Using both together provides the most comprehensive protection.
+
+Q: Is HIV testing free and confidential in India?
+A: Yes. HIV testing at government ICTCs (Integrated Counselling and Testing Centres) is completely free and strictly confidential. No one can access your results without your consent. Walk in to any government hospital ICTC. You can also test anonymously.
+
+Q: Can a person with HIV have children?
+A: Yes. With proper ART treatment and medical support, HIV-positive women can have healthy, HIV-negative babies. The PMTCT (Prevention of Mother to Child Transmission) programme reduces transmission risk to below 2%. Consult a doctor before and during pregnancy.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/blood-safety-and-availability",
   "topic": "Blood safety and availability",
-  "category": "Health Systems / Patient Safety",
+  "category": "Health Systems",
   "last_updated": "30 May 2025",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -62,6 +62,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Who can donate blood in India?",
+        "answer": "Anyone between 18-65 years, weighing at least 45 kg, in good health, with haemoglobin above 12.5 g/dL (women) or 13 g/dL (men) can donate blood. You should not have donated blood in the past 3 months. People with certain conditions (HIV, Hepatitis B/C, active infections) cannot donate."
+      },
+      {
+        "question": "Is blood donation safe? Will I get an infection from donating?",
+        "answer": "Yes, blood donation is completely safe. Sterile, single-use needles and equipment are used â you cannot get any infection from donating blood at a licensed blood bank. Each donation uses new sterile equipment."
+      },
+      {
+        "question": "Where can I donate blood in India?",
+        "answer": "You can donate at government hospital blood banks, licensed private blood banks, and during blood donation camps. To find the nearest blood bank: eraktkosh.in (National Blood Bank Portal) or call 104. Voluntary, unpaid blood donation is encouraged."
+      },
+      {
+        "question": "How long does it take to recover after donating blood?",
+        "answer": "Your body replaces the fluid within 24-48 hours. Red blood cells are replenished within 4-8 weeks. You can donate every 3 months (men) or every 4 months (women). Drink extra fluids and avoid strenuous activity on the day of donation."
+      }
     ]
   }
 }

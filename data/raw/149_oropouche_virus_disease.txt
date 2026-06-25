@@ -67,3 +67,16 @@ The virus is transmitted to people through the bite of an infected insect, usual
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is Oropouche virus disease and is it in India?
+A: Oropouche virus disease is a tropical arboviral illness caused by Oropouche orthobunyavirus, spread primarily by biting midges (Culicoides paraensis). It is endemic to South America and the Caribbean. India is not currently endemic but has been on alert since a 2024 outbreak in Brazil spread to travellers.
+
+Q: What are the symptoms of Oropouche fever?
+A: Sudden fever, severe headache, joint and muscle pain, photophobia (light sensitivity), nausea, and vomiting — similar to dengue. Most recover within a week. Rarely, neurological complications (meningitis, encephalitis) occur. Differentiation from dengue requires laboratory testing.
+
+Q: How does Oropouche virus spread?
+A: Primarily through the bite of infected Culicoides biting midges (also called no-see-ums). Some transmission by Culex mosquitoes. It does NOT spread person-to-person in most cases. A 2024 concern was about potential vertical transmission (mother to foetus) requiring further study.
+
+Q: How can I protect myself from Oropouche if travelling to endemic areas?
+A: Use insect repellent (DEET/picaridin), wear long-sleeved protective clothing, stay in screened or air-conditioned accommodation, and use fine-mesh window screens (midges are smaller than mosquitoes and can pass through standard mosquito nets).

@@ -1,5 +1,5 @@
 TOPIC: Chagas disease (also known as American trypanosomiasis)
-CATEGORY: Infectious Disease Awareness
+CATEGORY: Communicable Disease
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/chagas-disease-(american-trypanosomiasis)
 LAST UPDATED: 8 April 2026
 
@@ -78,3 +78,16 @@ Chagas disease is named after Carlos Chagas, a Brazilian physician and researche
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Is Chagas disease found in India?
+A: Chagas disease is primarily endemic to Latin America, not India. It is caused by Trypanosoma cruzi spread by triatomine bugs (kissing bugs). However, it can be imported through travellers. It is included in awareness files as India receives international travellers and migrants.
+
+Q: How does Chagas disease spread?
+A: It spreads through the bite of infected triatomine bugs (which defecate near the bite wound), blood transfusion, organ transplant, from mother to child during pregnancy, and rarely through contaminated food. It does not spread through casual contact.
+
+Q: What are the symptoms of Chagas disease?
+A: Acute phase (first weeks): fever, swelling near the bug bite, fatigue, rash, body aches. Chronic phase (years later, in 30% of patients): heart disease, enlarged oesophagus or colon. Many people have no symptoms in the acute phase.
+
+Q: Is Chagas disease treatable?
+A: Yes, especially in the acute phase. Antiparasitic drugs (benznidazole, nifurtimox) are effective early on. Chronic-phase heart disease is managed with cardiac medications. Diagnosis and treatment at government tropical disease hospitals.

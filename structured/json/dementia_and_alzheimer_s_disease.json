@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/dementia",
   "topic": "Dementia and Alzheimer's Disease",
-  "category": "Mental Health / Neurological / Ageing",
+  "category": "Mental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -97,6 +97,24 @@
     ],
     "india_specific_context": [
       "Confirm current India-specific guidance through MoHFW, NHM, NHP, ICMR/NCDC, NIMHANS, or relevant state health services where applicable."
+    ],
+    "faqs": [
+      {
+        "question": "Is memory loss always dementia?",
+        "answer": "No. Many conditions cause memory problems including vitamin B12 deficiency, thyroid disorders, depression, and medication side effects — all treatable. Always see a doctor to rule out reversible causes."
+      },
+      {
+        "question": "Can young people get dementia?",
+        "answer": "Yes. Early-onset dementia (before 65 years) accounts for about 9% of cases. It is less common but does occur."
+      },
+      {
+        "question": "Is dementia hereditary?",
+        "answer": "Most dementia is not directly hereditary. However, having a first-degree relative (parent or sibling) with Alzheimer's does increase risk. Rare genetic forms (e.g., APOE-e4 gene) do exist."
+      },
+      {
+        "question": "Should someone with dementia be put in a nursing home?",
+        "answer": "This depends on the individual's needs, family situation, and local resources. Many families in India care for dementia patients at home. ARDSI offers guidance and support for both options."
+      }
     ]
   }
 }

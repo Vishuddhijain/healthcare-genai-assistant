@@ -1,5 +1,5 @@
 TOPIC: Post COVID-19 condition (long COVID)
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/post-covid-19-condition-(long-covid)
 LAST UPDATED: 26 February 2025
 
@@ -68,3 +68,16 @@ COVID-19 can lead to serious long-term effects, known as post COVID-19 condition
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is Long COVID and is it common?
+A: Long COVID (Post-COVID-19 Condition) is characterised by persistent symptoms lasting more than 12 weeks after acute COVID-19 infection that cannot be explained by another diagnosis. It affects an estimated 10-20% of COVID-19 survivors. Common in India but significantly underdiagnosed.
+
+Q: What are the most common Long COVID symptoms?
+A: Fatigue (most common — often debilitating), shortness of breath, cognitive difficulties ('brain fog' — memory, concentration problems), post-exertional malaise (symptoms worsen after activity), headache, sleep disturbance, joint pain, heart palpitations, and anxiety/depression.
+
+Q: Is Long COVID treatable?
+A: There is no specific cure but management is improving. Rehabilitation (physiotherapy, occupational therapy, pulmonary rehab) significantly helps. Pacing (avoiding boom-bust activity cycles) is critical. Manage individual symptoms (sleep, pain, mood). Consult a doctor — do not push through fatigue.
+
+Q: Where can Long COVID patients get help in India?
+A: Post-COVID clinics have been established at AIIMS Delhi, major government medical colleges, and many district hospitals. Tele MANAS (14416) provides mental health support for Long COVID. Document your symptoms thoroughly and seek specialist referral from a general physician.

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/icd-11",
   "topic": "ICD-11",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "10 February 2022",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -65,6 +65,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is ICD-11 and why is it important for patients?",
+        "answer": "ICD-11 (International Classification of Diseases, 11th Revision) is WHO's global standard for classifying diseases, health conditions, and causes of death. It matters for patients because it determines how conditions are coded for insurance claims, hospital records, and public health statistics in India."
+      },
+      {
+        "question": "Did ICD-11 change the classification of any major conditions?",
+        "answer": "Yes. ICD-11 reclassified gender incongruence from a mental disorder to a condition of sexual health. Gaming disorder was added as a new condition. Burnout was formally defined as an occupational phenomenon. These changes reduce stigma and improve health system responses."
+      },
+      {
+        "question": "When did India adopt ICD-11?",
+        "answer": "India has been transitioning to ICD-11 implementation from January 2022 (WHO's global implementation date). Healthcare providers and insurance companies in India are adopting the new coding system progressively."
+      },
+      {
+        "question": "How does ICD-11 affect health insurance claims in India?",
+        "answer": "Insurance companies use ICD codes to process claims. ICD-11 introduces more precise codes, which may affect claim processing. Patients should ensure their diagnosis documentation uses correct ICD codes. Contact your insurer if you face claim issues related to coding."
+      }
     ]
   }
 }

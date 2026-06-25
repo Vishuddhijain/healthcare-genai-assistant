@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/gambling",
   "topic": "Gambling Disorder (Problem Gambling)",
-  "category": "Mental Health / Behavioural Addiction",
+  "category": "Mental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -96,6 +96,20 @@
       "Gambling disorder awareness and treatment services are limited in India but growing.",
       "The Public Gambling Act 1867 (central law) bans most gambling; states have their own regulations.",
       "Cryptocurrency and stock trading can exhibit gambling-like patterns in susceptible individuals."
+    ],
+    "faqs": [
+      {
+        "question": "Is gambling disorder a sign of weakness or moral failure?",
+        "answer": "No. Gambling disorder is a recognised mental health condition involving brain changes in reward and impulse control systems — similar to substance addictions. It is not a moral failure. Treatment helps."
+      },
+      {
+        "question": "My family member gambles but says they can stop anytime. Is that a problem?",
+        "answer": "Claiming control while continuing despite consequences is a classic feature of gambling disorder. Denial is common. Encourage them to speak to a mental health professional."
+      },
+      {
+        "question": "Can a young person develop gambling disorder?",
+        "answer": "Yes. Young adults are among the highest-risk groups, especially with online gambling accessibility. Early intervention is important."
+      }
     ]
   }
 }

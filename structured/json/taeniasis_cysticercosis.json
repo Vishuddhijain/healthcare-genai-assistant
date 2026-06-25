@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/taeniasis-cysticercosis",
   "topic": "Taeniasis/cysticercosis",
-  "category": "Sexual Health / STI Awareness",
+  "category": "Communicable Disease / STI",
   "last_updated": "11 January 2022",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -82,6 +82,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is cysticercosis and why is it common in India?",
+        "answer": "Cysticercosis occurs when humans accidentally ingest Taenia solium (pork tapeworm) eggs — through contaminated water, food, or hand-to-mouth contact with an infected person's faeces. The larvae form cysts in muscles and the brain (neurocysticercosis). It is common in India, especially in pork-eating communities with poor sanitation."
+      },
+      {
+        "question": "Is neurocysticercosis a leading cause of epilepsy in India?",
+        "answer": "Yes. Neurocysticercosis (NCC) — tapeworm cysts in the brain — is estimated to cause 30% of adult-onset epilepsy in India. It is among the most important preventable causes of seizures. Any person with new-onset seizures in India should be evaluated for NCC."
+      },
+      {
+        "question": "Do I need to avoid pork to prevent cysticercosis?",
+        "answer": "Cooking pork thoroughly (70°C internal temperature) kills tapeworm larvae and prevents tapeworm infection (taeniasis). However, cysticercosis (the more dangerous egg stage) can be acquired without eating pork — through contaminated water/vegetables or contact with an infected person's faeces. Hand hygiene and safe water prevent egg transmission."
+      },
+      {
+        "question": "What is the treatment for taeniasis and cysticercosis?",
+        "answer": "Taeniasis (intestinal tapeworm): Praziquantel or niclosamide — single dose, doctor-prescribed. Neurocysticercosis: More complex — anti-parasitic drugs (praziquantel/albendazole), anti-epileptic medication, and sometimes surgery — specialist management required. Available at government neurology centres."
+      }
     ]
   }
 }

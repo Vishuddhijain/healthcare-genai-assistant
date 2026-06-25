@@ -60,6 +60,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is RSV and who does it most affect?",
+        "answer": "Respiratory Syncytial Virus (RSV) is a common respiratory virus that causes cold-like illness in adults but severe bronchiolitis (small airway inflammation) and pneumonia in infants and young children. Almost all children have RSV infection by age 2. It is a leading cause of hospitalisation in infants globally."
+      },
+      {
+        "question": "What are the warning signs of severe RSV in an infant?",
+        "answer": "Rapid breathing (count breaths per minute), chest indrawing (ribs visible with each breath), bluish lips or skin, extreme difficulty feeding, exhaustion, and wheezing. These are emergency signs — go to hospital immediately or call 112."
+      },
+      {
+        "question": "Is there a vaccine for RSV?",
+        "answer": "An RSV vaccine for adults 60+ (Arexvy, Abrysvo) was approved in 2023 and is being rolled out globally. A maternal RSV vaccine (Abrysvo) protects newborns through maternal antibodies. Nirsevimab (monoclonal antibody) protects high-risk infants. These are not yet part of India's UIP but availability is increasing."
+      },
+      {
+        "question": "How is RSV treated?",
+        "answer": "For most infants: supportive care — ensure adequate hydration, keep nasal passages clear, monitor breathing. Hospitalisation for severe cases with supplemental oxygen and sometimes ventilatory support. Antibiotics are NOT effective (RSV is a virus). Free treatment at government hospitals for severe cases."
+      }
     ]
   }
 }

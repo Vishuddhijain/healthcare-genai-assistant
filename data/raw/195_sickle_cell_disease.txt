@@ -1,5 +1,5 @@
 TOPIC: Sickle-cell disease
-CATEGORY: Public Health Awareness
+CATEGORY: Public Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease
 LAST UPDATED: 6 August 2025
 
@@ -82,3 +82,16 @@ Sickle-cell disease (SCD) is a genetic disorder that affects haemoglobin, the mo
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: What is sickle cell disease and who is most affected in India?
+A: Sickle cell disease (SCD) is an inherited blood disorder where red blood cells become rigid and sickle-shaped, blocking blood flow and causing pain, organ damage, and anaemia. In India, it predominantly affects tribal communities in Maharashtra, Gujarat, Chhattisgarh, Madhya Pradesh, Odisha, and Jharkhand — with some of the world's highest carrier rates.
+
+Q: What are the symptoms of sickle cell disease?
+A: Painful crises (sudden severe pain in bones, chest, or abdomen), chronic anaemia (fatigue, pallor), recurrent infections (bacterial), stroke risk, acute chest syndrome (life-threatening), and organ damage over time. Symptoms vary widely — some patients have frequent crises, others fewer.
+
+Q: Is sickle cell disease curable?
+A: Bone marrow/stem cell transplantation can cure SCD but is available to only a small fraction of patients. Hydroxyurea reduces crisis frequency significantly. Newer gene therapies are showing promise but not yet widely available in India. Supportive treatment (pain management, infection prevention, blood transfusion) is the mainstay.
+
+Q: Is there a government programme for sickle cell disease in India?
+A: Yes. The National Sickle Cell Anaemia Elimination Mission (launched 2023) aims to eliminate SCD by 2047 through universal screening, counselling, and treatment. Free screening, genetic counselling, and treatment are being rolled out in tribal districts. Contact your district health officer or tribal health centre.

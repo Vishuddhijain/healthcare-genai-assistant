@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat",
   "topic": "Trans fat",
-  "category": "Preventive Care and Wellness",
+  "category": "Public Health / Preventive Care",
   "last_updated": "24 January 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -51,6 +51,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What are trans fats and are they found in Indian food?",
+        "answer": "Trans fats are partially hydrogenated vegetable oils that raise bad cholesterol (LDL) and lower good cholesterol (HDL) — strongly linked to heart disease. In India, vanaspati (partially hydrogenated vegetable ghee), commercially baked goods, fried street food, and some packaged snacks contain trans fats."
+      },
+      {
+        "question": "Has India regulated trans fats?",
+        "answer": "Yes. FSSAI reduced the maximum limit for trans fats in oils and fats to 2% (from 5%) effective 2022 — aligned with WHO guidelines. Partially hydrogenated oils are being phased out. However, compliance monitoring in the street food and small-scale food sector is still evolving."
+      },
+      {
+        "question": "How can I reduce trans fat consumption in India?",
+        "answer": "Avoid vanaspati ghee for cooking — use filtered groundnut oil, mustard oil, or sunflower oil instead. Limit commercially baked goods (certain biscuits, cakes, namkeen), fried fast food, and packaged snacks. Check food labels for 'partially hydrogenated' in the ingredients list — this indicates trans fat."
+      },
+      {
+        "question": "How much trans fat is safe to eat daily?",
+        "answer": "WHO recommends less than 1% of total daily calories from trans fats — approximately 2.2 grams for a 2000-calorie diet. The ideal is zero trans fat from industrial sources. Natural trans fats in small amounts from dairy and meat are not considered harmful."
+      }
     ]
   }
 }

@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/parkinson-disease",
   "topic": "Parkinson disease",
-  "category": "Neurological Health",
+  "category": "Non-Communicable Disease / Neurological",
   "last_updated": "9 August 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -63,6 +63,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is Parkinson's disease and how common is it in India?",
+        "answer": "Parkinson's disease is a progressive neurological disorder affecting movement, caused by loss of dopamine-producing brain cells. India has approximately 1.1 million people with Parkinson's — the second largest burden globally. Cases are rising with India's ageing population."
+      },
+      {
+        "question": "What are the earliest signs of Parkinson's disease?",
+        "answer": "Very early signs (pre-motor): loss of smell, constipation, REM sleep behaviour disorder, and small handwriting (micrographia). Motor signs (most recognised): resting tremor (hand trembling at rest), slowness of movement (bradykinesia), muscle stiffness (rigidity), and balance problems. Tremor is NOT always present."
+      },
+      {
+        "question": "Is Parkinson's disease treatable?",
+        "answer": "Yes. While not curable, Parkinson's symptoms respond well to treatment — particularly levodopa (the mainstay medication). Physiotherapy, speech therapy, and occupational therapy significantly maintain function and quality of life. Deep brain stimulation (DBS) is available for advanced cases at government neuroscience centres."
+      },
+      {
+        "question": "Where can Parkinson's patients and families get support in India?",
+        "answer": "Parkinson's Disease and Movement Disorder Society of India (PDMDS): pdmds.org. Government neurology departments at medical colleges provide specialist care. Caregiving support and exercise programmes are available through PDMDS chapters in major cities."
+      }
     ]
   }
 }

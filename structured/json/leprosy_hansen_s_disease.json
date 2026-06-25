@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/leprosy",
   "topic": "Leprosy (Hansen's Disease)",
-  "category": "Communicable Disease (Bacterial NTD)",
+  "category": "Communicable Disease / Neglected Tropical Disease",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -64,6 +64,24 @@
       "National Leprosy Eradication Programme (NLEP): Free MDT at all government health facilities",
       "Leprosy is curable — discrimination is being addressed through legal reforms (removal of discriminatory provisions from various Acts)",
       "District leprosy offices coordinate case detection and treatment"
+    ],
+    "faqs": [
+      {
+        "question": "Is leprosy still a problem in India?",
+        "answer": "Yes. India accounts for about 60% of all new global leprosy cases. While India achieved official elimination (less than 1 case per 10,000) nationally in 2005, some states and districts still have high case loads. Free detection and treatment under the National Leprosy Eradication Programme (NLEP)."
+      },
+      {
+        "question": "Is leprosy highly contagious?",
+        "answer": "No. Leprosy is one of the least contagious infectious diseases. About 95% of people have natural immunity. Prolonged close contact with an untreated patient is required for transmission. Casual contact — handshaking, sitting together, sharing meals — does NOT transmit leprosy."
+      },
+      {
+        "question": "What are the early signs of leprosy?",
+        "answer": "The earliest sign is a pale or reddish skin patch with reduced or absent sensation (cannot feel touch, pain, or temperature). Other signs: thickened nerves (felt as lumps), muscle weakness of hands or feet, and non-healing skin wounds. See a doctor at any PHC for free evaluation."
+      },
+      {
+        "question": "Can leprosy be cured?",
+        "answer": "Yes. Leprosy is fully curable with Multi-Drug Therapy (MDT), which is provided FREE at all government PHCs and hospitals under NLEP. Paucibacillary leprosy: 6 months treatment. Multibacillary leprosy: 12 months treatment. Early treatment prevents disability."
+      }
     ]
   }
 }

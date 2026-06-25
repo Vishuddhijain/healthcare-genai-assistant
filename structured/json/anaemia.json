@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet + NHP India + NHM India",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/anaemia",
   "topic": "Anaemia",
-  "category": "Non-Communicable Disease (Nutritional / Blood Disorder)",
+  "category": "Non-Communicable Disease / Nutritional",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -95,7 +95,26 @@
       "Anaemia Mukt Bharat programme: mohfw.gov.in/anaemia-mukt-bharat",
       "Free IFA tablets distributed at government health centres, Anganwadi centres (ICDS), and schools",
       "Thalassaemia screening recommended for couples before marriage in high-prevalence states (Gujarat, Maharashtra, Punjab, West Bengal)",
-      "POSHAN Abhiyaan (National Nutrition Mission) targets anaemia as part of broader nutrition goals"
+      "POSHAN Abhiyaan (National Nutrition Mission) targets anaemia as part of broader nutrition goals",
+      "For anaemia screening and IFA tablets, contact your nearest Anganwadi centre or call the National Health Helpline: 104. Free haemoglobin testing is available at all government PHCs."
+    ],
+    "faqs": [
+      {
+        "question": "Can I treat anaemia just by eating more spinach?",
+        "answer": "Spinach has iron but also oxalates that reduce iron absorption. While eating iron-rich foods helps prevent mild anaemia, diagnosed anaemia often requires iron supplements prescribed by a doctor. Pair iron foods with Vitamin C (lemon, amla) for better absorption."
+      },
+      {
+        "question": "Are IFA tablets available free in India?",
+        "answer": "Yes. Iron-Folic Acid (IFA) tablets are free at all Anganwadi centres, PHCs, and government hospitals under the Anemia Mukt Bharat programme for children, adolescents, pregnant women, and women of reproductive age."
+      },
+      {
+        "question": "How do I know if I am anaemic?",
+        "answer": "Common signs are persistent fatigue, pale skin and nails, breathlessness, and dizziness. A simple blood test (haemoglobin level) at any government hospital confirms anaemia. Do not self-diagnose based on symptoms alone."
+      },
+      {
+        "question": "Is anaemia dangerous during pregnancy?",
+        "answer": "Yes. Severe anaemia in pregnancy increases risk of premature birth, low birth weight, and maternal death. All pregnant women should have haemoglobin tested at the first antenatal visit and receive free IFA supplements from government health centres."
+      }
     ]
   }
 }

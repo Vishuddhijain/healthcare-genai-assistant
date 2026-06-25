@@ -1,5 +1,5 @@
 TOPIC: Hepatitis A, D, and E
-CATEGORY: Communicable / Infectious Disease / Liver
+CATEGORY: Communicable Disease / Liver
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/hepatitis-a | https://www.who.int/news-room/fact-sheets/detail/hepatitis-d | https://www.who.int/news-room/fact-sheets/detail/hepatitis-e
 LAST UPDATED: 2024
 
@@ -148,6 +148,7 @@ Same as Hepatitis A: fever, jaundice, dark urine, abdominal pain. Incubation: 2â
 - Hepatitis E outbreaks are commonly reported after floods in India (Bihar, Assam, Odisha, etc.).
 - NVHCP (National Viral Hepatitis Control Programme) includes Hepatitis A and E surveillance.
 - Post-flood public health response always includes hepatitis surveillance and safe water provision.
+- NVHCP helpline for hepatitis testing and treatment: 1800-11-0123. Free testing at government ICTCs. National Health Helpline: 104.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: How is Hepatitis A different from Hepatitis E â€” both seem the same?

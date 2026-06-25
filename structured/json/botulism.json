@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/botulism",
   "topic": "Botulism",
-  "category": "Infectious Disease Awareness",
+  "category": "Communicable Disease",
   "last_updated": "25 September 2023",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -64,6 +64,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is botulism common in India?",
+        "answer": "Foodborne botulism is rare but occurs in India, typically from improperly home-preserved or canned food. Wound botulism from injection drug use is also reported. Awareness of home preservation safety is essential."
+      },
+      {
+        "question": "What foods commonly cause botulism?",
+        "answer": "Home-canned or preserved low-acid foods (vegetables, meat, fish) in improperly sealed or inadequately heated containers are the main risk. Commercial canned foods are generally safe if not swollen or damaged. Never eat from swollen, leaking, or damaged cans."
+      },
+      {
+        "question": "What are the warning signs of botulism poisoning?",
+        "answer": "Symptoms appear 12-36 hours after consuming contaminated food: double vision, drooping eyelids, difficulty speaking and swallowing, weakness spreading downward, and difficulty breathing. This is a medical emergency â call 112 immediately."
+      },
+      {
+        "question": "Can botulism be treated?",
+        "answer": "Yes, if treated early. Antitoxin is the primary treatment and is available at government hospitals. Severe cases require mechanical ventilation. The sooner treatment begins, the better the outcome. Always call 112 for suspected botulism."
+      }
     ]
   }
 }

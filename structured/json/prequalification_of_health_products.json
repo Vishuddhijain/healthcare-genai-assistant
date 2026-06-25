@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/prequalification-of-medicines-by-who",
   "topic": "Prequalification of health products",
-  "category": "Public Health Awareness",
+  "category": "Public Health",
   "last_updated": "11 June 2026",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -62,6 +62,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is WHO Prequalification and why does it matter for Indians?",
+        "answer": "WHO Prequalification assesses the quality, safety, and efficacy of medicines, vaccines, and diagnostics — especially for use in international health programmes. Many medicines used in India's government programmes (for HIV, TB, malaria) are WHO-prequalified, ensuring international quality standards."
+      },
+      {
+        "question": "Are Indian medicines internationally trusted?",
+        "answer": "Yes. India is the world's largest supplier of generic medicines globally — including to WHO programmes in Africa. Indian pharmaceutical companies are among the most WHO-prequalified manufacturers. India's medicine exports are valued at over $25 billion annually."
+      },
+      {
+        "question": "How can I ensure the medicine I buy in India is genuine?",
+        "answer": "Buy from licensed pharmacies only. Look for CDSCO (Central Drugs Standard Control Organisation) approval on the package. Check manufacturing licence details. Avoid buying medicines from unlicensed sources or online platforms without prescription. Report suspect medicines to CDSCO at cdsco.gov.in."
+      },
+      {
+        "question": "What is the difference between WHO-prequalified and CDSCO-approved medicines?",
+        "answer": "CDSCO approval is India's national regulatory approval — required for all medicines sold in India. WHO Prequalification is an international certification used for procurement by UN agencies and global health programmes. A medicine can be CDSCO-approved without WHO prequalification and vice versa. Both indicate quality assessment by a regulatory authority."
+      }
     ]
   }
 }

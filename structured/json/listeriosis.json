@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/listeriosis",
   "topic": "Listeriosis",
-  "category": "Communicable Disease (Foodborne Bacterial Infection)",
+  "category": "Communicable Disease / Food-Borne",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -64,7 +64,26 @@
     "india_specific_context": [
       "Underreported in India due to limited surveillance and testing",
       "Pregnant women should be counselled on food safety regarding unpasteurised dairy and street food hygiene",
-      "FSSAI food safety guidelines apply to commercial food processing"
+      "FSSAI food safety guidelines apply to commercial food processing",
+      "For food safety complaints, contact FSSAI: 1800-11-2100. National Health Helpline: 104. Emergency: 112."
+    ],
+    "faqs": [
+      {
+        "question": "How do people get listeriosis?",
+        "answer": "Listeriosis is caused by eating food contaminated with Listeria monocytogenes bacteria. Common sources: unpasteurised milk and cheese, ready-to-eat deli meats, smoked fish, pre-packaged salads, and sprouts. Unlike most food bacteria, Listeria grows even in the refrigerator."
+      },
+      {
+        "question": "Who is at highest risk of severe listeriosis?",
+        "answer": "Pregnant women (can cause miscarriage, stillbirth, or neonatal illness), newborns, elderly, and immunocompromised people (HIV, cancer, transplant patients) are at highest risk. Healthy adults may experience only mild flu-like symptoms."
+      },
+      {
+        "question": "How can pregnant women prevent listeriosis?",
+        "answer": "Avoid unpasteurised milk and soft cheeses (brie, camembert, feta). Reheat all ready-to-eat meat (deli meats, sausages) to steaming before eating. Avoid raw sprouts. Wash all fruits and vegetables thoroughly. Keep refrigerator below 4°C."
+      },
+      {
+        "question": "Is listeriosis treatable?",
+        "answer": "Yes. Listeriosis is treated with antibiotics (ampicillin) prescribed by a doctor. Prompt treatment during pregnancy can prevent severe outcomes for the baby. If a pregnant woman has fever and flu-like symptoms and has eaten potentially contaminated food, see a doctor immediately."
+      }
     ]
   }
 }

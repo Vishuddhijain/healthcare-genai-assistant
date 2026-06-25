@@ -1,5 +1,5 @@
 TOPIC: Refugee and migrant mental health
-CATEGORY: Mental Health Awareness
+CATEGORY: Mental Health
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/refugee-and-migrant-mental-health
 LAST UPDATED: 1 September 2025
 
@@ -75,3 +75,16 @@ Migration travel and transit: exposure to challenging and life-threatening condi
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Why do migrants and refugees have higher mental health risks?
+A: Pre-migration trauma (violence, persecution, disaster), loss of social networks and family separation, language barriers, discrimination, economic stress, and uncertainty about legal status create multiple mental health risk factors. Acculturation stress (adjusting to a new culture) adds further burden.
+
+Q: What mental health support is available for migrants in India?
+A: Tele MANAS (14416) is available in multiple languages and accessible to all. iCall (9152987821) provides free counselling. MSF (Médecins Sans Frontières) and UNHCR-partnered NGOs provide mental health support to refugees. Government psychiatric hospitals provide care to all regardless of status.
+
+Q: How can I support a migrant friend or colleague with mental health struggles?
+A: Maintain regular contact. Involve them in social activities. Help them navigate the local health system. Share information about mental health services. Listen without judgment. Do not dismiss their experiences as weakness. Social connection is protective for mental health in migrants.
+
+Q: Can untreated trauma affect physical health?
+A: Yes. Untreated psychological trauma activates chronic stress responses affecting the immune system, cardiovascular system, and metabolic function. Trauma survivors have higher rates of heart disease, diabetes, and autoimmune conditions. Addressing mental health is essential for overall health.

@@ -79,6 +79,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "Is tetanus still dangerous in India?",
+        "answer": "Yes. India reports thousands of tetanus cases annually, including neonatal tetanus (from unhygienic delivery or cord care) and tetanus from wounds. Most cases occur in unvaccinated individuals. Tetanus is entirely preventable through vaccination."
+      },
+      {
+        "question": "What should I do if I get a deep or dirty wound?",
+        "answer": "Clean the wound thoroughly with soap and water. Check vaccination history — if not vaccinated or last booster was more than 5 years ago, get a Td (tetanus-diphtheria) booster at any government hospital (free). Deep wounds may also need Tetanus Immunoglobulin (TIG) — doctor will advise. Seek medical care for any puncture wound, rusty nail injury, or animal bite."
+      },
+      {
+        "question": "What are the warning signs of tetanus?",
+        "answer": "Jaw stiffness or lockjaw (trismus — difficulty opening the mouth) is the earliest and most characteristic sign. This progresses to muscle spasms throughout the body (which can be violent and extremely painful), arching of the back, and in severe cases breathing failure. Tetanus is a medical emergency."
+      },
+      {
+        "question": "Is the tetanus vaccine free in India?",
+        "answer": "Yes. DPT (includes tetanus) is free in India's UIP for children. Td vaccine for adults (10-year boosters) is free at government hospitals. Pregnant women receive 2 doses of Td free under the UIP. All wounds requiring medical attention should include tetanus prophylaxis assessment."
+      }
     ]
   }
 }

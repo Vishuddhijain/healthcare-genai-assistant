@@ -1,5 +1,5 @@
 TOPIC: Listeriosis
-CATEGORY: Communicable Disease (Foodborne Bacterial Infection)
+CATEGORY: Communicable Disease / Food-Borne
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/listeriosis
 LAST UPDATED: 2024
 
@@ -63,9 +63,23 @@ Pregnancy: Flu-like illness in mother (often mild); can lead to fetal loss or se
 - Underreported in India due to limited surveillance and testing
 - Pregnant women should be counselled on food safety regarding unpasteurised dairy and street food hygiene
 - FSSAI food safety guidelines apply to commercial food processing
+- For food safety complaints, contact FSSAI: 1800-11-2100. National Health Helpline: 104. Emergency: 112.
 
 --- IMPORTANT SAFETY NOTE ---
 This information is for health awareness only. Pregnant women, elderly, and immunocompromised individuals should take extra precautions with food safety. Fever during pregnancy should always be evaluated by a doctor.
 
 --- TREATMENT (AWARENESS ONLY) ---
 - Treatment details are for awareness only. Consult a qualified healthcare professional.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: How do people get listeriosis?
+A: Listeriosis is caused by eating food contaminated with Listeria monocytogenes bacteria. Common sources: unpasteurised milk and cheese, ready-to-eat deli meats, smoked fish, pre-packaged salads, and sprouts. Unlike most food bacteria, Listeria grows even in the refrigerator.
+
+Q: Who is at highest risk of severe listeriosis?
+A: Pregnant women (can cause miscarriage, stillbirth, or neonatal illness), newborns, elderly, and immunocompromised people (HIV, cancer, transplant patients) are at highest risk. Healthy adults may experience only mild flu-like symptoms.
+
+Q: How can pregnant women prevent listeriosis?
+A: Avoid unpasteurised milk and soft cheeses (brie, camembert, feta). Reheat all ready-to-eat meat (deli meats, sausages) to steaming before eating. Avoid raw sprouts. Wash all fruits and vegetables thoroughly. Keep refrigerator below 4°C.
+
+Q: Is listeriosis treatable?
+A: Yes. Listeriosis is treated with antibiotics (ampicillin) prescribed by a doctor. Prompt treatment during pregnancy can prevent severe outcomes for the baby. If a pregnant woman has fever and flu-like symptoms and has eaten potentially contaminated food, see a doctor immediately.

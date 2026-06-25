@@ -1,5 +1,5 @@
 TOPIC: Yellow Fever
-CATEGORY: Communicable Disease / Vaccine-Preventable Disease / Travel Health
+CATEGORY: Communicable Disease / Vaccine-Preventable
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/yellow-fever | NHP India | MoHFW India Travel Advisory
 LAST UPDATED: 2024
 
@@ -158,6 +158,7 @@ Available in India at:
 - NCDC Delhi: National reference for yellow fever testing and epidemiological surveillance
 - Risk in India: Only from imported cases (travellers returning from Africa/South America)
 - Travel medicine clinics: Available in major cities for pre-travel consultation
+- For yellow fever vaccination certificate, contact licensed vaccination centres listed at mohfw.gov.in. Travel health advice: 104. Emergency: 112.
 
 --- FREQUENTLY ASKED QUESTIONS ---
 Q: Is yellow fever present in India?

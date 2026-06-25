@@ -82,3 +82,16 @@ Measures to ensure the safe and environmentally sound management of health care 
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Why is healthcare waste dangerous to the public?
+A: Improperly disposed healthcare waste (sharps, blood-soaked materials, infectious samples, expired medicines, chemicals) spreads infections (Hepatitis B, HIV, tuberculosis), causes injuries (needlestick), pollutes water and soil, and harms waste workers and communities near dumping sites.
+
+Q: How should I dispose of medicines and sharps at home?
+A: Unused medicines: Return to a pharmacy or dispose in a sealed bag in solid waste (never flush down the toilet or drain). Sharps (needles for diabetes): Use a sharps disposal container or thick plastic bottle with lid. Many hospitals and pharmacies accept used sharps for safe disposal. Never recap needles.
+
+Q: Are hospitals required to manage their waste safely in India?
+A: Yes. The Biomedical Waste Management Rules 2016 mandate segregation, treatment (autoclaving, incineration), and disposal of all categories of healthcare waste. CPCB (Central Pollution Control Board) regulates compliance. Report unsafe disposal of medical waste to CPCB or state pollution control boards.
+
+Q: I found a discarded syringe in a public area. What should I do?
+A: Do not touch it with bare hands. Report to local municipal authorities or nearest government hospital for safe disposal. If a child or anyone is accidentally pricked, wash with soap and water and seek medical attention immediately for assessment of infection risk.

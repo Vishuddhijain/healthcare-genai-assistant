@@ -1,5 +1,5 @@
 TOPIC: Electricity in health-care facilities
-CATEGORY: Health Systems / Facility Safety
+CATEGORY: Health Systems
 SOURCE: WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/electricity-in-health-care-facilities
 LAST UPDATED: 31 August 2023
 
@@ -64,3 +64,16 @@ Support, financing and investments need to be scaled up rapidly to accelerate he
 
 --- IMPORTANT SAFETY NOTE ---
 This file is for health awareness and RAG knowledge-base use only. It is not medical advice, diagnosis, prescription, or treatment protocol. Always consult a qualified healthcare professional for personal medical decisions or emergencies.
+
+--- FREQUENTLY ASKED QUESTIONS ---
+Q: Why is electricity reliability in hospitals important for patient health?
+A: Reliable electricity powers life-saving equipment (ventilators, operating theatres, ICUs, imaging machines), preserves vaccines and medicines requiring refrigeration, maintains lighting for safe procedures, and powers communication systems. Electricity failure in hospitals directly costs lives.
+
+Q: What happens to vaccines if power fails in government health centres?
+A: Vaccines must be stored at specific temperatures (2-8Â°C). Power failure disrupts the cold chain, potentially rendering vaccines ineffective. Government health centres have backup generators and cold boxes for this purpose. Report power failures at your local health centre to the district health officer.
+
+Q: Is there a government programme to ensure electricity in health facilities?
+A: Yes. The National Health Mission (NHM) includes infrastructure strengthening with reliable power supply. The PM-KUSUM scheme promotes solar power for rural health facilities. Many PHCs and CHCs now have solar backup systems.
+
+Q: What can patients do if a health facility has poor electricity?
+A: Report to the Block Medical Officer or District Health Officer. You can also contact the State Health Department helpline or file a complaint through the public grievance portal (pgportal.gov.in). Reliable electricity in health facilities is your right.

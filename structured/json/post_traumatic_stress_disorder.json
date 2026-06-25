@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder",
   "topic": "Post-traumatic stress disorder",
-  "category": "Mental Health Awareness",
+  "category": "Mental Health",
   "last_updated": "27 May 2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -64,6 +64,24 @@
       "This entry is based primarily on WHO global guidance. In India, confirm current national or state guidance through MoHFW, NHM, NHP, ICMR/NCDC, FSSAI, CPCB, NIMHANS, or the relevant public programme when applicable.",
       "Government PHCs, CHCs, district hospitals, ASHA/ANM workers, and emergency number 112 can guide access to appropriate services.",
       "Laws and service availability for reproductive health, disability benefits, insurance, environmental exposure control, mental health support, and public-health reporting can vary by state and may change; verify locally."
+    ],
+    "faqs": [
+      {
+        "question": "What is PTSD and who can develop it?",
+        "answer": "PTSD (Post-Traumatic Stress Disorder) can develop after experiencing or witnessing a traumatic event — violence, sexual assault, natural disasters, accidents, war, or serious illness. Anyone can develop PTSD — it is not a sign of weakness. In India, PTSD is significantly underdiagnosed due to stigma."
+      },
+      {
+        "question": "What are the symptoms of PTSD?",
+        "answer": "Four symptom clusters: Re-experiencing (flashbacks, nightmares, intrusive memories), Avoidance (avoiding reminders of the trauma), Negative cognitions/mood (guilt, shame, feeling detached, loss of interest), Arousal (hypervigilance, startle response, irritability, sleep disturbance). Symptoms persist for more than a month."
+      },
+      {
+        "question": "Is PTSD treatable?",
+        "answer": "Yes. PTSD responds well to trauma-focused psychotherapy — particularly EMDR (Eye Movement Desensitisation and Reprocessing) and Trauma-Focused CBT. Medications (SSRIs) also help. Recovery is possible. Seek help from a trained mental health professional at government medical college or call iCall (9152987821)."
+      },
+      {
+        "question": "Can children develop PTSD?",
+        "answer": "Yes. Children may show different symptoms than adults — regression (bedwetting, thumb-sucking), separation anxiety, repetitive traumatic play, and irritability. Children's trauma, including abuse, disasters, and witnessing violence, should be addressed by child mental health professionals promptly."
+      }
     ]
   }
 }

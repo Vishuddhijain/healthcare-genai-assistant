@@ -4,7 +4,7 @@
   "source_name": "WHO Fact Sheet",
   "source_url": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders",
   "topic": "Mental Disorders (Overview)",
-  "category": "Mental Health (Non-Communicable)",
+  "category": "Mental Health",
   "last_updated": "2024",
   "retrieved_on": "2026-06-13",
   "content": {
@@ -96,6 +96,24 @@
       "Tele-MANAS (Tele Mental Health Assistance and Networking Across States): 24x7 toll-free helpline — 14416 or 1800-891-4416 — provides counselling and referral across India in multiple languages",
       "NIMHANS (National Institute of Mental Health and Neurosciences), Bengaluru: Apex institute for mental health research, training, and tertiary care",
       "Significant treatment gap (70–92%) due to stigma, shortage of mental health professionals, and limited awareness"
+    ],
+    "faqs": [
+      {
+        "question": "How common are mental health conditions in India?",
+        "answer": "Approximately 10.6% of adults in India have a mental health condition (National Mental Health Survey 2016). Depression and anxiety are most common. Despite this, only 20-30% receive any treatment — the treatment gap is enormous due to stigma, lack of awareness, and shortage of mental health professionals."
+      },
+      {
+        "question": "Are mental health conditions treatable?",
+        "answer": "Yes. Most mental health conditions are treatable. Depression responds well to therapy and medication. Schizophrenia, bipolar disorder, and anxiety can be managed effectively. Recovery is possible. The key is early diagnosis and consistent treatment — not giving up."
+      },
+      {
+        "question": "Are mental health services free in India?",
+        "answer": "Free psychiatric outpatient services are available at all government district hospitals and medical colleges. Tele MANAS (14416) provides free 24/7 telephone mental health support. The National Mental Health Programme funds district-level mental health services across India."
+      },
+      {
+        "question": "What is the difference between a psychiatrist, psychologist, and counsellor?",
+        "answer": "Psychiatrist: Medical doctor who can prescribe medication and provide therapy for mental health conditions. Psychologist: Non-medical professional with psychology degree providing therapy and assessment; cannot prescribe medicines in India. Counsellor: Provides supportive talk therapy for milder issues. All three have important roles."
+      }
     ]
   }
 }
