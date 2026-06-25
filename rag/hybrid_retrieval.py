@@ -23,11 +23,6 @@ from typing import Optional
 from retrieval import DenseRetriever, RetrievalResult, TOP_K
 from bm25_retrieval import BM25Index
 
-try:
-    from sentence_transformers import CrossEncoder
-except ImportError:  # pragma: no cover - handled at runtime for lean installs
-    CrossEncoder = None
-
 
 # -- RRF Settings -------------------------------------------------------------
 
@@ -118,6 +113,8 @@ TOPIC_ALIASES = {
     "ayushman": {"pmjay", "pm-jay", "ayushman", "bharat", "jan", "arogya"},
     "jssk": {"jssk", "janani", "shishu", "suraksha", "karyakram"},
     "jsy": {"jsy", "janani", "suraksha", "yojana"},
+    "himcare": {"himcare"},
+    "nikshay": {"nikshay", "tb", "tuberculosis"},
     "dengue": {"dengue"},
     "chikungunya": {"chikungunya"},
     "zika": {"zika"},
@@ -220,24 +217,39 @@ class CrossEncoderReranker:
         self.model_name = model_name
         self.enabled = enabled
         self.model = None
+        self.load_failed = False
 
     def _load(self) -> None:
-        if not self.enabled or self.model is not None:
+        if not self.enabled or self.model is not None or self.load_failed:
             return
-        if CrossEncoder is None:
-            raise ImportError("sentence-transformers CrossEncoder is not available")
 
-        print(f"  [Reranker] Loading {self.model_name}...")
-        self.model = CrossEncoder(self.model_name)
-        print("  [Reranker] Ready.")
+        try:
+            from sentence_transformers import CrossEncoder
+
+            print(f"  [Reranker] Loading {self.model_name}...")
+            self.model = CrossEncoder(self.model_name)
+            print("  [Reranker] Ready.")
+        except Exception as exc:
+            self.load_failed = True
+            print(f"  [Reranker] Disabled: {exc}")
 
     def score(self, query: str, results: list[RetrievalResult]) -> dict[str, float]:
         if not self.enabled or not results:
             return {}
 
         self._load()
+        if self.model is None:
+            return {}
+
         pairs = [(query, result.text) for result in results]
-        raw_scores = self.model.predict(pairs)
+        try:
+            raw_scores = self.model.predict(pairs)
+        except Exception as exc:
+            self.load_failed = True
+            self.model = None
+            print(f"  [Reranker] Disabled after scoring error: {exc}")
+            return {}
+
         return {
             result.chunk_id: float(score)
             for result, score in zip(results, raw_scores)
