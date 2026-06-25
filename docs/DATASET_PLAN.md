@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Dataset & Development Plan
 
 ## Phase 1 – Dataset Collection
@@ -116,4 +113,3 @@
 - Source-grounded answers
 - Safety guardrails
 - Healthcare awareness assistance
->>>>>>> 09815ef (Implement hybrid RAG pipeline with BM25 and answer fusion)
